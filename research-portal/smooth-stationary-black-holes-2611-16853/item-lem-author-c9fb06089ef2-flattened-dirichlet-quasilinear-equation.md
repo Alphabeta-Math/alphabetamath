@@ -1,6 +1,6 @@
 ---
 title: Flattening a smooth fixed boundary preserves the elliptic graph equation
-status: draft
+status: published
 research_item: lem-author-c9fb06089ef2-flattened-dirichlet-quasilinear-equation
 dependency_level: 7
 ---

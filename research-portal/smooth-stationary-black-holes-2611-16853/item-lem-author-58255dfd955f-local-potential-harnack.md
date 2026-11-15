@@ -1,6 +1,6 @@
 ---
 title: Multiplicative interior Harnack for geometric Schrödinger solutions
-status: draft
+status: published
 research_item: lem-author-58255dfd955f-local-potential-harnack
 dependency_level: 1
 ---

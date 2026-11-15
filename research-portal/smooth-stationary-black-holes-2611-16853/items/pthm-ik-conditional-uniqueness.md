@@ -2,7 +2,7 @@
 id: pthm-ik-conditional-uniqueness
 title: Local Kerr rigidity and conditional global identification
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

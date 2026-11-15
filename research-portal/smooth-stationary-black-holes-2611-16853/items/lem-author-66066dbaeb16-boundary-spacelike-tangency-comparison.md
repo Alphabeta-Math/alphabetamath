@@ -2,7 +2,7 @@
 id: lem-author-66066dbaeb16-boundary-spacelike-tangency-comparison
 title: Strict mean-curvature barriers cannot have ordered boundary tangency
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

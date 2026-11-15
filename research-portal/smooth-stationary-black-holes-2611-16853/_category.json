@@ -8,9 +8,9 @@
     "Zhu, Xi-Ping"
   ],
   "summary": [
-    "The authors show that the domain of outer communications of a smooth, asymptoti- cally flat, stationary vacuum spacetime describing a single rotating non-degenerate black hole is isometric to the domain of outer communications of a subextremal Kerr solution under reasonable geometric and physical assumptions, without analyticity or any small-2026 ness assumptions. The method is to apply Harrison transform to construct a family of solutions of Einstein–Maxwell equations.",
-    "Combining null area comparison with the area- charge inequality, the authors show that, in the limiting transformed geometry, the bifurcate sphere has area radius one and constant electric and magnetic flux densities, with the originalNov ADM mass normalized to M = 1."
+    "The article studies uniqueness of smooth stationary vacuum black holes without assuming analyticity. This collection presents a conditional theorem with explicit exterior-section, end-access, and Kerr-identification hypotheses.",
+    "The proof uses a Harrison transformation and area–charge estimates. In the limiting geometry, the bifurcation sphere has area radius one and constant electric and magnetic flux densities when the original ADM mass is normalized to one."
   ],
   "article_url": "https://arxiv.org/abs/2611.16853v1",
-  "status": "draft"
+  "status": "published"
 }

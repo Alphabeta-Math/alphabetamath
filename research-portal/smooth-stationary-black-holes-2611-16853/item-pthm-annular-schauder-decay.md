@@ -1,6 +1,6 @@
 ---
 title: Rescaled annular estimates through four derivatives
-status: draft
+status: published
 research_item: pthm-annular-schauder-decay
 dependency_level: 15
 sources:

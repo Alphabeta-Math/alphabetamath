@@ -1,6 +1,6 @@
 ---
 title: The stationary product extends the local boost and circle to a complete collar
-status: draft
+status: published
 research_item: lem-author-78c700cb9e03-stationary-saturation-complete-hawking-flow
 dependency_level: 4
 ---

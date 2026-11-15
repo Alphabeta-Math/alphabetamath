@@ -1,6 +1,6 @@
 ---
 title: Bifurcate Killing horizons, rotation and normalization
-status: draft
+status: published
 research_item: def-bifurcate-killing-horizon-data
 dependency_level: 0
 sources:

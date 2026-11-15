@@ -1,6 +1,6 @@
 ---
 title: Cartan normalization at the bifurcation pole
-status: draft
+status: published
 research_item: pthm-harrison-forced-normalization
 dependency_level: 8
 sources:

@@ -1,6 +1,6 @@
 ---
 title: The thin-collar flux error is uniform over all smooth comparison regions
-status: draft
+status: published
 research_item: lem-author-60420990c802-uniform-thin-collar-flux-comparison
 dependency_level: 3
 ---

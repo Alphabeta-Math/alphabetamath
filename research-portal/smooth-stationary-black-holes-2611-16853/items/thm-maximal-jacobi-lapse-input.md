@@ -2,7 +2,7 @@
 id: thm-maximal-jacobi-lapse-input
 title: Mean-curvature variation and the stationary lapse equation
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

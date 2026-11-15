@@ -1,6 +1,6 @@
 ---
 title: Divergence comparison between S and the translated causal cut
-status: draft
+status: published
 research_item: pthm-distance-divergence-area-comparison
 dependency_level: 32
 sources:

@@ -2,7 +2,7 @@
 id: lem-author-9e5789a3d617-compact-boundary-flow
 title: A complete stationary flow preserves its compact tangent boundary
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

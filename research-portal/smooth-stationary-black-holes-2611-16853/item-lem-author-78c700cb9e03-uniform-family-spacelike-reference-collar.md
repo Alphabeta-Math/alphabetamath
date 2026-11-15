@@ -1,6 +1,6 @@
 ---
 title: Compact metric families have a common spacelike collar with fixed boost rate
-status: draft
+status: published
 research_item: lem-author-78c700cb9e03-uniform-family-spacelike-reference-collar
 dependency_level: 1
 ---

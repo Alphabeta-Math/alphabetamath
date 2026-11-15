@@ -2,7 +2,7 @@
 id: def-author-cf389990237c-normalized-horizon-komar-data
 title: Normalized Komar data on a nonrotating horizon section
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Agreement of expansion and normal-connection conventions
-status: draft
+status: published
 research_item: lem-author-6413ea293c6d-second-form-and-connection-signs
 dependency_level: 7
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Scope of smooth field equations at an exterior horizon boundary
-status: draft
+status: published
 research_item: lem-author-7a3c9628f105-exterior-boundary-scope
 dependency_level: 1
 sources:

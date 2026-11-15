@@ -1,6 +1,6 @@
 ---
 title: Leading stationary modes and a spatial normalization of the same maximal end
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-maximal-end-leading-stationary-modes
 dependency_level: 7
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boundary-constant-preserving smooth approximation
-status: draft
+status: published
 research_item: lem-author-423fe0348a31-fixed-boundary-approximation
 dependency_level: 4
 ---

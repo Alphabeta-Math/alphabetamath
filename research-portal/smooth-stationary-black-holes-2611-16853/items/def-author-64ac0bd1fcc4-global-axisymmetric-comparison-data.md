@@ -2,7 +2,7 @@
 id: def-author-64ac0bd1fcc4-global-axisymmetric-comparison-data
 title: Smooth global data for the axisymmetric comparison
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-inward-null-local-horizon-crossing
 title: The inward null family reaches the future local horizon in short affine time
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

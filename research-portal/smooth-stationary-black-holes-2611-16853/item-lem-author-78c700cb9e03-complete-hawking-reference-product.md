@@ -1,6 +1,6 @@
 ---
 title: A complete timelike collar flow is a reference product
-status: draft
+status: published
 research_item: lem-author-78c700cb9e03-complete-hawking-reference-product
 dependency_level: 5
 ---

@@ -1,6 +1,6 @@
 ---
 title: The normal future and past quadrants are the local causal sets of the sphere
-status: draft
+status: published
 research_item: lem-author-ca4ffba327b3-normal-quadrants-realize-causal-boundaries
 dependency_level: 3
 ---

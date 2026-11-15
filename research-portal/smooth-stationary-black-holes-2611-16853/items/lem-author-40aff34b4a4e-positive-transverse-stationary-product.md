@@ -3,7 +3,7 @@ id: lem-author-40aff34b4a4e-positive-transverse-stationary-product
 title: A complete stationary flow transverse positively to a Cauchy section is a
   product
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

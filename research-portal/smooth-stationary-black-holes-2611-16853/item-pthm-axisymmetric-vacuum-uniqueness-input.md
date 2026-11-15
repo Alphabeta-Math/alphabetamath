@@ -1,6 +1,6 @@
 ---
 title: Connected smooth axisymmetric vacuum Kerr classification
-status: draft
+status: published
 research_item: pthm-axisymmetric-vacuum-uniqueness-input
 dependency_level: 10
 sources:

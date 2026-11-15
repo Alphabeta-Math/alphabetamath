@@ -1,6 +1,6 @@
 ---
 title: Uniform coordinate-sphere area and null expansion
-status: draft
+status: published
 research_item: pthm-sphere-area-expansion-estimates
 dependency_level: 11
 sources:

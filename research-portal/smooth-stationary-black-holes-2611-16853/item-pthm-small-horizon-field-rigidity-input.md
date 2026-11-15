@@ -1,6 +1,6 @@
 ---
 title: Smooth rigidity from a quantitatively small horizon field
-status: draft
+status: published
 research_item: pthm-small-horizon-field-rigidity-input
 dependency_level: 6
 sources:

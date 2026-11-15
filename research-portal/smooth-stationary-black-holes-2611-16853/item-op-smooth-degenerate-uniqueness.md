@@ -1,6 +1,6 @@
 ---
 title: Smooth rotating degenerate-horizon uniqueness
-status: draft
+status: published
 research_item: op-smooth-degenerate-uniqueness
 dependency_level: 6
 sources:

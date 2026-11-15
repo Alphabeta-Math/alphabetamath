@@ -2,7 +2,7 @@
 id: lem-author-423fe0348a31-fixed-boundary-approximation
 title: Boundary-constant-preserving smooth approximation
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

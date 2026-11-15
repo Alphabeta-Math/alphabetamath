@@ -2,7 +2,7 @@
 id: lem-author-ca4ffba327b3-normalized-boost-from-positive-lapse
 title: The coefficient-one horizon generator inherits the positive lapse derivative
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

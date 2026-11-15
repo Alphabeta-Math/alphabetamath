@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-outward-null-affine-normalization
 title: The surviving source-normal ray has the outgoing affine normalization
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-kerr-outgoing-completion
 title: Outgoing Kerr null curves and the selected future null infinity
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

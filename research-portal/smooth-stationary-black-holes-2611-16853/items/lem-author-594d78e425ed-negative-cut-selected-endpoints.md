@@ -3,7 +3,7 @@ id: lem-author-594d78e425ed-negative-cut-selected-endpoints
 title: Every negative-time cut has a closed selected domain and smooth endpoint
   extensions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

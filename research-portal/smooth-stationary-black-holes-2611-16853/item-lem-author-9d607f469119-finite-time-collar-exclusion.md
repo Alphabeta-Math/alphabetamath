@@ -1,6 +1,6 @@
 ---
 title: A finite temporal target cannot be reached from a sufficiently small collar
-status: draft
+status: published
 research_item: lem-author-9d607f469119-finite-time-collar-exclusion
 dependency_level: 5
 ---

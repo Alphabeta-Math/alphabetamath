@@ -2,7 +2,7 @@
 id: lem-author-840894718169-normal-projection-local-and-boundary-jets
 title: Spacelike normal projection is locally invertible with positive boundary jet
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

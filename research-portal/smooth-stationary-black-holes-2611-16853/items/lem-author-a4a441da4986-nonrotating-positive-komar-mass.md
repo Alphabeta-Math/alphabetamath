@@ -2,7 +2,7 @@
 id: lem-author-a4a441da4986-nonrotating-positive-komar-mass
 title: The nonrotating bifurcation gives positive normalized mass before staticity
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

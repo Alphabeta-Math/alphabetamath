@@ -2,7 +2,7 @@
 id: lem-author-ca4ffba327b3-sphere-pole-and-trivial-normal-action
 title: A circle action on a sphere has a pole with trivial normal action
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

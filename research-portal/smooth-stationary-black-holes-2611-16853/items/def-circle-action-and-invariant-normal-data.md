@@ -2,7 +2,7 @@
 id: def-circle-action-and-invariant-normal-data
 title: Periodic isometries and invariant normal averaging
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

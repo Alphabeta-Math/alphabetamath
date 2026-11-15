@@ -1,6 +1,6 @@
 ---
 title: Vacuum Killing and Ernst differential identities
-status: draft
+status: published
 research_item: thm-vacuum-killing-ernst-input
 dependency_level: 4
 sources:

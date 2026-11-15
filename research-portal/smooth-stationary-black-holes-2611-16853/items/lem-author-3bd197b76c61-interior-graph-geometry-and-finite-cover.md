@@ -2,7 +2,7 @@
 id: lem-author-3bd197b76c61-interior-graph-geometry-and-finite-cover
 title: Uniform interior graph geometry and a bounded finite chart cover
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

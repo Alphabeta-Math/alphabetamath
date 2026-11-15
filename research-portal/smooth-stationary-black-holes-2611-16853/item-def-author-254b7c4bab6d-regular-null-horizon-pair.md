@@ -1,6 +1,6 @@
 ---
 title: Regular bifurcate null horizon data before rigidity
-status: draft
+status: published
 research_item: def-author-254b7c4bab6d-regular-null-horizon-pair
 dependency_level: 1
 sources:

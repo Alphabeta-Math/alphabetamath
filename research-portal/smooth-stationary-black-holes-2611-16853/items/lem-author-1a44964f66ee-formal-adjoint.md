@@ -2,7 +2,7 @@
 id: lem-author-1a44964f66ee-formal-adjoint
 title: Formal adjoint of a real drift Laplacian on a closed manifold
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

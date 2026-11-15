@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-adm-angular-momentum-parameters
 title: The ADM-source mass and angular-momentum parameters
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

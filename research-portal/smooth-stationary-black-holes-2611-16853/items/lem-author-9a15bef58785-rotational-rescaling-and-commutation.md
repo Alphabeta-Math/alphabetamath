@@ -2,7 +2,7 @@
 id: lem-author-9a15bef58785-rotational-rescaling-and-commutation
 title: Constant combinations preserve horizon symmetries and normalize periods
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

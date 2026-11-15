@@ -3,7 +3,7 @@ title: Article items · 09 — Compact causal diamonds close the selected-genera
   endpoint domain
 description: Presents 28 items from the article and its immediate prerequisites,
   covering dependency levels 1–2.
-status: draft
+status: published
 dependency_level: 3
 research_article_page: true
 item_count: 28

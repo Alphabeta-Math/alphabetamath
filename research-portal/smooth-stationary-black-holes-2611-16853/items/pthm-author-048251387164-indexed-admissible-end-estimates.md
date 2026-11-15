@@ -2,7 +2,7 @@
 id: pthm-author-048251387164-indexed-admissible-end-estimates
 title: Uniform end estimates indexed only by existing admissible slices
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Relative stationary deformation and extension obstruction
-status: draft
+status: published
 research_item: def-author-a8fd09e77ebd-relative-stationary-deformation
 dependency_level: 0
 ---

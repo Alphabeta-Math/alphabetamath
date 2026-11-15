@@ -2,7 +2,7 @@
 id: pthm-eventual-causal-access
 title: Eventual chronological access to translated comparison spheres
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

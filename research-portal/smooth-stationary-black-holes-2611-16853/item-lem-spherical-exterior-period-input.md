@@ -1,6 +1,6 @@
 ---
 title: Periods and primitives on a spherical exterior
-status: draft
+status: published
 research_item: lem-spherical-exterior-period-input
 dependency_level: 0
 ---

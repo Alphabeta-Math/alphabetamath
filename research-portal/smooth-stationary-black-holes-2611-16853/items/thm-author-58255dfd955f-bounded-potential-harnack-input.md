@@ -2,7 +2,7 @@
 id: thm-author-58255dfd955f-bounded-potential-harnack-input
 title: Imported unit-ball Harnack inequality with bounded potential
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

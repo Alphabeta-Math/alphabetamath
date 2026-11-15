@@ -1,6 +1,6 @@
 ---
 title: Imported geometric analytic connectedness and degenerate-component exclusions
-status: draft
+status: published
 research_item: pthm-author-ae62588ad46a-analytic-geometric-classification-input
 dependency_level: 7
 sources:

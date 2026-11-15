@@ -2,7 +2,7 @@
 id: lem-author-6413ea293c6d-curvature-coefficient-conversion
 title: General curvature coefficient in the outward hypersurface gauge
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

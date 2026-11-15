@@ -2,7 +2,7 @@
 id: lem-author-c92bdd91a36e-stationary-local-jets
 title: Stationary flow-box data for a nonzero Killing field
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

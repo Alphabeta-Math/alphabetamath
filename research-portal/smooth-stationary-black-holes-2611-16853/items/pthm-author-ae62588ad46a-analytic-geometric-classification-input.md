@@ -2,7 +2,7 @@
 id: pthm-author-ae62588ad46a-analytic-geometric-classification-input
 title: Imported geometric analytic connectedness and degenerate-component exclusions
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

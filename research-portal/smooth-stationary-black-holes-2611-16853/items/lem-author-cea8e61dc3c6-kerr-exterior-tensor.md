@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-kerr-exterior-tensor
 title: Kerr exterior tensor including the extremal parameter range
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

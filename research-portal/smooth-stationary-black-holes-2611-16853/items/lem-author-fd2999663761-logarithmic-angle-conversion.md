@@ -2,7 +2,7 @@
 id: lem-author-fd2999663761-logarithmic-angle-conversion
 title: From hyperbolic angle to logarithmic angle inequalities
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

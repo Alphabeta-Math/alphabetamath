@@ -2,7 +2,7 @@
 id: pthm-author-048251387164-sequence-closure-and-completeness
 title: Sequence closedness and completeness without an interval-family premise
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

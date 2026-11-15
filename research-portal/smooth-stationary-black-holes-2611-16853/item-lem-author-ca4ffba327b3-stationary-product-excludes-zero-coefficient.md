@@ -1,6 +1,6 @@
 ---
 title: A stationary product rules out a zero Hawking coefficient
-status: draft
+status: published
 research_item: lem-author-ca4ffba327b3-stationary-product-excludes-zero-coefficient
 dependency_level: 0
 sources:

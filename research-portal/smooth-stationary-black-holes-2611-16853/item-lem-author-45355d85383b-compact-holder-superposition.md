@@ -1,6 +1,6 @@
 ---
 title: Compact-core Hölder superposition gives a continuously differentiable graph map
-status: draft
+status: published
 research_item: lem-author-45355d85383b-compact-holder-superposition
 dependency_level: 7
 ---

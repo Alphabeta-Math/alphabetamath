@@ -2,7 +2,7 @@
 id: pthm-coarea-sard-smoothing
 title: Coarea, smooth approximation and regular area-controlled levels
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-12a8dba09036-inaccessible-set-relative-interior-density
 title: Inaccessible set is the closure of its relative interior
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

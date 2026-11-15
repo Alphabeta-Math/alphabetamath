@@ -1,6 +1,6 @@
 ---
 title: Killing flow preserves its complex two-form
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-killing-flow-invariance
 dependency_level: 2
 sources:

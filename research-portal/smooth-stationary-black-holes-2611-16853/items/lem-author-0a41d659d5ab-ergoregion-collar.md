@@ -2,7 +2,7 @@
 id: lem-author-0a41d659d5ab-ergoregion-collar
 title: The non-timelike region is confined to the local-rigidity collar
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

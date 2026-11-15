@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-zero-mars-simon-gauge
 title: Normalized Ernst data and zero Mars–Simon survive stationary gauges
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

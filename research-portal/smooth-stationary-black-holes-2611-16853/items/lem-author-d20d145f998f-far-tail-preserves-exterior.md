@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-far-tail-preserves-exterior
 title: Two-sided far-tail access preserves the ambient causal exterior
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

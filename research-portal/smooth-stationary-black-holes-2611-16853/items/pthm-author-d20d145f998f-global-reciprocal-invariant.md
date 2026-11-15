@@ -2,7 +2,7 @@
 id: pthm-author-d20d145f998f-global-reciprocal-invariant
 title: The IK continuation also fixes one global reciprocal invariant
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

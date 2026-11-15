@@ -2,7 +2,7 @@
 id: lem-author-9f9c6144aed8-stationary-zero-transport
 title: Stationary transport of vanishing from a section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

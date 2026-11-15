@@ -2,7 +2,7 @@
 id: lem-author-2632702918ef-compact-target-causal-endpoint
 title: A compact chronological target supplies a causal endpoint
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

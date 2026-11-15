@@ -1,6 +1,6 @@
 ---
 title: AIK perturbative effective constant and its coordinate data
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-perturbative-effective-constant
 dependency_level: 3
 sources:

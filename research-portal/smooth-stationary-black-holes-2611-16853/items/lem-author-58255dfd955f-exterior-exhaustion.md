@@ -2,7 +2,7 @@
 id: lem-author-58255dfd955f-exterior-exhaustion
 title: Exterior exhaustion bounds for normalized Schrödinger solutions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

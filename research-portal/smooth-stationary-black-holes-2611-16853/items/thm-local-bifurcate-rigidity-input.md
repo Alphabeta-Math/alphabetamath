@@ -2,7 +2,7 @@
 id: thm-local-bifurcate-rigidity-input
 title: Hawking and rotational fields near a bifurcate sphere
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

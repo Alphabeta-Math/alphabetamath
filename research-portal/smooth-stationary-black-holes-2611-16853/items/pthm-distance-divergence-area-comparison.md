@@ -2,7 +2,7 @@
 id: pthm-distance-divergence-area-comparison
 title: Divergence comparison between S and the translated causal cut
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

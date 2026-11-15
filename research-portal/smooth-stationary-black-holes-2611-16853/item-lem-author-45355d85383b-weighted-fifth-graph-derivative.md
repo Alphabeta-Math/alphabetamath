@@ -1,7 +1,7 @@
 ---
 title: The maximal equation upgrades pointwise order-four graph decay to
   weighted order five
-status: draft
+status: published
 research_item: lem-author-45355d85383b-weighted-fifth-graph-derivative
 dependency_level: 3
 ---

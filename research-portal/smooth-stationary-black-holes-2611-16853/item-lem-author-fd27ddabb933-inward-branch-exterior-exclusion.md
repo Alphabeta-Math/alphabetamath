@@ -1,6 +1,6 @@
 ---
 title: An exterior-contained null segment to a distant target cannot start inward
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-inward-branch-exterior-exclusion
 dependency_level: 5
 ---

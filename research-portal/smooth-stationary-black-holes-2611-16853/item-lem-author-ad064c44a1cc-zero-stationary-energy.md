@@ -1,6 +1,6 @@
 ---
 title: Zero stationary energy along null geodesics
-status: draft
+status: published
 research_item: lem-author-ad064c44a1cc-zero-stationary-energy
 dependency_level: 1
 ---

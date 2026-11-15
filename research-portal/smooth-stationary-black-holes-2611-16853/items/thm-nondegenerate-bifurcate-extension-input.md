@@ -2,7 +2,7 @@
 id: thm-nondegenerate-bifurcate-extension-input
 title: Nonzero constant surface gravity and global bifurcate extension
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

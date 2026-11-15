@@ -2,7 +2,7 @@
 id: lem-author-db87cb8e0bab-linear-fourth-derivative-estimate
 title: Linear fourth derivative bound with controlled realized coefficients
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

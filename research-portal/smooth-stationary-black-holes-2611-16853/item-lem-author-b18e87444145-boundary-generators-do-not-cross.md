@@ -1,6 +1,6 @@
 ---
 title: Distinct boundary generators cannot cross strictly before a spacelike cut
-status: draft
+status: published
 research_item: lem-author-b18e87444145-boundary-generators-do-not-cross
 dependency_level: 7
 ---

@@ -2,7 +2,7 @@
 id: pthm-annular-schauder-decay
 title: Rescaled annular estimates through four derivatives
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

@@ -1,7 +1,7 @@
 ---
 title: Openness via the weighted implicit-function branch and smooth boundary
   bootstrap
-status: draft
+status: published
 research_item: pthm-maximal-continuation-openness
 dependency_level: 13
 sources:

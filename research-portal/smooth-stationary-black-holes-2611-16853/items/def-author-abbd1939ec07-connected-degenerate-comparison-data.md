@@ -2,7 +2,7 @@
 id: def-author-abbd1939ec07-connected-degenerate-comparison-data
 title: Connected rotating degenerate vacuum comparison data
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

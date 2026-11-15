@@ -1,6 +1,6 @@
 ---
 title: Killing two-form and normalized Ernst notation
-status: draft
+status: published
 research_item: def-killing-ernst-notation
 dependency_level: 1
 sources:

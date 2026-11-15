@@ -2,7 +2,7 @@
 id: lem-author-60420990c802-uniform-inward-normal-exponential-collar
 title: A compact smooth boundary has a uniform inward normal exponential collar
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: pthm-normal-angle-differential-inequality
 title: Angle differential inequality near S
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

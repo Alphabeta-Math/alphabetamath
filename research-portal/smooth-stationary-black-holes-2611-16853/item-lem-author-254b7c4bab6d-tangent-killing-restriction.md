@@ -1,6 +1,6 @@
 ---
 title: A branch-tangent Killing field restricts to the bifurcation sphere
-status: draft
+status: published
 research_item: lem-author-254b7c4bab6d-tangent-killing-restriction
 dependency_level: 2
 ---

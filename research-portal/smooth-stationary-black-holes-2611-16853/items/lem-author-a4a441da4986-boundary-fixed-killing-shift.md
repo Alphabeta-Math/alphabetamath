@@ -2,7 +2,7 @@
 id: lem-author-a4a441da4986-boundary-fixed-killing-shift
 title: A Riemannian Killing shift vanishing on the whole boundary vanishes globally
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

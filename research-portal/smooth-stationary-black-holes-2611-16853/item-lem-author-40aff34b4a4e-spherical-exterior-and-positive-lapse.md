@@ -1,6 +1,6 @@
 ---
 title: Identification of the spherical exterior and its positive stationary lapse
-status: draft
+status: published
 research_item: lem-author-40aff34b4a4e-spherical-exterior-and-positive-lapse
 dependency_level: 6
 ---

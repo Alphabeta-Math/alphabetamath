@@ -1,6 +1,6 @@
 ---
 title: Compact causal diamonds close the selected-generator endpoint domain
-status: draft
+status: published
 research_item: lem-author-b18e87444145-compact-diamond-closed-hit-domain
 dependency_level: 1
 sources:

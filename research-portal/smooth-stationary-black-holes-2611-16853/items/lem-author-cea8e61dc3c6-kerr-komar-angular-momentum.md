@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-kerr-komar-angular-momentum
 title: The Komar angular-momentum flux of the Kerr end
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Spacelike normal projection is locally invertible with positive boundary jet
-status: draft
+status: published
 research_item: lem-author-840894718169-normal-projection-local-and-boundary-jets
 dependency_level: 4
 ---

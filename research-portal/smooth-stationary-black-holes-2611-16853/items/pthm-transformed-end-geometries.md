@@ -2,7 +2,7 @@
 id: pthm-transformed-end-geometries
 title: Asymptotically flat positive-q ends and cylindrical limit
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

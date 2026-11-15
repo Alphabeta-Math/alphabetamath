@@ -2,7 +2,7 @@
 id: pthm-compact-height-bound
 title: "Lemma 3.2: compact stationary-height bounds"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

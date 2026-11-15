@@ -1,6 +1,6 @@
 ---
 title: Logarithmic angle inequality through the full range v at least one
-status: draft
+status: published
 research_item: lem-author-56ff511785bf-full-range-log-angle
 dependency_level: 3
 sources:

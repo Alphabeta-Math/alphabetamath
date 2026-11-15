@@ -1,6 +1,6 @@
 ---
 title: "Lemma 3.1: weighted Dirichlet Laplacian isomorphism"
-status: draft
+status: published
 research_item: lem-weighted-dirichlet-isomorphism
 dependency_level: 5
 sources:

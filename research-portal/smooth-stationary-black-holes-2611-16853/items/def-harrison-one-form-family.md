@@ -2,7 +2,7 @@
 id: def-harrison-one-form-family
 title: Single-potential construction of the Harrison one-form family
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

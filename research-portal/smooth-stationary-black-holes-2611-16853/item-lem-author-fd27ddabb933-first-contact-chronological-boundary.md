@@ -1,6 +1,6 @@
 ---
 title: First contact lies on the chronological and causal future boundary
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-first-contact-chronological-boundary
 dependency_level: 3
 ---

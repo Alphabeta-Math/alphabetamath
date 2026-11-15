@@ -2,7 +2,7 @@
 id: def-author-ae62588ad46a-analytic-geometric-data
 title: Geometric data for the analytic multiple-horizon comparison
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

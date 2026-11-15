@@ -2,7 +2,7 @@
 title: Article items · 07 — Asymptotically flat spacelike end and derivative decay
 description: Presents 29 items from the article and its immediate prerequisites,
   covering dependency level 0.
-status: draft
+status: published
 dependency_level: 1
 research_article_page: true
 item_count: 29

@@ -2,7 +2,7 @@
 id: lem-author-56ff511785bf-uniform-angle-laplacian
 title: Uniform scalar angle inequalities from local background tensors
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

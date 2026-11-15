@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-bounded-stationary-graph
 title: Bounded spacelike stationary graphs remain Cauchy
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

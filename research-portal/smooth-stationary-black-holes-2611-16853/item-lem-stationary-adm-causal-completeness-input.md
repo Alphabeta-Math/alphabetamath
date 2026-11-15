@@ -1,6 +1,6 @@
 ---
 title: Stationary ADM speed bounds and Cauchy sections
-status: draft
+status: published
 research_item: lem-stationary-adm-causal-completeness-input
 dependency_level: 5
 sources:

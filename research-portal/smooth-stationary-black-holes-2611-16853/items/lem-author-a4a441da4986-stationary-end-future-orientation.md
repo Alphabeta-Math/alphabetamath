@@ -2,7 +2,7 @@
 id: lem-author-a4a441da4986-stationary-end-future-orientation
 title: Stationary end access and future orientation need no maximal slice
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

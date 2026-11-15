@@ -1,6 +1,6 @@
 ---
 title: Exact bifurcate-sphere package for the IK criterion
-status: draft
+status: published
 research_item: def-author-9f9c6144aed8-ik-sbs
 dependency_level: 3
 sources:

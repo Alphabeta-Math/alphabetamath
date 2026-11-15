@@ -1,6 +1,6 @@
 ---
 title: A maximal stationary exterior has future access to its far tail
-status: draft
+status: published
 research_item: lem-author-12a8dba09036-maximal-stationary-far-tail-access
 dependency_level: 3
 ---

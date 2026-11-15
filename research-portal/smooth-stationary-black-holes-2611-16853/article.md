@@ -1,7 +1,7 @@
 ---
 title: The uniqueness of smooth stationary black holes
 description: Article items and their immediate prerequisites, ordered by dependency level.
-status: draft
+status: published
 research_article_overview: true
 ---
 

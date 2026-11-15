@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-smooth-vacuum-data-double
 title: Smooth vacuum constraint data obtained by reflection of a canonical end section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

@@ -1,6 +1,6 @@
 ---
 title: "Remark 1.1: maximal slice and decay"
-status: draft
+status: published
 research_item: pthm-maximal-slice-background
 dependency_level: 17
 sources:

@@ -2,7 +2,7 @@
 id: lem-author-e7cde3233cd7-spherical-cauchy-portion
 title: Identifying the spherical Cauchy portion without a stationary lapse
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

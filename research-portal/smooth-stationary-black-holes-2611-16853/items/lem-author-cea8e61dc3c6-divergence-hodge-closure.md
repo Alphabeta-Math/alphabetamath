@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-divergence-hodge-closure
 title: Vanishing divergence implies closed Hodge dual
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

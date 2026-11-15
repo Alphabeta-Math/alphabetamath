@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-perturbative-gr-sbs
 title: AIK perturbative global regularity and bifurcation package
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

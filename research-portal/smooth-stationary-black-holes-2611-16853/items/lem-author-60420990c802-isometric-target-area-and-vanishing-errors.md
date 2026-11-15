@@ -2,7 +2,7 @@
 id: lem-author-60420990c802-isometric-target-area-and-vanishing-errors
 title: Isometric target areas remain fixed while collar errors vanish
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

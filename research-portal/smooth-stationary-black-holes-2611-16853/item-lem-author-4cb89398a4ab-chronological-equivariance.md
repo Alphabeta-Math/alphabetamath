@@ -1,6 +1,6 @@
 ---
 title: Chronological equivariance and the no-white-hole condition
-status: draft
+status: published
 research_item: lem-author-4cb89398a4ab-chronological-equivariance
 dependency_level: 4
 ---

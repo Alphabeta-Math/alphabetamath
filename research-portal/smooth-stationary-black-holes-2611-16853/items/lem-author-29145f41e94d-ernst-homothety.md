@@ -2,7 +2,7 @@
 id: lem-author-29145f41e94d-ernst-homothety
 title: The mass factor in the recovered Ernst identity
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

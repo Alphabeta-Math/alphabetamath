@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-complete-boundary-initial-data-interface
 title: Complete boundary initial-data and vanishing momentum interface
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

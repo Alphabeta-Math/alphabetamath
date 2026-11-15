@@ -1,6 +1,6 @@
 ---
 title: Acausal hypersurface with compact core and finitely many ends
-status: draft
+status: published
 research_item: def-author-310ff0f53b38-acausal-finite-end-section
 dependency_level: 3
 ---

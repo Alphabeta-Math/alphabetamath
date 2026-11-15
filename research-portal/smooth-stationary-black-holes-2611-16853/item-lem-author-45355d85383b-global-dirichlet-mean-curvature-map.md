@@ -1,6 +1,6 @@
 ---
 title: The global Dirichlet mean-curvature map is continuously differentiable
-status: draft
+status: published
 research_item: lem-author-45355d85383b-global-dirichlet-mean-curvature-map
 dependency_level: 9
 ---

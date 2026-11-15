@@ -1,6 +1,6 @@
 ---
 title: Complete volume preserving shift flow on a spherical exterior
-status: draft
+status: published
 research_item: lem-author-12a8dba09036-complete-volume-preserving-shift-flow
 dependency_level: 0
 ---

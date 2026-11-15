@@ -2,7 +2,7 @@
 id: pthm-author-048251387164-indexed-height-and-horizon-estimates
 title: Indexed compact heights and uniform smooth horizon collars
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

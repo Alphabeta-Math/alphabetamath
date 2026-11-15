@@ -1,6 +1,6 @@
 ---
 title: Reflection parities of canonical section data and stationary lapse–shift
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-canonical-section-reflection-parities
 dependency_level: 2
 sources:

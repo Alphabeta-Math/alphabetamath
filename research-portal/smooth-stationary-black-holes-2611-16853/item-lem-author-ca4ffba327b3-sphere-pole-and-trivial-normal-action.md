@@ -1,6 +1,6 @@
 ---
 title: A circle action on a sphere has a pole with trivial normal action
-status: draft
+status: published
 research_item: lem-author-ca4ffba327b3-sphere-pole-and-trivial-normal-action
 dependency_level: 1
 ---

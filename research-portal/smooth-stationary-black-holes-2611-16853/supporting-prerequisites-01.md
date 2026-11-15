@@ -2,7 +2,7 @@
 title: Supporting prerequisites · 01 — Gauss lemma
 description: Presents 20 supporting prerequisites, covering published library
   prerequisites and dependency levels 0–2.
-status: draft
+status: published
 dependency_level: 2
 item_count: 20
 ---

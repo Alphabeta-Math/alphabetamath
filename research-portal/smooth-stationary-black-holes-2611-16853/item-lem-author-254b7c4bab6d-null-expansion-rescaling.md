@@ -1,6 +1,6 @@
 ---
 title: Rescaling a null generator preserves zero expansion
-status: draft
+status: published
 research_item: lem-author-254b7c4bab6d-null-expansion-rescaling
 dependency_level: 2
 ---

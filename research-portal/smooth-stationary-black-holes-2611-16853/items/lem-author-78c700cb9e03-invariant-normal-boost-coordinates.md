@@ -2,7 +2,7 @@
 id: lem-author-78c700cb9e03-invariant-normal-boost-coordinates
 title: Circle-invariant normal coordinates linearize a bifurcate Killing boost
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

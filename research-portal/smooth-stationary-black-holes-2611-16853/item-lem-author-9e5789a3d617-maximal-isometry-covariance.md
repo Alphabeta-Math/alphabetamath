@@ -1,6 +1,6 @@
 ---
 title: Isometries preserve maximality and transported boundary
-status: draft
+status: published
 research_item: lem-author-9e5789a3d617-maximal-isometry-covariance
 dependency_level: 1
 ---

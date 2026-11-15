@@ -2,7 +2,7 @@
 id: pthm-common-reference-collar
 title: "Lemma 3.3: common spacelike reference collar"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

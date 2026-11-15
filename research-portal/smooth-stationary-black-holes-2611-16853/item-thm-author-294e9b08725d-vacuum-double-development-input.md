@@ -1,6 +1,6 @@
 ---
 title: External vacuum KID development and complete stationary flow
-status: draft
+status: published
 research_item: thm-author-294e9b08725d-vacuum-double-development-input
 dependency_level: 11
 sources:

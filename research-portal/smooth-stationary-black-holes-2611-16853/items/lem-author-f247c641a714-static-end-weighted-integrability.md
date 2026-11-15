@@ -2,7 +2,7 @@
 id: lem-author-f247c641a714-static-end-weighted-integrability
 title: The pointwise static end bounds imply the original weighted hypotheses
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: A working bifurcation collar supplies the exact GR section
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-bifurcation-collar-partial-cauchy
 dependency_level: 0
 ---

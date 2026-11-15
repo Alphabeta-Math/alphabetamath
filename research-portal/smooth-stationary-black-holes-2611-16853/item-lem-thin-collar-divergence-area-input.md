@@ -1,6 +1,6 @@
 ---
 title: Divergence comparison in a smooth compact boundary collar
-status: draft
+status: published
 research_item: lem-thin-collar-divergence-area-input
 dependency_level: 0
 sources:

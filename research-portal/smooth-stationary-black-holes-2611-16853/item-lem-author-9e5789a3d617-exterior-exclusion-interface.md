@@ -1,6 +1,6 @@
 ---
 title: Black and white exclusion is an ambient reachability condition
-status: draft
+status: published
 research_item: lem-author-9e5789a3d617-exterior-exclusion-interface
 dependency_level: 2
 ---

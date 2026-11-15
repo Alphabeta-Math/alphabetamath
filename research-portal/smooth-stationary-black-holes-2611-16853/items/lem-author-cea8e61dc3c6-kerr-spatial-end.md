@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-kerr-spatial-end
 title: The Boyer–Lindquist spatial end and differentiated expansion
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-423fe0348a31-interior-coarea-boundary-treatment
 title: Removing the boundary before applying scalar coarea
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

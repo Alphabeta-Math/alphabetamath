@@ -1,6 +1,6 @@
 ---
 title: Nonnegative supersolutions detect the principal spectral sign
-status: draft
+status: published
 research_item: lem-author-1a44964f66ee-spectral-sign-test
 dependency_level: 2
 ---

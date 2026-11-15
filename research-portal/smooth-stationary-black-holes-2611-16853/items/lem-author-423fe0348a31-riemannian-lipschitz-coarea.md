@@ -2,7 +2,7 @@
 id: lem-author-423fe0348a31-riemannian-lipschitz-coarea
 title: Riemannian Lipschitz coarea on compact interior bands
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

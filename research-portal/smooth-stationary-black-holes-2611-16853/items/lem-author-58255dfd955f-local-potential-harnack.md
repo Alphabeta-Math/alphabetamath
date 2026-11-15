@@ -2,7 +2,7 @@
 id: lem-author-58255dfd955f-local-potential-harnack
 title: Multiplicative interior Harnack for geometric Schrödinger solutions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

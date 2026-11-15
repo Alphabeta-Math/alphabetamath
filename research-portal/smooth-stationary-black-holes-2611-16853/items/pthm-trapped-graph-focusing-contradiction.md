@@ -2,7 +2,7 @@
 id: pthm-trapped-graph-focusing-contradiction
 title: First cylinder contact, outward source branch and the focusing contradiction
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

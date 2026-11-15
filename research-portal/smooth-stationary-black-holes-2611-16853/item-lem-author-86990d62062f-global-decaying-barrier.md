@@ -1,6 +1,6 @@
 ---
 title: A positive global supersolution with the exact exterior decay
-status: draft
+status: published
 research_item: lem-author-86990d62062f-global-decaying-barrier
 dependency_level: 2
 sources:

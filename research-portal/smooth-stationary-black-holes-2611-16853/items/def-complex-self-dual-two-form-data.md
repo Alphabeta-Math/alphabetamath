@@ -2,7 +2,7 @@
 id: def-complex-self-dual-two-form-data
 title: Complex self-dual forms and metric-dependent contraction
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

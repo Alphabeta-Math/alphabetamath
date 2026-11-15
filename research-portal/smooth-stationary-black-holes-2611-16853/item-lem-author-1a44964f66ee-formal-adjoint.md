@@ -1,6 +1,6 @@
 ---
 title: Formal adjoint of a real drift Laplacian on a closed manifold
-status: draft
+status: published
 research_item: lem-author-1a44964f66ee-formal-adjoint
 dependency_level: 0
 ---

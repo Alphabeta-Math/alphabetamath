@@ -1,6 +1,6 @@
 ---
 title: Local compactness of full weighted Hölder inputs
-status: draft
+status: published
 research_item: lem-author-1f6675f2ec55-local-holder-compactness
 dependency_level: 2
 sources:

@@ -1,6 +1,6 @@
 ---
 title: AIK global Kerr identification under the full GR/SBS/PK contract
-status: draft
+status: published
 research_item: pthm-author-d20d145f998f-aik-global-kerr-input
 dependency_level: 2
 sources:

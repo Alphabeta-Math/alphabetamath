@@ -1,7 +1,7 @@
 ---
 title: Orthogonal flow coverage gives a global static product and the needed end
   bounds
-status: draft
+status: published
 research_item: lem-author-a4a441da4986-orthogonal-flow-static-product
 dependency_level: 1
 ---

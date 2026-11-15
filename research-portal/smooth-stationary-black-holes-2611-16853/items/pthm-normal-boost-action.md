@@ -2,7 +2,7 @@
 id: pthm-normal-boost-action
 title: Normal boost action of the Hawking flow
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

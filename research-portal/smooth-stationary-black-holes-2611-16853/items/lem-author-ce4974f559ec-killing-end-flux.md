@@ -2,7 +2,7 @@
 id: lem-author-ce4974f559ec-killing-end-flux
 title: The mass-one Killing form has electric seed flux minus four pi
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

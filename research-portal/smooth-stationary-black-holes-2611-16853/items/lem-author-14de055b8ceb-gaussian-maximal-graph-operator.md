@@ -2,7 +2,7 @@
 id: lem-author-14de055b8ceb-gaussian-maximal-graph-operator
 title: Gaussian maximal graph equation on a compact spacelike slope cone
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: def-exterior-weighted-elliptic-data
 title: Weighted exterior elliptic domains and admissible weights
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

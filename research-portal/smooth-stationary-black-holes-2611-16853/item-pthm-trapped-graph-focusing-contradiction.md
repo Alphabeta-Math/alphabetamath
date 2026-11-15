@@ -1,6 +1,6 @@
 ---
 title: First cylinder contact, outward source branch and the focusing contradiction
-status: draft
+status: published
 research_item: pthm-trapped-graph-focusing-contradiction
 dependency_level: 25
 sources:

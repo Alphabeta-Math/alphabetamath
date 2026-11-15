@@ -2,7 +2,7 @@
 id: def-harrison-one-form
 title: Stationary Harrison one-form and metric
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

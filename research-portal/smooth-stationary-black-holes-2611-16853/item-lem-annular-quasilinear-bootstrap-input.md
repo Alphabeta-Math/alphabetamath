@@ -1,6 +1,6 @@
 ---
 title: Uniform annular Schauder bootstrap for spacelike graph equations
-status: draft
+status: published
 research_item: lem-annular-quasilinear-bootstrap-input
 dependency_level: 2
 sources:

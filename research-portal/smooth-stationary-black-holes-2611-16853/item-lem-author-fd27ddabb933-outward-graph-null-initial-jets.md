@@ -1,6 +1,6 @@
 ---
 title: Small outward normal graphs have controlled inward null initial jets
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-outward-graph-null-initial-jets
 dependency_level: 3
 ---

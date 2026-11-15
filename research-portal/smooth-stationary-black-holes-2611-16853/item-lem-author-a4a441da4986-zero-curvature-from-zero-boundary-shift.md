@@ -1,7 +1,7 @@
 ---
 title: A supplied complete maximal slice has zero extrinsic curvature in the
   zero-shift case
-status: draft
+status: published
 research_item: lem-author-a4a441da4986-zero-curvature-from-zero-boundary-shift
 dependency_level: 6
 ---

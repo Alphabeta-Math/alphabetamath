@@ -2,7 +2,7 @@
 id: lem-author-66066dbaeb16-half-domain-contact-hessian
 title: Second-order contact on a closed half-domain has nonnegative Hessian
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Uniform localization of translated past-boundary cuts
-status: draft
+status: published
 research_item: lem-author-594d78e425ed-uniform-translated-cut-localization
 dependency_level: 6
 ---

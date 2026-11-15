@@ -1,6 +1,6 @@
 ---
 title: The first possible shift and lapse logarithms vanish by indicial projection
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-maximal-end-critical-logarithm-exclusion
 dependency_level: 8
 ---

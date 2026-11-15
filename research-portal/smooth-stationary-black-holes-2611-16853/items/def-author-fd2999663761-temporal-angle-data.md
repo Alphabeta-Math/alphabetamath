@@ -2,7 +2,7 @@
 id: def-author-fd2999663761-temporal-angle-data
 title: Temporal normal angle and compact positive-height portions
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

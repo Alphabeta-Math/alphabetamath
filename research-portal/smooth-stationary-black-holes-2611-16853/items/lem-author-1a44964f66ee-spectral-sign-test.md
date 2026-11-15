@@ -2,7 +2,7 @@
 id: lem-author-1a44964f66ee-spectral-sign-test
 title: Nonnegative supersolutions detect the principal spectral sign
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

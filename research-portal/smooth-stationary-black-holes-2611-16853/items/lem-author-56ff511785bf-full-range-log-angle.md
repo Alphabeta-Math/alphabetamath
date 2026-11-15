@@ -2,7 +2,7 @@
 id: lem-author-56ff511785bf-full-range-log-angle
 title: Logarithmic angle inequality through the full range v at least one
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

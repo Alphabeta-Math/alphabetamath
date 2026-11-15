@@ -1,6 +1,6 @@
 ---
 title: Compact-domain comparison with a nonnegative potential
-status: draft
+status: published
 research_item: lem-author-58255dfd955f-compact-comparison
 dependency_level: 0
 ---

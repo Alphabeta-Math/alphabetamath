@@ -2,7 +2,7 @@
 id: lem-author-64ac0bd1fcc4-orthogonal-orbit-projection
 title: Orthogonal projection away from the symmetry plane
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

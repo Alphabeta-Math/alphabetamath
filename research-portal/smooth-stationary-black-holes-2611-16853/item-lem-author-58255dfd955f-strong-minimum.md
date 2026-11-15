@@ -1,6 +1,6 @@
 ---
 title: Strong minimum principle from the annular barrier
-status: draft
+status: published
 research_item: lem-author-58255dfd955f-strong-minimum
 dependency_level: 3
 ---

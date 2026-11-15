@@ -1,6 +1,6 @@
 ---
 title: Smooth positive inversion and composition in the weighted multiplier class
-status: draft
+status: published
 research_item: lem-author-45355d85383b-weighted-smooth-inversion
 dependency_level: 3
 ---

@@ -2,7 +2,7 @@
 id: lem-author-eb8e266b8b92-collar-nonarrival
 title: Collar barrier against finite section-time boundary arrival
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

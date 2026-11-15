@@ -1,6 +1,6 @@
 ---
 title: Null generators and once-only cross-sections
-status: draft
+status: published
 research_item: def-author-310ff0f53b38-null-generator-cross-section
 dependency_level: 2
 sources:

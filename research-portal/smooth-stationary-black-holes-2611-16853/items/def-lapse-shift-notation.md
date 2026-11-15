@@ -2,7 +2,7 @@
 id: def-lapse-shift-notation
 title: Lapse, shift, induced metric and second fundamental form
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

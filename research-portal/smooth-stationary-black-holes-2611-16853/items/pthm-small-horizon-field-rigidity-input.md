@@ -2,7 +2,7 @@
 id: pthm-small-horizon-field-rigidity-input
 title: Smooth rigidity from a quantitatively small horizon field
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

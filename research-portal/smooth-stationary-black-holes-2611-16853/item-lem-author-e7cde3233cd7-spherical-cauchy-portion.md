@@ -1,6 +1,6 @@
 ---
 title: Identifying the spherical Cauchy portion without a stationary lapse
-status: draft
+status: published
 research_item: lem-author-e7cde3233cd7-spherical-cauchy-portion
 dependency_level: 3
 sources:

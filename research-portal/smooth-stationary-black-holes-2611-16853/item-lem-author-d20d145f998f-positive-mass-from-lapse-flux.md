@@ -1,6 +1,6 @@
 ---
 title: Strict mass positivity from the stationary lapse flux
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-positive-mass-from-lapse-flux
 dependency_level: 6
 ---

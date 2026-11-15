@@ -2,7 +2,7 @@
 id: def-stationary-maximal-graph
 title: Stationary maximal graphs and normalized graph heights
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

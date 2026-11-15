@@ -1,6 +1,6 @@
 ---
 title: Imported unit-ball Harnack inequality with bounded potential
-status: draft
+status: published
 research_item: thm-author-58255dfd955f-bounded-potential-harnack-input
 dependency_level: 0
 sources:

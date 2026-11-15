@@ -1,6 +1,6 @@
 ---
 title: Single-potential construction of the Harrison one-form family
-status: draft
+status: published
 research_item: def-harrison-one-form-family
 dependency_level: 2
 sources:

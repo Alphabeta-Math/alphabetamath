@@ -1,6 +1,6 @@
 ---
 title: "Theorem 4.1: limiting horizon area upper bound"
-status: draft
+status: published
 research_item: pthm-bifurcation-area-upper-bound
 dependency_level: 33
 sources:

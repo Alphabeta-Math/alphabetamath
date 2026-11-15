@@ -1,6 +1,6 @@
 ---
 title: Equivariant global Harrison primitive under weak original data
-status: draft
+status: published
 research_item: lem-author-29145f41e94d-weak-data-equivariant-global-primitive
 dependency_level: 6
 ---

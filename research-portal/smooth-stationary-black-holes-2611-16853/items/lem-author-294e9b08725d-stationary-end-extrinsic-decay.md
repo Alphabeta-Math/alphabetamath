@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-stationary-end-extrinsic-decay
 title: Extrinsic curvature decay on the original stationary end
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

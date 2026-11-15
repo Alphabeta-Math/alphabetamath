@@ -2,7 +2,7 @@
 id: pthm-past-boundary-null-generators
 title: "Lemma 4.2: null generators of the causal past boundary"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

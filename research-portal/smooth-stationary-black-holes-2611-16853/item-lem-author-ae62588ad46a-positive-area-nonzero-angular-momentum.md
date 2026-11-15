@@ -1,6 +1,6 @@
 ---
 title: Positive smooth horizon area and the exact degenerate angular-momentum test
-status: draft
+status: published
 research_item: lem-author-ae62588ad46a-positive-area-nonzero-angular-momentum
 dependency_level: 5
 sources:

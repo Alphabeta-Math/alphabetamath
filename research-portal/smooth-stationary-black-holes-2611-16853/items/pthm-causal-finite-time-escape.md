@@ -2,7 +2,7 @@
 id: pthm-causal-finite-time-escape
 title: Causal speed and finite-section-time escape estimates
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 proof_strategy: direct

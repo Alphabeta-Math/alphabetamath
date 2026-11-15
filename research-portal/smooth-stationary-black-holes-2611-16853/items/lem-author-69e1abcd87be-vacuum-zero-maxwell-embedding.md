@@ -2,7 +2,7 @@
 id: lem-author-69e1abcd87be-vacuum-zero-maxwell-embedding
 title: Vacuum metrics embed as stationary electrovacuum data with zero field
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

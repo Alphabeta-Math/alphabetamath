@@ -1,6 +1,6 @@
 ---
 title: The exterior Cauchy component has a complete asymptotically Euclidean closure
-status: draft
+status: published
 research_item: lem-author-a4a441da4986-exact-outer-cauchy-section
 dependency_level: 3
 ---

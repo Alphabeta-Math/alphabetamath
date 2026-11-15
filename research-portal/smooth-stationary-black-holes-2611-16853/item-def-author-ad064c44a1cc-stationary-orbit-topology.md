@@ -1,6 +1,6 @@
 ---
 title: Stationary orbit space with its quotient topology
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-stationary-orbit-topology
 dependency_level: 3
 sources:

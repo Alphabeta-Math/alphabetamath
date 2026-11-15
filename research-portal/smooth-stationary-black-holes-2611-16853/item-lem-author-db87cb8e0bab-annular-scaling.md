@@ -1,6 +1,6 @@
 ---
 title: Annular scaling and fixed interior covers
-status: draft
+status: published
 research_item: lem-author-db87cb8e0bab-annular-scaling
 dependency_level: 1
 ---

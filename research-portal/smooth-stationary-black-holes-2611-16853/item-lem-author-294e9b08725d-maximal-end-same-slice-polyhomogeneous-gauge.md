@@ -1,6 +1,6 @@
 ---
 title: The source maximal-gauge expansion can be used on the same CW slice
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-maximal-end-same-slice-polyhomogeneous-gauge
 dependency_level: 6
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ellipticity and zero-slope forcing of the stationary maximal flux
-status: draft
+status: published
 research_item: lem-author-db87cb8e0bab-stationary-flux-ellipticity
 dependency_level: 1
 ---

@@ -2,7 +2,7 @@
 id: lem-stationary-adm-causal-completeness-input
 title: Stationary ADM speed bounds and Cauchy sections
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

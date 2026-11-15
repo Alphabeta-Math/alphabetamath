@@ -1,6 +1,6 @@
 ---
 title: Analytic connected-horizon uniqueness including the degenerate case
-status: draft
+status: published
 research_item: pthm-degenerate-analytic-uniqueness
 dependency_level: 9
 sources:

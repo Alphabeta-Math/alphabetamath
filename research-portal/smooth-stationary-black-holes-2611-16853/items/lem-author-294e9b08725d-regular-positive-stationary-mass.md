@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-regular-positive-stationary-mass
 title: Positive stationary mass from the bifurcate vacuum boundary
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

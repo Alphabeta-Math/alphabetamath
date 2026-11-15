@@ -1,6 +1,6 @@
 ---
 title: The quantitative asymptotic end is uniformly timelike
-status: draft
+status: published
 research_item: lem-author-0a41d659d5ab-asymptotic-timelike-gap
 dependency_level: 3
 sources:

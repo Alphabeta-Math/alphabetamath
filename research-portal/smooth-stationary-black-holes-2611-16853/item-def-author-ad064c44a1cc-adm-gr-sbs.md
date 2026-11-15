@@ -1,6 +1,6 @@
 ---
 title: Radu small-ADM global and bifurcation package
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-adm-gr-sbs
 dependency_level: 4
 sources:

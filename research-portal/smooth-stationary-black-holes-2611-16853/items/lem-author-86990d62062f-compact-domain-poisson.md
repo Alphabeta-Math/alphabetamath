@@ -2,7 +2,7 @@
 id: lem-author-86990d62062f-compact-domain-poisson
 title: Compact-domain scalar Poisson solvability and fourth-order estimates
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

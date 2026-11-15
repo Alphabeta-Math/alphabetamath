@@ -1,6 +1,6 @@
 ---
 title: Exterior Schrödinger maximum principles, Hopf growth and Harnack
-status: draft
+status: published
 research_item: lem-exterior-lapse-maximum-and-boundary-control
 dependency_level: 5
 ---

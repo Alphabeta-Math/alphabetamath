@@ -2,7 +2,7 @@
 id: thm-author-294e9b08725d-stationary-vacuum-adm-komar-input
 title: External ADM–Komar equality on ordinary stationary vacuum ends
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

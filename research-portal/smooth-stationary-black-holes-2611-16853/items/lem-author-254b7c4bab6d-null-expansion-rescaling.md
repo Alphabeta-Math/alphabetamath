@@ -2,7 +2,7 @@
 id: lem-author-254b7c4bab6d-null-expansion-rescaling
 title: Rescaling a null generator preserves zero expansion
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

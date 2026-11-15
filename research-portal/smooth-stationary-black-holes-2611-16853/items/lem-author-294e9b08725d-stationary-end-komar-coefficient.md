@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-stationary-end-komar-coefficient
 title: Komar flux equals the original stationary mass coefficient
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

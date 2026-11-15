@@ -1,6 +1,6 @@
 ---
 title: Weak first derivatives and Riemannian chart norm comparison
-status: draft
+status: published
 research_item: lem-author-423fe0348a31-chart-sobolev-comparison
 dependency_level: 0
 ---

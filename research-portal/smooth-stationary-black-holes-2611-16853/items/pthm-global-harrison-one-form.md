@@ -2,7 +2,7 @@
 id: pthm-global-harrison-one-form
 title: Closedness, periods and smooth global choice of W0
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

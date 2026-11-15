@@ -1,6 +1,6 @@
 ---
 title: Extending smooth equation residuals from a dense nonzero-field locus
-status: draft
+status: published
 research_item: lem-author-c92bdd91a36e-dense-residual-extension
 dependency_level: 1
 sources:

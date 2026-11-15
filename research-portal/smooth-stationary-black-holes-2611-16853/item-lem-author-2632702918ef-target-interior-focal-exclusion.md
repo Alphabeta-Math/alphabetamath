@@ -1,6 +1,6 @@
 ---
 title: Boundary membership excludes interior focal points from the target
-status: draft
+status: published
 research_item: lem-author-2632702918ef-target-interior-focal-exclusion
 dependency_level: 5
 sources:

@@ -2,7 +2,7 @@
 id: lem-compact-flux-equality-input
 title: Compact flux saturation and pointwise density rigidity
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

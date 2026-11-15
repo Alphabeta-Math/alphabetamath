@@ -2,7 +2,7 @@
 id: pthm-inverse-harrison-contraction
 title: Inverse Harrison relation and Killing-scalar identity
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

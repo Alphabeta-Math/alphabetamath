@@ -1,6 +1,6 @@
 ---
 title: The stationary Killing energy is constant along every affine null segment
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-killing-energy-conservation
 dependency_level: 1
 ---

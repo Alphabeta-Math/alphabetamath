@@ -2,7 +2,7 @@
 id: lem-author-64ac0bd1fcc4-orbit-metric-reconstruction
 title: Algebraic reconstruction from orbit and horizontal metric data
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

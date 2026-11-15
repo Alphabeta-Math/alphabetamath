@@ -2,7 +2,7 @@
 id: lem-author-c50357f4fa9e-linear-expansion-variation
 title: Linear and path-independent normal-graph variation of expansion
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-69e1abcd87be-stationary-causal-exterior-invariance
 title: The complete stationary flow preserves the selected causal exterior
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

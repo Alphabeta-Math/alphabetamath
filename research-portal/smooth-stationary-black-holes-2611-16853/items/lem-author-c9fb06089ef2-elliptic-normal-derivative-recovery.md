@@ -2,7 +2,7 @@
 id: lem-author-c9fb06089ef2-elliptic-normal-derivative-recovery
 title: Ellipticity recovers every remaining normal derivative
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

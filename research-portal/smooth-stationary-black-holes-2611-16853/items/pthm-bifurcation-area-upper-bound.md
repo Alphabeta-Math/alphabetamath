@@ -2,7 +2,7 @@
 id: pthm-bifurcation-area-upper-bound
 title: "Theorem 4.1: limiting horizon area upper bound"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

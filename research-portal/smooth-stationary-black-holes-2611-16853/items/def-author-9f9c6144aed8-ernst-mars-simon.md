@@ -2,7 +2,7 @@
 id: def-author-9f9c6144aed8-ernst-mars-simon
 title: Ernst sublevels and the Mars–Simon tensor interface
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

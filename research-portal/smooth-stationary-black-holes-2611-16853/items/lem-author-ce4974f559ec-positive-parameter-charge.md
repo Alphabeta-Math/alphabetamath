@@ -2,7 +2,7 @@
 id: lem-author-ce4974f559ec-positive-parameter-charge
 title: Positive-parameter Harrison charge limits in the original end chart
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

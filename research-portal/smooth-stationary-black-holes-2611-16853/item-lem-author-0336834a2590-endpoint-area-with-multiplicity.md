@@ -1,6 +1,6 @@
 ---
 title: Area formula and endpoint bound with multiplicity
-status: draft
+status: published
 research_item: lem-author-0336834a2590-endpoint-area-with-multiplicity
 dependency_level: 2
 sources:

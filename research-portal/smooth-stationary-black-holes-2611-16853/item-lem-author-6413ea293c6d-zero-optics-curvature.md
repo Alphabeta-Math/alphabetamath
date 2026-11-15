@@ -1,6 +1,6 @@
 ---
 title: Zero null optics supplies the missing null Ricci condition
-status: draft
+status: published
 research_item: lem-author-6413ea293c6d-zero-optics-curvature
 dependency_level: 1
 ---

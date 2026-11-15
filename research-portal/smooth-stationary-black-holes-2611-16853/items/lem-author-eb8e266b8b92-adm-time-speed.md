@@ -2,7 +2,7 @@
 id: lem-author-eb8e266b8b92-adm-time-speed
 title: ADM section time and causal spatial speed
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

@@ -2,7 +2,7 @@
 id: lem-author-594d78e425ed-compact-normal-flow-and-area-distortion
 title: A compact normal-flow collar has uniformly small area distortion
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-e7cde3233cd7-cauchy-section-product
 title: A generic timelike product for a prescribed smooth Cauchy section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

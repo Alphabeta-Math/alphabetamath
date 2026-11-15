@@ -1,6 +1,6 @@
 ---
 title: Stationary Harrison one-form and metric
-status: draft
+status: published
 research_item: def-harrison-one-form
 dependency_level: 2
 sources:

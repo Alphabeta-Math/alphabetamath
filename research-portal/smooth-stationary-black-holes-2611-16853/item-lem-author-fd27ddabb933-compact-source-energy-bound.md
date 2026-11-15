@@ -1,6 +1,6 @@
 ---
 title: Compact normalized source data give a target-independent energy bound
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-compact-source-energy-bound
 dependency_level: 7
 ---

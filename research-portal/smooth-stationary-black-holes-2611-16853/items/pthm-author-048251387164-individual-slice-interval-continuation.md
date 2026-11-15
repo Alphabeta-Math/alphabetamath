@@ -2,7 +2,7 @@
 id: pthm-author-048251387164-individual-slice-interval-continuation
 title: Open–closed continuation for the set of individually admissible parameters
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

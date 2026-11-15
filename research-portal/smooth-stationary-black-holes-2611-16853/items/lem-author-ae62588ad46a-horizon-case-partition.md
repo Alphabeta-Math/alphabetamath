@@ -2,7 +2,7 @@
 id: lem-author-ae62588ad46a-horizon-case-partition
 title: The exhaustive analytic horizon-component case split
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

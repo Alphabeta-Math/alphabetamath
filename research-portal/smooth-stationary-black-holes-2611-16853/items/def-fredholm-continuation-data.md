@@ -2,7 +2,7 @@
 id: def-fredholm-continuation-data
 title: Fredholm and Banach continuation interfaces
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

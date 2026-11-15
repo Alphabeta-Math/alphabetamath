@@ -2,7 +2,7 @@
 id: lem-author-84ac8de0c2f0-spatial-harrison-end
 title: Uniform spatial components and the cylinder scale
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: def-author-0336834a2590-measurable-surface-domains
 title: Measurable domains on smooth initial surfaces
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

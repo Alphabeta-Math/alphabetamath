@@ -1,6 +1,6 @@
 ---
 title: External boundary positive-energy theorem without maximality
-status: draft
+status: published
 research_item: thm-author-294e9b08725d-boundary-positive-energy-input
 dependency_level: 6
 sources:

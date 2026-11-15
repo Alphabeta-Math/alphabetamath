@@ -2,7 +2,7 @@
 id: lem-author-12a8dba09036-complete-volume-preserving-shift-flow
 title: Complete volume preserving shift flow on a spherical exterior
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,7 +1,7 @@
 ---
 title: Time reversal supplies a source-normal generator without interior source
   focal points
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-source-normal-null-generator
 dependency_level: 7
 ---

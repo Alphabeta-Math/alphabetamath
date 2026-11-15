@@ -1,6 +1,6 @@
 ---
 title: Constant surface gravity gives the normalized horizon integral
-status: draft
+status: published
 research_item: lem-author-cf389990237c-constant-gravity-horizon-komar-integral
 dependency_level: 4
 ---

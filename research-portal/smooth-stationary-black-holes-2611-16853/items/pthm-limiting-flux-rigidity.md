@@ -2,7 +2,7 @@
 id: pthm-limiting-flux-rigidity
 title: "Corollary 4.1: area and pointwise limiting flux rigidity"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

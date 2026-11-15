@@ -2,7 +2,7 @@
 id: lem-author-db87cb8e0bab-divergence-gradient-holder
 title: Gradient Hölder control by differentiated flux and one-dimensional lifting
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Normal boost action of the Hawking flow
-status: draft
+status: published
 research_item: pthm-normal-boost-action
 dependency_level: 11
 sources:

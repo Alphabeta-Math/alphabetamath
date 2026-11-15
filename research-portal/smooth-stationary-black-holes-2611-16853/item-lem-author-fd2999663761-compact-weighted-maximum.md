@@ -1,6 +1,6 @@
 ---
 title: Compact weighted maximum and the actual boundary term
-status: draft
+status: published
 research_item: lem-author-fd2999663761-compact-weighted-maximum
 dependency_level: 3
 ---

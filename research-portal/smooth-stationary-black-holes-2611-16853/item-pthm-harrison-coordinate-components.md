@@ -1,6 +1,6 @@
 ---
 title: Coordinate components of the transformed metric
-status: draft
+status: published
 research_item: pthm-harrison-coordinate-components
 dependency_level: 3
 sources:

@@ -1,6 +1,6 @@
 ---
 title: The ADM-source mass and angular-momentum parameters
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-adm-angular-momentum-parameters
 dependency_level: 5
 sources:

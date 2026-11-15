@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-kerr-rest-frame
 title: The Kerr end is an ADM rest frame
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

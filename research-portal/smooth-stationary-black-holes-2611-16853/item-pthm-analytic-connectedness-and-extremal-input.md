@@ -1,6 +1,6 @@
 ---
 title: Analytic extremal and multiple-horizon comparison contracts
-status: draft
+status: published
 research_item: pthm-analytic-connectedness-and-extremal-input
 dependency_level: 8
 sources:

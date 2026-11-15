@@ -2,7 +2,7 @@
 id: lem-author-84ac8de0c2f0-end-denominator-bounds
 title: Mass-one Ernst decay and uniform Harrison denominator bounds
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

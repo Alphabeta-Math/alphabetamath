@@ -1,6 +1,6 @@
 ---
 title: Smooth event-boundary branches are achronal null geodesic sheets
-status: draft
+status: published
 research_item: lem-author-ca4ffba327b3-event-boundary-generator-data
 dependency_level: 1
 ---

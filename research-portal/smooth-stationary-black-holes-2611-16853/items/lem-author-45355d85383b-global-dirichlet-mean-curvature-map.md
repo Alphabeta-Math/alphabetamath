@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-global-dirichlet-mean-curvature-map
 title: The global Dirichlet mean-curvature map is continuously differentiable
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

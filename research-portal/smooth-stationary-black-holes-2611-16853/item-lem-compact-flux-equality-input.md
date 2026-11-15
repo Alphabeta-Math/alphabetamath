@@ -1,6 +1,6 @@
 ---
 title: Compact flux saturation and pointwise density rigidity
-status: draft
+status: published
 research_item: lem-compact-flux-equality-input
 dependency_level: 0
 ---

@@ -2,7 +2,7 @@
 id: lem-author-29145f41e94d-mass-one-original-section
 title: Mass-one end coordinates on the unchanged maximal section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

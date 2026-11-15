@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-closed-ernst-contraction
 title: Closed Ernst contraction and the real potential
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

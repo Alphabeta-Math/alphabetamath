@@ -1,6 +1,6 @@
 ---
 title: Independent regular nonrotating staticity and Schwarzschild theorem
-status: draft
+status: published
 research_item: pthm-author-a4a441da4986-regular-nonrotating-schwarzschild-input
 dependency_level: 2
 sources:

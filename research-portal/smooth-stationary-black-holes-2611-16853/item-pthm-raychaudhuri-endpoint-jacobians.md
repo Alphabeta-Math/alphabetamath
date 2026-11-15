@@ -1,6 +1,6 @@
 ---
 title: Raychaudhuri expansion and generator Jacobians
-status: draft
+status: published
 research_item: pthm-raychaudhuri-endpoint-jacobians
 dependency_level: 28
 sources:

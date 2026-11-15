@@ -1,6 +1,6 @@
 ---
 title: Hopf positivity and uniform linear growth on a fixed compact collar
-status: draft
+status: published
 research_item: lem-author-58255dfd955f-boundary-linear-growth
 dependency_level: 3
 ---

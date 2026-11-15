@@ -2,7 +2,7 @@
 id: lem-author-0336834a2590-transverse-endpoint-regularity
 title: Transverse hitting maps have local differentiable extensions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

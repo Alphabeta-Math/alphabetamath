@@ -1,6 +1,6 @@
 ---
 title: Causal speed and finite-section-time escape estimates
-status: draft
+status: published
 research_item: pthm-causal-finite-time-escape
 dependency_level: 23
 sources:

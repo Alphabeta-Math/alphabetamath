@@ -2,7 +2,7 @@
 id: lem-author-9a15bef58785-affine-generator-acceleration
 title: Affine generator profiles give constant signed acceleration
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-a4a441da4986-exact-outer-cauchy-section
 title: The exterior Cauchy component has a complete asymptotically Euclidean closure
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

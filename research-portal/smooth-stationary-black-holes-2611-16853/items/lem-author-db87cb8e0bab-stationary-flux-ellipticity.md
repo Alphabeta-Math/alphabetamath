@@ -2,7 +2,7 @@
 id: lem-author-db87cb8e0bab-stationary-flux-ellipticity
 title: Ellipticity and zero-slope forcing of the stationary maximal flux
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Supplied CW logarithmic maximal ends have weak weighted initial data
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-maximal-end-cw-weak-kid-data
 dependency_level: 4
 ---

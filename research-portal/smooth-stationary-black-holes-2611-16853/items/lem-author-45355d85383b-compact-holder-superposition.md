@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-compact-holder-superposition
 title: Compact-core Hölder superposition gives a continuously differentiable graph map
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

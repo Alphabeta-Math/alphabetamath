@@ -1,6 +1,6 @@
 ---
 title: Event-horizon bifurcation data for the nontrapping theorem
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-nontrapping-sbs
 dependency_level: 3
 sources:

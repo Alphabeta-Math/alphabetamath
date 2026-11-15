@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-perturbative-effective-constant
 title: AIK perturbative effective constant and its coordinate data
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

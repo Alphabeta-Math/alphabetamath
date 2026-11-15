@@ -2,7 +2,7 @@
 id: pthm-end-lapse-slope
 title: Uniform asymptotic slope bound
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

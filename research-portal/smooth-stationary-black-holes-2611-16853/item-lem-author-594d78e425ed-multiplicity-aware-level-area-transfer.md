@@ -1,6 +1,6 @@
 ---
 title: Level-set area transfer retains generator multiplicity
-status: draft
+status: published
 research_item: lem-author-594d78e425ed-multiplicity-aware-level-area-transfer
 dependency_level: 8
 ---

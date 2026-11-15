@@ -1,6 +1,6 @@
 ---
 title: The mean-curvature graph map is a smooth finite-jet expression
-status: draft
+status: published
 research_item: lem-author-45355d85383b-smooth-mean-curvature-jet
 dependency_level: 6
 ---

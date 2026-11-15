@@ -1,6 +1,6 @@
 ---
 title: Normal boost action and invariant two-forms at a fixed surface
-status: draft
+status: published
 research_item: lem-killing-normal-boost-and-invariant-tensors
 dependency_level: 1
 ---

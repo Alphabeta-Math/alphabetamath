@@ -2,7 +2,7 @@
 id: lem-author-c50357f4fa9e-mots-boost-variation
 title: Boost dependence of expansion variation and the MOTS gauge
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

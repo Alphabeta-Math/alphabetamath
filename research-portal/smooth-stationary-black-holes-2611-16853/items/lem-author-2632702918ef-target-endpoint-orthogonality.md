@@ -2,7 +2,7 @@
 id: lem-author-2632702918ef-target-endpoint-orthogonality
 title: Endpoint orthogonality without an acausal target assumption
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

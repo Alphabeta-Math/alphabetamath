@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-smooth-mean-curvature-jet
 title: The mean-curvature graph map is a smooth finite-jet expression
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

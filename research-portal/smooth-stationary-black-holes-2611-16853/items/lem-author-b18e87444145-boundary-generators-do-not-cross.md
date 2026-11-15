@@ -2,7 +2,7 @@
 id: lem-author-b18e87444145-boundary-generators-do-not-cross
 title: Distinct boundary generators cannot cross strictly before a spacelike cut
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

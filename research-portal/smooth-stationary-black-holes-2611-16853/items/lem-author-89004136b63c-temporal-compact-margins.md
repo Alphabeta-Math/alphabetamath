@@ -2,7 +2,7 @@
 id: lem-author-89004136b63c-temporal-compact-margins
 title: A temporal covector has uniform compact negativity and orientation margins
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

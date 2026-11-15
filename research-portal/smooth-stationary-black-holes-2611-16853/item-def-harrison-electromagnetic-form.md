@@ -1,6 +1,6 @@
 ---
 title: Harrison electromagnetic form
-status: draft
+status: published
 research_item: def-harrison-electromagnetic-form
 dependency_level: 3
 sources:

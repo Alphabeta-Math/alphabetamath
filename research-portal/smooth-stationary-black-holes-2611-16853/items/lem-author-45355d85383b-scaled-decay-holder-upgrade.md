@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-scaled-decay-holder-upgrade
 title: One extra pointwise derivative supplies scaled Hölder control
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

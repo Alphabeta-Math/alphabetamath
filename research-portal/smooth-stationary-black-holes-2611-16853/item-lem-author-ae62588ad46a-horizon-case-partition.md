@@ -1,6 +1,6 @@
 ---
 title: The exhaustive analytic horizon-component case split
-status: draft
+status: published
 research_item: lem-author-ae62588ad46a-horizon-case-partition
 dependency_level: 5
 ---

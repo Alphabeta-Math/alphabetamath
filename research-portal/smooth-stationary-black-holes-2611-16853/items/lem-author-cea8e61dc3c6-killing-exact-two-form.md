@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-killing-exact-two-form
 title: The Killing derivative is an exact closed two-form
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-1f6675f2ec55-decaying-kernel-components
 title: Decaying Dirichlet kernel and the exact closed-component exception
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

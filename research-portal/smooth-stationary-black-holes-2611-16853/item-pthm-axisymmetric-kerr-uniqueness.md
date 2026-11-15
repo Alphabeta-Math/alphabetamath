@@ -1,6 +1,6 @@
 ---
 title: Axisymmetric vacuum uniqueness with complete global hypotheses
-status: draft
+status: published
 research_item: pthm-axisymmetric-kerr-uniqueness
 dependency_level: 7
 sources:

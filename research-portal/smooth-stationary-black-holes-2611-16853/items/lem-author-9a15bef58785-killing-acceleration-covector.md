@@ -2,7 +2,7 @@
 id: lem-author-9a15bef58785-killing-acceleration-covector
 title: For a Killing field the acceleration and surface-gravity equations agree
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

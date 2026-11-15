@@ -1,6 +1,6 @@
 ---
 title: Closed electric and magnetic two-forms transfer their periods to the horizon
-status: draft
+status: published
 research_item: lem-author-ce4974f559ec-closed-flux-transfer
 dependency_level: 1
 ---

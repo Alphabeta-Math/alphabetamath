@@ -2,7 +2,7 @@
 id: lem-compact-target-achronal-generator-input
 title: Compact-target null generators and the required endpoint conditions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

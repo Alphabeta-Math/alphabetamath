@@ -2,7 +2,7 @@
 id: lem-author-840894718169-boundary-one-sheet-normal-graph
 title: A one-sheet boundary germ propagates across the common normal collar
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

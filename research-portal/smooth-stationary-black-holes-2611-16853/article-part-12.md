@@ -3,7 +3,7 @@ title: Article items · 12 — A smooth spacelike reference section is a bounded
   rapidity graph
 description: Presents 28 items from the article and its immediate prerequisites,
   covering dependency levels 3–4.
-status: draft
+status: published
 dependency_level: 6
 research_article_page: true
 item_count: 28

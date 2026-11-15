@@ -1,6 +1,6 @@
 ---
 title: The Komar angular-momentum flux of the Kerr end
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-kerr-komar-angular-momentum
 dependency_level: 3
 sources:

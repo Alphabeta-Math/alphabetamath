@@ -1,6 +1,6 @@
 ---
 title: Commuting complete flows give the global product action
-status: draft
+status: published
 research_item: lem-author-64ac0bd1fcc4-commuting-global-symmetry-action
 dependency_level: 6
 ---

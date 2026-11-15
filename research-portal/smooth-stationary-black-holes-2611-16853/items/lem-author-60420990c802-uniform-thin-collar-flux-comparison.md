@@ -2,7 +2,7 @@
 id: lem-author-60420990c802-uniform-thin-collar-flux-comparison
 title: The thin-collar flux error is uniform over all smooth comparison regions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

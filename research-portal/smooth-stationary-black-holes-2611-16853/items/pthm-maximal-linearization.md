@@ -2,7 +2,7 @@
 id: pthm-maximal-linearization
 title: Mean-curvature linearization, weighted regularity and fixed-boundary graph map
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

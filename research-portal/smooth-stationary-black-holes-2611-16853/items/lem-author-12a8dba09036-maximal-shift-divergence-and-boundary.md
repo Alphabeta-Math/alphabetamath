@@ -2,7 +2,7 @@
 id: lem-author-12a8dba09036-maximal-shift-divergence-and-boundary
 title: Maximal stationary shift has zero divergence and tangent boundary
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

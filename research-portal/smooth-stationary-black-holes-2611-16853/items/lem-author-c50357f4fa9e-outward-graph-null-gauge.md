@@ -2,7 +2,7 @@
 id: lem-author-c50357f4fa9e-outward-graph-null-gauge
 title: Canonical outward normals and null gauge on a graph
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-29145f41e94d-smooth-weak-end-primitive
 title: A smooth radial primitive can be returned to a weak end gauge
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Vanishing divergence implies closed Hodge dual
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-divergence-hodge-closure
 dependency_level: 1
 sources:

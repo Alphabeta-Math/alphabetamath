@@ -2,7 +2,7 @@
 id: rem-radu-comparison-strategy
 title: Reported comparison and Bertotti–Robinson strategy
 kind: remark
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

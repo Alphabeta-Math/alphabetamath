@@ -2,7 +2,7 @@
 id: lem-author-840894718169-fixed-target-collar-properness
 title: Radial comparison gives proper normal projection onto a fixed target collar
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Riemannian Lipschitz coarea on compact interior bands
-status: draft
+status: published
 research_item: lem-author-423fe0348a31-riemannian-lipschitz-coarea
 dependency_level: 6
 sources:

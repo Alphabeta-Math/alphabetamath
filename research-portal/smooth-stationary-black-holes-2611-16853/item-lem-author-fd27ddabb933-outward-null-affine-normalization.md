@@ -1,6 +1,6 @@
 ---
 title: The surviving source-normal ray has the outgoing affine normalization
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-outward-null-affine-normalization
 dependency_level: 6
 ---

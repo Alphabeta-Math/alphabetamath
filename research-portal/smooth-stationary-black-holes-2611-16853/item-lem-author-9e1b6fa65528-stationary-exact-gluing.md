@@ -1,6 +1,6 @@
 ---
 title: Stationary exact corrections preserve two prescribed gauges
-status: draft
+status: published
 research_item: lem-author-9e1b6fa65528-stationary-exact-gluing
 dependency_level: 1
 ---

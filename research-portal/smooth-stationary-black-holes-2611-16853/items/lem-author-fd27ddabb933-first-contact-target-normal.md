@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-first-contact-target-normal
 title: The earliest contact generator is orthogonal to the distant target cut
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

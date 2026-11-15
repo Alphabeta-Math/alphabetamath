@@ -1,6 +1,6 @@
 ---
 title: Cutoff maximum principle and uniform collar regularity
-status: draft
+status: published
 research_item: pthm-cutoff-angle-estimate
 dependency_level: 19
 sources:

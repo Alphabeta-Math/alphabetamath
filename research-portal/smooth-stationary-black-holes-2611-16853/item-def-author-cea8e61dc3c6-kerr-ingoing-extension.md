@@ -1,6 +1,6 @@
 ---
 title: A specified future ingoing Kerr extension and its time orientation
-status: draft
+status: published
 research_item: def-author-cea8e61dc3c6-kerr-ingoing-extension
 dependency_level: 2
 sources:

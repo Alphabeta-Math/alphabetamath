@@ -1,6 +1,6 @@
 ---
 title: Ernst sublevels and the Mars–Simon tensor interface
-status: draft
+status: published
 research_item: def-author-9f9c6144aed8-ernst-mars-simon
 dependency_level: 1
 sources:

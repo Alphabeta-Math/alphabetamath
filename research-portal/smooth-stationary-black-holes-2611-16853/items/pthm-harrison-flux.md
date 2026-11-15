@@ -2,7 +2,7 @@
 id: pthm-harrison-flux
 title: "Proposition 2.1: electric and magnetic fluxes"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

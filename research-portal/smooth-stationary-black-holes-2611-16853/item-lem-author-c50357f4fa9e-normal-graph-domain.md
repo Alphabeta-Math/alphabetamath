@@ -1,6 +1,6 @@
 ---
 title: Admissible domains for outward normal graphs
-status: draft
+status: published
 research_item: lem-author-c50357f4fa9e-normal-graph-domain
 dependency_level: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Circle-invariant normal coordinates linearize a bifurcate Killing boost
-status: draft
+status: published
 research_item: lem-author-78c700cb9e03-invariant-normal-boost-coordinates
 dependency_level: 2
 ---

@@ -1,6 +1,6 @@
 ---
 title: Positive right and adjoint eigenfunctions have the same eigenvalue
-status: draft
+status: published
 research_item: lem-author-1a44964f66ee-positive-adjoint-pairing
 dependency_level: 1
 ---

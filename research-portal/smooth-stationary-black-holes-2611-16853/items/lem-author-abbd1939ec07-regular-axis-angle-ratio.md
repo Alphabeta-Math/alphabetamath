@@ -2,7 +2,7 @@
 id: lem-author-abbd1939ec07-regular-axis-angle-ratio
 title: A regular weight-one axis has zero logarithmic angle defect
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

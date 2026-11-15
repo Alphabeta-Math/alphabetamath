@@ -1,6 +1,6 @@
 ---
 title: Normal deformation families and an outgoing null gauge
-status: draft
+status: published
 research_item: lem-author-97780c2fed82-normal-deformation-families
 dependency_level: 1
 ---

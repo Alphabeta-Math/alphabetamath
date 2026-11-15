@@ -2,7 +2,7 @@
 id: pthm-main-smooth-black-hole-uniqueness
 title: Conditional horizon recovery and Kerr implications
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

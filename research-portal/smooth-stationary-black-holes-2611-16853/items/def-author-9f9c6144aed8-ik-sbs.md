@@ -2,7 +2,7 @@
 id: def-author-9f9c6144aed8-ik-sbs
 title: Exact bifurcate-sphere package for the IK criterion
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

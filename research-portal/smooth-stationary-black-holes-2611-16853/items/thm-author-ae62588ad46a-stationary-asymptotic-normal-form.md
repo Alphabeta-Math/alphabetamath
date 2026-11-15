@@ -2,7 +2,7 @@
 id: thm-author-ae62588ad46a-stationary-asymptotic-normal-form
 title: Stationary vacuum normal form and compatible regularity section
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

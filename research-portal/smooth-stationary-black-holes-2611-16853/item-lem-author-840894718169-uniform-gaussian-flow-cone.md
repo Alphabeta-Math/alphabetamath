@@ -1,6 +1,6 @@
 ---
 title: Bounded boost times give a uniform Gaussian collar cone
-status: draft
+status: published
 research_item: lem-author-840894718169-uniform-gaussian-flow-cone
 dependency_level: 3
 ---

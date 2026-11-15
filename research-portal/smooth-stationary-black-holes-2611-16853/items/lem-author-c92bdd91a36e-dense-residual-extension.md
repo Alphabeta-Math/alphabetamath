@@ -2,7 +2,7 @@
 id: lem-author-c92bdd91a36e-dense-residual-extension
 title: Extending smooth equation residuals from a dense nonzero-field locus
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

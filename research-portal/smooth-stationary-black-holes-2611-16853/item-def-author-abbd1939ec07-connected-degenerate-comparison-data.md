@@ -1,6 +1,6 @@
 ---
 title: Connected rotating degenerate vacuum comparison data
-status: draft
+status: published
 research_item: def-author-abbd1939ec07-connected-degenerate-comparison-data
 dependency_level: 5
 sources:

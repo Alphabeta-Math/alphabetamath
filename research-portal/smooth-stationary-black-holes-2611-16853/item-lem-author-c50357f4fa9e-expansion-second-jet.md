@@ -1,6 +1,6 @@
 ---
 title: Outgoing expansion depends smoothly on the second graph data
-status: draft
+status: published
 research_item: lem-author-c50357f4fa9e-expansion-second-jet
 dependency_level: 2
 ---

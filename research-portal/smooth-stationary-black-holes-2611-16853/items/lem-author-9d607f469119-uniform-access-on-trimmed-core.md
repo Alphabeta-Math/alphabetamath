@@ -2,7 +2,7 @@
 id: lem-author-9d607f469119-uniform-access-on-trimmed-core
 title: Eventual access is uniform on the trimmed compact inside core
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

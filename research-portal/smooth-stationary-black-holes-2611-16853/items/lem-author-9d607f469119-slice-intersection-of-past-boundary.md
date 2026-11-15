@@ -2,7 +2,7 @@
 id: lem-author-9d607f469119-slice-intersection-of-past-boundary
 title: Intersecting a chronological past boundary with a spacelike section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

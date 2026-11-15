@@ -2,7 +2,7 @@
 id: lem-author-58255dfd955f-compact-comparison
 title: Compact-domain comparison with a nonnegative potential
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

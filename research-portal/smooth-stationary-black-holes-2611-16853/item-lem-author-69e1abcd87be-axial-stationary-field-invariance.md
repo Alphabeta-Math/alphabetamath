@@ -1,7 +1,7 @@
 ---
 title: A commuting axial action preserves the stationary field and its causal
   character
-status: draft
+status: published
 research_item: lem-author-69e1abcd87be-axial-stationary-field-invariance
 dependency_level: 6
 ---

@@ -2,7 +2,7 @@
 id: lem-author-c92bdd91a36e-residual-jet-continuity
 title: Harrison equation residuals are continuous functions of stationary two-jets
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

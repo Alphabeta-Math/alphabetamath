@@ -1,6 +1,6 @@
 ---
 title: A commuting-extension obstruction excludes arbitrary analytic-model isometries
-status: draft
+status: published
 research_item: lem-author-a8fd09e77ebd-analytic-isometry-obstruction
 dependency_level: 3
 ---

@@ -1,6 +1,6 @@
 ---
 title: Temporal angle and tangential height gradient identity
-status: draft
+status: published
 research_item: lem-author-fd2999663761-temporal-tangent-gradient
 dependency_level: 3
 ---

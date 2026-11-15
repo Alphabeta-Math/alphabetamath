@@ -1,6 +1,6 @@
 ---
 title: Trace-free three-dimensional coercivity for the logarithmic gradient
-status: draft
+status: published
 research_item: lem-author-56ff511785bf-trace-free-angle-coercivity
 dependency_level: 0
 sources:

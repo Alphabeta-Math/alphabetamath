@@ -1,6 +1,6 @@
 ---
 title: A regular weight-one axis has zero logarithmic angle defect
-status: draft
+status: published
 research_item: lem-author-abbd1939ec07-regular-axis-angle-ratio
 dependency_level: 7
 ---

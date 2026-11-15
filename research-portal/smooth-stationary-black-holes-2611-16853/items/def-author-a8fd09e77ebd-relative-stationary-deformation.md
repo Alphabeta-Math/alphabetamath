@@ -2,7 +2,7 @@
 id: def-author-a8fd09e77ebd-relative-stationary-deformation
 title: Relative stationary deformation and extension obstruction
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Non-rotating staticity and Schwarzschild uniqueness
-status: draft
+status: published
 research_item: pthm-nonrotating-static-uniqueness
 dependency_level: 6
 sources:

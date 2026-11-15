@@ -1,6 +1,6 @@
 ---
 title: From a Schwarzschild spatial isometry to the normalized spacetime exterior
-status: draft
+status: published
 research_item: lem-author-f247c641a714-schwarzschild-static-data-lift
 dependency_level: 4
 ---

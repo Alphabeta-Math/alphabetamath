@@ -1,6 +1,6 @@
 ---
 title: Boundary Schauder applied to tangential quotients gains one derivative
-status: draft
+status: published
 research_item: lem-author-c9fb06089ef2-tangential-boundary-schauder-gain
 dependency_level: 9
 ---

@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-regular-cw-maximal-section
 title: Maximal bifurcation-boundary section under the original regular hypotheses
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

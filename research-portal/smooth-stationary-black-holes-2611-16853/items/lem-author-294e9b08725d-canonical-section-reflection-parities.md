@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-canonical-section-reflection-parities
 title: Reflection parities of canonical section data and stationary lapse–shift
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

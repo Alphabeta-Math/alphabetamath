@@ -2,7 +2,7 @@
 id: lem-author-f247c641a714-static-vacuum-reduction
 title: Vacuum curvature of a globally static product
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

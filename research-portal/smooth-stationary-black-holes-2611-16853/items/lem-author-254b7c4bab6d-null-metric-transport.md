@@ -2,7 +2,7 @@
 id: lem-author-254b7c4bab6d-null-metric-transport
 title: Metric transport along a null generator
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

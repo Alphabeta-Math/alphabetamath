@@ -2,7 +2,7 @@
 id: pthm-axial-averaging-positive-boost
 title: Axial averaging and positive boost at the pole
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

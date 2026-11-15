@@ -1,6 +1,6 @@
 ---
 title: An asymptotically flat stationary end bounds null speed by Killing energy
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-asymptotic-null-energy-speed
 dependency_level: 2
 ---

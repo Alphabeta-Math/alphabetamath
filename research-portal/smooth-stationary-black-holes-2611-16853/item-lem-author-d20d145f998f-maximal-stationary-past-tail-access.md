@@ -1,6 +1,6 @@
 ---
 title: Past access to the far tail by exact time reversal
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-maximal-stationary-past-tail-access
 dependency_level: 4
 ---

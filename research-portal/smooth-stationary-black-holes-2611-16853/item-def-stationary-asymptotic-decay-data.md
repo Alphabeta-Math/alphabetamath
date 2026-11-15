@@ -1,6 +1,6 @@
 ---
 title: Differentiated asymptotic bounds and parameter uniformity
-status: draft
+status: published
 research_item: def-stationary-asymptotic-decay-data
 dependency_level: 0
 sources:

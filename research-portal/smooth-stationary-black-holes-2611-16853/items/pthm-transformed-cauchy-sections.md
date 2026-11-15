@@ -2,7 +2,7 @@
 id: pthm-transformed-cauchy-sections
 title: "Lemma 4.1: Cauchy sections and global hyperbolicity"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 proof_strategy: direct

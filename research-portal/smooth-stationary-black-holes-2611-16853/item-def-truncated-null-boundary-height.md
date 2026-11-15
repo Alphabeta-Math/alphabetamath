@@ -1,6 +1,6 @@
 ---
 title: Truncated causal-boundary height for smooth approximation
-status: draft
+status: published
 research_item: def-truncated-null-boundary-height
 dependency_level: 6
 sources:

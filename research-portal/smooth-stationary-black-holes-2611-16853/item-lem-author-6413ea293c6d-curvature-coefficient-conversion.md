@@ -1,6 +1,6 @@
 ---
 title: General curvature coefficient in the outward hypersurface gauge
-status: draft
+status: published
 research_item: lem-author-6413ea293c6d-curvature-coefficient-conversion
 dependency_level: 8
 ---

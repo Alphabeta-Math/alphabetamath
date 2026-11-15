@@ -1,6 +1,6 @@
 ---
 title: Schwarzschild as the zero-spin member of Kerr
-status: draft
+status: published
 research_item: ex-schwarzschild-kerr-member
 dependency_level: 6
 sources:

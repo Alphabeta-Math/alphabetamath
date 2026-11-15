@@ -2,7 +2,7 @@
 id: lem-author-e7cde3233cd7-horizon-neighborhood-gluing
 title: Extending a closed one-form potential across a bifurcation sphere
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

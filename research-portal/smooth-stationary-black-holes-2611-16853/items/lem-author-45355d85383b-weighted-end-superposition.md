@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-weighted-end-superposition
 title: Stationarity supplies the weighted end differentiability estimates
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

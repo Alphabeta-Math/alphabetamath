@@ -2,7 +2,7 @@
 id: pthm-mots-stability-operator
 title: Horizon expansion variation and Einstein–Maxwell curvature
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

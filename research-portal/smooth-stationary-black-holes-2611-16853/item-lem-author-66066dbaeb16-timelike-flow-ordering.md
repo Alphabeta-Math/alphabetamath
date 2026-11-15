@@ -1,6 +1,6 @@
 ---
 title: Ordered timelike flow graphs lie on the corresponding geometric side
-status: draft
+status: published
 research_item: lem-author-66066dbaeb16-timelike-flow-ordering
 dependency_level: 1
 ---

@@ -2,7 +2,7 @@
 id: pthm-nonrotating-static-uniqueness
 title: Non-rotating staticity and Schwarzschild uniqueness
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

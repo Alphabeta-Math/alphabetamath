@@ -1,6 +1,6 @@
 ---
 title: Finite smooth cutoffs relative to compact sets and boundary neighborhoods
-status: draft
+status: published
 research_item: lem-author-423fe0348a31-finite-relative-cutoffs
 dependency_level: 0
 ---

@@ -2,7 +2,7 @@
 id: lem-author-56ff511785bf-boost-frame-bounds
 title: Boost-frame bounds for a smooth observer and arbitrary spacelike normals
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

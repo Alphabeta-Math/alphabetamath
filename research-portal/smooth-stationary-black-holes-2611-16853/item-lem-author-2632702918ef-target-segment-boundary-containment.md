@@ -1,6 +1,6 @@
 ---
 title: The entire target segment stays on the chronological boundary
-status: draft
+status: published
 research_item: lem-author-2632702918ef-target-segment-boundary-containment
 dependency_level: 4
 sources:

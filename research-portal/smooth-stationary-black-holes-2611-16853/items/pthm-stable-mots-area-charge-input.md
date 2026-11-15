@@ -2,7 +2,7 @@
 id: pthm-stable-mots-area-charge-input
 title: Stable MOTS area–charge inequality
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

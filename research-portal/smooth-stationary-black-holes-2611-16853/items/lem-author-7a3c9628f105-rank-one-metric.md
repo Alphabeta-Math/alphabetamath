@@ -2,7 +2,7 @@
 id: lem-author-7a3c9628f105-rank-one-metric
 title: Regular Lorentzian metric from the normalized rank-one map
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

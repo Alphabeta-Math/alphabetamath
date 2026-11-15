@@ -1,6 +1,6 @@
 ---
 title: General spacelike two-surfaces, null gauges and fluxes
-status: draft
+status: published
 research_item: def-author-97780c2fed82-general-spacelike-surface-data
 dependency_level: 0
 ---

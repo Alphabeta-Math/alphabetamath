@@ -1,6 +1,6 @@
 ---
 title: Weighted product and uniform potential tails on the full input space
-status: draft
+status: published
 research_item: lem-author-1f6675f2ec55-weighted-potential-tail
 dependency_level: 2
 sources:

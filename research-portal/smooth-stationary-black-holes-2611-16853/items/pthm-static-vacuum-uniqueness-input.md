@@ -2,7 +2,7 @@
 id: pthm-static-vacuum-uniqueness-input
 title: Static vacuum Schwarzschild classification contract
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

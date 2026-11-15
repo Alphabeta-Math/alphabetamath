@@ -2,7 +2,7 @@
 id: pthm-bifurcation-extension-background
 title: Bifurcation extension, local non-Kerr deformations and smooth local rigidity
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-66066dbaeb16-timelike-flow-ordering
 title: Ordered timelike flow graphs lie on the corresponding geometric side
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-e7cde3233cd7-normalized-end-primitive
 title: Fixing the Ernst constant by integrable asymptotic twist
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

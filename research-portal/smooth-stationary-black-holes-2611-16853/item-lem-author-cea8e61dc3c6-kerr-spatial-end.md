@@ -1,6 +1,6 @@
 ---
 title: The Boyer–Lindquist spatial end and differentiated expansion
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-kerr-spatial-end
 dependency_level: 2
 sources:

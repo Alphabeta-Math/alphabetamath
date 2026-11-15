@@ -2,7 +2,7 @@
 id: pthm-sphere-area-expansion-estimates
 title: Uniform coordinate-sphere area and null expansion
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

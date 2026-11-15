@@ -2,7 +2,7 @@
 id: lem-weighted-dirichlet-isomorphism
 title: "Lemma 3.1: weighted Dirichlet Laplacian isomorphism"
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

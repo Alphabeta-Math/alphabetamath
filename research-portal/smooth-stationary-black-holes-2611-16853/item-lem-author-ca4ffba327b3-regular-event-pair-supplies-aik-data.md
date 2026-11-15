@@ -1,6 +1,6 @@
 ---
 title: Regular stationary event branches supply the local AIK horizon pair
-status: draft
+status: published
 research_item: lem-author-ca4ffba327b3-regular-event-pair-supplies-aik-data
 dependency_level: 4
 ---

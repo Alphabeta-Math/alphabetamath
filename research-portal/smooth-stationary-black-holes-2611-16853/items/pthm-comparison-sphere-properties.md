@@ -2,7 +2,7 @@
 id: pthm-comparison-sphere-properties
 title: "Proposition 4.1: positive-expansion spheres of limiting area 4π"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

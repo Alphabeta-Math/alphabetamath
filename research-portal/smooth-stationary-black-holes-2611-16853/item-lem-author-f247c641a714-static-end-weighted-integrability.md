@@ -1,6 +1,6 @@
 ---
 title: The pointwise static end bounds imply the original weighted hypotheses
-status: draft
+status: published
 research_item: lem-author-f247c641a714-static-end-weighted-integrability
 dependency_level: 2
 sources:

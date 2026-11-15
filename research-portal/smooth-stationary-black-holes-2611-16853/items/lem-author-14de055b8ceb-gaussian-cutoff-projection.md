@@ -2,7 +2,7 @@
 id: lem-author-14de055b8ceb-gaussian-cutoff-projection
 title: Projection estimates for a Gaussian collar cutoff
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

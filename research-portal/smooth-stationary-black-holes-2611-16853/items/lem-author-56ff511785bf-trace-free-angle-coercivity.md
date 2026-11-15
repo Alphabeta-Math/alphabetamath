@@ -2,7 +2,7 @@
 id: lem-author-56ff511785bf-trace-free-angle-coercivity
 title: Trace-free three-dimensional coercivity for the logarithmic gradient
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

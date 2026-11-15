@@ -1,6 +1,6 @@
 ---
 title: Normalized Komar data on a nonrotating horizon section
-status: draft
+status: published
 research_item: def-author-cf389990237c-normalized-horizon-komar-data
 dependency_level: 1
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Comparison spheres and their stationary cylinders
-status: draft
+status: published
 research_item: def-coordinate-comparison-spheres
 dependency_level: 3
 sources:

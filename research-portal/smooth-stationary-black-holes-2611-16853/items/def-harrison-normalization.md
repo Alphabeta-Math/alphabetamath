@@ -2,7 +2,7 @@
 id: def-harrison-normalization
 title: Mass-one convention and Harrison denominator
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

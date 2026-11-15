@@ -2,7 +2,7 @@
 id: lem-author-ca4ffba327b3-stationary-product-excludes-zero-coefficient
 title: A stationary product rules out a zero Hawking coefficient
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

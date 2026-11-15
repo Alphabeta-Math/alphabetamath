@@ -2,7 +2,7 @@
 id: lem-author-c50357f4fa9e-normal-graph-domain
 title: Admissible domains for outward normal graphs
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

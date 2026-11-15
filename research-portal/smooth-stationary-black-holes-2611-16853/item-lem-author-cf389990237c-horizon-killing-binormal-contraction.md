@@ -1,6 +1,6 @@
 ---
 title: Killing-horizon derivative contracted with the binormal
-status: draft
+status: published
 research_item: lem-author-cf389990237c-horizon-killing-binormal-contraction
 dependency_level: 3
 ---

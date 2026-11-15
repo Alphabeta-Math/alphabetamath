@@ -2,7 +2,7 @@
 id: lem-author-97780c2fed82-mots-variation-second-jet
 title: Outgoing expansion variation at a general MOTS
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

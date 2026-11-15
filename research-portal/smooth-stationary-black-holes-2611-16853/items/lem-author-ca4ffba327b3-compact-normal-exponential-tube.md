@@ -2,7 +2,7 @@
 id: lem-author-ca4ffba327b3-compact-normal-exponential-tube
 title: A compact spacelike surface has a normal exponential tube
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

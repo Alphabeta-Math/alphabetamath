@@ -2,7 +2,7 @@
 id: lem-author-84ac8de0c2f0-weighted-one-form-decay
 title: The differentiated spatial decay supplied by the Harrison lift
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

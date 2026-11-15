@@ -1,6 +1,6 @@
 ---
 title: Removing the boundary before applying scalar coarea
-status: draft
+status: published
 research_item: lem-author-423fe0348a31-interior-coarea-boundary-treatment
 dependency_level: 5
 sources:

@@ -1,6 +1,6 @@
 ---
 title: MOTS boosts preserve the spacetime stability sign
-status: draft
+status: published
 research_item: lem-author-97780c2fed82-mots-boost-variation
 dependency_level: 3
 ---

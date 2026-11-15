@@ -1,6 +1,6 @@
 ---
 title: Stationarity supplies the weighted end differentiability estimates
-status: draft
+status: published
 research_item: lem-author-45355d85383b-weighted-end-superposition
 dependency_level: 8
 ---

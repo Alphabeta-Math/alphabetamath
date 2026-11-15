@@ -1,6 +1,6 @@
 ---
 title: A smooth radial primitive can be returned to a weak end gauge
-status: draft
+status: published
 research_item: lem-author-29145f41e94d-smooth-weak-end-primitive
 dependency_level: 5
 ---

@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-bifurcation-collar-partial-cauchy
 title: A working bifurcation collar supplies the exact GR section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

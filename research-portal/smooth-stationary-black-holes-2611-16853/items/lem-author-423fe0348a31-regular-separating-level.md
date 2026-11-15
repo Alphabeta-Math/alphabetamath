@@ -2,7 +2,7 @@
 id: lem-author-423fe0348a31-regular-separating-level
 title: Choosing a smooth separating regular level from an average bound
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

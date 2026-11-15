@@ -1,6 +1,6 @@
 ---
 title: Compact extra components contribute index zero
-status: draft
+status: published
 research_item: lem-author-86990d62062f-closed-component-index
 dependency_level: 2
 sources:

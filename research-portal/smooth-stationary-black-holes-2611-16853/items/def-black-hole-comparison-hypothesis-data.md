@@ -2,7 +2,7 @@
 id: def-black-hole-comparison-hypothesis-data
 title: Staticity, axisymmetry and black-hole regularity hypotheses
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Eventual access is uniform on the trimmed compact inside core
-status: draft
+status: published
 research_item: lem-author-9d607f469119-uniform-access-on-trimmed-core
 dependency_level: 0
 ---

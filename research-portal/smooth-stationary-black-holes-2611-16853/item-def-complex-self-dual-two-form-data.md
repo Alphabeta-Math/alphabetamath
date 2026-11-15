@@ -1,6 +1,6 @@
 ---
 title: Complex self-dual forms and metric-dependent contraction
-status: draft
+status: published
 research_item: def-complex-self-dual-two-form-data
 dependency_level: 0
 sources:

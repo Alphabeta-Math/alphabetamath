@@ -1,6 +1,6 @@
 ---
 title: Indexed compact heights and uniform smooth horizon collars
-status: draft
+status: published
 research_item: pthm-author-048251387164-indexed-height-and-horizon-estimates
 dependency_level: 17
 sources:

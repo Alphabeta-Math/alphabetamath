@@ -1,6 +1,6 @@
 ---
 title: Equal fixed-surface flow heights imply boundary tangency
-status: draft
+status: published
 research_item: lem-author-66066dbaeb16-fixed-surface-flow-graph-tangency
 dependency_level: 0
 ---

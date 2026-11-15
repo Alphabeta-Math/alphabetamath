@@ -2,7 +2,7 @@
 id: pthm-bifurcate-horizon-preservation
 title: Preservation of bifurcate horizons and surface gravity
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Komar flux equals the original stationary mass coefficient
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-stationary-end-komar-coefficient
 dependency_level: 5
 sources:

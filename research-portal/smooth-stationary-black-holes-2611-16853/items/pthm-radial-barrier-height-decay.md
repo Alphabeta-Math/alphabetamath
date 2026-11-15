@@ -2,7 +2,7 @@
 id: pthm-radial-barrier-height-decay
 title: Radial barrier, absorption and height decay
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

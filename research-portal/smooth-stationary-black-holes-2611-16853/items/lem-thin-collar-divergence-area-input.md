@@ -2,7 +2,7 @@
 id: lem-thin-collar-divergence-area-input
 title: Divergence comparison in a smooth compact boundary collar
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

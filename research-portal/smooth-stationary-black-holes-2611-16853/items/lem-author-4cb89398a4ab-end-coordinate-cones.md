@@ -2,7 +2,7 @@
 id: lem-author-4cb89398a4ab-end-coordinate-cones
 title: Coordinate cones and the separate stationary generator
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

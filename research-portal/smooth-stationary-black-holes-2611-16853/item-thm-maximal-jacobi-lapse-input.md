@@ -1,6 +1,6 @@
 ---
 title: Mean-curvature variation and the stationary lapse equation
-status: draft
+status: published
 research_item: thm-maximal-jacobi-lapse-input
 dependency_level: 1
 sources:

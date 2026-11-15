@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-asymptotic-null-energy-speed
 title: An asymptotically flat stationary end bounds null speed by Killing energy
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

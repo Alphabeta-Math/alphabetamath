@@ -1,6 +1,6 @@
 ---
 title: Conditional horizon recovery and Kerr implications
-status: draft
+status: published
 research_item: pthm-main-smooth-black-hole-uniqueness
 dependency_level: 40
 sources:

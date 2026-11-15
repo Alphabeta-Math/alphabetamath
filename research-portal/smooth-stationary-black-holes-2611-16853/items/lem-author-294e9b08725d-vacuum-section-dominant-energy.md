@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-vacuum-section-dominant-energy
 title: Vacuum exterior-section constraints imply the dominant energy condition
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

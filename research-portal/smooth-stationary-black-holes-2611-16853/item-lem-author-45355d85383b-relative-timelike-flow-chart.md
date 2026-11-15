@@ -1,7 +1,7 @@
 ---
 title: A timelike transverse field gives a fixed-boundary admissible graph
   neighborhood
-status: draft
+status: published
 research_item: lem-author-45355d85383b-relative-timelike-flow-chart
 dependency_level: 5
 ---

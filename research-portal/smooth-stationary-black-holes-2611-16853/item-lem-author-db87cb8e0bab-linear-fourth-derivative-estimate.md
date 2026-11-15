@@ -1,6 +1,6 @@
 ---
 title: Linear fourth derivative bound with controlled realized coefficients
-status: draft
+status: published
 research_item: lem-author-db87cb8e0bab-linear-fourth-derivative-estimate
 dependency_level: 0
 ---

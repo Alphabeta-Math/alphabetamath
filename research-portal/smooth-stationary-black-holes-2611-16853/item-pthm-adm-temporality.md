@@ -1,6 +1,6 @@
 ---
 title: ADM form and stable causality of positive-q metrics
-status: draft
+status: published
 research_item: pthm-adm-temporality
 dependency_level: 22
 sources:

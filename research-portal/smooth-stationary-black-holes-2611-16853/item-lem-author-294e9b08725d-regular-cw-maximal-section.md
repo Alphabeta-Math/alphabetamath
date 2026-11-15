@@ -1,6 +1,6 @@
 ---
 title: Maximal bifurcation-boundary section under the original regular hypotheses
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-regular-cw-maximal-section
 dependency_level: 16
 sources:

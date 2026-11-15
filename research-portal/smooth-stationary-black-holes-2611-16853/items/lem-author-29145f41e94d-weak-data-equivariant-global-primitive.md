@@ -2,7 +2,7 @@
 id: lem-author-29145f41e94d-weak-data-equivariant-global-primitive
 title: Equivariant global Harrison primitive under weak original data
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

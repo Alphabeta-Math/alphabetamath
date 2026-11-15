@@ -3,7 +3,7 @@ id: lem-author-12a8dba09036-conditional-piecewise-transfer-to-cylinder
 title: Piecewise timelike transfer yields arrival on the cylinder under far-tail
   access
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

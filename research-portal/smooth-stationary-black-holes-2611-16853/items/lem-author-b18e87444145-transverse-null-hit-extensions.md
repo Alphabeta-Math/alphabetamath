@@ -2,7 +2,7 @@
 id: lem-author-b18e87444145-transverse-null-hit-extensions
 title: The closed selected domain has smooth endpoint extensions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

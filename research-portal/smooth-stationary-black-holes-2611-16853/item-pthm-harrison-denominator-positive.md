@@ -1,6 +1,6 @@
 ---
 title: Positivity of the Harrison denominator and horizon bound
-status: draft
+status: published
 research_item: pthm-harrison-denominator-positive
 dependency_level: 7
 sources:

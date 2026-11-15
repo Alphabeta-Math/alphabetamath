@@ -2,7 +2,7 @@
 id: pthm-harrison-denominator-positive
 title: Positivity of the Harrison denominator and horizon bound
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

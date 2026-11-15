@@ -2,7 +2,7 @@
 id: def-stationary-section-time
 title: Stationary section time and translated maximal sections
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

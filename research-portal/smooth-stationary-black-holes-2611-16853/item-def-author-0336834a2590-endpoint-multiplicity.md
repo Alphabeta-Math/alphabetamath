@@ -1,6 +1,6 @@
 ---
 title: Counting multiplicity of an endpoint map
-status: draft
+status: published
 research_item: def-author-0336834a2590-endpoint-multiplicity
 dependency_level: 1
 sources:

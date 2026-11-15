@@ -2,7 +2,7 @@
 id: lem-author-0a41d659d5ab-asymptotic-timelike-gap
 title: The quantitative asymptotic end is uniformly timelike
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

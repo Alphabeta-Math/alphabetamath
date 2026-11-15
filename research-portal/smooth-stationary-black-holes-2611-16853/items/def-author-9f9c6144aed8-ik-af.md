@@ -2,7 +2,7 @@
 id: def-author-9f9c6144aed8-ik-af
 title: Exact asymptotic and orbit package for the IK criterion
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

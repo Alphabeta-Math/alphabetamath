@@ -2,7 +2,7 @@
 id: def-regular-stationary-vacuum-spacetime
 title: Regular non-degenerate stationary vacuum spacetime
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

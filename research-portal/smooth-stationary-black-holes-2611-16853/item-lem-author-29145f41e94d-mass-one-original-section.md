@@ -1,6 +1,6 @@
 ---
 title: Mass-one end coordinates on the unchanged maximal section
-status: draft
+status: published
 research_item: lem-author-29145f41e94d-mass-one-original-section
 dependency_level: 3
 sources:

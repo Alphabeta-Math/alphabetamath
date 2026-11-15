@@ -2,7 +2,7 @@
 id: lem-author-ce4974f559ec-fixed-sphere-endpoints
 title: The zero Harrison parameter follows from continuity on one fixed sphere
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Classical C4-alpha maximal graphs with fixed smooth boundary are smooth
-status: draft
+status: published
 research_item: lem-author-c9fb06089ef2-smooth-fixed-boundary-maximal-graphs
 dependency_level: 11
 ---

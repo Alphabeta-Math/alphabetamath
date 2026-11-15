@@ -1,6 +1,6 @@
 ---
 title: Boost dependence of expansion variation and the MOTS gauge
-status: draft
+status: published
 research_item: lem-author-c50357f4fa9e-mots-boost-variation
 dependency_level: 4
 ---

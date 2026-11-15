@@ -1,6 +1,6 @@
 ---
 title: Intersecting a chronological past boundary with a spacelike section
-status: draft
+status: published
 research_item: lem-author-9d607f469119-slice-intersection-of-past-boundary
 dependency_level: 0
 sources:

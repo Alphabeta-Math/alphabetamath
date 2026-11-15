@@ -1,6 +1,6 @@
 ---
 title: Invariant Ernst data and smooth K-invariant gauge
-status: draft
+status: published
 research_item: pthm-horizon-invariant-one-form
 dependency_level: 8
 sources:

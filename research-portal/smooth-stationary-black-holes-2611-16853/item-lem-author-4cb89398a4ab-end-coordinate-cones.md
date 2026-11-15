@@ -1,6 +1,6 @@
 ---
 title: Coordinate cones and the separate stationary generator
-status: draft
+status: published
 research_item: lem-author-4cb89398a4ab-end-coordinate-cones
 dependency_level: 3
 ---

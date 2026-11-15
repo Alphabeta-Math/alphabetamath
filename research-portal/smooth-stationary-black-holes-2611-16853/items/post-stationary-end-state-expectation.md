@@ -2,7 +2,7 @@
 id: post-stationary-end-state-expectation
 title: Physical expectation of late-time stationarity
 kind: postulate
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

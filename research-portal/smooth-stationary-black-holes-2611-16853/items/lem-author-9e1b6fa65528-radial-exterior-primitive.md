@@ -2,7 +2,7 @@
 id: lem-author-9e1b6fa65528-radial-exterior-primitive
 title: Radial primitive and five differentiated decay bounds
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

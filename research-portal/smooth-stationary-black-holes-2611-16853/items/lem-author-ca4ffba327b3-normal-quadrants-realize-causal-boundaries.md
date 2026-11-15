@@ -2,7 +2,7 @@
 id: lem-author-ca4ffba327b3-normal-quadrants-realize-causal-boundaries
 title: The normal future and past quadrants are the local causal sets of the sphere
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

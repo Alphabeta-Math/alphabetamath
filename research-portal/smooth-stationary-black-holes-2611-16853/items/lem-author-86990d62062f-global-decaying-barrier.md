@@ -2,7 +2,7 @@
 id: lem-author-86990d62062f-global-decaying-barrier
 title: A positive global supersolution with the exact exterior decay
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

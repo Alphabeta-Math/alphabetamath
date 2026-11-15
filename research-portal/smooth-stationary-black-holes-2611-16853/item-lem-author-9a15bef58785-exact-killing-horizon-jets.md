@@ -1,6 +1,6 @@
 ---
 title: An exact local Killing field is Killing to every order on a horizon
-status: draft
+status: published
 research_item: lem-author-9a15bef58785-exact-killing-horizon-jets
 dependency_level: 0
 ---

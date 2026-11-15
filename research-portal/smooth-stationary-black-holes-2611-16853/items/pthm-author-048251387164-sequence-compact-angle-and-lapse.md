@@ -2,7 +2,7 @@
 id: pthm-author-048251387164-sequence-compact-angle-and-lapse
 title: Compact estimates for arbitrary sequences of individually existing slices
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

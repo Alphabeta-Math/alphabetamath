@@ -2,7 +2,7 @@
 id: lem-rank-one-lorentzian-hodge-transfer
 title: Rank-one tangent changes, signature and Hodge transfer
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

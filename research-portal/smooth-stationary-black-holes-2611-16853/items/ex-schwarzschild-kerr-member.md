@@ -2,7 +2,7 @@
 id: ex-schwarzschild-kerr-member
 title: Schwarzschild as the zero-spin member of Kerr
 kind: example
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

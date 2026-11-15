@@ -2,7 +2,7 @@
 id: lem-author-fd2999663761-compact-weighted-maximum
 title: Compact weighted maximum and the actual boundary term
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

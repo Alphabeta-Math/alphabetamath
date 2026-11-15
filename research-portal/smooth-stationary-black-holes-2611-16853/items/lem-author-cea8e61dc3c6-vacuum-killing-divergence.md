@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-vacuum-killing-divergence
 title: Ricci contraction of the Killing derivative
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

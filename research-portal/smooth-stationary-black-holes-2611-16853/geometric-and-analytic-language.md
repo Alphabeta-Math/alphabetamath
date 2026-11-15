@@ -4,7 +4,7 @@ description: Define the common Lorentzian, causal, horizon, hypersurface and
   field conventions, together with weighted elliptic, graph, continuation and
   area data. These fifteen mathematical interfaces supply both later
   prerequisite pages without importing article-specific conclusions.
-status: draft
+status: published
 dependency_level: 0
 ---
 

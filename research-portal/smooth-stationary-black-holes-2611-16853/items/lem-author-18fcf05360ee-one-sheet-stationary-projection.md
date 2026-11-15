@@ -2,7 +2,7 @@
 id: lem-author-18fcf05360ee-one-sheet-stationary-projection
 title: A proper stationary projection with the correct end has one sheet
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

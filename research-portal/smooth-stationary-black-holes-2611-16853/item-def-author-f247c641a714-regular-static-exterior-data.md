@@ -1,6 +1,6 @@
 ---
 title: Complete regular static exterior data and its normalized end
-status: draft
+status: published
 research_item: def-author-f247c641a714-regular-static-exterior-data
 dependency_level: 1
 ---

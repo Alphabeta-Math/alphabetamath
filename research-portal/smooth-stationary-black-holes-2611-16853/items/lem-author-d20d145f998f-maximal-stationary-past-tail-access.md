@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-maximal-stationary-past-tail-access
 title: Past access to the far tail by exact time reversal
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

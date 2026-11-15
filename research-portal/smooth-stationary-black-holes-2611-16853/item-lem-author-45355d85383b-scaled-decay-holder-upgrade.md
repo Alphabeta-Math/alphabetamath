@@ -1,6 +1,6 @@
 ---
 title: One extra pointwise derivative supplies scaled Hölder control
-status: draft
+status: published
 research_item: lem-author-45355d85383b-scaled-decay-holder-upgrade
 dependency_level: 1
 ---

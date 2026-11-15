@@ -1,6 +1,6 @@
 ---
 title: Passing a local Harrison identity through compatible stationary jets
-status: draft
+status: published
 research_item: lem-author-c92bdd91a36e-compatible-jet-limit
 dependency_level: 5
 sources:

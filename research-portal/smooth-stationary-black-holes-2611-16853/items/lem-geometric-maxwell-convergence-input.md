@@ -2,7 +2,7 @@
 id: lem-geometric-maxwell-convergence-input
 title: Maxwell algebra supplies timelike and null convergence
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

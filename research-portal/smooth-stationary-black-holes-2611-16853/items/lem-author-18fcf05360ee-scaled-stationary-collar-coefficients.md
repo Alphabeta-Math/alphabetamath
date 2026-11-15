@@ -2,7 +2,7 @@
 id: lem-author-18fcf05360ee-scaled-stationary-collar-coefficients
 title: Stationary coefficients in a transverse collar retain the tangential motion
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

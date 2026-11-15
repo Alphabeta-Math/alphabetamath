@@ -2,7 +2,7 @@
 id: lem-author-84ac8de0c2f0-zero-parameter-cylinder-area
 title: The zero-parameter spatial cylinder and its limiting area
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

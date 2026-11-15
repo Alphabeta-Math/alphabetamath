@@ -1,6 +1,6 @@
 ---
 title: Imported positive eigenpairs for a smooth closed elliptic operator
-status: draft
+status: published
 research_item: thm-author-1a44964f66ee-closed-principal-pair-external
 dependency_level: 1
 sources:

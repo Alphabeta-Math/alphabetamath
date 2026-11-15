@@ -2,7 +2,7 @@
 id: lem-author-12a8dba09036-compact-eventual-access-from-pointwise-entry
 title: Pointwise eventual chronological entry is uniform on compact subsets
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

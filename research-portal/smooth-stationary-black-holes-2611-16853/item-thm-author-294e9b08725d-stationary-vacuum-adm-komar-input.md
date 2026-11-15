@@ -1,6 +1,6 @@
 ---
 title: External ADM–Komar equality on ordinary stationary vacuum ends
-status: draft
+status: published
 research_item: thm-author-294e9b08725d-stationary-vacuum-adm-komar-input
 dependency_level: 2
 sources:

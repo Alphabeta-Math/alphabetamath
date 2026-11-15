@@ -2,7 +2,7 @@
 id: pthm-harrison-component-asymptotics
 title: Uniform transformed component estimates
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

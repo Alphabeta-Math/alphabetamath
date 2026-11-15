@@ -2,7 +2,7 @@
 id: def-author-abbd1939ec07-reconstructed-harmonic-map-data
 title: Harmonic-map and Weyl reconstruction comparison data
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

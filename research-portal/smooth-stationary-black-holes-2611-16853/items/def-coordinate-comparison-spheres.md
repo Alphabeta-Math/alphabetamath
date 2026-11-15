@@ -2,7 +2,7 @@
 id: def-coordinate-comparison-spheres
 title: Comparison spheres and their stationary cylinders
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

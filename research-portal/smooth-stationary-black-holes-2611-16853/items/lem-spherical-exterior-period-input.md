@@ -2,7 +2,7 @@
 id: lem-spherical-exterior-period-input
 title: Periods and primitives on a spherical exterior
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

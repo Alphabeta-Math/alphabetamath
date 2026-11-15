@@ -1,6 +1,6 @@
 ---
 title: Metric transport along a null generator
-status: draft
+status: published
 research_item: lem-author-254b7c4bab6d-null-metric-transport
 dependency_level: 3
 ---

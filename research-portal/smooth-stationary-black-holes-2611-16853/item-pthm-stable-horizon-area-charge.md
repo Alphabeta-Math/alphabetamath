@@ -1,6 +1,6 @@
 ---
 title: Stable-horizon flux-energy and area-charge inequalities
-status: draft
+status: published
 research_item: pthm-stable-horizon-area-charge
 dependency_level: 27
 sources:

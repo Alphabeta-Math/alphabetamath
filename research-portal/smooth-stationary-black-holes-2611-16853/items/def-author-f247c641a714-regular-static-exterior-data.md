@@ -2,7 +2,7 @@
 id: def-author-f247c641a714-regular-static-exterior-data
 title: Complete regular static exterior data and its normalized end
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-cf389990237c-horizon-killing-binormal-contraction
 title: Killing-horizon derivative contracted with the binormal
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

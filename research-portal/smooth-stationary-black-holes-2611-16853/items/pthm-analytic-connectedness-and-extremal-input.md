@@ -2,7 +2,7 @@
 id: pthm-analytic-connectedness-and-extremal-input
 title: Analytic extremal and multiple-horizon comparison contracts
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

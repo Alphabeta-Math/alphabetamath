@@ -2,7 +2,7 @@
 id: lem-author-423fe0348a31-band-energy-transfer
 title: Transferring area-controlled band energy through smooth approximation
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

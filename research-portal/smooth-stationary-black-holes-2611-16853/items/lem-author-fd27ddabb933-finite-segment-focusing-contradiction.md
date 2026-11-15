@@ -3,7 +3,7 @@ id: lem-author-fd27ddabb933-finite-segment-focusing-contradiction
 title: A sufficiently long focal-free boundary segment contradicts negative
   outgoing expansion
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

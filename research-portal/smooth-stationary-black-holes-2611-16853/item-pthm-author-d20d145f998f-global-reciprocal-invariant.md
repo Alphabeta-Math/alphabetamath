@@ -1,6 +1,6 @@
 ---
 title: The IK continuation also fixes one global reciprocal invariant
-status: draft
+status: published
 research_item: pthm-author-d20d145f998f-global-reciprocal-invariant
 dependency_level: 5
 sources:

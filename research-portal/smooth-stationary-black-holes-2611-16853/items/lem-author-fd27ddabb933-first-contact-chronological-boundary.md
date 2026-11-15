@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-first-contact-chronological-boundary
 title: First contact lies on the chronological and causal future boundary
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

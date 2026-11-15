@@ -1,6 +1,6 @@
 ---
 title: Algebraic reconstruction from orbit and horizontal metric data
-status: draft
+status: published
 research_item: lem-author-64ac0bd1fcc4-orbit-metric-reconstruction
 dependency_level: 9
 ---

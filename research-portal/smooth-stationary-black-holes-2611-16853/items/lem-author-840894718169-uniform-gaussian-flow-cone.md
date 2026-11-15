@@ -2,7 +2,7 @@
 id: lem-author-840894718169-uniform-gaussian-flow-cone
 title: Bounded boost times give a uniform Gaussian collar cone
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

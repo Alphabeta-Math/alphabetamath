@@ -2,7 +2,7 @@
 id: def-stationary-asymptotic-decay-data
 title: Differentiated asymptotic bounds and parameter uniformity
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

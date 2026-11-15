@@ -1,6 +1,6 @@
 ---
 title: "Theorem 4.2: charged horizon area lower bound"
-status: draft
+status: published
 research_item: pthm-bifurcation-area-lower-bound
 dependency_level: 28
 sources:

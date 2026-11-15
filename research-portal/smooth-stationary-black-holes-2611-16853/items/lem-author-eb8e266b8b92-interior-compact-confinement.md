@@ -2,7 +2,7 @@
 id: lem-author-eb8e266b8b92-interior-compact-confinement
 title: Combining the collar and end barriers into interior compact confinement
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

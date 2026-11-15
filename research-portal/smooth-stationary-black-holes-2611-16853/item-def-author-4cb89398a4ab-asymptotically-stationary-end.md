@@ -1,6 +1,6 @@
 ---
 title: Exact asymptotically stationary end contract
-status: draft
+status: published
 research_item: def-author-4cb89398a4ab-asymptotically-stationary-end
 dependency_level: 2
 sources:

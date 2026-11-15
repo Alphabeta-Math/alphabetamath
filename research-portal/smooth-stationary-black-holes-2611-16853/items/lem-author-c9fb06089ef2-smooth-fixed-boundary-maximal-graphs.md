@@ -2,7 +2,7 @@
 id: lem-author-c9fb06089ef2-smooth-fixed-boundary-maximal-graphs
 title: Classical C4-alpha maximal graphs with fixed smooth boundary are smooth
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

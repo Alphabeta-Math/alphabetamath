@@ -2,7 +2,7 @@
 id: pthm-compact-timelike-length-bound
 title: Compact-tube timelike length bound
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

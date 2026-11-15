@@ -1,6 +1,6 @@
 ---
 title: Extending normalized end coordinates while preserving the section
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-cutoff-end-coordinate-extension
 dependency_level: 2
 ---

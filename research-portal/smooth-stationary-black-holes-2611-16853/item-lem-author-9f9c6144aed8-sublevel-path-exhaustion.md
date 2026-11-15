@@ -1,6 +1,6 @@
 ---
 title: Pathwise exhaustion by anchored Ernst sublevels
-status: draft
+status: published
 research_item: lem-author-9f9c6144aed8-sublevel-path-exhaustion
 dependency_level: 2
 ---

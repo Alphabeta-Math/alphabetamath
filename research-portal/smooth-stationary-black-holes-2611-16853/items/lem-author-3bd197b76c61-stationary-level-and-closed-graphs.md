@@ -3,7 +3,7 @@ id: lem-author-3bd197b76c61-stationary-level-and-closed-graphs
 title: Positive-lapse stationary graphs give temporal level functions and closed
   restrictions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Uniform end estimates indexed only by existing admissible slices
-status: draft
+status: published
 research_item: pthm-author-048251387164-indexed-admissible-end-estimates
 dependency_level: 12
 sources:

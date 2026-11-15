@@ -1,6 +1,6 @@
 ---
 title: Induced metric and graph normal inherit the required weighted regularity
-status: draft
+status: published
 research_item: lem-author-45355d85383b-induced-metric-and-normal-decay
 dependency_level: 4
 ---

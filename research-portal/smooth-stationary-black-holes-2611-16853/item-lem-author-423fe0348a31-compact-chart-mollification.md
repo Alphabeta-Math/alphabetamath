@@ -1,6 +1,6 @@
 ---
 title: Compactly supported chart mollification in uniform and first Sobolev norms
-status: draft
+status: published
 research_item: lem-author-423fe0348a31-compact-chart-mollification
 dependency_level: 0
 ---

@@ -2,7 +2,7 @@
 id: pthm-axisymmetric-vacuum-uniqueness-input
 title: Connected smooth axisymmetric vacuum Kerr classification
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

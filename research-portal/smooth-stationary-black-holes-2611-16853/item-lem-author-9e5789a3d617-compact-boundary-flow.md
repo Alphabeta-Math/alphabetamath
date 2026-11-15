@@ -1,6 +1,6 @@
 ---
 title: A complete stationary flow preserves its compact tangent boundary
-status: draft
+status: published
 research_item: lem-author-9e5789a3d617-compact-boundary-flow
 dependency_level: 1
 ---

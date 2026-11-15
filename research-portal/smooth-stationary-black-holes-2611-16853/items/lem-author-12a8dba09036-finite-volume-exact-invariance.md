@@ -2,7 +2,7 @@
 id: lem-author-12a8dba09036-finite-volume-exact-invariance
 title: Finite volume and interior density force exact flow invariance
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-594d78e425ed-uniform-translated-cut-localization
 title: Uniform localization of translated past-boundary cuts
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

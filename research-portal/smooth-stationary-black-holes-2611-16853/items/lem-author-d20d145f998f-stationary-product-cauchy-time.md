@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-stationary-product-cauchy-time
 title: Stationary product time is a Cauchy temporal coordinate
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

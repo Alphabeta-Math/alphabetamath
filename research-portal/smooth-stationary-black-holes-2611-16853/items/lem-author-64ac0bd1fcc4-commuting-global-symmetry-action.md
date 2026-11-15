@@ -2,7 +2,7 @@
 id: lem-author-64ac0bd1fcc4-commuting-global-symmetry-action
 title: Commuting complete flows give the global product action
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

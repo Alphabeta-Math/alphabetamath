@@ -1,6 +1,6 @@
 ---
 title: Affine generator profiles give constant signed acceleration
-status: draft
+status: published
 research_item: lem-author-9a15bef58785-affine-generator-acceleration
 dependency_level: 2
 ---

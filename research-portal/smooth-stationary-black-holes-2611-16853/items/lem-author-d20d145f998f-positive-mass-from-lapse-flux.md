@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-positive-mass-from-lapse-flux
 title: Strict mass positivity from the stationary lapse flux
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

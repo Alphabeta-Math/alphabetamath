@@ -1,6 +1,6 @@
 ---
 title: "Corollary 4.1: area and pointwise limiting flux rigidity"
-status: draft
+status: published
 research_item: pthm-limiting-flux-rigidity
 dependency_level: 34
 sources:

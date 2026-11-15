@@ -1,6 +1,6 @@
 ---
 title: Relative homotopy primitive on a normal bundle
-status: draft
+status: published
 research_item: lem-author-9e1b6fa65528-relative-normal-homotopy
 dependency_level: 0
 ---

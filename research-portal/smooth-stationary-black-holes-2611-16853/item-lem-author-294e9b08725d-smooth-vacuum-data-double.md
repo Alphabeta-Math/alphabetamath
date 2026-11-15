@@ -1,6 +1,6 @@
 ---
 title: Smooth vacuum constraint data obtained by reflection of a canonical end section
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-smooth-vacuum-data-double
 dependency_level: 3
 sources:

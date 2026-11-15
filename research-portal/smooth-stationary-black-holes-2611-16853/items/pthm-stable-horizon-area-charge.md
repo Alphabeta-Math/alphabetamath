@@ -2,7 +2,7 @@
 id: pthm-stable-horizon-area-charge
 title: Stable-horizon flux-energy and area-charge inequalities
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

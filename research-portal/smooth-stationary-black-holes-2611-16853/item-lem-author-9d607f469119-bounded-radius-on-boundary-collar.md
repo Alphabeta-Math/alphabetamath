@@ -1,6 +1,6 @@
 ---
 title: The radius of a graph section is bounded on a compact boundary collar
-status: draft
+status: published
 research_item: lem-author-9d607f469119-bounded-radius-on-boundary-collar
 dependency_level: 0
 ---

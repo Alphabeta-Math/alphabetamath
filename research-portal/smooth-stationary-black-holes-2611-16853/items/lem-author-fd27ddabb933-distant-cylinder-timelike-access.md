@@ -3,7 +3,7 @@ id: lem-author-fd27ddabb933-distant-cylinder-timelike-access
 title: Timelike transfer supplies access to every sufficiently distant
   stationary cylinder
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

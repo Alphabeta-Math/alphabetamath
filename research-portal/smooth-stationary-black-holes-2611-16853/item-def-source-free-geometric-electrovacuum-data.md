@@ -1,6 +1,6 @@
 ---
 title: Geometric electrovacuum equations and charge convention
-status: draft
+status: published
 research_item: def-source-free-geometric-electrovacuum-data
 dependency_level: 0
 ---

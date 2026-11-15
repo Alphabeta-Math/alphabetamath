@@ -1,6 +1,6 @@
 ---
 title: Lipschitz height functions, cut measure and Jacobians
-status: draft
+status: published
 research_item: def-lipschitz-cut-area-data
 dependency_level: 3
 ---

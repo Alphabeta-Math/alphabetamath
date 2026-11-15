@@ -1,6 +1,6 @@
 ---
 title: General stationary vacuum black-hole uniqueness conjecture
-status: draft
+status: published
 research_item: op-black-hole-uniqueness-conjecture
 dependency_level: 6
 sources:

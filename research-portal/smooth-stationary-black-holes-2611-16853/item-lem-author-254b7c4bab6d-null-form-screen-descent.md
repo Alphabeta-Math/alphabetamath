@@ -1,6 +1,6 @@
 ---
 title: Null second fundamental form descends to the screen quotient
-status: draft
+status: published
 research_item: lem-author-254b7c4bab6d-null-form-screen-descent
 dependency_level: 2
 ---

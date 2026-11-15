@@ -1,6 +1,6 @@
 ---
 title: The coefficient-one horizon generator inherits the positive lapse derivative
-status: draft
+status: published
 research_item: lem-author-ca4ffba327b3-normalized-boost-from-positive-lapse
 dependency_level: 3
 ---

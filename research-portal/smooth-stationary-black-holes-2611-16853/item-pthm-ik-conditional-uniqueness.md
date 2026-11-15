@@ -1,6 +1,6 @@
 ---
 title: Local Kerr rigidity and conditional global identification
-status: draft
+status: published
 research_item: pthm-ik-conditional-uniqueness
 dependency_level: 7
 sources:

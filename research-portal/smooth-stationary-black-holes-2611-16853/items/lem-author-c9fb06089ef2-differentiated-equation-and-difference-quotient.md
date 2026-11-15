@@ -2,7 +2,7 @@
 id: lem-author-c9fb06089ef2-differentiated-equation-and-difference-quotient
 title: Tangential differentiated equations admit classical difference quotients
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

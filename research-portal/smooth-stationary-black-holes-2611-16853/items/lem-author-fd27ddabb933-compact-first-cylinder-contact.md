@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-compact-first-cylinder-contact
 title: Compactness gives an earliest translated-cylinder causal contact
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

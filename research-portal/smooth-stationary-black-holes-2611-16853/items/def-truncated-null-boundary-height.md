@@ -2,7 +2,7 @@
 id: def-truncated-null-boundary-height
 title: Truncated causal-boundary height for smooth approximation
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

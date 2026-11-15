@@ -1,6 +1,6 @@
 ---
 title: Sufficiently far stationary end points can be routed to a chosen cylinder
-status: draft
+status: published
 research_item: lem-author-12a8dba09036-far-end-slow-timelike-routing
 dependency_level: 1
 ---

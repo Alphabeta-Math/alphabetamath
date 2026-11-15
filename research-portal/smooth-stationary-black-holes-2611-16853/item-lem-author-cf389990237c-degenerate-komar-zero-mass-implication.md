@@ -1,6 +1,6 @@
 ---
 title: Degeneracy forces zero mass when global Komar transport applies
-status: draft
+status: published
 research_item: lem-author-cf389990237c-degenerate-komar-zero-mass-implication
 dependency_level: 5
 ---

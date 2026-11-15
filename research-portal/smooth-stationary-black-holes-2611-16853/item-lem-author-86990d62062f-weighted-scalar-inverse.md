@@ -1,6 +1,6 @@
 ---
 title: Scalar exterior inverse from exhaustion and uniform annular estimates
-status: draft
+status: published
 research_item: lem-author-86990d62062f-weighted-scalar-inverse
 dependency_level: 3
 ---

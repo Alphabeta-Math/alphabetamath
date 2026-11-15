@@ -1,6 +1,6 @@
 ---
 title: Closedness and smooth limiting maximal sections
-status: draft
+status: published
 research_item: pthm-maximal-continuation-closedness
 dependency_level: 22
 sources:

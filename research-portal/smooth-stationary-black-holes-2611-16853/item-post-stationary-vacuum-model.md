@@ -1,6 +1,6 @@
 ---
 title: Stationary vacuum model and asymptotic normalization
-status: draft
+status: published
 research_item: post-stationary-vacuum-model
 dependency_level: 1
 sources:

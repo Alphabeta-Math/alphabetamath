@@ -1,6 +1,6 @@
 ---
 title: Smooth transverse horizon branches are the null axes of the normal tube
-status: draft
+status: published
 research_item: lem-author-ca4ffba327b3-horizon-axes-and-exterior-quadrant
 dependency_level: 2
 ---

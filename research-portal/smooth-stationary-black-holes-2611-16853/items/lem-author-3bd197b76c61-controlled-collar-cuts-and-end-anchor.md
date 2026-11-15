@@ -2,7 +2,7 @@
 id: lem-author-3bd197b76c61-controlled-collar-cuts-and-end-anchor
 title: Controlled horizon cuts, compact restrictions and a uniform end anchor
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

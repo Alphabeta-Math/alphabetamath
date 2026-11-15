@@ -2,7 +2,7 @@
 id: def-author-310ff0f53b38-asymptotically-flat-spacelike-end
 title: Asymptotically flat spacelike end and derivative decay
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

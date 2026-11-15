@@ -3,7 +3,7 @@ id: lem-author-45355d85383b-second-form-and-jacobi-potential
 title: The graph second form and electrovacuum Jacobi potential have weighted
   order four
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

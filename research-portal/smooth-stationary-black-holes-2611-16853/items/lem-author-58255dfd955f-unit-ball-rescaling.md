@@ -3,7 +3,7 @@ id: lem-author-58255dfd955f-unit-ball-rescaling
 title: Rescaling a geometric Schrödinger equation without treating its potential
   as forcing
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

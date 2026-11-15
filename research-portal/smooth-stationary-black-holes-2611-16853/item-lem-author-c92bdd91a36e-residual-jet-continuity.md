@@ -1,6 +1,6 @@
 ---
 title: Harrison equation residuals are continuous functions of stationary two-jets
-status: draft
+status: published
 research_item: lem-author-c92bdd91a36e-residual-jet-continuity
 dependency_level: 4
 sources:

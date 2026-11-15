@@ -1,6 +1,6 @@
 ---
 title: "Lemma 4.3: localization of the causal cut near S"
-status: draft
+status: published
 research_item: pthm-past-boundary-localization
 dependency_level: 26
 sources:

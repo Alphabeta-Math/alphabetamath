@@ -1,6 +1,6 @@
 ---
 title: Finite Harnack chains on fixed compact connected interior sets
-status: draft
+status: published
 research_item: lem-author-58255dfd955f-compact-harnack-chain
 dependency_level: 2
 ---

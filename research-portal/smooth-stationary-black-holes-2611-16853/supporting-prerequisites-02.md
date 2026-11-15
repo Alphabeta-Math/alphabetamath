@@ -2,7 +2,7 @@
 title: Supporting prerequisites · 02 — Local compactness of full weighted Hölder
   inputs
 description: Presents 21 supporting prerequisites, covering dependency levels 2–5.
-status: draft
+status: published
 dependency_level: 5
 item_count: 21
 ---

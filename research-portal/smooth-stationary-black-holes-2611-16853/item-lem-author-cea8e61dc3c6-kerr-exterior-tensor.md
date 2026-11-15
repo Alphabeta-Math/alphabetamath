@@ -1,6 +1,6 @@
 ---
 title: Kerr exterior tensor including the extremal parameter range
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-kerr-exterior-tensor
 dependency_level: 1
 sources:

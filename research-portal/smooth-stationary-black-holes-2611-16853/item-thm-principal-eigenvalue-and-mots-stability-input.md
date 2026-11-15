@@ -1,6 +1,6 @@
 ---
 title: Principal eigenfunctions and MOTS spectral stability
-status: draft
+status: published
 research_item: thm-principal-eigenvalue-and-mots-stability-input
 dependency_level: 7
 sources:

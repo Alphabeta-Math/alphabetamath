@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-ernst-curvature-package
 title: Ernst and self-dual curvature data in the AIK convention
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

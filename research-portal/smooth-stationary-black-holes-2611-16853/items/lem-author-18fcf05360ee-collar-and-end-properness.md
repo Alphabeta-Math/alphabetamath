@@ -2,7 +2,7 @@
 id: lem-author-18fcf05360ee-collar-and-end-properness
 title: Collar comparison and an exact end projection imply properness
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

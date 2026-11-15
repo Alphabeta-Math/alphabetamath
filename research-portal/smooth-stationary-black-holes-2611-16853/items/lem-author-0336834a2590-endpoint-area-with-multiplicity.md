@@ -2,7 +2,7 @@
 id: lem-author-0336834a2590-endpoint-area-with-multiplicity
 title: Area formula and endpoint bound with multiplicity
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

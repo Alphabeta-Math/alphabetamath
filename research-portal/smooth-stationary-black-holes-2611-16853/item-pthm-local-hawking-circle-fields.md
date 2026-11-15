@@ -1,6 +1,6 @@
 ---
 title: Local Hawking and axial fields, boost and pole
-status: draft
+status: published
 research_item: pthm-local-hawking-circle-fields
 dependency_level: 7
 sources:

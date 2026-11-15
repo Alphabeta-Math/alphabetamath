@@ -1,6 +1,6 @@
 ---
 title: Differential exclusion of a large interior weighted angle maximum
-status: draft
+status: published
 research_item: lem-author-fd2999663761-cutoff-interior-maximum-exclusion
 dependency_level: 4
 ---

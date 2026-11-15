@@ -2,7 +2,7 @@
 id: lem-author-9a15bef58785-affine-generator-zero-locus
 title: Affine null-generator profiles vanish exactly on the bifurcation section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

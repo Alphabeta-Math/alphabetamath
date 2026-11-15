@@ -1,7 +1,7 @@
 ---
 title: A sufficiently long focal-free boundary segment contradicts negative
   outgoing expansion
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-finite-segment-focusing-contradiction
 dependency_level: 8
 ---

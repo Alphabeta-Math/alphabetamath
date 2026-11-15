@@ -1,6 +1,6 @@
 ---
 title: Exact mixed-rod boundary class for the balance theorem
-status: draft
+status: published
 research_item: def-author-abbd1939ec07-mixed-rod-asymptotic-class
 dependency_level: 7
 sources:

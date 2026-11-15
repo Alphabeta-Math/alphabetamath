@@ -1,7 +1,7 @@
 ---
 title: Positive-lapse stationary graphs give temporal level functions and closed
   restrictions
-status: draft
+status: published
 research_item: lem-author-3bd197b76c61-stationary-level-and-closed-graphs
 dependency_level: 4
 ---

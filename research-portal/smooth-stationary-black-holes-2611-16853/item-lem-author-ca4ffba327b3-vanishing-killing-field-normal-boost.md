@@ -1,6 +1,6 @@
 ---
 title: A Killing field vanishing on a spacelike surface has a normal boost derivative
-status: draft
+status: published
 research_item: lem-author-ca4ffba327b3-vanishing-killing-field-normal-boost
 dependency_level: 1
 ---

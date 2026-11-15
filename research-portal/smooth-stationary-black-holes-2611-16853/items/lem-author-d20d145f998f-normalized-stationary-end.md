@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-normalized-stationary-end
 title: Stationary end normalization from quotient compactification
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

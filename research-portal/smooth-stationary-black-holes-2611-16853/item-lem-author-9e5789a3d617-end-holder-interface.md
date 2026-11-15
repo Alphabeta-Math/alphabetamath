@@ -1,6 +1,6 @@
 ---
 title: Differentiated stationary end bounds imply the weighted Hölder interface
-status: draft
+status: published
 research_item: lem-author-9e5789a3d617-end-holder-interface
 dependency_level: 1
 ---

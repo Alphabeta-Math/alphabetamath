@@ -2,7 +2,7 @@
 id: lem-author-78c700cb9e03-stationary-saturation-complete-hawking-flow
 title: The stationary product extends the local boost and circle to a complete collar
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

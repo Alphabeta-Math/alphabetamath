@@ -1,6 +1,6 @@
 ---
 title: "Research workflow: The uniqueness of smooth stationary black holes"
-status: draft
+status: published
 ---
 
 547 draft items on 4 pages.

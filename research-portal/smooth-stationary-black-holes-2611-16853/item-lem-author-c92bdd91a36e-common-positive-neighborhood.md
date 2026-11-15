@@ -1,6 +1,6 @@
 ---
 title: A common positive Harrison domain across the compact sphere
-status: draft
+status: published
 research_item: lem-author-c92bdd91a36e-common-positive-neighborhood
 dependency_level: 3
 sources:

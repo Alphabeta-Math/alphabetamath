@@ -1,6 +1,6 @@
 ---
 title: The normal binormal is invariant under oriented boosts
-status: draft
+status: published
 research_item: lem-author-cf389990237c-normal-binormal-boost-invariance
 dependency_level: 2
 ---

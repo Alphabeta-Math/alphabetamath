@@ -2,7 +2,7 @@
 id: lem-author-1a44964f66ee-positive-adjoint-pairing
 title: Positive right and adjoint eigenfunctions have the same eigenvalue
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

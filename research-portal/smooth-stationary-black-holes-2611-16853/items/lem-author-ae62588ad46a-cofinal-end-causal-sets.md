@@ -2,7 +2,7 @@
 id: lem-author-ae62588ad46a-cofinal-end-causal-sets
 title: Cofinal stationary end representatives have the same causal exterior
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

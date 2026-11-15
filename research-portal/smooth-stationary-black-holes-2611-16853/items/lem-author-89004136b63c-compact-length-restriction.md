@@ -2,7 +2,7 @@
 id: lem-author-89004136b63c-compact-length-restriction
 title: Compact timelike-length bounds restrict to open subdomains
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

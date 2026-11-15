@@ -2,7 +2,7 @@
 id: thm-author-294e9b08725d-vacuum-double-development-input
 title: External vacuum KID development and complete stationary flow
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

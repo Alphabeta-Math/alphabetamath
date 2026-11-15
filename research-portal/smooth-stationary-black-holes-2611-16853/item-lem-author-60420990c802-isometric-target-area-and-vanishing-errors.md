@@ -1,6 +1,6 @@
 ---
 title: Isometric target areas remain fixed while collar errors vanish
-status: draft
+status: published
 research_item: lem-author-60420990c802-isometric-target-area-and-vanishing-errors
 dependency_level: 0
 ---

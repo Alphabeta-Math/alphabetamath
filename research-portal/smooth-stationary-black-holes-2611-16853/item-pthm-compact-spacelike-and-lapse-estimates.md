@@ -1,6 +1,6 @@
 ---
 title: Uniform compact graph and positive-lapse estimates
-status: draft
+status: published
 research_item: pthm-compact-spacelike-and-lapse-estimates
 dependency_level: 21
 sources:

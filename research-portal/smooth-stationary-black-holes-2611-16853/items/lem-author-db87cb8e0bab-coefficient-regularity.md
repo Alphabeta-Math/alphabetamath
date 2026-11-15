@@ -2,7 +2,7 @@
 id: lem-author-db87cb8e0bab-coefficient-regularity
 title: Uniform coefficient regularity before the final graph estimate
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

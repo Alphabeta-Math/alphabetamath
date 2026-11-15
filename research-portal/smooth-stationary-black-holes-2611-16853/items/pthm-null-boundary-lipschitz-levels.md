@@ -2,7 +2,7 @@
 id: pthm-null-boundary-lipschitz-levels
 title: Lipschitz causal height and level-set Jacobian bound
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

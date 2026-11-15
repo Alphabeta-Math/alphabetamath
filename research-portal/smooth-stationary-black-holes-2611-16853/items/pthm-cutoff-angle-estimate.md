@@ -2,7 +2,7 @@
 id: pthm-cutoff-angle-estimate
 title: Cutoff maximum principle and uniform collar regularity
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

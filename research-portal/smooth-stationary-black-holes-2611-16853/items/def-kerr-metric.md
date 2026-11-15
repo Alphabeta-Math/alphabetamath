@@ -2,7 +2,7 @@
 id: def-kerr-metric
 title: Kerr metric, parameters, exterior and extremality
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

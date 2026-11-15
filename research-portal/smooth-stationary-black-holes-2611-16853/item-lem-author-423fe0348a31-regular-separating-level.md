@@ -1,6 +1,6 @@
 ---
 title: Choosing a smooth separating regular level from an average bound
-status: draft
+status: published
 research_item: lem-author-423fe0348a31-regular-separating-level
 dependency_level: 7
 sources:

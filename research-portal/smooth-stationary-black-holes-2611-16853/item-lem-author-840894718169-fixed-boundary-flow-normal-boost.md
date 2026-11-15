@@ -1,6 +1,6 @@
 ---
 title: A variable-time flow through a fixed boundary has the boosted unit normal
-status: draft
+status: published
 research_item: lem-author-840894718169-fixed-boundary-flow-normal-boost
 dependency_level: 2
 ---

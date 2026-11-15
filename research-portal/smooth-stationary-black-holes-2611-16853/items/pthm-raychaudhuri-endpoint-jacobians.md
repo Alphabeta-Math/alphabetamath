@@ -2,7 +2,7 @@
 id: pthm-raychaudhuri-endpoint-jacobians
 title: Raychaudhuri expansion and generator Jacobians
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

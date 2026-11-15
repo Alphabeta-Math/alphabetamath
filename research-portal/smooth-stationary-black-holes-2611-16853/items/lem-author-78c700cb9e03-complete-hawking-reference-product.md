@@ -2,7 +2,7 @@
 id: lem-author-78c700cb9e03-complete-hawking-reference-product
 title: A complete timelike collar flow is a reference product
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

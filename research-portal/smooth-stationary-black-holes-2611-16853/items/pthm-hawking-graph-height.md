@@ -2,7 +2,7 @@
 id: pthm-hawking-graph-height
 title: Existence and boost-coordinate description of Hawking-flow heights
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

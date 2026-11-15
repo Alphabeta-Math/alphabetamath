@@ -1,6 +1,6 @@
 ---
 title: A decaying stationary time gauge gives bounded section displacement
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-decaying-time-gauge
 dependency_level: 0
 ---

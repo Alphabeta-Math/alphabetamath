@@ -1,7 +1,7 @@
 ---
 title: Piecewise timelike transfer yields arrival on the cylinder under far-tail
   access
-status: draft
+status: published
 research_item: lem-author-12a8dba09036-conditional-piecewise-transfer-to-cylinder
 dependency_level: 3
 ---

@@ -2,7 +2,7 @@
 id: lem-author-9d607f469119-bounded-radius-on-boundary-collar
 title: The radius of a graph section is bounded on a compact boundary collar
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

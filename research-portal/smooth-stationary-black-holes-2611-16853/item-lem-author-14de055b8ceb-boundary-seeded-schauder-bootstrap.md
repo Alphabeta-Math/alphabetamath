@@ -1,6 +1,6 @@
 ---
 title: Uniform boundary Schauder bootstrap after a C1-Holder seed
-status: draft
+status: published
 research_item: lem-author-14de055b8ceb-boundary-seeded-schauder-bootstrap
 dependency_level: 3
 sources:

@@ -2,7 +2,7 @@
 id: lem-author-ca4ffba327b3-regular-event-pair-supplies-aik-data
 title: Regular stationary event branches supply the local AIK horizon pair
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

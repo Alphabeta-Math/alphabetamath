@@ -2,7 +2,7 @@
 id: thm-compact-temporal-function-input
 title: Compact timelike-length bounds and local temporal functions
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

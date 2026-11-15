@@ -2,7 +2,7 @@
 id: lem-author-f247c641a714-static-boundary-and-positive-mass
 title: Regular static boundary geometry and positivity of the end coefficient
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

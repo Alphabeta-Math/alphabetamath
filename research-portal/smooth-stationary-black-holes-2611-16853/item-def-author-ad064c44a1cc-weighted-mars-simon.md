@@ -1,6 +1,6 @@
 ---
 title: Mars–Simon tensor and its smooth weighted extension
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-weighted-mars-simon
 dependency_level: 4
 sources:

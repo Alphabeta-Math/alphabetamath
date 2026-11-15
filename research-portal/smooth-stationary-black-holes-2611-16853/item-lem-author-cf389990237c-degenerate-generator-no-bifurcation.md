@@ -1,6 +1,6 @@
 ---
 title: A nonzero degenerate generator cannot vanish at a regular bifurcation section
-status: draft
+status: published
 research_item: lem-author-cf389990237c-degenerate-generator-no-bifurcation
 dependency_level: 1
 ---

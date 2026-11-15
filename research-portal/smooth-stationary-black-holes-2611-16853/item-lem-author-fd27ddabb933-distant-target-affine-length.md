@@ -1,6 +1,6 @@
 ---
 title: Distant targets force arbitrarily long source-normalized affine segments
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-distant-target-affine-length
 dependency_level: 8
 ---

@@ -1,6 +1,6 @@
 ---
 title: Measurable domains on smooth initial surfaces
-status: draft
+status: published
 research_item: def-author-0336834a2590-measurable-surface-domains
 dependency_level: 0
 ---

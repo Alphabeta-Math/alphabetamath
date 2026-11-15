@@ -2,7 +2,7 @@
 id: lem-author-9e5789a3d617-maximal-isometry-covariance
 title: Isometries preserve maximality and transported boundary
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

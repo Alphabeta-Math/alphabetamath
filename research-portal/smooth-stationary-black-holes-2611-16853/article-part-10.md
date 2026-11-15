@@ -2,7 +2,7 @@
 title: Article items · 10 — Regular non-degenerate stationary vacuum spacetime
 description: Presents 28 items from the article and its immediate prerequisites,
   covering dependency level 2.
-status: draft
+status: published
 dependency_level: 4
 research_article_page: true
 item_count: 28

@@ -3,7 +3,7 @@ id: lem-author-a4a441da4986-zero-stationary-boundary-data
 title: Zero stationary field gives the local bifurcate Killing-horizon and
   boundary data
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

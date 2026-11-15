@@ -2,7 +2,7 @@
 id: lem-author-89004136b63c-compact-temporal-persistence
 title: A compact temporal covector persists under metric perturbation
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

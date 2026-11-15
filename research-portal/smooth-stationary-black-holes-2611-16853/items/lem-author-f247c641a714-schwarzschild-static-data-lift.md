@@ -2,7 +2,7 @@
 id: lem-author-f247c641a714-schwarzschild-static-data-lift
 title: From a Schwarzschild spatial isometry to the normalized spacetime exterior
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

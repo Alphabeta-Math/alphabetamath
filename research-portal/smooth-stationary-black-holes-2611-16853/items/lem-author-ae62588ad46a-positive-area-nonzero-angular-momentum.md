@@ -2,7 +2,7 @@
 id: lem-author-ae62588ad46a-positive-area-nonzero-angular-momentum
 title: Positive smooth horizon area and the exact degenerate angular-momentum test
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

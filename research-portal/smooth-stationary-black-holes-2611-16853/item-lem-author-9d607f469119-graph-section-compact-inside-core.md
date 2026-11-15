@@ -1,6 +1,6 @@
 ---
 title: A smooth graph section with a genuine end has a compact inside core
-status: draft
+status: published
 research_item: lem-author-9d607f469119-graph-section-compact-inside-core
 dependency_level: 1
 ---

@@ -1,6 +1,6 @@
 ---
 title: Stationary maximal hypersurface existence with a horizon boundary
-status: draft
+status: published
 research_item: thm-stationary-maximal-slice-existence-input
 dependency_level: 3
 sources:

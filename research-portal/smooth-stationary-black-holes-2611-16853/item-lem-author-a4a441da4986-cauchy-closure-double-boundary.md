@@ -1,6 +1,6 @@
 ---
 title: Closure of the exterior Cauchy section meets only the double horizon
-status: draft
+status: published
 research_item: lem-author-a4a441da4986-cauchy-closure-double-boundary
 dependency_level: 2
 ---

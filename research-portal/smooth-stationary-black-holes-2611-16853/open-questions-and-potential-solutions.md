@@ -3,7 +3,7 @@ title: Open questions and potential solutions
 research_report: open-questions
 description: Insights, fruitful questions and potential solutions arising from
   The uniqueness of smooth stationary black holes.
-status: draft
+status: published
 generated_at: 2026-11-15T05:45:21.741Z
 ---
 

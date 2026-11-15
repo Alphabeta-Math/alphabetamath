@@ -2,7 +2,7 @@
 id: lem-author-e7cde3233cd7-one-sided-boundary-exclusion
 title: Cauchy sections do not end at a one-sided chronological horizon
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

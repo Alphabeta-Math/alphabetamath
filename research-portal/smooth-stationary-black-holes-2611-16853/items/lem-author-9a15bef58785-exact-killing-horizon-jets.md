@@ -2,7 +2,7 @@
 id: lem-author-9a15bef58785-exact-killing-horizon-jets
 title: An exact local Killing field is Killing to every order on a horizon
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

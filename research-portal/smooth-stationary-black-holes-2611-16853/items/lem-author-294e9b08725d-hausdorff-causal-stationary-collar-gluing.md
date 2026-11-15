@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-hausdorff-causal-stationary-collar-gluing
 title: Strongly causal complete stationary ambient gluing around the exterior
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

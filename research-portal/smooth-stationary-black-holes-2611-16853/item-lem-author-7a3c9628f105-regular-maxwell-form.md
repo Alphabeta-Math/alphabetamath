@@ -1,6 +1,6 @@
 ---
 title: Smooth Maxwell tensor formula without division by the stationary norm
-status: draft
+status: published
 research_item: lem-author-7a3c9628f105-regular-maxwell-form
 dependency_level: 4
 sources:

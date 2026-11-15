@@ -2,7 +2,7 @@
 id: lem-author-ca4ffba327b3-event-boundary-generator-data
 title: Smooth event-boundary branches are achronal null geodesic sheets
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

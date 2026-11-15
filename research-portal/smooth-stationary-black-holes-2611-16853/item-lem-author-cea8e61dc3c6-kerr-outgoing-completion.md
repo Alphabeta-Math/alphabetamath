@@ -1,6 +1,6 @@
 ---
 title: Outgoing Kerr null curves and the selected future null infinity
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-kerr-outgoing-completion
 dependency_level: 3
 sources:

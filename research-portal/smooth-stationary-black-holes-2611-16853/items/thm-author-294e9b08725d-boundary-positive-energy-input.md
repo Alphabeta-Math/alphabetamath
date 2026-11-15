@@ -2,7 +2,7 @@
 id: thm-author-294e9b08725d-boundary-positive-energy-input
 title: External boundary positive-energy theorem without maximality
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

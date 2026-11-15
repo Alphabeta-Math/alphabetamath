@@ -1,6 +1,6 @@
 ---
 title: Null expansions, screen quotients and focal data
-status: draft
+status: published
 research_item: def-null-screen-expansion-and-focal-data
 dependency_level: 0
 ---

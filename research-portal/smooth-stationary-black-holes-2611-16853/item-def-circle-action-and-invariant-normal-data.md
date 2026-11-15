@@ -1,6 +1,6 @@
 ---
 title: Periodic isometries and invariant normal averaging
-status: draft
+status: published
 research_item: def-circle-action-and-invariant-normal-data
 dependency_level: 0
 ---

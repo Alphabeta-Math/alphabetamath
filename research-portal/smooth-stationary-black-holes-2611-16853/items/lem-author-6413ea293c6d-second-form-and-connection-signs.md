@@ -2,7 +2,7 @@
 id: lem-author-6413ea293c6d-second-form-and-connection-signs
 title: Agreement of expansion and normal-connection conventions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

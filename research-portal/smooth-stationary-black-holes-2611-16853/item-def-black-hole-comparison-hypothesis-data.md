@@ -1,6 +1,6 @@
 ---
 title: Staticity, axisymmetry and black-hole regularity hypotheses
-status: draft
+status: published
 research_item: def-black-hole-comparison-hypothesis-data
 dependency_level: 4
 sources:

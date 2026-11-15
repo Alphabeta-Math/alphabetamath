@@ -2,7 +2,7 @@
 id: lem-author-89004136b63c-uniform-inverse-metric-continuity
 title: Inversion is uniformly stable on compact chart families
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

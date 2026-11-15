@@ -1,6 +1,6 @@
 ---
 title: Extending a closed one-form potential across a bifurcation sphere
-status: draft
+status: published
 research_item: lem-author-e7cde3233cd7-horizon-neighborhood-gluing
 dependency_level: 4
 sources:

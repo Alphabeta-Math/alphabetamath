@@ -2,7 +2,7 @@
 id: pthm-pole-ernst-normal-derivative
 title: Pole identities and the Ernst scalar inequality reduction
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

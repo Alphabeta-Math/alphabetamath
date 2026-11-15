@@ -1,6 +1,6 @@
 ---
 title: Temporal normal angle and compact positive-height portions
-status: draft
+status: published
 research_item: def-author-fd2999663761-temporal-angle-data
 dependency_level: 2
 ---

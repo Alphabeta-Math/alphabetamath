@@ -2,7 +2,7 @@
 id: pthm-harrison-electrovacuum
 title: "Proposition 2.1: Einstein–Maxwell equations and regularity"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

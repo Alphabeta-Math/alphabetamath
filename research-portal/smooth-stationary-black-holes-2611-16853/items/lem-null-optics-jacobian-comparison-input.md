@@ -2,7 +2,7 @@
 id: lem-null-optics-jacobian-comparison-input
 title: Null optical comparison with affine and screen conventions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

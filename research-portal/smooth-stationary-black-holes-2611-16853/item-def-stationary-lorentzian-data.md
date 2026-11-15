@@ -1,6 +1,6 @@
 ---
 title: Stationary Lorentzian data and tensor conventions
-status: draft
+status: published
 research_item: def-stationary-lorentzian-data
 dependency_level: 0
 sources:

@@ -2,7 +2,7 @@
 id: pthm-harrison-lorentzian-algebra
 title: Invertibility, Lorentz signature and stationary norm
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

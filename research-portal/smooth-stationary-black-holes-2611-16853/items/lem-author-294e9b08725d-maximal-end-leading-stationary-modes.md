@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-maximal-end-leading-stationary-modes
 title: Leading stationary modes and a spatial normalization of the same maximal end
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

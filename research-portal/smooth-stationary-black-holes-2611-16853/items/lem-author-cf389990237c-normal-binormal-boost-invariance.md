@@ -2,7 +2,7 @@
 id: lem-author-cf389990237c-normal-binormal-boost-invariance
 title: The normal binormal is invariant under oriented boosts
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

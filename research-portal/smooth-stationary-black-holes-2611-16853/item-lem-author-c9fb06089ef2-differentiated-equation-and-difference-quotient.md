@@ -1,6 +1,6 @@
 ---
 title: Tangential differentiated equations admit classical difference quotients
-status: draft
+status: published
 research_item: lem-author-c9fb06089ef2-differentiated-equation-and-difference-quotient
 dependency_level: 8
 ---

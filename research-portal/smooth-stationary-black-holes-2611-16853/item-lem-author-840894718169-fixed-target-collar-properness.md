@@ -1,6 +1,6 @@
 ---
 title: Radial comparison gives proper normal projection onto a fixed target collar
-status: draft
+status: published
 research_item: lem-author-840894718169-fixed-target-collar-properness
 dependency_level: 5
 ---

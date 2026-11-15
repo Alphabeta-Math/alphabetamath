@@ -1,6 +1,6 @@
 ---
 title: From hyperbolic angle to logarithmic angle inequalities
-status: draft
+status: published
 research_item: lem-author-fd2999663761-logarithmic-angle-conversion
 dependency_level: 3
 ---

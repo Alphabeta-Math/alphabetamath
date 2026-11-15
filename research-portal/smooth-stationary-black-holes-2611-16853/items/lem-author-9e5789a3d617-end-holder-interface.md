@@ -2,7 +2,7 @@
 id: lem-author-9e5789a3d617-end-holder-interface
 title: Differentiated stationary end bounds imply the weighted Hölder interface
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

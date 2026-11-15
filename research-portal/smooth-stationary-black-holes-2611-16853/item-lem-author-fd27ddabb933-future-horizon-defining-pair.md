@@ -1,6 +1,6 @@
 ---
 title: A bifurcate future horizon has an oriented defining pair near its section
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-future-horizon-defining-pair
 dependency_level: 2
 ---

@@ -2,7 +2,7 @@
 id: lem-author-9d607f469119-graph-section-compact-inside-core
 title: A smooth graph section with a genuine end has a compact inside core
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

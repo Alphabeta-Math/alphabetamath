@@ -1,6 +1,6 @@
 ---
 title: "Proposition 2.1: electric and magnetic fluxes"
-status: draft
+status: published
 research_item: pthm-harrison-flux
 dependency_level: 10
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Tangential area Jacobian on a measurable surface domain
-status: draft
+status: published
 research_item: def-author-0336834a2590-surface-map-jacobian
 dependency_level: 1
 ---

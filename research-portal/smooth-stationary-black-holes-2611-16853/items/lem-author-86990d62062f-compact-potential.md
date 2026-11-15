@@ -2,7 +2,7 @@
 id: lem-author-86990d62062f-compact-potential
 title: Compact multiplication by a faster-decaying potential
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

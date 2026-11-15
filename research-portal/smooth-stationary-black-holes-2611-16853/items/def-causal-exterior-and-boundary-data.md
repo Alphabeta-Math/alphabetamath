@@ -2,7 +2,7 @@
 id: def-causal-exterior-and-boundary-data
 title: Causal exterior, chronological boundaries and Cauchy data
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

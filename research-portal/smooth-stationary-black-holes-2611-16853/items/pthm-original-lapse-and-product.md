@@ -2,7 +2,7 @@
 id: pthm-original-lapse-and-product
 title: "Remark 1.3: lapse bounds and stationary product"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

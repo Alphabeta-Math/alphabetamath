@@ -1,6 +1,6 @@
 ---
 title: Transformed lapse equation and bounds
-status: draft
+status: published
 research_item: pthm-positive-transformed-lapse
 dependency_level: 11
 sources:

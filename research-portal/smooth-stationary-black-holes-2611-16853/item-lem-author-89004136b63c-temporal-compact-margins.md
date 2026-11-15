@@ -1,6 +1,6 @@
 ---
 title: A temporal covector has uniform compact negativity and orientation margins
-status: draft
+status: published
 research_item: lem-author-89004136b63c-temporal-compact-margins
 dependency_level: 2
 ---

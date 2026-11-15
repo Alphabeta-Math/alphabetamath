@@ -2,7 +2,7 @@
 id: lem-author-c9fb06089ef2-tangential-boundary-schauder-gain
 title: Boundary Schauder applied to tangential quotients gains one derivative
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

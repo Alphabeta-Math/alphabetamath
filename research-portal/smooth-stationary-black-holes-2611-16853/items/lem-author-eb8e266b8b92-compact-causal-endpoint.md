@@ -2,7 +2,7 @@
 id: lem-author-eb8e266b8b92-compact-causal-endpoint
 title: An interior compact causal trajectory has a finite-time endpoint
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

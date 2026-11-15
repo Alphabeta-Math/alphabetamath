@@ -2,7 +2,7 @@
 id: lem-author-423fe0348a31-finite-atlas-smoothing
 title: Smooth approximation of compactly supported interior heights
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

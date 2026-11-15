@@ -1,6 +1,6 @@
 ---
 title: Gradient Hölder control by differentiated flux and one-dimensional lifting
-status: draft
+status: published
 research_item: lem-author-db87cb8e0bab-divergence-gradient-holder
 dependency_level: 0
 sources:

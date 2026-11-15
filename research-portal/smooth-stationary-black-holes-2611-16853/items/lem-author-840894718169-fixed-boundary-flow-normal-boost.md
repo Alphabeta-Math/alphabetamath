@@ -2,7 +2,7 @@
 id: lem-author-840894718169-fixed-boundary-flow-normal-boost
 title: A variable-time flow through a fixed boundary has the boosted unit normal
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

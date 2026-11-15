@@ -1,6 +1,6 @@
 ---
 title: Pointwise eventual chronological entry is uniform on compact subsets
-status: draft
+status: published
 research_item: lem-author-12a8dba09036-compact-eventual-access-from-pointwise-entry
 dependency_level: 3
 ---

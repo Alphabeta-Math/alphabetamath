@@ -2,7 +2,7 @@
 id: lem-killing-normal-boost-and-invariant-tensors
 title: Normal boost action and invariant two-forms at a fixed surface
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

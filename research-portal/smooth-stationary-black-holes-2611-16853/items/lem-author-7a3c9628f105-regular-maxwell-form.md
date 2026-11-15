@@ -2,7 +2,7 @@
 id: lem-author-7a3c9628f105-regular-maxwell-form
 title: Smooth Maxwell tensor formula without division by the stationary norm
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

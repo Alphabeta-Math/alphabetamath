@@ -1,6 +1,6 @@
 ---
 title: Open–closed continuation for the set of individually admissible parameters
-status: draft
+status: published
 research_item: pthm-author-048251387164-individual-slice-interval-continuation
 dependency_level: 20
 sources:

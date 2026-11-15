@@ -1,6 +1,6 @@
 ---
 title: Uniform coefficient regularity before the final graph estimate
-status: draft
+status: published
 research_item: lem-author-db87cb8e0bab-coefficient-regularity
 dependency_level: 1
 sources:

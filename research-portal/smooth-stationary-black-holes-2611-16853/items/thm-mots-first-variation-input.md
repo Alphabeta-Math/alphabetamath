@@ -2,7 +2,7 @@
 id: thm-mots-first-variation-input
 title: General MOTS first variation before electrovac specialization
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

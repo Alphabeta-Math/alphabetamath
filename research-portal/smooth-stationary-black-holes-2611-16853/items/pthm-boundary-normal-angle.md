@@ -2,7 +2,7 @@
 id: pthm-boundary-normal-angle
 title: Boundary angle bound and normal-graph cone
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

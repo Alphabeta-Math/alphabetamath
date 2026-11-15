@@ -1,6 +1,6 @@
 ---
 title: Mass-one Ernst decay and uniform Harrison denominator bounds
-status: draft
+status: published
 research_item: lem-author-84ac8de0c2f0-end-denominator-bounds
 dependency_level: 3
 ---

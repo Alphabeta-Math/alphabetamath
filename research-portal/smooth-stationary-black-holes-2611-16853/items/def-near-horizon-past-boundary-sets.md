@@ -2,7 +2,7 @@
 id: def-near-horizon-past-boundary-sets
 title: Compact remainder, causal cut and generator endpoint map
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

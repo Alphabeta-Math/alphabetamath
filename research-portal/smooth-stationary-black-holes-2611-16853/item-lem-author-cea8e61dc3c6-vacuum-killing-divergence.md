@@ -1,6 +1,6 @@
 ---
 title: Ricci contraction of the Killing derivative
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-vacuum-killing-divergence
 dependency_level: 2
 sources:

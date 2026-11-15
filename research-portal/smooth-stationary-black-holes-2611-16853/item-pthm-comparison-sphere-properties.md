@@ -1,6 +1,6 @@
 ---
 title: "Proposition 4.1: positive-expansion spheres of limiting area 4π"
-status: draft
+status: published
 research_item: pthm-comparison-sphere-properties
 dependency_level: 12
 sources:

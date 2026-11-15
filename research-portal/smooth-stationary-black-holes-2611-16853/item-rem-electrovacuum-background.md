@@ -1,6 +1,6 @@
 ---
 title: Reported analytic and smooth electrovacuum uniqueness literature
-status: draft
+status: published
 research_item: rem-electrovacuum-background
 dependency_level: 5
 sources:

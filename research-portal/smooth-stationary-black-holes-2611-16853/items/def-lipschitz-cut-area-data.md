@@ -2,7 +2,7 @@
 id: def-lipschitz-cut-area-data
 title: Lipschitz height functions, cut measure and Jacobians
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

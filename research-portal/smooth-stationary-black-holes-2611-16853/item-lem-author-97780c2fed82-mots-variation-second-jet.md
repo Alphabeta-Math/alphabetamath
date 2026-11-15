@@ -1,6 +1,6 @@
 ---
 title: Outgoing expansion variation at a general MOTS
-status: draft
+status: published
 research_item: lem-author-97780c2fed82-mots-variation-second-jet
 dependency_level: 2
 ---

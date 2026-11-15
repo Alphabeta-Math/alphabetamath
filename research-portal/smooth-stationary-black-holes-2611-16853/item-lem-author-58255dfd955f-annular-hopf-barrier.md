@@ -1,6 +1,6 @@
 ---
 title: A variable-coefficient annular barrier and inward boundary derivative
-status: draft
+status: published
 research_item: lem-author-58255dfd955f-annular-hopf-barrier
 dependency_level: 2
 ---

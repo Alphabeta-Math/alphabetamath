@@ -1,6 +1,6 @@
 ---
 title: Weighted Hölder norms on a three-dimensional exterior
-status: draft
+status: published
 research_item: def-weighted-holder-spaces
 dependency_level: 1
 sources:

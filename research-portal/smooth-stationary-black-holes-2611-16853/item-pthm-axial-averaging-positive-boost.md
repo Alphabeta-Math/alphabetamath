@@ -1,6 +1,6 @@
 ---
 title: Axial averaging and positive boost at the pole
-status: draft
+status: published
 research_item: pthm-axial-averaging-positive-boost
 dependency_level: 38
 sources:

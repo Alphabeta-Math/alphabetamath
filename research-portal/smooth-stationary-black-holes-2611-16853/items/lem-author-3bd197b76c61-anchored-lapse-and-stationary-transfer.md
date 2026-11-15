@@ -2,7 +2,7 @@
 id: lem-author-3bd197b76c61-anchored-lapse-and-stationary-transfer
 title: Anchored lapse propagation and quantitative stationary coordinate transfer
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

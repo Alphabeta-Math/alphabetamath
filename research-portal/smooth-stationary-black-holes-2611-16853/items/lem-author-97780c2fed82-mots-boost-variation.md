@@ -2,7 +2,7 @@
 id: lem-author-97780c2fed82-mots-boost-variation
 title: MOTS boosts preserve the spacetime stability sign
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

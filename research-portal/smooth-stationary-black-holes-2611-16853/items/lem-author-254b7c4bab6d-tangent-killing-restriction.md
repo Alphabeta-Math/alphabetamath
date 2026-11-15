@@ -2,7 +2,7 @@
 id: lem-author-254b7c4bab6d-tangent-killing-restriction
 title: A branch-tangent Killing field restricts to the bifurcation sphere
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

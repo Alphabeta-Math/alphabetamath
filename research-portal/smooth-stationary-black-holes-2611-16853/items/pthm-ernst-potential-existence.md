@@ -2,7 +2,7 @@
 id: pthm-ernst-potential-existence
 title: Closed Ernst form and existence of normalized potential
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

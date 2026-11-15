@@ -1,6 +1,6 @@
 ---
 title: Shifting a temporal function permits a controlled compact restriction
-status: draft
+status: published
 research_item: lem-author-3bd197b76c61-positive-temporal-compact-restriction
 dependency_level: 6
 ---

@@ -1,7 +1,7 @@
 ---
 title: Compact sets admit relatively compact open neighborhoods and finite chart
   pieces
-status: draft
+status: published
 research_item: lem-author-89004136b63c-compact-neighborhood-localization
 dependency_level: 0
 ---

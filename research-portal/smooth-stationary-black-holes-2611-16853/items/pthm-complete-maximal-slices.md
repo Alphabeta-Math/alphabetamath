@@ -2,7 +2,7 @@
 id: pthm-complete-maximal-slices
 title: "Theorem 3.1: complete maximal slices for positive q"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

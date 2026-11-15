@@ -1,6 +1,6 @@
 ---
 title: Positive Harrison denominator and its parameter identity
-status: draft
+status: published
 research_item: lem-author-7a3c9628f105-denominator-positivity
 dependency_level: 1
 sources:

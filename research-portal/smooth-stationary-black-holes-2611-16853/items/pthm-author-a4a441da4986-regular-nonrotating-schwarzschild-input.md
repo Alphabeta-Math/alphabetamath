@@ -2,7 +2,7 @@
 id: pthm-author-a4a441da4986-regular-nonrotating-schwarzschild-input
 title: Independent regular nonrotating staticity and Schwarzschild theorem
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

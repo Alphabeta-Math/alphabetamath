@@ -1,6 +1,6 @@
 ---
 title: Vacuum exterior-section constraints imply the dominant energy condition
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-vacuum-section-dominant-energy
 dependency_level: 4
 sources:

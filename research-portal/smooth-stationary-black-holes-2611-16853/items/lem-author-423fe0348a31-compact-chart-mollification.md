@@ -2,7 +2,7 @@
 id: lem-author-423fe0348a31-compact-chart-mollification
 title: Compactly supported chart mollification in uniform and first Sobolev norms
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

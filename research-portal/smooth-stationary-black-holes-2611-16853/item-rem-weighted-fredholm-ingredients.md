@@ -1,6 +1,6 @@
 ---
 title: Fredholm ingredients stated in Lemma 3.1
-status: draft
+status: published
 research_item: rem-weighted-fredholm-ingredients
 dependency_level: 5
 sources:

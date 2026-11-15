@@ -1,6 +1,6 @@
 ---
 title: Transferring area-controlled band energy through smooth approximation
-status: draft
+status: published
 research_item: lem-author-423fe0348a31-band-energy-transfer
 dependency_level: 7
 ---

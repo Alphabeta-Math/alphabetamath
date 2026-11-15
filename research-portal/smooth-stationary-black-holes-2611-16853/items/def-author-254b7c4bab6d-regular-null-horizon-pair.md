@@ -2,7 +2,7 @@
 id: def-author-254b7c4bab6d-regular-null-horizon-pair
 title: Regular bifurcate null horizon data before rigidity
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

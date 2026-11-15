@@ -2,7 +2,7 @@
 id: op-smooth-degenerate-uniqueness
 title: Smooth rotating degenerate-horizon uniqueness
 kind: open-problem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Weighted cutoff maximum gives a uniform normal angle
-status: draft
+status: published
 research_item: lem-author-14de055b8ceb-weighted-cutoff-maximum
 dependency_level: 4
 ---

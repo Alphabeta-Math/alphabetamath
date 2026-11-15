@@ -2,7 +2,7 @@
 id: def-horizon-flux-and-stability-notation
 title: Horizon null frame, flux densities and stability operator notation
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

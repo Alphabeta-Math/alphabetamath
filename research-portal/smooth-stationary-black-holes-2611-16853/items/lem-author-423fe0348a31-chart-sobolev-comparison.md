@@ -2,7 +2,7 @@
 id: lem-author-423fe0348a31-chart-sobolev-comparison
 title: Weak first derivatives and Riemannian chart norm comparison
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

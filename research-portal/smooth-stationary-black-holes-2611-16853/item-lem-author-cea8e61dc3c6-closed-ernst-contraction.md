@@ -1,6 +1,6 @@
 ---
 title: Closed Ernst contraction and the real potential
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-closed-ernst-contraction
 dependency_level: 3
 sources:

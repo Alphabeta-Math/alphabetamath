@@ -2,7 +2,7 @@
 id: lem-author-423fe0348a31-scalar-metric-jacobian
 title: Scalar metric Jacobian and weak-gradient identification
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

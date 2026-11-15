@@ -1,6 +1,6 @@
 ---
 title: The selected exterior is connected and causally convex
-status: draft
+status: published
 research_item: lem-author-a4a441da4986-doc-connected-and-causally-convex
 dependency_level: 2
 ---

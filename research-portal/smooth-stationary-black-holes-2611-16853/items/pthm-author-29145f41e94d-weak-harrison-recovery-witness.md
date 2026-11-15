@@ -2,7 +2,7 @@
 id: pthm-author-29145f41e94d-weak-harrison-recovery-witness
 title: Weak original data furnish the one recovery family and pole
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

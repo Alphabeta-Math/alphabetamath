@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-cutoff-end-coordinate-extension
 title: Extending normalized end coordinates while preserving the section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

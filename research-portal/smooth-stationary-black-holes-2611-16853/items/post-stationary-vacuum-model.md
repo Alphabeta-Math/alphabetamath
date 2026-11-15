@@ -2,7 +2,7 @@
 id: post-stationary-vacuum-model
 title: Stationary vacuum model and asymptotic normalization
 kind: postulate
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

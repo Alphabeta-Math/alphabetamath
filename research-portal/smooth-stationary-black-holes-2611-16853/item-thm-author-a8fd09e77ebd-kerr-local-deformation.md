@@ -1,7 +1,7 @@
 ---
 title: Rotating Kerr admits local stationary vacuum deformations with an axial
   obstruction
-status: draft
+status: published
 research_item: thm-author-a8fd09e77ebd-kerr-local-deformation
 dependency_level: 2
 sources:

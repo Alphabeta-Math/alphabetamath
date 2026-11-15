@@ -1,6 +1,6 @@
 ---
 title: Ernst and self-dual curvature data in the AIK convention
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-ernst-curvature-package
 dependency_level: 3
 sources:

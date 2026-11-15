@@ -2,7 +2,7 @@
 id: pthm-horizon-invariant-one-form
 title: Invariant Ernst data and smooth K-invariant gauge
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

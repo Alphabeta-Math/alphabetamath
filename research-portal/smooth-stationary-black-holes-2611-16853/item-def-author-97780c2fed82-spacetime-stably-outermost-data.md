@@ -1,6 +1,6 @@
 ---
 title: Spacetime stably outermost condition and the slice bridge
-status: draft
+status: published
 research_item: def-author-97780c2fed82-spacetime-stably-outermost-data
 dependency_level: 6
 ---

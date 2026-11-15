@@ -2,7 +2,7 @@
 id: pthm-hawking-graph-barriers
 title: K-flow barriers with boundary tangency comparison and uniform height bound
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

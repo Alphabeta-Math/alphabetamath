@@ -2,7 +2,7 @@
 id: lem-author-c50357f4fa9e-expansion-second-jet
 title: Outgoing expansion depends smoothly on the second graph data
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

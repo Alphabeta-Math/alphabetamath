@@ -2,7 +2,7 @@
 id: lem-author-9d607f469119-finite-time-collar-exclusion
 title: A finite temporal target cannot be reached from a sufficiently small collar
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

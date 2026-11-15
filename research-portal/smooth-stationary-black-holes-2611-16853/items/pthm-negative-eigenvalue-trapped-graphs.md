@@ -2,7 +2,7 @@
 id: pthm-negative-eigenvalue-trapped-graphs
 title: Negative stability eigenvalue produces outer trapped graphs
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

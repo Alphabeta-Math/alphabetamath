@@ -2,7 +2,7 @@
 id: lem-author-12a8dba09036-far-end-slow-timelike-routing
 title: Sufficiently far stationary end points can be routed to a chosen cylinder
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

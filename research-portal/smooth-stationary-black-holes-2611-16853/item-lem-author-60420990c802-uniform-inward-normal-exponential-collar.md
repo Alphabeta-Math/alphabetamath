@@ -1,6 +1,6 @@
 ---
 title: A compact smooth boundary has a uniform inward normal exponential collar
-status: draft
+status: published
 research_item: lem-author-60420990c802-uniform-inward-normal-exponential-collar
 dependency_level: 0
 ---

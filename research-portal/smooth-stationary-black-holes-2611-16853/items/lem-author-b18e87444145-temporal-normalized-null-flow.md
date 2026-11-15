@@ -2,7 +2,7 @@
 id: lem-author-b18e87444145-temporal-normalized-null-flow
 title: Temporal normalization makes the null geodesic flow compact over compact bases
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

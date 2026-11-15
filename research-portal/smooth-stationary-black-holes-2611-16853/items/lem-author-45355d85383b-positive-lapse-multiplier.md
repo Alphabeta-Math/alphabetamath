@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-positive-lapse-multiplier
 title: The transverse lapse is a positive weighted Dirichlet multiplier
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

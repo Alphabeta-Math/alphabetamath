@@ -3,7 +3,7 @@ id: thm-author-a8fd09e77ebd-kerr-local-deformation
 title: Rotating Kerr admits local stationary vacuum deformations with an axial
   obstruction
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

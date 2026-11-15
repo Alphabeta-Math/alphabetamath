@@ -1,6 +1,6 @@
 ---
 title: Complete two-ended geometry and decay of the reflected data
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-complete-asymptotically-flat-double
 dependency_level: 10
 sources:

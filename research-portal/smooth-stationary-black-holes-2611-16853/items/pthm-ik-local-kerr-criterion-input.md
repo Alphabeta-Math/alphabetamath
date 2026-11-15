@@ -2,7 +2,7 @@
 id: pthm-ik-local-kerr-criterion-input
 title: Ionescu–Klainerman local Kerr criterion with full interface
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

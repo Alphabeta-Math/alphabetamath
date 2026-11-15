@@ -2,7 +2,7 @@
 id: pthm-axisymmetric-kerr-uniqueness
 title: Axisymmetric vacuum uniqueness with complete global hypotheses
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

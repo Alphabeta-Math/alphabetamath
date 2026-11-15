@@ -2,7 +2,7 @@
 id: lem-author-58255dfd955f-strong-minimum
 title: Strong minimum principle from the annular barrier
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

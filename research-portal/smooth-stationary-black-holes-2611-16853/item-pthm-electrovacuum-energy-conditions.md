@@ -1,6 +1,6 @@
 ---
 title: Energy-condition inputs for the transformed geometry
-status: draft
+status: published
 research_item: pthm-electrovacuum-energy-conditions
 dependency_level: 10
 sources:

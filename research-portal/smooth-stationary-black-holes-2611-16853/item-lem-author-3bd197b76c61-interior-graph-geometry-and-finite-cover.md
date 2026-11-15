@@ -1,6 +1,6 @@
 ---
 title: Uniform interior graph geometry and a bounded finite chart cover
-status: draft
+status: published
 research_item: lem-author-3bd197b76c61-interior-graph-geometry-and-finite-cover
 dependency_level: 5
 sources:

@@ -2,7 +2,7 @@
 id: lem-author-56ff511785bf-local-angle-gauss-codazzi
 title: Pointwise Gauss–Codazzi identities for the normal angle
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

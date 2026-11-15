@@ -2,7 +2,7 @@
 id: lem-author-2632702918ef-target-segment-boundary-containment
 title: The entire target segment stays on the chronological boundary
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

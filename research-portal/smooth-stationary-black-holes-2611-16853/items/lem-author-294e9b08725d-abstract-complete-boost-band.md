@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-abstract-complete-boost-band
 title: A complete stationary boost band with a global local-isometry certificate
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

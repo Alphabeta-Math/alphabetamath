@@ -1,7 +1,7 @@
 ---
 title: An open chronological exterior is causally convex without a timelike-end
   assumption
-status: draft
+status: published
 research_item: lem-author-12a8dba09036-open-end-causal-convexity-and-geodesic-pieces
 dependency_level: 2
 ---

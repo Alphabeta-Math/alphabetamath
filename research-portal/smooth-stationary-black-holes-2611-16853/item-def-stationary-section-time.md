@@ -1,6 +1,6 @@
 ---
 title: Stationary section time and translated maximal sections
-status: draft
+status: published
 research_item: def-stationary-section-time
 dependency_level: 4
 sources:

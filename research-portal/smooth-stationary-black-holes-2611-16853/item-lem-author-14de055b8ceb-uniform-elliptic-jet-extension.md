@@ -1,6 +1,6 @@
 ---
 title: Uniform elliptic extension and flattening before the boundary gradient estimate
-status: draft
+status: published
 research_item: lem-author-14de055b8ceb-uniform-elliptic-jet-extension
 dependency_level: 2
 ---

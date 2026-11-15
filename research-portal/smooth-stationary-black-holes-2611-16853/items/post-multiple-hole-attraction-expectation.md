@@ -2,7 +2,7 @@
 id: post-multiple-hole-attraction-expectation
 title: Physical motivation against stationary multiple black holes
 kind: postulate
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-stationary-vacuum-kid-double
 title: Smooth reflection of the stationary vacuum Killing initial data
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

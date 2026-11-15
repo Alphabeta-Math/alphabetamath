@@ -1,6 +1,6 @@
 ---
 title: Sequence closedness and completeness without an interval-family premise
-status: draft
+status: published
 research_item: pthm-author-048251387164-sequence-closure-and-completeness
 dependency_level: 19
 sources:

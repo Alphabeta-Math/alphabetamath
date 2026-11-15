@@ -1,6 +1,6 @@
 ---
 title: Inversion is uniformly stable on compact chart families
-status: draft
+status: published
 research_item: lem-author-89004136b63c-uniform-inverse-metric-continuity
 dependency_level: 0
 ---

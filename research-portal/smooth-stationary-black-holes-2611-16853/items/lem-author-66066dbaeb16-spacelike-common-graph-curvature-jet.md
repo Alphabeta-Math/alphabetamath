@@ -2,7 +2,7 @@
 id: lem-author-66066dbaeb16-spacelike-common-graph-curvature-jet
 title: Mean curvature at identical spacelike graph jets has positive Hessian symbol
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

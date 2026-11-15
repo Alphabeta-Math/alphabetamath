@@ -1,6 +1,6 @@
 ---
 title: Stationary vacuum normal form and compatible regularity section
-status: draft
+status: published
 research_item: thm-author-ae62588ad46a-stationary-asymptotic-normal-form
 dependency_level: 6
 sources:

@@ -2,7 +2,7 @@
 id: lem-author-58255dfd955f-annular-hopf-barrier
 title: A variable-coefficient annular barrier and inward boundary derivative
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

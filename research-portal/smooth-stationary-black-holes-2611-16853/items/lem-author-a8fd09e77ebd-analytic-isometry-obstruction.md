@@ -2,7 +2,7 @@
 id: lem-author-a8fd09e77ebd-analytic-isometry-obstruction
 title: A commuting-extension obstruction excludes arbitrary analytic-model isometries
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

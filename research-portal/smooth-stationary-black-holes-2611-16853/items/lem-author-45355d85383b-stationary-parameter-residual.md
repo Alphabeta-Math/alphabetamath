@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-stationary-parameter-residual
 title: Stationary parameter families have a decaying reference-slice residual
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

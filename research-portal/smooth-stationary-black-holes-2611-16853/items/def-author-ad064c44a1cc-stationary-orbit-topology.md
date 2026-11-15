@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-stationary-orbit-topology
 title: Stationary orbit space with its quotient topology
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

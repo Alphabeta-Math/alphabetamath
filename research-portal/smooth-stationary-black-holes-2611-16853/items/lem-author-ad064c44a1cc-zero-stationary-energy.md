@@ -2,7 +2,7 @@
 id: lem-author-ad064c44a1cc-zero-stationary-energy
 title: Zero stationary energy along null geodesics
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

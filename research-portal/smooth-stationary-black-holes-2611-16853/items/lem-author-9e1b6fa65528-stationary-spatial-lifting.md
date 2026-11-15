@@ -2,7 +2,7 @@
 id: lem-author-9e1b6fa65528-stationary-spatial-lifting
 title: Stationary lifting of a spatial primitive
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

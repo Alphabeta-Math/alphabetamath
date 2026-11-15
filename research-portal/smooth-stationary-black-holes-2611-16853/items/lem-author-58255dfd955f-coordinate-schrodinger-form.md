@@ -2,7 +2,7 @@
 id: lem-author-58255dfd955f-coordinate-schrodinger-form
 title: Coordinate and weak forms of the geometric Schrödinger equation
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -4,7 +4,7 @@ description: Assemble the analytic and geometric inputs for maximal-slice
   continuation, causal completeness, null-boundary cuts, area comparison and
   horizon flux rigidity. Use the common data and the preceding field inputs
   while retaining every local argument and imported-premise qualification.
-status: draft
+status: published
 dependency_level: 1
 ---
 

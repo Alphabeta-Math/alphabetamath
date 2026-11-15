@@ -2,7 +2,7 @@
 id: pthm-maximal-continuation-closedness
 title: Closedness and smooth limiting maximal sections
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 proof_strategy: direct

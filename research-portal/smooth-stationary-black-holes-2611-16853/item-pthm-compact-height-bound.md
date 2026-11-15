@@ -1,6 +1,6 @@
 ---
 title: "Lemma 3.2: compact stationary-height bounds"
-status: draft
+status: published
 research_item: pthm-compact-height-bound
 dependency_level: 15
 sources:

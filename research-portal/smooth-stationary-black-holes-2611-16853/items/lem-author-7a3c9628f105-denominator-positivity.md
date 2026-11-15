@@ -2,7 +2,7 @@
 id: lem-author-7a3c9628f105-denominator-positivity
 title: Positive Harrison denominator and its parameter identity
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

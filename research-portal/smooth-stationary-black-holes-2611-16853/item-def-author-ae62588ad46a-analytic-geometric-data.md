@@ -1,6 +1,6 @@
 ---
 title: Geometric data for the analytic multiple-horizon comparison
-status: draft
+status: published
 research_item: def-author-ae62588ad46a-analytic-geometric-data
 dependency_level: 5
 ---

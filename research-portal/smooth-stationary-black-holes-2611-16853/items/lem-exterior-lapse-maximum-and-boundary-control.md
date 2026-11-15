@@ -2,7 +2,7 @@
 id: lem-exterior-lapse-maximum-and-boundary-control
 title: Exterior Schrödinger maximum principles, Hopf growth and Harnack
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Stationary maximal graphs and normalized graph heights
-status: draft
+status: published
 research_item: def-stationary-maximal-graph
 dependency_level: 3
 sources:

@@ -2,7 +2,7 @@
 id: def-harrison-electromagnetic-form
 title: Harrison electromagnetic form
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

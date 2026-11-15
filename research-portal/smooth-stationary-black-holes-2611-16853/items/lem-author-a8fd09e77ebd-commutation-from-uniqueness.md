@@ -2,7 +2,7 @@
 id: lem-author-a8fd09e77ebd-commutation-from-uniqueness
 title: Uniqueness forces an extended axial field to commute
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

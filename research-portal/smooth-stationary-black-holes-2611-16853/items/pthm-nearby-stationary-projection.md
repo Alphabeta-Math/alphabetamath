@@ -2,7 +2,7 @@
 id: pthm-nearby-stationary-projection
 title: Proper stationary projection for continued slices
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

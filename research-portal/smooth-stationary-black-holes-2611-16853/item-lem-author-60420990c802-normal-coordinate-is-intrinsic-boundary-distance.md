@@ -1,6 +1,6 @@
 ---
 title: The inward normal coordinate is intrinsic distance from the boundary
-status: draft
+status: published
 research_item: lem-author-60420990c802-normal-coordinate-is-intrinsic-boundary-distance
 dependency_level: 1
 ---

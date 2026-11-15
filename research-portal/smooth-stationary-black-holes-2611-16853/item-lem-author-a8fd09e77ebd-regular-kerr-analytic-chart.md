@@ -1,6 +1,6 @@
 ---
 title: Analytic Kerr coordinates across the chosen nondegenerate horizon
-status: draft
+status: published
 research_item: lem-author-a8fd09e77ebd-regular-kerr-analytic-chart
 dependency_level: 1
 sources:

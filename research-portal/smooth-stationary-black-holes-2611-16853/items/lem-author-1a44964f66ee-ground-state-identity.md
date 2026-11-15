@@ -2,7 +2,7 @@
 id: lem-author-1a44964f66ee-ground-state-identity
 title: Ground-state identity, spectral ordering and eigenspace uniqueness
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: A complete stationary boost band with a global local-isometry certificate
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-abstract-complete-boost-band
 dependency_level: 13
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Distance Laplacian and normal-collar volume density are uniformly bounded
-status: draft
+status: published
 research_item: lem-author-60420990c802-bounded-distance-laplacian-and-collar-density
 dependency_level: 2
 ---

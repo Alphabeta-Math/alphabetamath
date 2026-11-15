@@ -1,6 +1,6 @@
 ---
 title: "Proposition 2.1: Einstein–Maxwell equations and regularity"
-status: draft
+status: published
 research_item: pthm-harrison-electrovacuum
 dependency_level: 9
 sources:

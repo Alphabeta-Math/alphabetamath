@@ -1,6 +1,6 @@
 ---
 title: Proper end radius and exclusion of finite-time spatial infinity
-status: draft
+status: published
 research_item: lem-author-eb8e266b8b92-proper-radius-control
 dependency_level: 3
 sources:

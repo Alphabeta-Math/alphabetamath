@@ -2,7 +2,7 @@
 id: pthm-positive-transformed-lapse
 title: Transformed lapse equation and bounds
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 proof_strategy: direct

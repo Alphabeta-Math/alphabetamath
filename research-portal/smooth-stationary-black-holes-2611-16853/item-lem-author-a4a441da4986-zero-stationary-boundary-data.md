@@ -1,7 +1,7 @@
 ---
 title: Zero stationary field gives the local bifurcate Killing-horizon and
   boundary data
-status: draft
+status: published
 research_item: lem-author-a4a441da4986-zero-stationary-boundary-data
 dependency_level: 2
 ---

@@ -1,6 +1,6 @@
 ---
 title: Normalized outward null normal at large coordinate spheres
-status: draft
+status: published
 research_item: pthm-coordinate-null-normal-estimates
 dependency_level: 10
 sources:

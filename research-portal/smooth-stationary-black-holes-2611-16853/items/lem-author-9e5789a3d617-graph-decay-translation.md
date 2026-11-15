@@ -2,7 +2,7 @@
 id: lem-author-9e5789a3d617-graph-decay-translation
 title: Stationary graph translation preserves source asymptotics
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

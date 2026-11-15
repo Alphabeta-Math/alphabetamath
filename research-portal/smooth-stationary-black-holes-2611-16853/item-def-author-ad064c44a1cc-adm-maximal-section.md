@@ -1,6 +1,6 @@
 ---
 title: Maximality and smooth boundary in the ADM theorem
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-adm-maximal-section
 dependency_level: 5
 sources:

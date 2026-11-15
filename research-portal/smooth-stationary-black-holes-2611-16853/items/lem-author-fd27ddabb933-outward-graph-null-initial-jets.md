@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-outward-graph-null-initial-jets
 title: Small outward normal graphs have controlled inward null initial jets
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

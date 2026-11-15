@@ -1,6 +1,6 @@
 ---
 title: Null optical comparison with affine and screen conventions
-status: draft
+status: published
 research_item: lem-null-optics-jacobian-comparison-input
 dependency_level: 1
 sources:

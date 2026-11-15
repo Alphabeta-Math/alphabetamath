@@ -1,6 +1,6 @@
 ---
 title: Exterior Dirichlet parametrix and compact decaying potentials
-status: draft
+status: published
 research_item: lem-exterior-parametrix-and-compact-potential
 dependency_level: 4
 ---

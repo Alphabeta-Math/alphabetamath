@@ -1,6 +1,6 @@
 ---
 title: An existing stationary graph supplies global projection before any estimate
-status: draft
+status: published
 research_item: lem-author-18fcf05360ee-existing-graph-stationary-projection
 dependency_level: 5
 ---

@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-nontrapping-sbs
 title: Event-horizon bifurcation data for the nontrapping theorem
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Weighted exterior elliptic domains and admissible weights
-status: draft
+status: published
 research_item: def-exterior-weighted-elliptic-data
 dependency_level: 0
 sources:

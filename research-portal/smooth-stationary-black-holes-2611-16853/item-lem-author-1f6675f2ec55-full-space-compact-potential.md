@@ -1,6 +1,6 @@
 ---
 title: Compact potential multiplication without a Dirichlet restriction
-status: draft
+status: published
 research_item: lem-author-1f6675f2ec55-full-space-compact-potential
 dependency_level: 3
 sources:

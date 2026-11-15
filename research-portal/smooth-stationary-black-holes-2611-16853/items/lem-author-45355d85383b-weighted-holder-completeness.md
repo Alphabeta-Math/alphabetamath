@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-weighted-holder-completeness
 title: Weighted Hölder spaces and their Dirichlet kernels are Banach
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

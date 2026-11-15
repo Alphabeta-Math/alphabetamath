@@ -1,6 +1,6 @@
 ---
 title: Closed generator set and nonintersection before the cut
-status: draft
+status: published
 research_item: pthm-null-endpoint-map-properties
 dependency_level: 27
 sources:

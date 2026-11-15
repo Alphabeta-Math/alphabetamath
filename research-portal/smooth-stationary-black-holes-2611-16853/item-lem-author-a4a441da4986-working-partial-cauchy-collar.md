@@ -1,6 +1,6 @@
 ---
 title: A working partial-Cauchy collar satisfies the source GR section equalities
-status: draft
+status: published
 research_item: lem-author-a4a441da4986-working-partial-cauchy-collar
 dependency_level: 4
 ---

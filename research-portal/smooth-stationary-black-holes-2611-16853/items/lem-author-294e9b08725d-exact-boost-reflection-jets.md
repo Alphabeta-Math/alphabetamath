@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-exact-boost-reflection-jets
 title: All-jet reflection parity from an exact local boost
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

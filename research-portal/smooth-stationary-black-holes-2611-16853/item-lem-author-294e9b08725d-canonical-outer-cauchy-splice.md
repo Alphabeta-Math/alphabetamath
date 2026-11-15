@@ -1,6 +1,6 @@
 ---
 title: Canonical bifurcation collar joined to the original exterior Cauchy section
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-canonical-outer-cauchy-splice
 dependency_level: 9
 sources:

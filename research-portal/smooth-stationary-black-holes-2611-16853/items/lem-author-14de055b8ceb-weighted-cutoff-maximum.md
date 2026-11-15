@@ -2,7 +2,7 @@
 id: lem-author-14de055b8ceb-weighted-cutoff-maximum
 title: Weighted cutoff maximum gives a uniform normal angle
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

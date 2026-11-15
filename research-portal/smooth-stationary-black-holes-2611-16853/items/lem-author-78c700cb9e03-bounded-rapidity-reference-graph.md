@@ -2,7 +2,7 @@
 id: lem-author-78c700cb9e03-bounded-rapidity-reference-graph
 title: A smooth spacelike reference section is a bounded rapidity graph
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

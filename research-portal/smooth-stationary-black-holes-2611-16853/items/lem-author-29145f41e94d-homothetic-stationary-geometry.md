@@ -2,7 +2,7 @@
 id: lem-author-29145f41e94d-homothetic-stationary-geometry
 title: Constant homothety preserves the original vacuum and maximal section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

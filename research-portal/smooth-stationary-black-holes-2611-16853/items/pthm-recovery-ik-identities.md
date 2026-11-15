@@ -2,7 +2,7 @@
 id: pthm-recovery-ik-identities
 title: "Proposition 5.1: recovery of Ionescu–Klainerman conditions"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

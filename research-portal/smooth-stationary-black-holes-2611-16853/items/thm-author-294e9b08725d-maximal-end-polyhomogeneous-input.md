@@ -2,7 +2,7 @@
 id: thm-author-294e9b08725d-maximal-end-polyhomogeneous-input
 title: Independent stationary maximal-gauge asymptotic expansion and KID input
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

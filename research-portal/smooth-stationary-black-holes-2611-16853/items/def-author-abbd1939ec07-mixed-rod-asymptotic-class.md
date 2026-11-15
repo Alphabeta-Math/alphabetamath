@@ -2,7 +2,7 @@
 id: def-author-abbd1939ec07-mixed-rod-asymptotic-class
 title: Exact mixed-rod boundary class for the balance theorem
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

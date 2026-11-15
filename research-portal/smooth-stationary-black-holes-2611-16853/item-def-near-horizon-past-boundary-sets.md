@@ -1,6 +1,6 @@
 ---
 title: Compact remainder, causal cut and generator endpoint map
-status: draft
+status: published
 research_item: def-near-horizon-past-boundary-sets
 dependency_level: 5
 sources:

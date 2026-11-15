@@ -1,6 +1,6 @@
 ---
 title: Reported smooth uniqueness under additional hypotheses
-status: draft
+status: published
 research_item: pthm-smallness-and-nontrapping-background
 dependency_level: 8
 sources:

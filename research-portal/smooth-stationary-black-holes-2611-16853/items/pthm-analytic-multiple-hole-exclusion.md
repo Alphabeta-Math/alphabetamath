@@ -2,7 +2,7 @@
 id: pthm-analytic-multiple-hole-exclusion
 title: Exclusion of regular analytic multiple horizons
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

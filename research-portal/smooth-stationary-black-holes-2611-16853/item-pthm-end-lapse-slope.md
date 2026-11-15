@@ -1,6 +1,6 @@
 ---
 title: Uniform asymptotic slope bound
-status: draft
+status: published
 research_item: pthm-end-lapse-slope
 dependency_level: 12
 sources:

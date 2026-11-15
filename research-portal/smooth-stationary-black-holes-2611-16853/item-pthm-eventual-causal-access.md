@@ -1,6 +1,6 @@
 ---
 title: Eventual chronological access to translated comparison spheres
-status: draft
+status: published
 research_item: pthm-eventual-causal-access
 dependency_level: 13
 sources:

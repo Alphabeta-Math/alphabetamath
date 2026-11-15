@@ -1,6 +1,6 @@
 ---
 title: The Kerr end is an ADM rest frame
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-kerr-rest-frame
 dependency_level: 4
 sources:

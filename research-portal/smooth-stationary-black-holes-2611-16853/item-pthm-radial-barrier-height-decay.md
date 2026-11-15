@@ -1,6 +1,6 @@
 ---
 title: Radial barrier, absorption and height decay
-status: draft
+status: published
 research_item: pthm-radial-barrier-height-decay
 dependency_level: 14
 sources:

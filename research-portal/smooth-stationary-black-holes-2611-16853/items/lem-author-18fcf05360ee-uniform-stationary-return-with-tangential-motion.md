@@ -2,7 +2,7 @@
 id: lem-author-18fcf05360ee-uniform-stationary-return-with-tangential-motion
 title: Uniform stationary return persists under arbitrary tangential drift
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

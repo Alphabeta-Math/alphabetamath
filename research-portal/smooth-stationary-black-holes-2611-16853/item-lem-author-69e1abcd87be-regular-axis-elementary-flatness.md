@@ -1,6 +1,6 @@
 ---
 title: Weight-one regular axis gives elementary flatness of small axial orbits
-status: draft
+status: published
 research_item: lem-author-69e1abcd87be-regular-axis-elementary-flatness
 dependency_level: 5
 ---

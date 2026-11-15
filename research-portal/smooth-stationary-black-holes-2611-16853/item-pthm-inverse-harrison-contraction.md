@@ -1,6 +1,6 @@
 ---
 title: Inverse Harrison relation and Killing-scalar identity
-status: draft
+status: published
 research_item: pthm-inverse-harrison-contraction
 dependency_level: 36
 sources:

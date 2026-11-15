@@ -1,6 +1,6 @@
 ---
 title: Spacelike sections, maximality and lapse–shift data
-status: draft
+status: published
 research_item: def-spacelike-maximal-hypersurface-data
 dependency_level: 0
 sources:

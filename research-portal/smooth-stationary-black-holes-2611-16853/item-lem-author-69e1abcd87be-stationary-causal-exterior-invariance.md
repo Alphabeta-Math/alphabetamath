@@ -1,6 +1,6 @@
 ---
 title: The complete stationary flow preserves the selected causal exterior
-status: draft
+status: published
 research_item: lem-author-69e1abcd87be-stationary-causal-exterior-invariance
 dependency_level: 6
 ---

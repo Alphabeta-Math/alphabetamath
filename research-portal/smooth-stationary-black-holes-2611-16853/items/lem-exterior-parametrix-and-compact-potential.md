@@ -2,7 +2,7 @@
 id: lem-exterior-parametrix-and-compact-potential
 title: Exterior Dirichlet parametrix and compact decaying potentials
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

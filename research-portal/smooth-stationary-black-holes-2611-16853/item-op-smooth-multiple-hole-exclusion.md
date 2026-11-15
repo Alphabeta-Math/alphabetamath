@@ -1,6 +1,6 @@
 ---
 title: Smooth stationary multiple-black-hole nonexistence
-status: draft
+status: published
 research_item: op-smooth-multiple-hole-exclusion
 dependency_level: 5
 sources:

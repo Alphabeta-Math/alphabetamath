@@ -1,6 +1,6 @@
 ---
 title: The zero-parameter spatial cylinder and its limiting area
-status: draft
+status: published
 research_item: lem-author-84ac8de0c2f0-zero-parameter-cylinder-area
 dependency_level: 8
 ---

@@ -1,6 +1,6 @@
 ---
 title: Independent stationary maximal-gauge asymptotic expansion and KID input
-status: draft
+status: published
 research_item: thm-author-294e9b08725d-maximal-end-polyhomogeneous-input
 dependency_level: 5
 sources:

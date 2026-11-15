@@ -2,7 +2,7 @@
 id: pthm-coordinate-null-normal-estimates
 title: Normalized outward null normal at large coordinate spheres
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

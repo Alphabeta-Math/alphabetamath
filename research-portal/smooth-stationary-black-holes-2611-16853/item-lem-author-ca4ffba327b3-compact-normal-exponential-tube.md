@@ -1,6 +1,6 @@
 ---
 title: A compact spacelike surface has a normal exponential tube
-status: draft
+status: published
 research_item: lem-author-ca4ffba327b3-compact-normal-exponential-tube
 dependency_level: 1
 ---

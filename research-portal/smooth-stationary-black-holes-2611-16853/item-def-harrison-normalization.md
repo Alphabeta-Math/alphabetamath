@@ -1,6 +1,6 @@
 ---
 title: Mass-one convention and Harrison denominator
-status: draft
+status: published
 research_item: def-harrison-normalization
 dependency_level: 2
 sources:

@@ -2,7 +2,7 @@
 id: thm-stationary-harrison-primitive-input
 title: Smooth invariant Harrison primitive near the horizon and at infinity
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

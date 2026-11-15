@@ -1,6 +1,6 @@
 ---
 title: Coarea smoothing with fixed boundary values and area control
-status: draft
+status: published
 research_item: lem-lipschitz-cut-coarea-smoothing-input
 dependency_level: 8
 ---

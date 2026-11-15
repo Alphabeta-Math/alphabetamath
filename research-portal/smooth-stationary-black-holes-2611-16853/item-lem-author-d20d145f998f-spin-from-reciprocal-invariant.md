@@ -1,6 +1,6 @@
 ---
 title: The reciprocal-potential invariant determines the end spin bound
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-spin-from-reciprocal-invariant
 dependency_level: 0
 ---

@@ -2,7 +2,7 @@
 id: lem-author-18fcf05360ee-existing-graph-stationary-projection
 title: An existing stationary graph supplies global projection before any estimate
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

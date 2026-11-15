@@ -1,6 +1,6 @@
 ---
 title: "Lemma 3.4: uniform graph regularity at the bifurcation sphere"
-status: draft
+status: published
 research_item: pthm-uniform-horizon-maximal-graphs
 dependency_level: 20
 sources:

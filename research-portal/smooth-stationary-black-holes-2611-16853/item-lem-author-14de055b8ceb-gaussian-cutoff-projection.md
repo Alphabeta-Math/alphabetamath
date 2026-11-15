@@ -1,6 +1,6 @@
 ---
 title: Projection estimates for a Gaussian collar cutoff
-status: draft
+status: published
 research_item: lem-author-14de055b8ceb-gaussian-cutoff-projection
 dependency_level: 2
 ---

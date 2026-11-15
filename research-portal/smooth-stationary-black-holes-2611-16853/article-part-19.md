@@ -2,7 +2,7 @@
 title: Article items · 19 — Cutoff maximum principle and uniform collar regularity
 description: Presents 29 items from the article and its immediate prerequisites,
   covering dependency levels 19–40.
-status: draft
+status: published
 dependency_level: 13
 research_article_page: true
 item_count: 29

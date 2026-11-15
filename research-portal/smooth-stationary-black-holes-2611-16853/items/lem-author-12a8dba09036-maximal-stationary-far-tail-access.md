@@ -2,7 +2,7 @@
 id: lem-author-12a8dba09036-maximal-stationary-far-tail-access
 title: A maximal stationary exterior has future access to its far tail
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

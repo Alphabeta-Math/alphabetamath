@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-decaying-time-gauge
 title: A decaying stationary time gauge gives bounded section displacement
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Maximal stationary shift has zero divergence and tangent boundary
-status: draft
+status: published
 research_item: lem-author-12a8dba09036-maximal-shift-divergence-and-boundary
 dependency_level: 0
 ---

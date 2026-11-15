@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-complete-asymptotically-flat-double
 title: Complete two-ended geometry and decay of the reflected data
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

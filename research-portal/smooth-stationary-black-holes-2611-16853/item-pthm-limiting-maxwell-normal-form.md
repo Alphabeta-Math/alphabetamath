@@ -1,6 +1,6 @@
 ---
 title: Boost invariance and limiting Maxwell normal form
-status: draft
+status: published
 research_item: pthm-limiting-maxwell-normal-form
 dependency_level: 35
 sources:

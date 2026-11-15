@@ -2,7 +2,7 @@
 id: lem-author-1f6675f2ec55-continuous-potential-comparison
 title: Weak compact-domain comparison for continuous nonnegative potentials
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

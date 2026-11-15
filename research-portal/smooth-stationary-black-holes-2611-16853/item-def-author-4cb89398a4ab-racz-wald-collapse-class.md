@@ -1,6 +1,6 @@
 ---
 title: Precise Rácz–Wald global collapse class
-status: draft
+status: published
 research_item: def-author-4cb89398a4ab-racz-wald-collapse-class
 dependency_level: 5
 sources:

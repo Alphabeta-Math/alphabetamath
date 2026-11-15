@@ -1,6 +1,6 @@
 ---
 title: Ellipticity recovers every remaining normal derivative
-status: draft
+status: published
 research_item: lem-author-c9fb06089ef2-elliptic-normal-derivative-recovery
 dependency_level: 10
 ---

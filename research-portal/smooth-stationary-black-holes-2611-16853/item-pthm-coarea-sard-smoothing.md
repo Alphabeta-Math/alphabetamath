@@ -1,6 +1,6 @@
 ---
 title: Coarea, smooth approximation and regular area-controlled levels
-status: draft
+status: published
 research_item: pthm-coarea-sard-smoothing
 dependency_level: 30
 sources:

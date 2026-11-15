@@ -1,6 +1,6 @@
 ---
 title: Proper stationary projection for continued slices
-status: draft
+status: published
 research_item: pthm-nearby-stationary-projection
 dependency_level: 12
 sources:

@@ -2,7 +2,7 @@
 id: pthm-maximal-slice-background
 title: "Remark 1.1: maximal slice and decay"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 proof_strategy: direct

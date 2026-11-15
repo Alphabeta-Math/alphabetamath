@@ -2,7 +2,7 @@
 id: lem-author-1a44964f66ee-outward-elliptic-variation
 title: Outward graph stability has the negative-Laplacian principal symbol
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: A generic timelike product for a prescribed smooth Cauchy section
-status: draft
+status: published
 research_item: lem-author-e7cde3233cd7-cauchy-section-product
 dependency_level: 2
 sources:

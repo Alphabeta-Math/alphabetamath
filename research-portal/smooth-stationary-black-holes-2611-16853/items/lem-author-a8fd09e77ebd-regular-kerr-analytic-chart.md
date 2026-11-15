@@ -2,7 +2,7 @@
 id: lem-author-a8fd09e77ebd-regular-kerr-analytic-chart
 title: Analytic Kerr coordinates across the chosen nondegenerate horizon
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

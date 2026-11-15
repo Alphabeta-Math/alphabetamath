@@ -1,6 +1,6 @@
 ---
 title: Affine null-generator profiles vanish exactly on the bifurcation section
-status: draft
+status: published
 research_item: lem-author-9a15bef58785-affine-generator-zero-locus
 dependency_level: 1
 ---

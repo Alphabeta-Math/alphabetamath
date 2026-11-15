@@ -1,6 +1,6 @@
 ---
 title: Stationary graph translation preserves source asymptotics
-status: draft
+status: published
 research_item: lem-author-9e5789a3d617-graph-decay-translation
 dependency_level: 1
 ---

@@ -1,6 +1,6 @@
 ---
 title: Finite volume and interior density force exact flow invariance
-status: draft
+status: published
 research_item: lem-author-12a8dba09036-finite-volume-exact-invariance
 dependency_level: 2
 ---

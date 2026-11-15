@@ -2,7 +2,7 @@
 id: rem-weighted-fredholm-ingredients
 title: Fredholm ingredients stated in Lemma 3.1
 kind: remark
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

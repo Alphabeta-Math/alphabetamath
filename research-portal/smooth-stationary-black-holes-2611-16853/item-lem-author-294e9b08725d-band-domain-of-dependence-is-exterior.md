@@ -1,6 +1,6 @@
 ---
 title: The exterior is the interior domain of dependence in the glued ambient
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-band-domain-of-dependence-is-exterior
 dependency_level: 15
 sources:

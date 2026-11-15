@@ -2,7 +2,7 @@
 id: pthm-harrison-forced-normalization
 title: Cartan normalization at the bifurcation pole
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Smooth global data for the axisymmetric comparison
-status: draft
+status: published
 research_item: def-author-64ac0bd1fcc4-global-axisymmetric-comparison-data
 dependency_level: 5
 sources:

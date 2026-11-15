@@ -2,7 +2,7 @@
 id: lem-author-9e1b6fa65528-relative-normal-homotopy
 title: Relative homotopy primitive on a normal bundle
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

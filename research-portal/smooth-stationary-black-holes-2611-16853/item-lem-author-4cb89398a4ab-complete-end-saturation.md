@@ -1,6 +1,6 @@
 ---
 title: Complete stationary saturation of the end
-status: draft
+status: published
 research_item: lem-author-4cb89398a4ab-complete-end-saturation
 dependency_level: 3
 ---

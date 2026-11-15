@@ -2,7 +2,7 @@
 id: def-author-310ff0f53b38-acausal-finite-end-section
 title: Acausal hypersurface with compact core and finitely many ends
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

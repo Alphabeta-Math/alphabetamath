@@ -1,6 +1,6 @@
 ---
 title: Exact asymptotic and orbit package for the IK criterion
-status: draft
+status: published
 research_item: def-author-9f9c6144aed8-ik-af
 dependency_level: 2
 sources:

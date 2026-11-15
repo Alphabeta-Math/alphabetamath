@@ -1,6 +1,6 @@
 ---
 title: "Lemma 3.3: common spacelike reference collar"
-status: draft
+status: published
 research_item: pthm-common-reference-collar
 dependency_level: 10
 sources:

@@ -2,7 +2,7 @@
 id: def-author-abbd1939ec07-ordered-vacuum-rods
 title: Ordered horizon rods and twist-jump labels
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

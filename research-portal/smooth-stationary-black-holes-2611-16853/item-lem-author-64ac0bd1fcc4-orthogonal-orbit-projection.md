@@ -1,6 +1,6 @@
 ---
 title: Orthogonal projection away from the symmetry plane
-status: draft
+status: published
 research_item: lem-author-64ac0bd1fcc4-orthogonal-orbit-projection
 dependency_level: 8
 ---

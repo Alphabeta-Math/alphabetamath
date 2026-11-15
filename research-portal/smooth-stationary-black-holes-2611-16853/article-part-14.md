@@ -3,7 +3,7 @@ title: Article items · 14 — Geometric data for the analytic multiple-horizon
   comparison
 description: Presents 28 items from the article and its immediate prerequisites,
   covering dependency level 5.
-status: draft
+status: published
 dependency_level: 8
 research_article_page: true
 item_count: 28

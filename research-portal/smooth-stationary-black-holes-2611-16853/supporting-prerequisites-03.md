@@ -2,7 +2,7 @@
 title: Supporting prerequisites · 03 — Komar flux equals the original stationary
   mass coefficient
 description: Presents 21 supporting prerequisites, covering dependency levels 5–15.
-status: draft
+status: published
 dependency_level: 15
 item_count: 21
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vacuum metrics embed as stationary electrovacuum data with zero field
-status: draft
+status: published
 research_item: lem-author-69e1abcd87be-vacuum-zero-maxwell-embedding
 dependency_level: 1
 ---

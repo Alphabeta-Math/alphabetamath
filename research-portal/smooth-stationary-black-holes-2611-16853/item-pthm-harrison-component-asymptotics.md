@@ -1,6 +1,6 @@
 ---
 title: Uniform transformed component estimates
-status: draft
+status: published
 research_item: pthm-harrison-component-asymptotics
 dependency_level: 9
 sources:

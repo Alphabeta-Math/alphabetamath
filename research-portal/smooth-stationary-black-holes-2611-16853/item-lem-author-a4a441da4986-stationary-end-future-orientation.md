@@ -1,6 +1,6 @@
 ---
 title: Stationary end access and future orientation need no maximal slice
-status: draft
+status: published
 research_item: lem-author-a4a441da4986-stationary-end-future-orientation
 dependency_level: 3
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boundary angle bound and normal-graph cone
-status: draft
+status: published
 research_item: pthm-boundary-normal-angle
 dependency_level: 17
 sources:

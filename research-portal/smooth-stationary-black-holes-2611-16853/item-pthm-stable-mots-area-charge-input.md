@@ -1,6 +1,6 @@
 ---
 title: Stable MOTS area–charge inequality
-status: draft
+status: published
 research_item: pthm-stable-mots-area-charge-input
 dependency_level: 7
 sources:

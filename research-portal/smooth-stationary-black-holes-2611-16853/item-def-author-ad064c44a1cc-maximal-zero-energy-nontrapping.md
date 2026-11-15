@@ -1,6 +1,6 @@
 ---
 title: The precise maximal zero-energy nontrapping predicate
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-maximal-zero-energy-nontrapping
 dependency_level: 4
 sources:

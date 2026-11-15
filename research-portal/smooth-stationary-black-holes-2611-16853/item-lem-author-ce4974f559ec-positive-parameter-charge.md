@@ -1,6 +1,6 @@
 ---
 title: Positive-parameter Harrison charge limits in the original end chart
-status: draft
+status: published
 research_item: lem-author-ce4974f559ec-positive-parameter-charge
 dependency_level: 4
 ---

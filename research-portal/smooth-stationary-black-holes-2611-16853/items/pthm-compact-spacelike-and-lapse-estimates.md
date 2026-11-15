@@ -2,7 +2,7 @@
 id: pthm-compact-spacelike-and-lapse-estimates
 title: Uniform compact graph and positive-lapse estimates
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

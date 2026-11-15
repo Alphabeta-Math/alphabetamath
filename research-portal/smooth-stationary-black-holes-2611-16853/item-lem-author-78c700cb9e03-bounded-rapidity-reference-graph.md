@@ -1,6 +1,6 @@
 ---
 title: A smooth spacelike reference section is a bounded rapidity graph
-status: draft
+status: published
 research_item: lem-author-78c700cb9e03-bounded-rapidity-reference-graph
 dependency_level: 3
 ---

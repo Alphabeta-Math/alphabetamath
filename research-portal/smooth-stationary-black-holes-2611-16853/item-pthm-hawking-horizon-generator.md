@@ -1,6 +1,6 @@
 ---
 title: Hawking horizon generator and analytic global rigidity
-status: draft
+status: published
 research_item: pthm-hawking-horizon-generator
 dependency_level: 5
 sources:

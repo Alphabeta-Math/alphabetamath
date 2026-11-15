@@ -1,6 +1,6 @@
 ---
 title: Horizon null frame, flux densities and stability operator notation
-status: draft
+status: published
 research_item: def-horizon-flux-and-stability-notation
 dependency_level: 6
 sources:

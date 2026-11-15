@@ -1,6 +1,6 @@
 ---
 title: Smooth invariant Harrison primitive near the horizon and at infinity
-status: draft
+status: published
 research_item: thm-stationary-harrison-primitive-input
 dependency_level: 2
 sources:

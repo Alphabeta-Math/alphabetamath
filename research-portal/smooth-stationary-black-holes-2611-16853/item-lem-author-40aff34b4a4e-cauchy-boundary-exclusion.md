@@ -1,6 +1,6 @@
 ---
 title: A Cauchy section cannot end on only one chronological horizon
-status: draft
+status: published
 research_item: lem-author-40aff34b4a4e-cauchy-boundary-exclusion
 dependency_level: 3
 ---

@@ -1,6 +1,6 @@
 ---
 title: A smooth Cauchy hypersurface gives a connected timelike-flow product
-status: draft
+status: published
 research_item: lem-author-40aff34b4a4e-cauchy-timelike-flow-product
 dependency_level: 3
 ---

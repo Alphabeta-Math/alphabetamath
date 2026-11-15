@@ -1,6 +1,6 @@
 ---
 title: A compact-target boundary point has a null geodesic segment
-status: draft
+status: published
 research_item: lem-author-2632702918ef-compact-target-null-segment
 dependency_level: 3
 sources:

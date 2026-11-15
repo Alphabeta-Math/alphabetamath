@@ -1,6 +1,6 @@
 ---
 title: General MOTS first variation before electrovac specialization
-status: draft
+status: published
 research_item: thm-mots-first-variation-input
 dependency_level: 9
 sources:

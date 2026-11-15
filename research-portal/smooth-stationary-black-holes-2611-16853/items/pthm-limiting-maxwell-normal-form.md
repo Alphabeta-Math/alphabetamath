@@ -2,7 +2,7 @@
 id: pthm-limiting-maxwell-normal-form
 title: Boost invariance and limiting Maxwell normal form
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

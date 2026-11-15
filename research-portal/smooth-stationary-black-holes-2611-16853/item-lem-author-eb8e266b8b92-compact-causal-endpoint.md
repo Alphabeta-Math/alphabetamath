@@ -1,6 +1,6 @@
 ---
 title: An interior compact causal trajectory has a finite-time endpoint
-status: draft
+status: published
 research_item: lem-author-eb8e266b8b92-compact-causal-endpoint
 dependency_level: 3
 sources:

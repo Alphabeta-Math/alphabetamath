@@ -1,6 +1,6 @@
 ---
 title: Temporal cutoff estimate for normals to maximal hypersurfaces
-status: draft
+status: published
 research_item: thm-maximal-normal-angle-estimate-input
 dependency_level: 5
 sources:

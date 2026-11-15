@@ -2,7 +2,7 @@
 id: lem-author-9e1b6fa65528-equivariant-cartan-normalization
 title: Equivariant homotopy and forced contraction constant
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

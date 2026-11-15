@@ -1,6 +1,6 @@
 ---
 title: Stationary transport of vanishing from a section
-status: draft
+status: published
 research_item: lem-author-9f9c6144aed8-stationary-zero-transport
 dependency_level: 3
 ---

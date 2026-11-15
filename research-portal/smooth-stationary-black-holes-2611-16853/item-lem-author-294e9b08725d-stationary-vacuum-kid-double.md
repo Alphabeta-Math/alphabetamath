@@ -1,6 +1,6 @@
 ---
 title: Smooth reflection of the stationary vacuum Killing initial data
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-stationary-vacuum-kid-double
 dependency_level: 4
 sources:

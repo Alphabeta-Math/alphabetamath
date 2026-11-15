@@ -2,7 +2,7 @@
 id: thm-stationary-maximal-slice-existence-input
 title: Stationary maximal hypersurface existence with a horizon boundary
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

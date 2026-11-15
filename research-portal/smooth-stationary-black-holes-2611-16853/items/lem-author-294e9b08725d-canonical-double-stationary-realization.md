@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-canonical-double-stationary-realization
 title: Vacuum development realizing the exterior and local boost germs
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

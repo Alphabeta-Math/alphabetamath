@@ -1,6 +1,6 @@
 ---
 title: Quantifiers and parameter gap in the ADM smallness hypothesis
-status: draft
+status: published
 research_item: lem-author-ad064c44a1cc-adm-threshold-quantifiers
 dependency_level: 7
 ---

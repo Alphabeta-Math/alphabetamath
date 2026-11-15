@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-maximal-end-critical-logarithm-exclusion
 title: The first possible shift and lapse logarithms vanish by indicial projection
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

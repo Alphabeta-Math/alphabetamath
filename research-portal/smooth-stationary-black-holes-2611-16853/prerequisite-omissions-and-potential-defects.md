@@ -2,7 +2,7 @@
 title: Prerequisite omissions and potential defects
 research_report: defects
 description: Original-article findings for The uniqueness of smooth stationary black holes.
-status: draft
+status: published
 generated_at: 2026-11-15T05:45:21.741Z
 ---
 

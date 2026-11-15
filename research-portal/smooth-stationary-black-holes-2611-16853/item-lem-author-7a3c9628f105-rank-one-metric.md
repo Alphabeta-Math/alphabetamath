@@ -1,6 +1,6 @@
 ---
 title: Regular Lorentzian metric from the normalized rank-one map
-status: draft
+status: published
 research_item: lem-author-7a3c9628f105-rank-one-metric
 dependency_level: 3
 sources:

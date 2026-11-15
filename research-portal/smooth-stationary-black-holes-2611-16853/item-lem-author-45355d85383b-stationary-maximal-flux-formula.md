@@ -1,6 +1,6 @@
 ---
 title: Stationary maximal graphs have an explicit uniformly spacelike flux
-status: draft
+status: published
 research_item: lem-author-45355d85383b-stationary-maximal-flux-formula
 dependency_level: 2
 ---

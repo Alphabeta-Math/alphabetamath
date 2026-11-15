@@ -1,6 +1,6 @@
 ---
 title: Lapse, shift, induced metric and second fundamental form
-status: draft
+status: published
 research_item: def-lapse-shift-notation
 dependency_level: 1
 sources:

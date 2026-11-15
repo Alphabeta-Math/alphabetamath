@@ -2,7 +2,7 @@
 id: def-author-0336834a2590-surface-map-jacobian
 title: Tangential area Jacobian on a measurable surface domain
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

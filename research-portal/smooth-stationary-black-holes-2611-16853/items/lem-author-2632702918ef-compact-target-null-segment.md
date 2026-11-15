@@ -2,7 +2,7 @@
 id: lem-author-2632702918ef-compact-target-null-segment
 title: A compact-target boundary point has a null geodesic segment
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

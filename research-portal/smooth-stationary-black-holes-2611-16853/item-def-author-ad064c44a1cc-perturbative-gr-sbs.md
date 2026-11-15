@@ -1,6 +1,6 @@
 ---
 title: AIK perturbative global regularity and bifurcation package
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-perturbative-gr-sbs
 dependency_level: 2
 sources:

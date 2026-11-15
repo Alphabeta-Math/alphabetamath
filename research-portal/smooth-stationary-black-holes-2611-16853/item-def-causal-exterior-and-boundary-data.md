@@ -1,6 +1,6 @@
 ---
 title: Causal exterior, chronological boundaries and Cauchy data
-status: draft
+status: published
 research_item: def-causal-exterior-and-boundary-data
 dependency_level: 1
 sources:

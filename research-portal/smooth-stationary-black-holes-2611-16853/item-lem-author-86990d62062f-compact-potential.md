@@ -1,6 +1,6 @@
 ---
 title: Compact multiplication by a faster-decaying potential
-status: draft
+status: published
 research_item: lem-author-86990d62062f-compact-potential
 dependency_level: 1
 ---

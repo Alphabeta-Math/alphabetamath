@@ -2,7 +2,7 @@
 id: lem-author-db87cb8e0bab-annular-scaling
 title: Annular scaling and fixed interior covers
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-6413ea293c6d-electrovac-normal-contraction
 title: Electrovac contraction in the normalized normal plane
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

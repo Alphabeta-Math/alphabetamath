@@ -1,6 +1,6 @@
 ---
 title: Uniform stationary return persists under arbitrary tangential drift
-status: draft
+status: published
 research_item: lem-author-18fcf05360ee-uniform-stationary-return-with-tangential-motion
 dependency_level: 3
 ---

@@ -2,7 +2,7 @@
 id: pthm-degenerate-analytic-uniqueness
 title: Analytic connected-horizon uniqueness including the degenerate case
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

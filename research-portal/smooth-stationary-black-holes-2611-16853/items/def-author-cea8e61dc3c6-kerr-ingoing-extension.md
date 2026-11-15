@@ -2,7 +2,7 @@
 id: def-author-cea8e61dc3c6-kerr-ingoing-extension
 title: A specified future ingoing Kerr extension and its time orientation
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

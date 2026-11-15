@@ -2,7 +2,7 @@
 id: lem-author-86990d62062f-weighted-scalar-inverse
 title: Scalar exterior inverse from exhaustion and uniform annular estimates
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

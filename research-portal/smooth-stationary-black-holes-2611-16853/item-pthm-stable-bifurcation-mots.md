@@ -1,6 +1,6 @@
 ---
 title: Nonnegative principal eigenvalue of the horizon stability operator
-status: draft
+status: published
 research_item: pthm-stable-bifurcation-mots
 dependency_level: 26
 sources:

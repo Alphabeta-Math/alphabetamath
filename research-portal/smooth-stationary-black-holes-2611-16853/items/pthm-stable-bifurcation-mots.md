@@ -2,7 +2,7 @@
 id: pthm-stable-bifurcation-mots
 title: Nonnegative principal eigenvalue of the horizon stability operator
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

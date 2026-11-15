@@ -2,7 +2,7 @@
 id: lem-lipschitz-cut-coarea-smoothing-input
 title: Coarea smoothing with fixed boundary values and area control
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

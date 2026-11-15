@@ -1,6 +1,6 @@
 ---
 title: ADM section time and causal spatial speed
-status: draft
+status: published
 research_item: lem-author-eb8e266b8b92-adm-time-speed
 dependency_level: 2
 sources:

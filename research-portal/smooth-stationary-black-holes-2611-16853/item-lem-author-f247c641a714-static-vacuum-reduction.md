@@ -1,6 +1,6 @@
 ---
 title: Vacuum curvature of a globally static product
-status: draft
+status: published
 research_item: lem-author-f247c641a714-static-vacuum-reduction
 dependency_level: 2
 ---

@@ -1,7 +1,7 @@
 ---
 title: Timelike transfer supplies access to every sufficiently distant
   stationary cylinder
-status: draft
+status: published
 research_item: lem-author-fd27ddabb933-distant-cylinder-timelike-access
 dependency_level: 2
 ---

@@ -1,6 +1,6 @@
 ---
 title: A Riemannian Killing shift vanishing on the whole boundary vanishes globally
-status: draft
+status: published
 research_item: lem-author-a4a441da4986-boundary-fixed-killing-shift
 dependency_level: 1
 ---

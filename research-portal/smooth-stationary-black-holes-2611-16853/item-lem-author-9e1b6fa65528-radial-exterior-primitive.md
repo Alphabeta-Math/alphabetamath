@@ -1,6 +1,6 @@
 ---
 title: Radial primitive and five differentiated decay bounds
-status: draft
+status: published
 research_item: lem-author-9e1b6fa65528-radial-exterior-primitive
 dependency_level: 1
 ---

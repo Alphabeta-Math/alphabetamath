@@ -1,7 +1,7 @@
 ---
 title: Rescaling a geometric Schrödinger equation without treating its potential
   as forcing
-status: draft
+status: published
 research_item: lem-author-58255dfd955f-unit-ball-rescaling
 dependency_level: 2
 ---

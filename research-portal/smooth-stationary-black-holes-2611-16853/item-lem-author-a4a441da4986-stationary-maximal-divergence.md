@@ -1,6 +1,6 @@
 ---
 title: The stationary maximal vacuum divergence identity with the article sign
-status: draft
+status: published
 research_item: lem-author-a4a441da4986-stationary-maximal-divergence
 dependency_level: 1
 ---

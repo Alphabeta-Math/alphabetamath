@@ -5,7 +5,7 @@ description: Connect the common data to Ernst potentials, Harrison
   uniqueness criteria. Keep each imported result tied to its stated hypotheses
   and each local consequence tied to its existing argument before article
   applications.
-status: draft
+status: published
 dependency_level: 1
 ---
 

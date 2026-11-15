@@ -1,6 +1,6 @@
 ---
 title: "Remark 1.3: lapse bounds and stationary product"
-status: draft
+status: published
 research_item: pthm-original-lapse-and-product
 dependency_level: 6
 sources:

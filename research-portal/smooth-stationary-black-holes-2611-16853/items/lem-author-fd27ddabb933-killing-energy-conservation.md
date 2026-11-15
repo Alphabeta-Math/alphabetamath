@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-killing-energy-conservation
 title: The stationary Killing energy is constant along every affine null segment
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

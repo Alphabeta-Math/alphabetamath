@@ -2,7 +2,7 @@
 id: def-null-screen-expansion-and-focal-data
 title: Null expansions, screen quotients and focal data
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

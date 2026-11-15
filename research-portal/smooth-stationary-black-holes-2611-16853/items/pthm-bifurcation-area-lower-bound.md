@@ -2,7 +2,7 @@
 id: pthm-bifurcation-area-lower-bound
 title: "Theorem 4.2: charged horizon area lower bound"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

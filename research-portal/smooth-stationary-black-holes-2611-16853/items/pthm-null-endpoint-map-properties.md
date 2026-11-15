@@ -2,7 +2,7 @@
 id: pthm-null-endpoint-map-properties
 title: Closed generator set and nonintersection before the cut
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

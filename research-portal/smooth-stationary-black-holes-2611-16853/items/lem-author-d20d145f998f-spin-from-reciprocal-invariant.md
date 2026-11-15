@@ -2,7 +2,7 @@
 id: lem-author-d20d145f998f-spin-from-reciprocal-invariant
 title: The reciprocal-potential invariant determines the end spin bound
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

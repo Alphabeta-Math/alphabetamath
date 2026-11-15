@@ -1,6 +1,6 @@
 ---
 title: The zero Harrison parameter follows from continuity on one fixed sphere
-status: draft
+status: published
 research_item: lem-author-ce4974f559ec-fixed-sphere-endpoints
 dependency_level: 4
 ---

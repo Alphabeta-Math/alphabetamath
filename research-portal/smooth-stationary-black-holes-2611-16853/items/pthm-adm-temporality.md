@@ -2,7 +2,7 @@
 id: pthm-adm-temporality
 title: ADM form and stable causality of positive-q metrics
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 proof_strategy: direct

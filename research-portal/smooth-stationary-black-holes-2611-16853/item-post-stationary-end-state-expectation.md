@@ -1,6 +1,6 @@
 ---
 title: Physical expectation of late-time stationarity
-status: draft
+status: published
 research_item: post-stationary-end-state-expectation
 dependency_level: 6
 sources:

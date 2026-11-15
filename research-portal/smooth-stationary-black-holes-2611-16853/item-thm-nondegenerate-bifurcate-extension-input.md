@@ -1,6 +1,6 @@
 ---
 title: Nonzero constant surface gravity and global bifurcate extension
-status: draft
+status: published
 research_item: thm-nondegenerate-bifurcate-extension-input
 dependency_level: 6
 sources:

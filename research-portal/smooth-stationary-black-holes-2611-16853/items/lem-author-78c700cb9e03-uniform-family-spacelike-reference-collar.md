@@ -2,7 +2,7 @@
 id: lem-author-78c700cb9e03-uniform-family-spacelike-reference-collar
 title: Compact metric families have a common spacelike collar with fixed boost rate
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

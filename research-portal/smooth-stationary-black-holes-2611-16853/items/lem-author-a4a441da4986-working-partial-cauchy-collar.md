@@ -2,7 +2,7 @@
 id: lem-author-a4a441da4986-working-partial-cauchy-collar
 title: A working partial-Cauchy collar satisfies the source GR section equalities
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

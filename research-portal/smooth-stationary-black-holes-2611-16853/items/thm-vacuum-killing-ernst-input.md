@@ -2,7 +2,7 @@
 id: thm-vacuum-killing-ernst-input
 title: Vacuum Killing and Ernst differential identities
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

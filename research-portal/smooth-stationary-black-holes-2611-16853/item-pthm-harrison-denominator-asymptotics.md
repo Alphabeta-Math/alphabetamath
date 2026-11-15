@@ -1,6 +1,6 @@
 ---
 title: Uniform denominator and one-form estimates
-status: draft
+status: published
 research_item: pthm-harrison-denominator-asymptotics
 dependency_level: 8
 sources:

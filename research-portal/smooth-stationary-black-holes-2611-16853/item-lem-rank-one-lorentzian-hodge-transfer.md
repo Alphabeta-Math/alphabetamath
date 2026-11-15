@@ -1,6 +1,6 @@
 ---
 title: Rank-one tangent changes, signature and Hodge transfer
-status: draft
+status: published
 research_item: lem-rank-one-lorentzian-hodge-transfer
 dependency_level: 1
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Angle differential inequality near S
-status: draft
+status: published
 research_item: pthm-normal-angle-differential-inequality
 dependency_level: 18
 sources:

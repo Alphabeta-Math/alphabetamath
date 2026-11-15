@@ -1,6 +1,6 @@
 ---
 title: K-flow barriers with boundary tangency comparison and uniform height bound
-status: draft
+status: published
 research_item: pthm-hawking-graph-barriers
 dependency_level: 16
 sources:

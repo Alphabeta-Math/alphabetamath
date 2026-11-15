@@ -1,6 +1,6 @@
 ---
 title: Weighted Hölder spaces and their Dirichlet kernels are Banach
-status: draft
+status: published
 research_item: lem-author-45355d85383b-weighted-holder-completeness
 dependency_level: 2
 ---

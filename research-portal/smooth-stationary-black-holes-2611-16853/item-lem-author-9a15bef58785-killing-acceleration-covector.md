@@ -1,6 +1,6 @@
 ---
 title: For a Killing field the acceleration and surface-gravity equations agree
-status: draft
+status: published
 research_item: lem-author-9a15bef58785-killing-acceleration-covector
 dependency_level: 1
 ---

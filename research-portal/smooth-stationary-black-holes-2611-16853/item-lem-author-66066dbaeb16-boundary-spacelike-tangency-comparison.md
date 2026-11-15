@@ -1,6 +1,6 @@
 ---
 title: Strict mean-curvature barriers cannot have ordered boundary tangency
-status: draft
+status: published
 research_item: lem-author-66066dbaeb16-boundary-spacelike-tangency-comparison
 dependency_level: 2
 ---

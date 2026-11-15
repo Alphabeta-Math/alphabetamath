@@ -1,6 +1,6 @@
 ---
 title: An arbitrary metric isometry transports analyticity and Killing fields
-status: draft
+status: published
 research_item: lem-author-a8fd09e77ebd-isometry-analytic-pullback
 dependency_level: 0
 sources:

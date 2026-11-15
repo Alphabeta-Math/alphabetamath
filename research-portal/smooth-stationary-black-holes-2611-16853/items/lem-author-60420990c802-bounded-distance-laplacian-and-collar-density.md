@@ -2,7 +2,7 @@
 id: lem-author-60420990c802-bounded-distance-laplacian-and-collar-density
 title: Distance Laplacian and normal-collar volume density are uniformly bounded
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

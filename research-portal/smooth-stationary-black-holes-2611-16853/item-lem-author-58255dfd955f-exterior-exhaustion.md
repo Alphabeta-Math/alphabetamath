@@ -1,6 +1,6 @@
 ---
 title: Exterior exhaustion bounds for normalized Schrödinger solutions
-status: draft
+status: published
 research_item: lem-author-58255dfd955f-exterior-exhaustion
 dependency_level: 4
 ---

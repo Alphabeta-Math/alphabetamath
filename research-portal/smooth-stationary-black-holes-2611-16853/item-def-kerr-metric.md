@@ -1,6 +1,6 @@
 ---
 title: Kerr metric, parameters, exterior and extremality
-status: draft
+status: published
 research_item: def-kerr-metric
 dependency_level: 5
 sources:

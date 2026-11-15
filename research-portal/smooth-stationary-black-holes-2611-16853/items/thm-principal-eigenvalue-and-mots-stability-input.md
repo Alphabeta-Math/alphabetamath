@@ -2,7 +2,7 @@
 id: thm-principal-eigenvalue-and-mots-stability-input
 title: Principal eigenfunctions and MOTS spectral stability
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-64ac0bd1fcc4-orbit-gram-determinant
 title: Gram determinant for the two symmetry directions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

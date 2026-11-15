@@ -1,6 +1,6 @@
 ---
 title: Quantitative lapse and shift bounds force annular timelikeness
-status: draft
+status: published
 research_item: lem-author-0a41d659d5ab-annular-timelike-gap
 dependency_level: 4
 sources:

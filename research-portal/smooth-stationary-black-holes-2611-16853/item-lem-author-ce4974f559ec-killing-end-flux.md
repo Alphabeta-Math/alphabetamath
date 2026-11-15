@@ -1,6 +1,6 @@
 ---
 title: The mass-one Killing form has electric seed flux minus four pi
-status: draft
+status: published
 research_item: lem-author-ce4974f559ec-killing-end-flux
 dependency_level: 3
 ---

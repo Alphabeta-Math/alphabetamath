@@ -1,6 +1,6 @@
 ---
 title: Stationary flow-box data for a nonzero Killing field
-status: draft
+status: published
 research_item: lem-author-c92bdd91a36e-stationary-local-jets
 dependency_level: 1
 sources:

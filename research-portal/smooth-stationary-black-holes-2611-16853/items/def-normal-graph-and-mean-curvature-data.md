@@ -2,7 +2,7 @@
 id: def-normal-graph-and-mean-curvature-data
 title: Normal graphs and the nonlinear mean-curvature map
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

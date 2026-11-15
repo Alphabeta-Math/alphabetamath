@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-stationary-maximal-flux-formula
 title: Stationary maximal graphs have an explicit uniformly spacelike flux
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

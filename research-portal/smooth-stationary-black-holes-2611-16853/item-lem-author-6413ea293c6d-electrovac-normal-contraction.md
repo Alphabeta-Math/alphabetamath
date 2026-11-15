@@ -1,6 +1,6 @@
 ---
 title: Electrovac contraction in the normalized normal plane
-status: draft
+status: published
 research_item: lem-author-6413ea293c6d-electrovac-normal-contraction
 dependency_level: 6
 ---

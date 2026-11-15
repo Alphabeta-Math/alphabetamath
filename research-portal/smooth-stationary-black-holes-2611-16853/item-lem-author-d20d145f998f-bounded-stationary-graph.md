@@ -1,6 +1,6 @@
 ---
 title: Bounded spacelike stationary graphs remain Cauchy
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-bounded-stationary-graph
 dependency_level: 1
 sources:

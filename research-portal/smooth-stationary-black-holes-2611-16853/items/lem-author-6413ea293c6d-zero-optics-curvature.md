@@ -2,7 +2,7 @@
 id: lem-author-6413ea293c6d-zero-optics-curvature
 title: Zero null optics supplies the missing null Ricci condition
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

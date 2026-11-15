@@ -1,6 +1,6 @@
 ---
 title: Ground-state identity, spectral ordering and eigenspace uniqueness
-status: draft
+status: published
 research_item: lem-author-1a44964f66ee-ground-state-identity
 dependency_level: 2
 ---

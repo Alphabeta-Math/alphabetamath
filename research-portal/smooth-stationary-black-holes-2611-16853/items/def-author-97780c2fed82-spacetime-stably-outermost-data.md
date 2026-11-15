@@ -2,7 +2,7 @@
 id: def-author-97780c2fed82-spacetime-stably-outermost-data
 title: Spacetime stably outermost condition and the slice bridge
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

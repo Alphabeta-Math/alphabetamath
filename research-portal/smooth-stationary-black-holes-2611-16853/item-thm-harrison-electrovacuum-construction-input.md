@@ -1,6 +1,6 @@
 ---
 title: Regular Harrison Einstein–Maxwell family
-status: draft
+status: published
 research_item: thm-harrison-electrovacuum-construction-input
 dependency_level: 5
 sources:

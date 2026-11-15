@@ -1,6 +1,6 @@
 ---
 title: Collar barrier against finite section-time boundary arrival
-status: draft
+status: published
 research_item: lem-author-eb8e266b8b92-collar-nonarrival
 dependency_level: 3
 sources:

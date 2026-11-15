@@ -1,6 +1,6 @@
 ---
 title: Two-sided far-tail access preserves the ambient causal exterior
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-far-tail-preserves-exterior
 dependency_level: 5
 ---

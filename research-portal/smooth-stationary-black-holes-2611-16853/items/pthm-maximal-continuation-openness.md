@@ -3,7 +3,7 @@ id: pthm-maximal-continuation-openness
 title: Openness via the weighted implicit-function branch and smooth boundary
   bootstrap
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

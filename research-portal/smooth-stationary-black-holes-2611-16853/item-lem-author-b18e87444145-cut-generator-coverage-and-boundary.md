@@ -1,6 +1,6 @@
 ---
 title: The selected endpoints cover the compact cut and remain on its past boundary
-status: draft
+status: published
 research_item: lem-author-b18e87444145-cut-generator-coverage-and-boundary
 dependency_level: 6
 ---

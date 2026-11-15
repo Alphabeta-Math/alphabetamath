@@ -2,7 +2,7 @@
 id: lem-author-40aff34b4a4e-cauchy-timelike-flow-product
 title: A smooth Cauchy hypersurface gives a connected timelike-flow product
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

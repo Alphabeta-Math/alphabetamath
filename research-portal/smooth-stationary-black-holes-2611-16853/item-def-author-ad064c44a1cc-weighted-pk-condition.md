@@ -1,6 +1,6 @@
 ---
 title: The weighted AIK perturbation hypothesis PK
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-weighted-pk-condition
 dependency_level: 5
 sources:

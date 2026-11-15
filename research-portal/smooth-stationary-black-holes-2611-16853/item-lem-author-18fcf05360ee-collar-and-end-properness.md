@@ -1,6 +1,6 @@
 ---
 title: Collar comparison and an exact end projection imply properness
-status: draft
+status: published
 research_item: lem-author-18fcf05360ee-collar-and-end-properness
 dependency_level: 6
 ---

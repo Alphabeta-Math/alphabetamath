@@ -1,6 +1,6 @@
 ---
 title: The non-timelike region is confined to the local-rigidity collar
-status: draft
+status: published
 research_item: lem-author-0a41d659d5ab-ergoregion-collar
 dependency_level: 5
 sources:

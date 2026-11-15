@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-future-horizon-defining-pair
 title: A bifurcate future horizon has an oriented defining pair near its section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

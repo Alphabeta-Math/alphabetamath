@@ -2,7 +2,7 @@
 id: pthm-compact-temporal-functions
 title: Local causality and temporal functions on compact tubes
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

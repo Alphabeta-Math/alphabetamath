@@ -2,7 +2,7 @@
 id: op-smooth-multiple-hole-exclusion
 title: Smooth stationary multiple-black-hole nonexistence
 kind: open-problem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

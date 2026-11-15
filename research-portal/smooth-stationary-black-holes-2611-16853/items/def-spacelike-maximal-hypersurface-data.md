@@ -2,7 +2,7 @@
 id: def-spacelike-maximal-hypersurface-data
 title: Spacelike sections, maximality and lapse–shift data
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

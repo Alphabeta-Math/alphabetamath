@@ -2,7 +2,7 @@
 id: lem-author-4cb89398a4ab-chronological-equivariance
 title: Chronological equivariance and the no-white-hole condition
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

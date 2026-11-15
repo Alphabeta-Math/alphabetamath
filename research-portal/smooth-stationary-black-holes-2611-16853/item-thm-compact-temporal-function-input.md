@@ -1,6 +1,6 @@
 ---
 title: Compact timelike-length bounds and local temporal functions
-status: draft
+status: published
 research_item: thm-compact-temporal-function-input
 dependency_level: 4
 sources:

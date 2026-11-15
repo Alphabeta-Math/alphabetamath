@@ -2,7 +2,7 @@
 id: def-source-free-geometric-electrovacuum-data
 title: Geometric electrovacuum equations and charge convention
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

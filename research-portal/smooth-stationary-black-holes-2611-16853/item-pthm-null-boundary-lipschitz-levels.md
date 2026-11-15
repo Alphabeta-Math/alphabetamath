@@ -1,6 +1,6 @@
 ---
 title: Lipschitz causal height and level-set Jacobian bound
-status: draft
+status: published
 research_item: pthm-null-boundary-lipschitz-levels
 dependency_level: 29
 sources:

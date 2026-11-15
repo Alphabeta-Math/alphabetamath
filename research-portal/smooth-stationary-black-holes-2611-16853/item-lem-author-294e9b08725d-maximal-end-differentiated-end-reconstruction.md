@@ -1,7 +1,7 @@
 ---
 title: The same maximal slice has the differentiated article end gauge and a
   limiting old time
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-maximal-end-differentiated-end-reconstruction
 dependency_level: 9
 ---

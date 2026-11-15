@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-compact-source-energy-bound
 title: Compact normalized source data give a target-independent energy bound
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

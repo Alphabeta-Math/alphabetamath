@@ -1,6 +1,6 @@
 ---
 title: "Lemma 4.1: Cauchy sections and global hyperbolicity"
-status: draft
+status: published
 research_item: pthm-transformed-cauchy-sections
 dependency_level: 24
 sources:

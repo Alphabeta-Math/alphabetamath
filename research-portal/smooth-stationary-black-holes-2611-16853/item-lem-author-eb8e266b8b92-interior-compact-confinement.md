@@ -1,6 +1,6 @@
 ---
 title: Combining the collar and end barriers into interior compact confinement
-status: draft
+status: published
 research_item: lem-author-eb8e266b8b92-interior-compact-confinement
 dependency_level: 4
 sources:

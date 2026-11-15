@@ -2,7 +2,7 @@
 id: def-author-310ff0f53b38-null-generator-cross-section
 title: Null generators and once-only cross-sections
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

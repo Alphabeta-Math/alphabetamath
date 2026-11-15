@@ -1,6 +1,6 @@
 ---
 title: Stationary transfer of timelike curves
-status: draft
+status: published
 research_item: pthm-timelike-path-transfer
 dependency_level: 7
 sources:

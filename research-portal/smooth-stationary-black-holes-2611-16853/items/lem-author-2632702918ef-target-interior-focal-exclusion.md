@@ -2,7 +2,7 @@
 id: lem-author-2632702918ef-target-interior-focal-exclusion
 title: Boundary membership excludes interior focal points from the target
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

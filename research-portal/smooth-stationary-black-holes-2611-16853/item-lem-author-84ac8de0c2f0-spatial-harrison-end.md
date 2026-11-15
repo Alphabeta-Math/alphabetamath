@@ -1,6 +1,6 @@
 ---
 title: Uniform spatial components and the cylinder scale
-status: draft
+status: published
 research_item: lem-author-84ac8de0c2f0-spatial-harrison-end
 dependency_level: 7
 ---

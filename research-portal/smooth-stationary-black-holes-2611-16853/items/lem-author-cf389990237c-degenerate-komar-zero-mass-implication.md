@@ -2,7 +2,7 @@
 id: lem-author-cf389990237c-degenerate-komar-zero-mass-implication
 title: Degeneracy forces zero mass when global Komar transport applies
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

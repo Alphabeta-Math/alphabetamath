@@ -2,7 +2,7 @@
 id: def-stationary-lorentzian-data
 title: Stationary Lorentzian data and tensor conventions
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

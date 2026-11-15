@@ -1,6 +1,6 @@
 ---
 title: Nomizu extension and uniqueness in the analytic Lorentzian setting
-status: draft
+status: published
 research_item: thm-author-a8fd09e77ebd-nomizu-analytic-extension
 dependency_level: 1
 sources:

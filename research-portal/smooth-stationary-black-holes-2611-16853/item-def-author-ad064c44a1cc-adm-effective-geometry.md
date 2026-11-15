@@ -1,6 +1,6 @@
 ---
 title: The actual geometric constant in the small-ADM theorem
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-adm-effective-geometry
 dependency_level: 6
 sources:

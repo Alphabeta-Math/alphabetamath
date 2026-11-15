@@ -2,7 +2,7 @@
 id: lem-author-9e5789a3d617-exterior-exclusion-interface
 title: Black and white exclusion is an ambient reachability condition
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

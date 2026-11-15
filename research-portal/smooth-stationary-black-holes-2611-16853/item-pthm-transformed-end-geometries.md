@@ -1,6 +1,6 @@
 ---
 title: Asymptotically flat positive-q ends and cylindrical limit
-status: draft
+status: published
 research_item: pthm-transformed-end-geometries
 dependency_level: 10
 sources:

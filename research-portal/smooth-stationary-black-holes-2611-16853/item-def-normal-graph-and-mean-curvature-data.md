@@ -1,6 +1,6 @@
 ---
 title: Normal graphs and the nonlinear mean-curvature map
-status: draft
+status: published
 research_item: def-normal-graph-and-mean-curvature-data
 dependency_level: 0
 sources:

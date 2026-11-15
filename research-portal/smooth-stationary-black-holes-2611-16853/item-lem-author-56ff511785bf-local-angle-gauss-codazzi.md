@@ -1,6 +1,6 @@
 ---
 title: Pointwise Gauss–Codazzi identities for the normal angle
-status: draft
+status: published
 research_item: lem-author-56ff511785bf-local-angle-gauss-codazzi
 dependency_level: 1
 sources:

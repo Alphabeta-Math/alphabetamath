@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-maximal-end-same-slice-polyhomogeneous-gauge
 title: The source maximal-gauge expansion can be used on the same CW slice
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

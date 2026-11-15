@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-killing-flow-invariance
 title: Killing flow preserves its complex two-form
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

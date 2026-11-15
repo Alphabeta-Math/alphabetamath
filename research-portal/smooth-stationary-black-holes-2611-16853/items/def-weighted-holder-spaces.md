@@ -2,7 +2,7 @@
 id: def-weighted-holder-spaces
 title: Weighted Hölder norms on a three-dimensional exterior
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

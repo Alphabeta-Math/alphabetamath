@@ -1,6 +1,6 @@
 ---
 title: Lifting a normalized stationary primitive to the Harrison parameter
-status: draft
+status: published
 research_item: lem-author-7a3c9628f105-primitive-parameter-lift
 dependency_level: 2
 sources:

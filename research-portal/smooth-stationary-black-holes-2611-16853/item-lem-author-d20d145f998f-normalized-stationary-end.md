@@ -1,6 +1,6 @@
 ---
 title: Stationary end normalization from quotient compactification
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-normalized-stationary-end
 dependency_level: 1
 sources:

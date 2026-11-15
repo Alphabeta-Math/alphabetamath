@@ -1,6 +1,6 @@
 ---
 title: Outward graph stability has the negative-Laplacian principal symbol
-status: draft
+status: published
 research_item: lem-author-1a44964f66ee-outward-elliptic-variation
 dependency_level: 6
 ---

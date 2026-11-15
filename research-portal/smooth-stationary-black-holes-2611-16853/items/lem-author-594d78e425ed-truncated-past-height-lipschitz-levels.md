@@ -3,7 +3,7 @@ id: lem-author-594d78e425ed-truncated-past-height-lipschitz-levels
 title: The truncated past height is Lipschitz and has exactly the pulled-back
   cuts as levels
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

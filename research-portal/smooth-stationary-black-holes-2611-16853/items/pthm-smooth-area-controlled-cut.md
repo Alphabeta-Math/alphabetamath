@@ -2,7 +2,7 @@
 id: pthm-smooth-area-controlled-cut
 title: "Lemma 4.4: smooth compact comparison region"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-a8fd09e77ebd-killing-bracket
 title: The bracket of two Killing fields is Killing
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

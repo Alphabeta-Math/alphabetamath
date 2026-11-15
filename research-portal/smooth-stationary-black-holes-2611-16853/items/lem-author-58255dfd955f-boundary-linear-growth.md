@@ -2,7 +2,7 @@
 id: lem-author-58255dfd955f-boundary-linear-growth
 title: Hopf positivity and uniform linear growth on a fixed compact collar
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

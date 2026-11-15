@@ -1,6 +1,6 @@
 ---
 title: Ambient closure and intrinsic boundary of a hypersurface
-status: draft
+status: published
 research_item: def-author-310ff0f53b38-closure-and-boundary-data
 dependency_level: 0
 ---

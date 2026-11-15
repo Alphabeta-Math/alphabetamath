@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-kerr-future-horizon
 title: A causal barrier identifies the future Kerr event horizon
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

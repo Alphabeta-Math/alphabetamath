@@ -1,6 +1,6 @@
 ---
 title: The closed selected domain has smooth endpoint extensions
-status: draft
+status: published
 research_item: lem-author-b18e87444145-transverse-null-hit-extensions
 dependency_level: 4
 ---

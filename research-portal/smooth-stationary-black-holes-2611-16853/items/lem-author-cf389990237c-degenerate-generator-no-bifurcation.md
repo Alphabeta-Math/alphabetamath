@@ -2,7 +2,7 @@
 id: lem-author-cf389990237c-degenerate-generator-no-bifurcation
 title: A nonzero degenerate generator cannot vanish at a regular bifurcation section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

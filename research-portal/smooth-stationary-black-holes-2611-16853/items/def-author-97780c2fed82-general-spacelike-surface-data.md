@@ -2,7 +2,7 @@
 id: def-author-97780c2fed82-general-spacelike-surface-data
 title: General spacelike two-surfaces, null gauges and fluxes
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

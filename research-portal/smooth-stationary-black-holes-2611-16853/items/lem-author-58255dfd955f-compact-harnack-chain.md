@@ -2,7 +2,7 @@
 id: lem-author-58255dfd955f-compact-harnack-chain
 title: Finite Harnack chains on fixed compact connected interior sets
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

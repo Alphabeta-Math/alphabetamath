@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-adm-effective-geometry
 title: The actual geometric constant in the small-ADM theorem
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

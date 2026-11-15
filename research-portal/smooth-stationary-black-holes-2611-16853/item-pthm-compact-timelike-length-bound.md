@@ -1,6 +1,6 @@
 ---
 title: Compact-tube timelike length bound
-status: draft
+status: published
 research_item: pthm-compact-timelike-length-bound
 dependency_level: 16
 sources:

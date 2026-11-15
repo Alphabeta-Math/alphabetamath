@@ -2,7 +2,7 @@
 id: lem-author-9f9c6144aed8-sublevel-path-exhaustion
 title: Pathwise exhaustion by anchored Ernst sublevels
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

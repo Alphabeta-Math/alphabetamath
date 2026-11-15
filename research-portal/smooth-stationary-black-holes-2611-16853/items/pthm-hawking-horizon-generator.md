@@ -2,7 +2,7 @@
 id: pthm-hawking-horizon-generator
 title: Hawking horizon generator and analytic global rigidity
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

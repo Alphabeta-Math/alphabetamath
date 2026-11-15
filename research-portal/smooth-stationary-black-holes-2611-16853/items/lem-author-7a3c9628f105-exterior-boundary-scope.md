@@ -2,7 +2,7 @@
 id: lem-author-7a3c9628f105-exterior-boundary-scope
 title: Scope of smooth field equations at an exterior horizon boundary
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Ordered horizon rods and twist-jump labels
-status: draft
+status: published
 research_item: def-author-abbd1939ec07-ordered-vacuum-rods
 dependency_level: 5
 sources:

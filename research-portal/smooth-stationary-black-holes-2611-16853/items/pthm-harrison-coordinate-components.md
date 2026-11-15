@@ -2,7 +2,7 @@
 id: pthm-harrison-coordinate-components
 title: Coordinate components of the transformed metric
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

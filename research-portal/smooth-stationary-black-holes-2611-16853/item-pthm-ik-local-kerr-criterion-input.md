@@ -1,6 +1,6 @@
 ---
 title: Ionescu–Klainerman local Kerr criterion with full interface
-status: draft
+status: published
 research_item: pthm-ik-local-kerr-criterion-input
 dependency_level: 4
 sources:

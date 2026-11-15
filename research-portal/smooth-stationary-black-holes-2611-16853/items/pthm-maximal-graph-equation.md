@@ -2,7 +2,7 @@
 id: pthm-maximal-graph-equation
 title: Asymptotic maximal graph equation and coefficients
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

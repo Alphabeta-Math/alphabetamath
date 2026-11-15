@@ -2,7 +2,7 @@
 id: def-author-310ff0f53b38-stationary-flow-exterior
 title: Complete stationary flow and its exterior region
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

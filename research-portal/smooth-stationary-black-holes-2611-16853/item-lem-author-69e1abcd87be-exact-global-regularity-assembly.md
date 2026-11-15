@@ -1,6 +1,6 @@
 ---
 title: Exact assembly of the global I-plus regularity assumptions
-status: draft
+status: published
 research_item: lem-author-69e1abcd87be-exact-global-regularity-assembly
 dependency_level: 6
 ---

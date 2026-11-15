@@ -1,6 +1,6 @@
 ---
 title: Anchored lapse propagation and quantitative stationary coordinate transfer
-status: draft
+status: published
 research_item: lem-author-3bd197b76c61-anchored-lapse-and-stationary-transfer
 dependency_level: 6
 ---

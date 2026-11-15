@@ -2,7 +2,7 @@
 id: lem-author-c92bdd91a36e-common-positive-neighborhood
 title: A common positive Harrison domain across the compact sphere
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

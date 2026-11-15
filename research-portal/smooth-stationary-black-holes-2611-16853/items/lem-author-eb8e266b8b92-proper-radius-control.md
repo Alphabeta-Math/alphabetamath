@@ -2,7 +2,7 @@
 id: lem-author-eb8e266b8b92-proper-radius-control
 title: Proper end radius and exclusion of finite-time spatial infinity
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

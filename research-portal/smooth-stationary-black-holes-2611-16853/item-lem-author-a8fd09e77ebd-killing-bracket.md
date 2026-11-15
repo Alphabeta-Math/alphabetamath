@@ -1,6 +1,6 @@
 ---
 title: The bracket of two Killing fields is Killing
-status: draft
+status: published
 research_item: lem-author-a8fd09e77ebd-killing-bracket
 dependency_level: 1
 ---

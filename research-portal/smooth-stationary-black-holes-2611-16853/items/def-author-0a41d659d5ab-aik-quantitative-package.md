@@ -2,7 +2,7 @@
 id: def-author-0a41d659d5ab-aik-quantitative-package
 title: Exact AIK global, horizon and quantitative hypotheses
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

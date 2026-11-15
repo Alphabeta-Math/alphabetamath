@@ -1,6 +1,6 @@
 ---
 title: Decaying Dirichlet kernel and the exact closed-component exception
-status: draft
+status: published
 research_item: lem-author-1f6675f2ec55-decaying-kernel-components
 dependency_level: 2
 sources:

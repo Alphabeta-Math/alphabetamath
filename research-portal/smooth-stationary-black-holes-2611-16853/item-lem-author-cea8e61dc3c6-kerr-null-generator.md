@@ -1,6 +1,6 @@
 ---
 title: The outer Kerr null hypersurface and its future generator
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-kerr-null-generator
 dependency_level: 3
 sources:

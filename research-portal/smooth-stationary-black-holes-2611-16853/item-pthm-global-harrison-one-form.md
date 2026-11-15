@@ -1,6 +1,6 @@
 ---
 title: Closedness, periods and smooth global choice of W0
-status: draft
+status: published
 research_item: pthm-global-harrison-one-form
 dependency_level: 8
 sources:

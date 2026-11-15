@@ -3,7 +3,7 @@ id: lem-author-fd27ddabb933-source-normal-null-generator
 title: Time reversal supplies a source-normal generator without interior source
   focal points
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

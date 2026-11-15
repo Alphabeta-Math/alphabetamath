@@ -1,6 +1,6 @@
 ---
 title: Stationary product time is a Cauchy temporal coordinate
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-stationary-product-cauchy-time
 dependency_level: 0
 ---

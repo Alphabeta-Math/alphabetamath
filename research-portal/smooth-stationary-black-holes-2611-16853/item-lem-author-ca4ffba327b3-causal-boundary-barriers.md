@@ -1,6 +1,6 @@
 ---
 title: Causal curves from a common chronological boundary obey two barriers
-status: draft
+status: published
 research_item: lem-author-ca4ffba327b3-causal-boundary-barriers
 dependency_level: 0
 ---

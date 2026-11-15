@@ -2,7 +2,7 @@
 id: lem-author-c9fb06089ef2-flattened-dirichlet-quasilinear-equation
 title: Flattening a smooth fixed boundary preserves the elliptic graph equation
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

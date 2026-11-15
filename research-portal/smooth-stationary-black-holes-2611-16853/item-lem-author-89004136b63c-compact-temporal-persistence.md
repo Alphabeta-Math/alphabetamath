@@ -1,6 +1,6 @@
 ---
 title: A compact temporal covector persists under metric perturbation
-status: draft
+status: published
 research_item: lem-author-89004136b63c-compact-temporal-persistence
 dependency_level: 3
 ---

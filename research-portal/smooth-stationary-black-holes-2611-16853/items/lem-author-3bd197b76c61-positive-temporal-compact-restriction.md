@@ -2,7 +2,7 @@
 id: lem-author-3bd197b76c61-positive-temporal-compact-restriction
 title: Shifting a temporal function permits a controlled compact restriction
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: pthm-uniform-horizon-maximal-graphs
 title: "Lemma 3.4: uniform graph regularity at the bifurcation sphere"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

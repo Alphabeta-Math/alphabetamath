@@ -2,7 +2,7 @@
 id: lem-author-b18e87444145-cut-generator-coverage-and-boundary
 title: The selected endpoints cover the compact cut and remain on its past boundary
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

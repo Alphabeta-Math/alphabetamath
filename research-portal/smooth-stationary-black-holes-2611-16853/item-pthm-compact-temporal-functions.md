@@ -1,6 +1,6 @@
 ---
 title: Local causality and temporal functions on compact tubes
-status: draft
+status: published
 research_item: pthm-compact-temporal-functions
 dependency_level: 17
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Exact AIK global, horizon and quantitative hypotheses
-status: draft
+status: published
 research_item: def-author-0a41d659d5ab-aik-quantitative-package
 dependency_level: 2
 sources:

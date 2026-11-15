@@ -2,7 +2,7 @@
 id: lem-author-ce4974f559ec-closed-flux-transfer
 title: Closed electric and magnetic two-forms transfer their periods to the horizon
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

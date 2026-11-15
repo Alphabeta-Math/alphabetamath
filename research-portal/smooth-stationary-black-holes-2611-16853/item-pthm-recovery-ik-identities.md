@@ -1,6 +1,6 @@
 ---
 title: "Proposition 5.1: recovery of Ionescu–Klainerman conditions"
-status: draft
+status: published
 research_item: pthm-recovery-ik-identities
 dependency_level: 39
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Strongly causal complete stationary ambient gluing around the exterior
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-hausdorff-causal-stationary-collar-gluing
 dependency_level: 14
 sources:

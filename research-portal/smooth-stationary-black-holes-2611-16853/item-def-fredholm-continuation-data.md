@@ -1,6 +1,6 @@
 ---
 title: Fredholm and Banach continuation interfaces
-status: draft
+status: published
 research_item: def-fredholm-continuation-data
 dependency_level: 0
 ---

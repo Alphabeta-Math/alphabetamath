@@ -1,6 +1,6 @@
 ---
 title: Cauchy sections do not end at a one-sided chronological horizon
-status: draft
+status: published
 research_item: lem-author-e7cde3233cd7-one-sided-boundary-exclusion
 dependency_level: 2
 sources:

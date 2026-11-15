@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-weighted-smooth-inversion
 title: Smooth positive inversion and composition in the weighted multiplier class
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

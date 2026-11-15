@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-bifurcation-boundary-zero-expansions
 title: Zero boundary expansions without maximality
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

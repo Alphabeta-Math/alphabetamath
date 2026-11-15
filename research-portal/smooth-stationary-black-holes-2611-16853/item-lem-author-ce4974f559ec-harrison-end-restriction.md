@@ -1,6 +1,6 @@
 ---
 title: Harrison spatial two-form differs from the seed by an integrable tail
-status: draft
+status: published
 research_item: lem-author-ce4974f559ec-harrison-end-restriction
 dependency_level: 1
 ---

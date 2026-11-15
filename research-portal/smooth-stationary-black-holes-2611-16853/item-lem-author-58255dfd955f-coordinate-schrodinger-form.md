@@ -1,6 +1,6 @@
 ---
 title: Coordinate and weak forms of the geometric Schrödinger equation
-status: draft
+status: published
 research_item: lem-author-58255dfd955f-coordinate-schrodinger-form
 dependency_level: 1
 ---

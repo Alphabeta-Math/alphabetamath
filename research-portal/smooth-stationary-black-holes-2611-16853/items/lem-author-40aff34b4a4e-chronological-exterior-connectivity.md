@@ -2,7 +2,7 @@
 id: lem-author-40aff34b4a4e-chronological-exterior-connectivity
 title: Connectedness and causal convexity of a chronological exterior
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

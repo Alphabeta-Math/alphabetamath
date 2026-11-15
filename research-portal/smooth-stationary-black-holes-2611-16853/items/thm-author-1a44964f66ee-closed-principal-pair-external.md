@@ -2,7 +2,7 @@
 id: thm-author-1a44964f66ee-closed-principal-pair-external
 title: Imported positive eigenpairs for a smooth closed elliptic operator
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-60420990c802-normal-coordinate-is-intrinsic-boundary-distance
 title: The inward normal coordinate is intrinsic distance from the boundary
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

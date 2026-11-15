@@ -1,6 +1,6 @@
 ---
 title: Pole identities and the Ernst scalar inequality reduction
-status: draft
+status: published
 research_item: pthm-pole-ernst-normal-derivative
 dependency_level: 37
 sources:

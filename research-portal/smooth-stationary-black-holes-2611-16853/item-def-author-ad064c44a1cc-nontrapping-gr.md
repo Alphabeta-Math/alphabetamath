@@ -1,6 +1,6 @@
 ---
 title: Radu nontrapping global regularity package
-status: draft
+status: published
 research_item: def-author-ad064c44a1cc-nontrapping-gr
 dependency_level: 2
 sources:

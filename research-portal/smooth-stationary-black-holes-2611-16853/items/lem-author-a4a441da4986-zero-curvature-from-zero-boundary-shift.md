@@ -3,7 +3,7 @@ id: lem-author-a4a441da4986-zero-curvature-from-zero-boundary-shift
 title: A supplied complete maximal slice has zero extrinsic curvature in the
   zero-shift case
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

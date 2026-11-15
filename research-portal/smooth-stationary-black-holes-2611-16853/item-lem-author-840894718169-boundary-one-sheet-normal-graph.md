@@ -1,6 +1,6 @@
 ---
 title: A one-sheet boundary germ propagates across the common normal collar
-status: draft
+status: published
 research_item: lem-author-840894718169-boundary-one-sheet-normal-graph
 dependency_level: 6
 ---

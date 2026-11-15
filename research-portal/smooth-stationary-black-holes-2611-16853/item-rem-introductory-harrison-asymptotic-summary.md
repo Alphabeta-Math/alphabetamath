@@ -1,6 +1,6 @@
 ---
 title: Introductory Harrison asymptotic claims
-status: draft
+status: published
 research_item: rem-introductory-harrison-asymptotic-summary
 dependency_level: 9
 sources:

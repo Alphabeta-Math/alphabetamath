@@ -1,6 +1,6 @@
 ---
 title: Constant homothety preserves the original vacuum and maximal section
-status: draft
+status: published
 research_item: lem-author-29145f41e94d-homothetic-stationary-geometry
 dependency_level: 2
 ---

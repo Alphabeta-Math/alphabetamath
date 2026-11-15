@@ -1,6 +1,6 @@
 ---
 title: The transverse lapse is a positive weighted Dirichlet multiplier
-status: draft
+status: published
 research_item: lem-author-45355d85383b-positive-lapse-multiplier
 dependency_level: 5
 ---

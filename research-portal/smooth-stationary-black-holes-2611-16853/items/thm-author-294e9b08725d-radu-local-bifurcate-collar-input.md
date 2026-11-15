@@ -2,7 +2,7 @@
 id: thm-author-294e9b08725d-radu-local-bifurcate-collar-input
 title: External local boost collar and canonical temporal splice
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: thm-maximal-normal-angle-estimate-input
 title: Temporal cutoff estimate for normals to maximal hypersurfaces
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

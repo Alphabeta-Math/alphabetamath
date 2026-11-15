@@ -2,7 +2,7 @@
 id: lem-author-7a3c9628f105-primitive-parameter-lift
 title: Lifting a normalized stationary primitive to the Harrison parameter
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

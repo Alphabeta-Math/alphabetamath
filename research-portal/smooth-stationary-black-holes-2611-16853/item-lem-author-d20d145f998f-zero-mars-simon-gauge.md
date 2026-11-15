@@ -1,6 +1,6 @@
 ---
 title: Normalized Ernst data and zero Mars–Simon survive stationary gauges
-status: draft
+status: published
 research_item: lem-author-d20d145f998f-zero-mars-simon-gauge
 dependency_level: 2
 ---

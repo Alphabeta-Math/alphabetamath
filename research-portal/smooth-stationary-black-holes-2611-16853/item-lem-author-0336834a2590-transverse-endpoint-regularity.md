@@ -1,6 +1,6 @@
 ---
 title: Transverse hitting maps have local differentiable extensions
-status: draft
+status: published
 research_item: lem-author-0336834a2590-transverse-endpoint-regularity
 dependency_level: 0
 ---

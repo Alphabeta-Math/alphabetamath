@@ -1,6 +1,6 @@
 ---
 title: Linear and path-independent normal-graph variation of expansion
-status: draft
+status: published
 research_item: lem-author-c50357f4fa9e-linear-expansion-variation
 dependency_level: 3
 ---

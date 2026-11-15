@@ -2,7 +2,7 @@
 id: pthm-past-boundary-localization
 title: "Lemma 4.3: localization of the causal cut near S"
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

@@ -2,7 +2,7 @@
 id: lem-author-cf389990237c-constant-gravity-horizon-komar-integral
 title: Constant surface gravity gives the normalized horizon integral
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

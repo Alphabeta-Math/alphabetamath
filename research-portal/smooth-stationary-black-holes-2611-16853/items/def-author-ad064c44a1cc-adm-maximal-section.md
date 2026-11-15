@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-adm-maximal-section
 title: Maximality and smooth boundary in the ADM theorem
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

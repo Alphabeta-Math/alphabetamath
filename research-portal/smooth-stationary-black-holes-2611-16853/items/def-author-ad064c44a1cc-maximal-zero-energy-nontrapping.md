@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-maximal-zero-energy-nontrapping
 title: The precise maximal zero-energy nontrapping predicate
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

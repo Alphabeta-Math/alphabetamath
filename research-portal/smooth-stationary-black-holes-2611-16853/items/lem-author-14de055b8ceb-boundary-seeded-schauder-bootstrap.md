@@ -2,7 +2,7 @@
 id: lem-author-14de055b8ceb-boundary-seeded-schauder-bootstrap
 title: Uniform boundary Schauder bootstrap after a C1-Holder seed
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

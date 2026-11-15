@@ -2,7 +2,7 @@
 id: lem-author-66066dbaeb16-fixed-surface-flow-graph-tangency
 title: Equal fixed-surface flow heights imply boundary tangency
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: pthm-timelike-path-transfer
 title: Stationary transfer of timelike curves
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

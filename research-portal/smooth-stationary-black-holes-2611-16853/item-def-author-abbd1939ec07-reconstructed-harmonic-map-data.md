@@ -1,6 +1,6 @@
 ---
 title: Harmonic-map and Weyl reconstruction comparison data
-status: draft
+status: published
 research_item: def-author-abbd1939ec07-reconstructed-harmonic-map-data
 dependency_level: 6
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Hawking and rotational fields near a bifurcate sphere
-status: draft
+status: published
 research_item: thm-local-bifurcate-rigidity-input
 dependency_level: 4
 sources:

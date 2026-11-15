@@ -1,6 +1,6 @@
 ---
 title: Uniqueness forces an extended axial field to commute
-status: draft
+status: published
 research_item: lem-author-a8fd09e77ebd-commutation-from-uniqueness
 dependency_level: 2
 ---

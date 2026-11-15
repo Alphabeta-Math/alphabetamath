@@ -1,6 +1,6 @@
 ---
 title: Stationary lifting of a spatial primitive
-status: draft
+status: published
 research_item: lem-author-9e1b6fa65528-stationary-spatial-lifting
 dependency_level: 0
 ---

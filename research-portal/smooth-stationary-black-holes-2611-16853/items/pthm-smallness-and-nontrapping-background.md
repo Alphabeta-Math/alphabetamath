@@ -2,7 +2,7 @@
 id: pthm-smallness-and-nontrapping-background
 title: Reported smooth uniqueness under additional hypotheses
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

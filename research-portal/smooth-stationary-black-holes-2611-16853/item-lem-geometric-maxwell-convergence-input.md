@@ -1,6 +1,6 @@
 ---
 title: Maxwell algebra supplies timelike and null convergence
-status: draft
+status: published
 research_item: lem-geometric-maxwell-convergence-input
 dependency_level: 1
 sources:

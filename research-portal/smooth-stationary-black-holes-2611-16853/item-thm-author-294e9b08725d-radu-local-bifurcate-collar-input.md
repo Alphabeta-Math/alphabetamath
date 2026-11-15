@@ -1,6 +1,6 @@
 ---
 title: External local boost collar and canonical temporal splice
-status: draft
+status: published
 research_item: thm-author-294e9b08725d-radu-local-bifurcate-collar-input
 dependency_level: 8
 sources:

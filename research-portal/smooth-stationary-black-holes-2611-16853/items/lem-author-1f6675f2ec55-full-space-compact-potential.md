@@ -2,7 +2,7 @@
 id: lem-author-1f6675f2ec55-full-space-compact-potential
 title: Compact potential multiplication without a Dirichlet restriction
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

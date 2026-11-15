@@ -2,7 +2,7 @@
 id: lem-author-fd2999663761-cutoff-interior-maximum-exclusion
 title: Differential exclusion of a large interior weighted angle maximum
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

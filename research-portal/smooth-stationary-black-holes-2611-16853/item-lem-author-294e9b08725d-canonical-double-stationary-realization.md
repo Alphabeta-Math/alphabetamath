@@ -1,6 +1,6 @@
 ---
 title: Vacuum development realizing the exterior and local boost germs
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-canonical-double-stationary-realization
 dependency_level: 12
 sources:

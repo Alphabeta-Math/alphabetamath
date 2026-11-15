@@ -1,6 +1,6 @@
 ---
 title: A compact normal-flow collar has uniformly small area distortion
-status: draft
+status: published
 research_item: lem-author-594d78e425ed-compact-normal-flow-and-area-distortion
 dependency_level: 5
 ---

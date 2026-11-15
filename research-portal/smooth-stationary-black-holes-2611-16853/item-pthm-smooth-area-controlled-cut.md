@@ -1,6 +1,6 @@
 ---
 title: "Lemma 4.4: smooth compact comparison region"
-status: draft
+status: published
 research_item: pthm-smooth-area-controlled-cut
 dependency_level: 31
 sources:

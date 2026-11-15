@@ -2,7 +2,7 @@
 id: lem-author-ad064c44a1cc-adm-threshold-quantifiers
 title: Quantifiers and parameter gap in the ADM smallness hypothesis
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

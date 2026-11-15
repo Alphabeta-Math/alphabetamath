@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-nontrapping-gr
 title: Radu nontrapping global regularity package
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

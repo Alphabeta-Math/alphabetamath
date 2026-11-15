@@ -2,7 +2,7 @@
 id: lem-author-0a41d659d5ab-horizon-field-norm
 title: Horizon smallness is the induced norm of the tangential stationary field
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Preservation of bifurcate horizons and surface gravity
-status: draft
+status: published
 research_item: pthm-bifurcate-horizon-preservation
 dependency_level: 9
 sources:

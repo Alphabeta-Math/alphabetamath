@@ -1,6 +1,6 @@
 ---
 title: Horizon expansion variation and Einstein–Maxwell curvature
-status: draft
+status: published
 research_item: pthm-mots-stability-operator
 dependency_level: 10
 sources:

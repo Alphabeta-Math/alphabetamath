@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-inward-branch-exterior-exclusion
 title: An exterior-contained null segment to a distant target cannot start inward
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

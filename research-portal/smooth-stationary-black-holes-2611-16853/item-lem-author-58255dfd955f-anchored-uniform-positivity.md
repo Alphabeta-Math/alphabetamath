@@ -1,6 +1,6 @@
 ---
 title: Positive anchor values and the limits of uniform Harnack propagation
-status: draft
+status: published
 research_item: lem-author-58255dfd955f-anchored-uniform-positivity
 dependency_level: 3
 ---

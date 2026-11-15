@@ -2,7 +2,7 @@
 id: def-author-4cb89398a4ab-racz-wald-collapse-class
 title: Precise Rácz–Wald global collapse class
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

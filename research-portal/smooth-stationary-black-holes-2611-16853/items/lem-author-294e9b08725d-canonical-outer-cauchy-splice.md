@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-canonical-outer-cauchy-splice
 title: Canonical bifurcation collar joined to the original exterior Cauchy section
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

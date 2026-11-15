@@ -1,6 +1,6 @@
 ---
 title: Asymptotic mass and axial angular-momentum conventions
-status: draft
+status: published
 research_item: def-author-cea8e61dc3c6-kerr-asymptotic-charge-conventions
 dependency_level: 1
 sources:

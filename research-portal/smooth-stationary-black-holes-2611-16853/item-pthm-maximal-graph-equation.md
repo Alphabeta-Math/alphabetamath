@@ -1,6 +1,6 @@
 ---
 title: Asymptotic maximal graph equation and coefficients
-status: draft
+status: published
 research_item: pthm-maximal-graph-equation
 dependency_level: 13
 sources:

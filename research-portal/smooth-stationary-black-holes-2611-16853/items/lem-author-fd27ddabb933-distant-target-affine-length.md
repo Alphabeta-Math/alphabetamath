@@ -2,7 +2,7 @@
 id: lem-author-fd27ddabb933-distant-target-affine-length
 title: Distant targets force arbitrarily long source-normalized affine segments
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

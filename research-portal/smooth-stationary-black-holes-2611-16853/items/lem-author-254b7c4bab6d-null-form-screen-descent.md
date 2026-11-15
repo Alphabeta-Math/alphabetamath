@@ -2,7 +2,7 @@
 id: lem-author-254b7c4bab6d-null-form-screen-descent
 title: Null second fundamental form descends to the screen quotient
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

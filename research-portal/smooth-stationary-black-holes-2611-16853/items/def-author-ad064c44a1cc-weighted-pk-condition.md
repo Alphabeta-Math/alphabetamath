@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-weighted-pk-condition
 title: The weighted AIK perturbation hypothesis PK
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

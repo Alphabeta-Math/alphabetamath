@@ -1,7 +1,7 @@
 ---
 title: Every negative-time cut has a closed selected domain and smooth endpoint
   extensions
-status: draft
+status: published
 research_item: lem-author-594d78e425ed-negative-cut-selected-endpoints
 dependency_level: 7
 ---

@@ -2,7 +2,7 @@
 id: pthm-electrovacuum-energy-conditions
 title: Energy-condition inputs for the transformed geometry
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

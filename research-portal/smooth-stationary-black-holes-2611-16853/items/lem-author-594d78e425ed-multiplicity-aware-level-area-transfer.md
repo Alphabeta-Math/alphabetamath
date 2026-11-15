@@ -2,7 +2,7 @@
 id: lem-author-594d78e425ed-multiplicity-aware-level-area-transfer
 title: Level-set area transfer retains generator multiplicity
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

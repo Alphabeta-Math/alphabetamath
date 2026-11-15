@@ -1,6 +1,6 @@
 ---
 title: The mass factor in the recovered Ernst identity
-status: draft
+status: published
 research_item: lem-author-29145f41e94d-ernst-homothety
 dependency_level: 5
 ---

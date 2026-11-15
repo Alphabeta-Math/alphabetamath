@@ -2,7 +2,7 @@
 id: lem-author-86990d62062f-closed-component-index
 title: Compact extra components contribute index zero
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

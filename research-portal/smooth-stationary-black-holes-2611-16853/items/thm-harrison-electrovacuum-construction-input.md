@@ -2,7 +2,7 @@
 id: thm-harrison-electrovacuum-construction-input
 title: Regular Harrison Einstein–Maxwell family
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Mass-one Ernst and radial primitive asymptotics
-status: draft
+status: published
 research_item: pthm-ernst-and-one-form-decay
 dependency_level: 7
 sources:

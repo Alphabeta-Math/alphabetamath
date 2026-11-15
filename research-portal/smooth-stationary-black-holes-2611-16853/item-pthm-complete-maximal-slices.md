@@ -1,6 +1,6 @@
 ---
 title: "Theorem 3.1: complete maximal slices for positive q"
-status: draft
+status: published
 research_item: pthm-complete-maximal-slices
 dependency_level: 21
 sources:

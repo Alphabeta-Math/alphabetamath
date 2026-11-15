@@ -1,6 +1,6 @@
 ---
 title: Closed Ernst form and existence of normalized potential
-status: draft
+status: published
 research_item: pthm-ernst-potential-existence
 dependency_level: 6
 sources:

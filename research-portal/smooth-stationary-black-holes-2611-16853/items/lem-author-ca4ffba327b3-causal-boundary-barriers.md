@@ -2,7 +2,7 @@
 id: lem-author-ca4ffba327b3-causal-boundary-barriers
 title: Causal curves from a common chronological boundary obey two barriers
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: op-black-hole-uniqueness-conjecture
 title: General stationary vacuum black-hole uniqueness conjecture
 kind: open-problem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

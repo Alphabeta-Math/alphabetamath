@@ -1,6 +1,6 @@
 ---
 title: Reported comparison and Bertotti–Robinson strategy
-status: draft
+status: published
 research_item: rem-radu-comparison-strategy
 dependency_level: 6
 sources:

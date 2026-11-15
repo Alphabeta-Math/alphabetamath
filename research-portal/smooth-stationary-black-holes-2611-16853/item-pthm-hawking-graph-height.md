@@ -1,6 +1,6 @@
 ---
 title: Existence and boost-coordinate description of Hawking-flow heights
-status: draft
+status: published
 research_item: pthm-hawking-graph-height
 dependency_level: 12
 sources:

@@ -2,7 +2,7 @@
 id: def-killing-ernst-notation
 title: Killing two-form and normalized Ernst notation
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

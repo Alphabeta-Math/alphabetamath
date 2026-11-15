@@ -2,7 +2,7 @@
 id: def-author-cea8e61dc3c6-kerr-asymptotic-charge-conventions
 title: Asymptotic mass and axial angular-momentum conventions
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

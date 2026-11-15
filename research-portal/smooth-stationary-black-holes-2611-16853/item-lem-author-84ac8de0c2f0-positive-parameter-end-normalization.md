@@ -1,6 +1,6 @@
 ---
 title: Positive-parameter normalized time and spatial ends
-status: draft
+status: published
 research_item: lem-author-84ac8de0c2f0-positive-parameter-end-normalization
 dependency_level: 8
 ---

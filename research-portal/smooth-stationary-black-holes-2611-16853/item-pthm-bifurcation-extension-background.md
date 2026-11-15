@@ -1,6 +1,6 @@
 ---
 title: Bifurcation extension, local non-Kerr deformations and smooth local rigidity
-status: draft
+status: published
 research_item: pthm-bifurcation-extension-background
 dependency_level: 7
 sources:

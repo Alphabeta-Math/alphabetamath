@@ -1,6 +1,6 @@
 ---
 title: Scalar metric Jacobian and weak-gradient identification
-status: draft
+status: published
 research_item: lem-author-423fe0348a31-scalar-metric-jacobian
 dependency_level: 4
 ---

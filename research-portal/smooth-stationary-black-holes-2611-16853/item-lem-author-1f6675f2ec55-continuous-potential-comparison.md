@@ -1,6 +1,6 @@
 ---
 title: Weak compact-domain comparison for continuous nonnegative potentials
-status: draft
+status: published
 research_item: lem-author-1f6675f2ec55-continuous-potential-comparison
 dependency_level: 0
 sources:

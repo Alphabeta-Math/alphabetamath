@@ -1,6 +1,6 @@
 ---
 title: Regular static boundary geometry and positivity of the end coefficient
-status: draft
+status: published
 research_item: lem-author-f247c641a714-static-boundary-and-positive-mass
 dependency_level: 3
 ---

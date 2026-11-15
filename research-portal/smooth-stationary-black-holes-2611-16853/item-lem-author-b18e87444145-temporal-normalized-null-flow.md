@@ -1,6 +1,6 @@
 ---
 title: Temporal normalization makes the null geodesic flow compact over compact bases
-status: draft
+status: published
 research_item: lem-author-b18e87444145-temporal-normalized-null-flow
 dependency_level: 0
 ---

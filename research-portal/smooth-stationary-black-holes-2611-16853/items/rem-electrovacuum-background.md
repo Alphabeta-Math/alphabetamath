@@ -2,7 +2,7 @@
 id: rem-electrovacuum-background
 title: Reported analytic and smooth electrovacuum uniqueness literature
 kind: remark
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

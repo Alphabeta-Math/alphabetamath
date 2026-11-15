@@ -2,7 +2,7 @@
 id: lem-author-423fe0348a31-finite-relative-cutoffs
 title: Finite smooth cutoffs relative to compact sets and boundary neighborhoods
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

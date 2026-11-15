@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-kerr-adm-energy
 title: The asymptotic metric flux of Kerr equals its mass parameter
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

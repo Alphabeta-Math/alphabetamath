@@ -2,7 +2,7 @@
 id: lem-author-ca4ffba327b3-vanishing-killing-field-normal-boost
 title: A Killing field vanishing on a spacelike surface has a normal boost derivative
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

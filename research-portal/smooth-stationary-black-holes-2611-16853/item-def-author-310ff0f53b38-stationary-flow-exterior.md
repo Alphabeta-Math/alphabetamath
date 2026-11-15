@@ -1,6 +1,6 @@
 ---
 title: Complete stationary flow and its exterior region
-status: draft
+status: published
 research_item: def-author-310ff0f53b38-stationary-flow-exterior
 dependency_level: 1
 ---

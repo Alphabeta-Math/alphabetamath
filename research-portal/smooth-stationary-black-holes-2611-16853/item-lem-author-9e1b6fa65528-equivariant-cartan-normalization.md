@@ -1,6 +1,6 @@
 ---
 title: Equivariant homotopy and forced contraction constant
-status: draft
+status: published
 research_item: lem-author-9e1b6fa65528-equivariant-cartan-normalization
 dependency_level: 1
 ---

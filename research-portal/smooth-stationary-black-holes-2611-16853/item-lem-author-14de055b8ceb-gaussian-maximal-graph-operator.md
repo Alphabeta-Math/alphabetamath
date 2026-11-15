@@ -1,6 +1,6 @@
 ---
 title: Gaussian maximal graph equation on a compact spacelike slope cone
-status: draft
+status: published
 research_item: lem-author-14de055b8ceb-gaussian-maximal-graph-operator
 dependency_level: 1
 ---

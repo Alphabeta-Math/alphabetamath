@@ -1,6 +1,6 @@
 ---
 title: Weak original data furnish the one recovery family and pole
-status: draft
+status: published
 research_item: pthm-author-29145f41e94d-weak-harrison-recovery-witness
 dependency_level: 8
 sources:

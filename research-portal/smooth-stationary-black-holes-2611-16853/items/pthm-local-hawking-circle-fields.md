@@ -2,7 +2,7 @@
 id: pthm-local-hawking-circle-fields
 title: Local Hawking and axial fields, boost and pole
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

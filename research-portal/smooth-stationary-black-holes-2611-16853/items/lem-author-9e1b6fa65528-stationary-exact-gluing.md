@@ -2,7 +2,7 @@
 id: lem-author-9e1b6fa65528-stationary-exact-gluing
 title: Stationary exact corrections preserve two prescribed gauges
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Mean-curvature linearization, weighted regularity and fixed-boundary graph map
-status: draft
+status: published
 research_item: pthm-maximal-linearization
 dependency_level: 11
 sources:

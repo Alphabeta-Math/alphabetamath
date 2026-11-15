@@ -1,6 +1,6 @@
 ---
 title: Rotation, surface gravity and horizon degeneracy
-status: draft
+status: published
 research_item: def-horizon-rotation-surface-gravity
 dependency_level: 1
 sources:

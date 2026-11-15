@@ -1,6 +1,6 @@
 ---
 title: Smooth approximation of compactly supported interior heights
-status: draft
+status: published
 research_item: lem-author-423fe0348a31-finite-atlas-smoothing
 dependency_level: 1
 ---

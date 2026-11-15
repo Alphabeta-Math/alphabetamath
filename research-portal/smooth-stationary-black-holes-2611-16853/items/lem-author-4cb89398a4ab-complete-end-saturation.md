@@ -2,7 +2,7 @@
 id: lem-author-4cb89398a4ab-complete-end-saturation
 title: Complete stationary saturation of the end
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

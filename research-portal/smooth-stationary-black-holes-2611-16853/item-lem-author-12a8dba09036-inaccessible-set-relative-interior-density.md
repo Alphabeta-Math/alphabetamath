@@ -1,6 +1,6 @@
 ---
 title: Inaccessible set is the closure of its relative interior
-status: draft
+status: published
 research_item: lem-author-12a8dba09036-inaccessible-set-relative-interior-density
 dependency_level: 1
 sources:

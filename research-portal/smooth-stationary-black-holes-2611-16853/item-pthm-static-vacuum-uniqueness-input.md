@@ -1,6 +1,6 @@
 ---
 title: Static vacuum Schwarzschild classification contract
-status: draft
+status: published
 research_item: pthm-static-vacuum-uniqueness-input
 dependency_level: 5
 sources:

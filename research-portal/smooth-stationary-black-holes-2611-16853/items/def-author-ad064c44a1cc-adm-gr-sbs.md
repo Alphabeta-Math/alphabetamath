@@ -2,7 +2,7 @@
 id: def-author-ad064c44a1cc-adm-gr-sbs
 title: Radu small-ADM global and bifurcation package
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

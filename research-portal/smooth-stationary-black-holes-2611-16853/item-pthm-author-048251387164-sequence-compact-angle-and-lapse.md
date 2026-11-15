@@ -1,6 +1,6 @@
 ---
 title: Compact estimates for arbitrary sequences of individually existing slices
-status: draft
+status: published
 research_item: pthm-author-048251387164-sequence-compact-angle-and-lapse
 dependency_level: 18
 sources:

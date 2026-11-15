@@ -1,6 +1,6 @@
 ---
 title: A compact chronological target supplies a causal endpoint
-status: draft
+status: published
 research_item: lem-author-2632702918ef-compact-target-causal-endpoint
 dependency_level: 2
 sources:

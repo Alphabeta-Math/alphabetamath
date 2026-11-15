@@ -2,7 +2,7 @@
 id: lem-author-a8fd09e77ebd-isometry-analytic-pullback
 title: An arbitrary metric isometry transports analyticity and Killing fields
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

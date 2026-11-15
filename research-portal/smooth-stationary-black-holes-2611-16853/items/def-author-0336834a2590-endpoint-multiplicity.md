@@ -2,7 +2,7 @@
 id: def-author-0336834a2590-endpoint-multiplicity
 title: Counting multiplicity of an endpoint map
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

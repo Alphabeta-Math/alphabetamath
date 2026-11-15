@@ -1,6 +1,6 @@
 ---
 title: Physical motivation against stationary multiple black holes
-status: draft
+status: published
 research_item: post-multiple-hole-attraction-expectation
 dependency_level: 5
 sources:

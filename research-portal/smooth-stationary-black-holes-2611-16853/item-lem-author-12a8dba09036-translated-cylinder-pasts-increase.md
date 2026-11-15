@@ -1,6 +1,6 @@
 ---
 title: Future timelike cylinder translations make their chronological pasts increase
-status: draft
+status: published
 research_item: lem-author-12a8dba09036-translated-cylinder-pasts-increase
 dependency_level: 2
 ---

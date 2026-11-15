@@ -2,7 +2,7 @@
 id: def-surface-area-flux-and-null-variation-data
 title: Surface measure, flux densities and null normal gauge
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Gram determinant for the two symmetry directions
-status: draft
+status: published
 research_item: lem-author-64ac0bd1fcc4-orbit-gram-determinant
 dependency_level: 7
 ---

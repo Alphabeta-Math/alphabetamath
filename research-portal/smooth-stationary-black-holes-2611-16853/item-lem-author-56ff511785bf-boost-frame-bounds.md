@@ -1,6 +1,6 @@
 ---
 title: Boost-frame bounds for a smooth observer and arbitrary spacelike normals
-status: draft
+status: published
 research_item: lem-author-56ff511785bf-boost-frame-bounds
 dependency_level: 1
 sources:

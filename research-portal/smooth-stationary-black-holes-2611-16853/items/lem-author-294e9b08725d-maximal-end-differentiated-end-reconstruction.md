@@ -3,7 +3,7 @@ id: lem-author-294e9b08725d-maximal-end-differentiated-end-reconstruction
 title: The same maximal slice has the differentiated article end gauge and a
   limiting old time
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

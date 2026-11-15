@@ -1,6 +1,6 @@
 ---
 title: Negative stability eigenvalue produces outer trapped graphs
-status: draft
+status: published
 research_item: pthm-negative-eigenvalue-trapped-graphs
 dependency_level: 11
 sources:

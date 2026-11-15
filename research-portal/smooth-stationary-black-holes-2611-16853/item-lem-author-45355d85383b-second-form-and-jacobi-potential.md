@@ -1,7 +1,7 @@
 ---
 title: The graph second form and electrovacuum Jacobi potential have weighted
   order four
-status: draft
+status: published
 research_item: lem-author-45355d85383b-second-form-and-jacobi-potential
 dependency_level: 5
 ---

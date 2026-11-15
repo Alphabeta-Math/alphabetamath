@@ -2,7 +2,7 @@
 id: lem-author-b18e87444145-compact-diamond-closed-hit-domain
 title: Compact causal diamonds close the selected-generator endpoint domain
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

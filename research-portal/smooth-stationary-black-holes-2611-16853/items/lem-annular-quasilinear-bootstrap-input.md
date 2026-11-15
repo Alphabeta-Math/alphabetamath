@@ -2,7 +2,7 @@
 id: lem-annular-quasilinear-bootstrap-input
 title: Uniform annular Schauder bootstrap for spacelike graph equations
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

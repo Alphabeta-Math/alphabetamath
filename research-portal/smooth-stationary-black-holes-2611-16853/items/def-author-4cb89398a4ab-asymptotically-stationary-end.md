@@ -2,7 +2,7 @@
 id: def-author-4cb89398a4ab-asymptotically-stationary-end
 title: Exact asymptotically stationary end contract
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

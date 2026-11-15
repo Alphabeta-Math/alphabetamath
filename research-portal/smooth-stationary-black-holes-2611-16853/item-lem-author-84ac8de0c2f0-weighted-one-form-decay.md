@@ -1,6 +1,6 @@
 ---
 title: The differentiated spatial decay supplied by the Harrison lift
-status: draft
+status: published
 research_item: lem-author-84ac8de0c2f0-weighted-one-form-decay
 dependency_level: 6
 ---

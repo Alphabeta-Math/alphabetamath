@@ -2,7 +2,7 @@
 id: lem-author-14de055b8ceb-uniform-elliptic-jet-extension
 title: Uniform elliptic extension and flattening before the boundary gradient estimate
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

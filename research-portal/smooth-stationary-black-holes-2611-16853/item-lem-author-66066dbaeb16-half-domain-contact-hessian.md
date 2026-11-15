@@ -1,6 +1,6 @@
 ---
 title: Second-order contact on a closed half-domain has nonnegative Hessian
-status: draft
+status: published
 research_item: lem-author-66066dbaeb16-half-domain-contact-hessian
 dependency_level: 0
 ---

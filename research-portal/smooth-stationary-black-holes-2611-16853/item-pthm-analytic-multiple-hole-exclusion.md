@@ -1,6 +1,6 @@
 ---
 title: Exclusion of regular analytic multiple horizons
-status: draft
+status: published
 research_item: pthm-analytic-multiple-hole-exclusion
 dependency_level: 8
 sources:

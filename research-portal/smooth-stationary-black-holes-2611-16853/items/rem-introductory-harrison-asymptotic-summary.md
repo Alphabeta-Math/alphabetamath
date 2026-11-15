@@ -2,7 +2,7 @@
 id: rem-introductory-harrison-asymptotic-summary
 title: Introductory Harrison asymptotic claims
 kind: remark
-status: draft
+status: published
 origin: pipeline
 domain: physics
 proof_strategy: direct

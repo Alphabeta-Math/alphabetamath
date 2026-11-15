@@ -2,7 +2,7 @@
 id: lem-author-a4a441da4986-cauchy-closure-double-boundary
 title: Closure of the exterior Cauchy section meets only the double horizon
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

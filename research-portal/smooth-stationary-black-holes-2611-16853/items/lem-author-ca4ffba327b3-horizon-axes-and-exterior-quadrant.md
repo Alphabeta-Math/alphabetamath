@@ -2,7 +2,7 @@
 id: lem-author-ca4ffba327b3-horizon-axes-and-exterior-quadrant
 title: Smooth transverse horizon branches are the null axes of the normal tube
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

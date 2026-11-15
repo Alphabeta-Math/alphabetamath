@@ -1,6 +1,6 @@
 ---
 title: Regular non-degenerate stationary vacuum spacetime
-status: draft
+status: published
 research_item: def-regular-stationary-vacuum-spacetime
 dependency_level: 2
 sources:

@@ -2,7 +2,7 @@
 id: lem-author-294e9b08725d-band-domain-of-dependence-is-exterior
 title: The exterior is the interior domain of dependence in the glued ambient
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

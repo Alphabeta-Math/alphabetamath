@@ -2,7 +2,7 @@
 id: lem-author-a4a441da4986-stationary-maximal-divergence
 title: The stationary maximal vacuum divergence identity with the article sign
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

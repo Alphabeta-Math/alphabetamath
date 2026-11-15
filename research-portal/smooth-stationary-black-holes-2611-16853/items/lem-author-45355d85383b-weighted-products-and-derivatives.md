@@ -2,7 +2,7 @@
 id: lem-author-45355d85383b-weighted-products-and-derivatives
 title: Weighted differentiation and multiplication estimates
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

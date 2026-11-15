@@ -2,7 +2,7 @@
 id: lem-author-c92bdd91a36e-compatible-jet-limit
 title: Passing a local Harrison identity through compatible stationary jets
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

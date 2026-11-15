@@ -1,6 +1,6 @@
 ---
 title: Cofinal stationary end representatives have the same causal exterior
-status: draft
+status: published
 research_item: lem-author-ae62588ad46a-cofinal-end-causal-sets
 dependency_level: 3
 ---

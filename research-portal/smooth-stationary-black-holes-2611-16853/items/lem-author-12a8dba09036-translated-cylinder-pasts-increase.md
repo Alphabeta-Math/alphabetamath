@@ -2,7 +2,7 @@
 id: lem-author-12a8dba09036-translated-cylinder-pasts-increase
 title: Future timelike cylinder translations make their chronological pasts increase
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

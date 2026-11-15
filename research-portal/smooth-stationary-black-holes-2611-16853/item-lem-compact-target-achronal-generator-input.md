@@ -1,6 +1,6 @@
 ---
 title: Compact-target null generators and the required endpoint conditions
-status: draft
+status: published
 research_item: lem-compact-target-achronal-generator-input
 dependency_level: 6
 sources:

@@ -2,7 +2,7 @@
 id: def-horizon-rotation-surface-gravity
 title: Rotation, surface gravity and horizon degeneracy
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

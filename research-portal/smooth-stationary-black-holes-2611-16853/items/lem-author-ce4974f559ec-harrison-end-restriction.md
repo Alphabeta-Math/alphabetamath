@@ -2,7 +2,7 @@
 id: lem-author-ce4974f559ec-harrison-end-restriction
 title: Harrison spatial two-form differs from the seed by an integrable tail
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

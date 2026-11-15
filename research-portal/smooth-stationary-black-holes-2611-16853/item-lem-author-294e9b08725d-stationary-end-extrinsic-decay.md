@@ -1,6 +1,6 @@
 ---
 title: Extrinsic curvature decay on the original stationary end
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-stationary-end-extrinsic-decay
 dependency_level: 4
 sources:

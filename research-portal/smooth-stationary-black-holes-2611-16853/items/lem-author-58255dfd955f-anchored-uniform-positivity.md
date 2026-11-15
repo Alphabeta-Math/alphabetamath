@@ -2,7 +2,7 @@
 id: lem-author-58255dfd955f-anchored-uniform-positivity
 title: Positive anchor values and the limits of uniform Harnack propagation
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

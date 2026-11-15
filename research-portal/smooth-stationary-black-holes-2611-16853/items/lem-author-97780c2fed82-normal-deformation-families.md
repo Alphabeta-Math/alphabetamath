@@ -2,7 +2,7 @@
 id: lem-author-97780c2fed82-normal-deformation-families
 title: Normal deformation families and an outgoing null gauge
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

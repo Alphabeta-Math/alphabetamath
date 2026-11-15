@@ -1,6 +1,6 @@
 ---
 title: Constant combinations preserve horizon symmetries and normalize periods
-status: draft
+status: published
 research_item: lem-author-9a15bef58785-rotational-rescaling-and-commutation
 dependency_level: 1
 ---

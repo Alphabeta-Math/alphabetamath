@@ -1,6 +1,6 @@
 ---
 title: Canonical outward normals and null gauge on a graph
-status: draft
+status: published
 research_item: lem-author-c50357f4fa9e-outward-graph-null-gauge
 dependency_level: 1
 ---

@@ -1,6 +1,6 @@
 ---
 title: Asymptotically flat spacelike end and derivative decay
-status: draft
+status: published
 research_item: def-author-310ff0f53b38-asymptotically-flat-spacelike-end
 dependency_level: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Invertibility, Lorentz signature and stationary norm
-status: draft
+status: published
 research_item: pthm-harrison-lorentzian-algebra
 dependency_level: 3
 sources:

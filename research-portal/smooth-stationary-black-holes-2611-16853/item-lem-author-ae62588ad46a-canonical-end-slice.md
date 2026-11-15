@@ -1,6 +1,6 @@
 ---
 title: Canonical stationary end expansions give the precise source slice decay
-status: draft
+status: published
 research_item: lem-author-ae62588ad46a-canonical-end-slice
 dependency_level: 1
 sources:

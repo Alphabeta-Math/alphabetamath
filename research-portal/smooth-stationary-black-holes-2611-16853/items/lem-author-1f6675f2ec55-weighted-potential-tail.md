@@ -2,7 +2,7 @@
 id: lem-author-1f6675f2ec55-weighted-potential-tail
 title: Weighted product and uniform potential tails on the full input space
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

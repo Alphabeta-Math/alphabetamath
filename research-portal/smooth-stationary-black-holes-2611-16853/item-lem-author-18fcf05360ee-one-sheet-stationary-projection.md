@@ -1,6 +1,6 @@
 ---
 title: A proper stationary projection with the correct end has one sheet
-status: draft
+status: published
 research_item: lem-author-18fcf05360ee-one-sheet-stationary-projection
 dependency_level: 7
 ---

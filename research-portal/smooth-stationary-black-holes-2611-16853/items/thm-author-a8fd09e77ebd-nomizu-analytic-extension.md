@@ -2,7 +2,7 @@
 id: thm-author-a8fd09e77ebd-nomizu-analytic-extension
 title: Nomizu extension and uniqueness in the analytic Lorentzian setting
 kind: theorem
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

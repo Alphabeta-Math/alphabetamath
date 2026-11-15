@@ -1,6 +1,6 @@
 ---
 title: Connectedness and causal convexity of a chronological exterior
-status: draft
+status: published
 research_item: lem-author-40aff34b4a4e-chronological-exterior-connectivity
 dependency_level: 2
 ---

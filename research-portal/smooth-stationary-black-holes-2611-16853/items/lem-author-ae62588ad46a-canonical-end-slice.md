@@ -2,7 +2,7 @@
 id: lem-author-ae62588ad46a-canonical-end-slice
 title: Canonical stationary end expansions give the precise source slice decay
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

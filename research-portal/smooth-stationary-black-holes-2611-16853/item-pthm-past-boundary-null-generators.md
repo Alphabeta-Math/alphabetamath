@@ -1,6 +1,6 @@
 ---
 title: "Lemma 4.2: null generators of the causal past boundary"
-status: draft
+status: published
 research_item: pthm-past-boundary-null-generators
 dependency_level: 25
 sources:

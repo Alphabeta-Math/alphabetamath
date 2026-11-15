@@ -1,6 +1,6 @@
 ---
 title: Compact timelike-length bounds restrict to open subdomains
-status: draft
+status: published
 research_item: lem-author-89004136b63c-compact-length-restriction
 dependency_level: 0
 ---

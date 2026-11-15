@@ -1,6 +1,6 @@
 ---
 title: All-jet reflection parity from an exact local boost
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-exact-boost-reflection-jets
 dependency_level: 1
 sources:

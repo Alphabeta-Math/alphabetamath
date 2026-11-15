@@ -3,7 +3,7 @@ id: lem-author-89004136b63c-compact-neighborhood-localization
 title: Compact sets admit relatively compact open neighborhoods and finite chart
   pieces
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

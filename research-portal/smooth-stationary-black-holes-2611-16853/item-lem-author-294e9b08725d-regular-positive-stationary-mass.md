@@ -1,6 +1,6 @@
 ---
 title: Positive stationary mass from the bifurcate vacuum boundary
-status: draft
+status: published
 research_item: lem-author-294e9b08725d-regular-positive-stationary-mass
 dependency_level: 7
 sources:

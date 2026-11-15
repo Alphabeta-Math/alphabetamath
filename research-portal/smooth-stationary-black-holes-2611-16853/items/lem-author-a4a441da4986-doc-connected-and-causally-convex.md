@@ -2,7 +2,7 @@
 id: lem-author-a4a441da4986-doc-connected-and-causally-convex
 title: The selected exterior is connected and causally convex
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

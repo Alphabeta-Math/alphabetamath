@@ -2,7 +2,7 @@
 id: lem-author-fd2999663761-temporal-tangent-gradient
 title: Temporal angle and tangential height gradient identity
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Outward unit variation in the normalized null basis
-status: draft
+status: published
 research_item: lem-author-6413ea293c6d-null-variation-normalization
 dependency_level: 6
 sources:

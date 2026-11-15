@@ -2,7 +2,7 @@
 id: lem-author-69e1abcd87be-exact-global-regularity-assembly
 title: Exact assembly of the global I-plus regularity assumptions
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

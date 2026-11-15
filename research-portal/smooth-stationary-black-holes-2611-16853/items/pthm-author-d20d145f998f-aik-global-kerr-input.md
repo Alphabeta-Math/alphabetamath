@@ -2,7 +2,7 @@
 id: pthm-author-d20d145f998f-aik-global-kerr-input
 title: AIK global Kerr identification under the full GR/SBS/PK contract
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

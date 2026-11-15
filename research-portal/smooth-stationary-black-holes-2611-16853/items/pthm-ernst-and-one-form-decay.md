@@ -2,7 +2,7 @@
 id: pthm-ernst-and-one-form-decay
 title: Mass-one Ernst and radial primitive asymptotics
 kind: physics-theorem
-status: draft
+status: published
 origin: pipeline
 domain: physics
 deps:

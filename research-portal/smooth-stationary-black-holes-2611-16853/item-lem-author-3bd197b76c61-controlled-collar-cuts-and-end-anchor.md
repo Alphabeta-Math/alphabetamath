@@ -1,6 +1,6 @@
 ---
 title: Controlled horizon cuts, compact restrictions and a uniform end anchor
-status: draft
+status: published
 research_item: lem-author-3bd197b76c61-controlled-collar-cuts-and-end-anchor
 dependency_level: 6
 ---

@@ -1,6 +1,6 @@
 ---
 title: Compact-domain scalar Poisson solvability and fourth-order estimates
-status: draft
+status: published
 research_item: lem-author-86990d62062f-compact-domain-poisson
 dependency_level: 1
 sources:

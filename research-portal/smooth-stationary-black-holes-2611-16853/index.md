@@ -1,6 +1,6 @@
 ---
 title: The uniqueness of smooth stationary black holes
-status: draft
+status: published
 ---
 
 - [Stationary geometry and analytic data](geometric-and-analytic-language) — level 0

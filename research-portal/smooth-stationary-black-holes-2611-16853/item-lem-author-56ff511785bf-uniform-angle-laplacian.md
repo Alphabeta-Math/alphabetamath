@@ -1,6 +1,6 @@
 ---
 title: Uniform scalar angle inequalities from local background tensors
-status: draft
+status: published
 research_item: lem-author-56ff511785bf-uniform-angle-laplacian
 dependency_level: 2
 sources:

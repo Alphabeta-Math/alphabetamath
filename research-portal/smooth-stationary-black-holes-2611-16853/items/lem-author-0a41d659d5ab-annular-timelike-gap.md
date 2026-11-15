@@ -2,7 +2,7 @@
 id: lem-author-0a41d659d5ab-annular-timelike-gap
 title: Quantitative lapse and shift bounds force annular timelikeness
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

@@ -2,7 +2,7 @@
 id: def-bifurcate-killing-horizon-data
 title: Bifurcate Killing horizons, rotation and normalization
 kind: definition
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

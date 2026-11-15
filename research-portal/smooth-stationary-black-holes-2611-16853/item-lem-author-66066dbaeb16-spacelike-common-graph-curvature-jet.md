@@ -1,6 +1,6 @@
 ---
 title: Mean curvature at identical spacelike graph jets has positive Hessian symbol
-status: draft
+status: published
 research_item: lem-author-66066dbaeb16-spacelike-common-graph-curvature-jet
 dependency_level: 1
 ---

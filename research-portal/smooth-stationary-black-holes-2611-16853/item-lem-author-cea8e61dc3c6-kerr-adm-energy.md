@@ -1,6 +1,6 @@
 ---
 title: The asymptotic metric flux of Kerr equals its mass parameter
-status: draft
+status: published
 research_item: lem-author-cea8e61dc3c6-kerr-adm-energy
 dependency_level: 3
 sources:

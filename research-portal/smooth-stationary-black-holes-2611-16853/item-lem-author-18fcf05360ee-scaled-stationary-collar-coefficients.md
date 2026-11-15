@@ -1,6 +1,6 @@
 ---
 title: Stationary coefficients in a transverse collar retain the tangential motion
-status: draft
+status: published
 research_item: lem-author-18fcf05360ee-scaled-stationary-collar-coefficients
 dependency_level: 2
 ---

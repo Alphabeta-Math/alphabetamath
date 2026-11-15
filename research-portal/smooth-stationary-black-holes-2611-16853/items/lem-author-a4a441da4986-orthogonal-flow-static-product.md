@@ -3,7 +3,7 @@ id: lem-author-a4a441da4986-orthogonal-flow-static-product
 title: Orthogonal flow coverage gives a global static product and the needed end
   bounds
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

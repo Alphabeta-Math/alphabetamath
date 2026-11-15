@@ -2,7 +2,7 @@
 id: lem-author-1f6675f2ec55-local-holder-compactness
 title: Local compactness of full weighted Hölder inputs
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 proof_strategy: direct

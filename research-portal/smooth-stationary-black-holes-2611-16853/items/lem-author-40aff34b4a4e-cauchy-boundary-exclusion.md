@@ -2,7 +2,7 @@
 id: lem-author-40aff34b4a4e-cauchy-boundary-exclusion
 title: A Cauchy section cannot end on only one chronological horizon
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

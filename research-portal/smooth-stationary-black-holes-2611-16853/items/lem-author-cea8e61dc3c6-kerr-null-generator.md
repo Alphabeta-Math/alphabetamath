@@ -2,7 +2,7 @@
 id: lem-author-cea8e61dc3c6-kerr-null-generator
 title: The outer Kerr null hypersurface and its future generator
 kind: lemma
-status: draft
+status: published
 origin: pipeline
 domain: mathematics
 deps:

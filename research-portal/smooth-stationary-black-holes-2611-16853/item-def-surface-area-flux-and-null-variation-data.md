@@ -1,6 +1,6 @@
 ---
 title: Surface measure, flux densities and null normal gauge
-status: draft
+status: published
 research_item: def-surface-area-flux-and-null-variation-data
 dependency_level: 5
 ---
