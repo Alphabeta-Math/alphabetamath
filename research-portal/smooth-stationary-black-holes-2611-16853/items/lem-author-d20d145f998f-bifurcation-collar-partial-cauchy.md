@@ -1,0 +1,109 @@
+---
+id: lem-author-d20d145f998f-bifurcation-collar-partial-cauchy
+title: A working bifurcation collar supplies the exact GR section
+kind: lemma
+status: draft
+origin: pipeline
+domain: mathematics
+deps:
+  - physics:def-gr-smooth-lorentzian-objects
+  - physics:def-gr-causal-curves-and-reachability
+  - physics:lem-gr-chronology-openness
+  - physics:lem-gr-push-up-rule
+  - math:thm-flowout-theorem
+  - math:thm-smooth-inverse-function-theorem-on-manifolds
+  - math:def-axiom-of-choice
+  - physics:def-gr-spacelike-hypersurfaces-and-cauchy-sets
+  - physics:lem-gr-cauchy-set-topology-and-graph
+  - math:thm-fundamental-theorem-on-flows
+  - math:cor-mean-value-theorem
+  - math:def-interior-closure-boundary-top
+dependency_roles:
+  physics:def-gr-smooth-lorentzian-objects: mathematical-premise
+  physics:def-gr-causal-curves-and-reachability: mathematical-premise
+  physics:lem-gr-chronology-openness: mathematical-premise
+  physics:lem-gr-push-up-rule: mathematical-premise
+  math:thm-flowout-theorem: mathematical-premise
+  math:thm-smooth-inverse-function-theorem-on-manifolds: mathematical-premise
+  math:def-axiom-of-choice: mathematical-premise
+  physics:def-gr-spacelike-hypersurfaces-and-cauchy-sets: mathematical-premise
+  physics:lem-gr-cauchy-set-topology-and-graph: mathematical-premise
+  math:thm-fundamental-theorem-on-flows: mathematical-premise
+  math:cor-mean-value-theorem: mathematical-premise
+  math:def-interior-closure-boundary-top: mathematical-premise
+provenance:
+  statement: ai-generated
+  proof: ai-generated
+proof_strategy: direct
+dependency_level: 0
+---
+
+## Statement
+
+Work in ZFC. Let $E=I^-_M(U_0)\cap I^+_M(U_0)$ be a stationary exterior with a spacelike section $\Sigma_0\cong\{r>1/2\}$, whose Cauchy portion is exactly $C=\{r>1\}$. Let the double chronological boundary be the sphere $S=\{r=1\}$. Suppose the two individual chronological boundaries near $S$ are smooth transverse null hypersurfaces meeting in $S$, and the original section is spacelike there. Let $U_f\subset U_0\cap E$ be a stationary tail with two-sided chronological access inside $E$. For any smooth spacelike Cauchy graph $C'$ in the stationary product agreeing with $C$ on a smooth outer collar of $S$, there is an open working spacetime $M'\subset M$ containing all of $E$ and a neighborhood of $S$, with the same restricted metric and field, and an embedded partial Cauchy section $\Sigma'$ extending $C'$ across $S$, such that its inner collar contains no point of $I^-_{M'}(U_f)$ or $I^+_{M'}(U_f)$. Thus $\Sigma'\cap I^-_{M'}(U_f)=\Sigma'\cap I^+_{M'}(U_f)=C'$, and the DOC of $U_f$ in $M'$ is exactly $E$. Every supplied cutoff end chart satisfying the contract below extends to a global spatial chart on $\Sigma'$, fixed near $S$. Moreover, one can choose an open collar $O$ of $S$ with $M'=E\cup O$ such that $O\cap I^-_{M'}(U_f)=O\cap I^-_M(U_0)$ and $O\cap I^+_{M'}(U_f)=O\cap I^+_M(U_0)$. In particular $O\cap\partial_{M'}I^-_{M'}(U_f)=O\cap\partial_M I^-_M(U_0)$ and $O\cap\partial_{M'}I^+_{M'}(U_f)=O\cap\partial_M I^+_M(U_0)$, and the two new boundaries intersect in exactly $S$ throughout $M'$. Boundaries here use closure minus interior in the indicated ambient manifold.
+
+Here $M$ is a time-oriented smooth Lorentzian four-manifold with metric $g$ and a supplied smooth vector field $T$. The supplied section chart is a diffeomorphism $x:\Sigma_0\to\{x\in\mathbb R^3:|x|>1/2\}$, and $r=|x|$ on $\Sigma_0$. The Cauchy-portion hypothesis means $\Sigma_0\cap E=C$ and $C$ is Cauchy in $E$. The stationary product means a supplied smooth diffeomorphism $\Psi:\mathbb R\times C\to E$, $\Psi(\tau,p)=\Phi_\tau(p)$, where $\Phi$ is the complete metric-preserving flow of the stationary field $T$ on $E$ and $\Psi(0,p)=p$. A smooth spacelike Cauchy graph means $C'=\{\Psi(f(p),p):p\in C\}$ for a smooth $f:C\to\mathbb R$, with this graph spacelike and Cauchy in $E$; collar agreement means $f=0$ on some $1<r<1+\delta$. Two-sided chronological access means $I^-_E(U_f)=I^+_E(U_f)=E$, with the curves confined to $E$. The DOC in an ambient spacetime $X$ means $I^-_X(U_f)\cap I^+_X(U_f)$.
+
+A smooth null hypersurface here means a smooth embedded codimension-one submanifold $H$ such that, at each $p\in H$, every nonzero conormal $\eta\in T_p^*M$ has null metric dual. A conormal means $\eta(X)=0$ for every $X\in T_pH$; its metric dual $\eta^\sharp$ is the unique vector satisfying $g_p(\eta^\sharp,X)=\eta(X)$ for all $X\in T_pM$. Thus the null condition is $g_p(\eta^\sharp,\eta^\sharp)=0$. For a smooth function $h$, write $\operatorname{grad}h=(dh)^\sharp$ and $g^{-1}(dh,dh)=g(\operatorname{grad}h,\operatorname{grad}h)$. These are mathematical conventions for the supplied nondegenerate Lorentzian metric.
+
+A supplied cutoff end chart means a smooth diffeomorphism $q:C'\to\{y\in\mathbb R^3:|y|>1\}$ equal to $x$ on a common outer collar of $S$ and equal to the prescribed spatial end coordinates sufficiently far out. The chart conclusion is an extension $\widehat q:\Sigma'\to\{y\in\mathbb R^3:|y|>1/2\}$ that is a diffeomorphism, restricts to $q$ on $C'$, and agrees with $x$ on a sufficiently small section collar of $S$. In particular it keeps $S$ at unit radius and keeps the supplied coordinates at infinity.
+
+Here a partial Cauchy hypersurface means an acausal edgeless hypersurface. For an achronal set $A$ in $M'$, a point $p\in\overline A^{M'}$ is an edge point if every neighborhood $V$ of $p$ contains a future timelike curve from a point of $I^-_V(p)$ to a point of $I^+_V(p)$ avoiding $A$; edgeless means that there are no such points. We construct a closed smooth spacelike embedded hypersurface satisfying these conditions.
+
+## Statement references
+
+[[physics:def-gr-smooth-lorentzian-objects]]
+
+[[physics:def-gr-causal-curves-and-reachability]]
+
+[[physics:lem-gr-chronology-openness]]
+
+[[physics:lem-gr-push-up-rule|Push-up rule]]
+
+[[math:thm-flowout-theorem]]
+
+[[math:thm-smooth-inverse-function-theorem-on-manifolds]]
+
+[[math:def-axiom-of-choice]]
+
+[[physics:def-gr-spacelike-hypersurfaces-and-cauchy-sets]]
+
+[[physics:lem-gr-cauchy-set-topology-and-graph]]
+
+[[math:thm-fundamental-theorem-on-flows]]
+
+[[math:cor-mean-value-theorem]]
+
+[[math:def-interior-closure-boundary-top]]
+
+## Facts & Assumptions
+
+[F1] Timelike/causal reachability, chronology openness and push-up use the named interfaces. The null-hypersurface, conormal and gradient conventions are defined inline in the Statement. [[physics:def-gr-smooth-lorentzian-objects]] [[physics:def-gr-causal-curves-and-reachability]] [[physics:lem-gr-chronology-openness]] [[physics:lem-gr-push-up-rule|Push-up rule]]
+
+[F2] Work in ZFC. A timelike field is transverse to a spacelike hypersurface; its flowout and local inverse give a smooth thin collar. [[math:thm-flowout-theorem]] [[math:thm-smooth-inverse-function-theorem-on-manifolds]] [[math:def-axiom-of-choice]]
+
+[F3] Spacelike embedded hypersurfaces, acausality and Cauchy sets have the mathematical meanings of the hypersurface definition, clauses (a)–(c). In a time-oriented smooth Lorentzian manifold, a Cauchy set is acausal and closed by the Cauchy-set topology lemma, clauses (a)–(b). Apply these results in the open spacetime $E$; their Countable Choice and Dependent Choice assumptions hold in ZFC. The partial-Cauchy and edge terminology is defined inline in the Statement. [[physics:def-gr-spacelike-hypersurfaces-and-cauchy-sets]] [[physics:lem-gr-cauchy-set-topology-and-graph]]
+
+[F4] Smooth vector fields on an open manifold have smooth maximal local flows, with open flow domains and smooth dependence on initial points. The mean value theorem bounds a smooth function vanishing on $u=0$ by a constant times $|u|$ on a smaller compact coordinate box. Boundaries mean closure minus interior in the indicated topology. [[math:thm-fundamental-theorem-on-flows]] [[math:cor-mean-value-theorem]] [[math:def-interior-closure-boundary-top]]
+
+## Proof
+
+**Given:** The full hypotheses in the Statement, including the smooth spacelike regularity of $C'$.
+
+**Goal:** Establish the stated claim with its exact hypotheses.
+
+1.1 Restrict each smooth null boundary to $\Sigma_0$. By the inline null-hypersurface definition, its nonzero normal covector has null metric dual. It cannot vanish on the spacelike tangent hyperplane, whose nonzero conormals have timelike metric duals. Both restrictions are therefore transverse smooth surfaces and agree locally with the embedded sphere $S$. After shrinking a neighborhood of compact $S$, each divides the section collar into an outer and inner side. The outer side is $C$ and belongs to both chronological sets. The past/future-set property fixes the local side of each smooth chronological boundary; hence the inner side belongs to neither set. This is the usual local bifurcation quadrant conclusion, derived from the specified actual boundaries and the spacelike crossing, rather than from tangency of a Killing field. [F1, F2, F3]
+
+2.1 Write $A=I^-_M(U_0)$ and $B=I^+_M(U_0)$. Flow a thin section annulus along a smooth future timelike field $W$ to obtain coordinates $(t,s,\vartheta)$, where $s=r-1$ on the section and $\vartheta\in S^2$; compactness of $S$ gives a common thin collar. Choose the initial flow domain to be a product $(-t_0,t_0)\times(-s_0,s_0)\times S^2$, with $W=\partial_t$, and take the later $\varepsilon$ smaller than $s_0$ and the outer agreement width. Its zero level is the original section, and after shrinking $dt$ is future-increasing temporal. The null boundaries are transverse to $W$, so the inverse function theorem writes them as $t=a(s,\vartheta)$ and $t=b(s,\vartheta)$. They both have $a(0,\vartheta)=b(0,\vartheta)=0$. The past-set and future-set properties, with chronology openness, put $A$ on the side $t<a$ and $B$ on the side $t>b$: the short timelike past of an $A$-boundary point lies in $A$, while its short timelike future cannot lie in $A$, and dually for $B$. Step 1.1 and the nonzero transverse section derivatives give $a_s>0$ and $b_s<0$ on $s=0$. Write $a=s\alpha$ and $b=-s\beta$, where $\alpha,\beta$ extend smoothly and positively across $s=0$ by their derivatives there. Set $u=(a-t)/\alpha$ and $v=(t-b)/\beta$. On the original section $u=v=s$; on $S$ their $(s,t)$ Jacobian has determinant $1/\beta+1/\alpha>0$. The inverse function theorem and compactness give product coordinates $(u,v,\vartheta)$ on a smaller collar. Choose $\varepsilon>0$ so that the closed product box in these coordinates lies in the original flowout and in the annulus where $C'=C$ on its outer side, and let $O=\{|u|<\varepsilon,|v|<\varepsilon\}\times S^2$. Thus $A\cap O=\{u>0\}$, $B\cap O=\{v>0\}$ and $E\cap O=\{u>0,v>0\}$. These defining functions are not assumed optical away from their zero hypersurfaces. [F1, F2, F4, step 1.1]
+
+3.1 Use the open collar $O$ and its temporal coordinate $t$ from step 2.1. Set $M'=E\cup O$ and $\Sigma'=C'\cup S\cup\{\text{inner section collar}\}$. A point in the inner collar cannot be causally related in either direction to an $E$ point: composition with a timelike curve from or to $U_0$ and push-up would put it in one of the original chronological sets, contrary to step 1.1. The same is true for a point of $S$, which lies on both boundaries and hence in neither open chronological set. Thus a causal curve between points of the inner collar or $S$ cannot pass through $E$; in $O$ the temporal coordinate prevents a return to its zero level. No such point is causally related to $C'$. A causal curve between two $E$ points stays in $E$: if $p\le z\le q$ and $p,q\in E$, push-up gives $z\in I^+_M(U_0)\cap I^-_M(U_0)$. Since $C'$ is Cauchy in $E$, [F3] makes it acausal there, and therefore $\Sigma'$ is acausal in $M'$. Let $p=(t,s,\vartheta)\in E\cap O$ in the original flow coordinates of step 2.1. The definitions $u=(s\alpha-t)/\alpha$ and $v=(t+s\beta)/\beta$ give $(\alpha+\beta)s=\alpha u+\beta v$. Since $\alpha,\beta>0$ and $0<u(p),v(p)<\varepsilon$, this weighted-average identity gives $0<s<\varepsilon$. Thus the zero-time base $z=(0,s,\vartheta)$ lies in the original section's outer agreement collar, so $z\in C\cap C'$. The entire segment $\gamma(\lambda)=((1-\lambda)t,s,\vartheta)$, $0\le\lambda\le1$, lies in the original product flow domain. Along it $\alpha,\beta$ are constant, so its $(u,v)$ coordinates are $((1-\lambda)u(p)+\lambda s,(1-\lambda)v(p)+\lambda s)$. Both remain strictly between $0$ and $\varepsilon$, proving that the segment stays in $E\cap O$. If $t\ne0$, it is a nonconstant timelike $W$-flow segment, future-directed in one of its two orientations. Consequently, if also $p\in C'$, the acausality of $C'$ in $E$ from [F3] forces $p=z$, hence $t=0$. Conversely every point of the outer zero-time slice in $O$ is in the agreement collar and therefore in $C'$. Hence $C'\cap O$ is exactly that outer zero-time slice, and $\Sigma'\cap O=\{t=0\}$ in $O$. [F1, F2, F3, step 1.1, step 2.1, algebra]
+
+4.1 The smooth spacelike hypothesis on $C'$ and its agreement with $C$ on an outer collar make $\Sigma'$ a smooth spacelike embedded hypersurface across $S$. It is closed in $M'$: [F3] gives that $C'$ is closed in $E$, while step 3.1 gives $\Sigma'\cap O=\{t=0\}$ in $O$, with the open annular ends excluded from $O$. These are closed relative to the open cover $E,O$ of $M'$. At every $p\in\Sigma'$ choose a sufficiently small hypersurface flow chart $V$ with a future-increasing temporal coordinate $t_p$ and $\Sigma'\cap V=\{t_p=0\}$. Such a coordinate exists by the same transverse flow and shrinking argument as in step 2.1. A point of $I^-_V(p)$ has $t_p<0$, and a point of $I^+_V(p)$ has $t_p>0$; every timelike curve between them in $V$ crosses $t_p=0$ by continuity. Thus $p$ is not an edge point under the inline definition. Since $\Sigma'$ is closed, there are no other points of its closure at which an edge could occur. Together with step 3.1 this proves that $\Sigma'$ is a partial Cauchy hypersurface. Radially reparametrizing the open inner collar, whose inner end is outside $O$ and $E$, gives the topology $\{r>1/2\}$ with $S$ at $r=1$, choosing the reparametrization to be the identity sufficiently near $S$. The supplied chart $q$ equals $x$ on the common outer collar. Thus $q$ on $C'$ glues to the inner radial chart to give the diffeomorphism $\widehat q$ in the Statement, agreeing with $x$ near $S$ and retaining every prescribed end coordinate. [F1, F2, F3, step 2.1, step 3.1]
+
+4.2 By the inline null-hypersurface and gradient definitions, on $u=0$ the vector $\operatorname{grad}u$ is future null, and $dv(\operatorname{grad}u)>0$ near $S$: $du$ is negative on future timelike vectors, $dv$ is positive on them, and the two null normals at $S$ are independent. In a Lorentz orthonormal basis the pairing of independent null vectors of opposite time orientations is strictly positive, which gives this last inequality. Set $Q=\partial_u$ in the product coordinates and $L=\operatorname{grad}u-g^{-1}(du,du)Q$. Then $du(L)=0$, and on $u=0$ this equals $\operatorname{grad}u$. On a smaller closed box, smoothness and the mean value theorem give $|g(L,L)|\le C|u|$, while $g(L,W)\le-c<0$, $du(W)<0$ and $dv(L)\ge c'>0$. Choose a constant $K>C/(2c)$ and put $V=L+KuW$. On $u>0$, $g(V,V)\le Cu-2Kcu+K^2u^2g(W,W)<0$ and $g(V,W)<0$, so $V$ is future timelike. After shrinking the box, $dv(V)>0$ with a positive uniform lower bound; also $V(u)=Ku\,du(W)$. Along its flow, $u(h)=u(0)\exp(K\int_0^h du(W)\,d\lambda)$ stays positive and decreases. For every point of $O$ with $u>0$ and $v\le0$, flow forward until $v>0$. This takes finite time bounded by its initial $|v|$ plus an arbitrarily small positive increment, divided by the uniform lower bound for $V(v)$. Before that time $u$ cannot reach either box face, $v$ remains strictly between its box faces, and the compact sphere factor has no boundary. Smooth local-flow existence on the closed larger box therefore supplies this entire short segment inside $O$, ending in $E$. A point already in $E$ needs no extra segment. Combining with its future tail-access curve inside $E$ proves $O\cap A\subset I^-_{M'}(U_f)$. [F1, F2, F4, step 2.1, step 3.1]
+
+5.1 Every $E$ point lies in both chronological sets of $U_f$ by the two-sided access hypothesis, with curves inside $E\subset M'$. Conversely $U_f\subset U_0$ and $M'\subset M$ give its DOC contained in the original $E$. This proves the DOC equality in $M'$. The inner section collar and $S$ are outside both new chronological sets since they are outside the corresponding old ambient sets. Hence both separate section equalities hold. It remains to prove the separate chronological-set identities on $O$; DOC equality alone is not used for that inference. [F1, step 1.1, step 3.1, step 4.1]
+
+5.2 Reverse time and exchange $u,v$. On $v=0$, $\operatorname{grad}v$ is past null and $du(\operatorname{grad}v)>0$. With $Q'=\partial_v$, set $L'=\operatorname{grad}v-g^{-1}(dv,dv)Q'$ and use the past timelike field $-W$. The same estimates give a past timelike vector field $L'+K'v(-W)$ on $v>0$, with $v$ positive and decreasing and $u$ increasing at a uniformly positive rate. Its flow takes every $v>0,u\le0$ point to $E$ inside $O$. Reversing that segment and concatenating with past tail access inside $E$ proves $O\cap B\subset I^+_{M'}(U_f)$. The opposite inclusions in both signs follow directly from $M'\subset M$ and $U_f\subset U_0$. Thus both asserted individual chronological-set identities hold on $O$. [F1, F2, F4, step 2.1, step 4.2]
+
+6.1 Boundaries restrict locally on open subsets: equality of two sets on $O$ gives equality of their closures and interiors at every point of $O$, since neighborhoods may be intersected with $O$. Apply this to step 5.2. The two new boundaries in $O$ are exactly $u=0$ and $v=0$, so their intersection is $S$. In $E$ every point belongs to both open chronological sets by step 5.1 and hence to neither boundary. Since $M'=E\cup O$, their full double boundary is exactly $S$. The restricted metric is unchanged, so the old null hypersurfaces are the same embedded geometric hypersurfaces in the new spacetime. No new point outside $M'$ enters this argument. [F1, F4, step 2.1, step 5.1, step 4.2, step 5.2] ∎

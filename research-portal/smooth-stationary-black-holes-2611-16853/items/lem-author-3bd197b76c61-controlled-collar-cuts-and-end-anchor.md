@@ -1,0 +1,101 @@
+---
+id: lem-author-3bd197b76c61-controlled-collar-cuts-and-end-anchor
+title: Controlled horizon cuts, compact restrictions and a uniform end anchor
+kind: lemma
+status: draft
+origin: pipeline
+domain: mathematics
+deps:
+  - lem-author-3bd197b76c61-stationary-level-and-closed-graphs
+  - def-spacelike-maximal-hypersurface-data
+  - lem-author-78c700cb9e03-bounded-rapidity-reference-graph
+  - lem-author-78c700cb9e03-complete-hawking-reference-product
+  - lem-author-78c700cb9e03-invariant-normal-boost-coordinates
+  - math:prop-products-of-smooth-manifolds-have-a-canonical-product-smooth-structure
+  - math:def-embedded-smooth-submanifold-with-boundary
+  - math:thm-closed-subspace-of-a-compact-space-is-compact
+  - math:thm-continuous-image-of-a-connected-space
+  - math:lem-tube-lemma-for-a-compact-factor
+  - math:thm-finite-products-of-compact-spaces
+  - math:thm-heine-borel-r
+  - physics:def-gr-inverse-metric-and-musical-isomorphisms
+  - math:def-axiom-of-choice
+  - math:def-smooth-manifold
+  - math:def-smooth-chart-atlas-and-structure-on-a-manifold-with-boundary
+  - math:def-smooth-collar-of-a-manifold-boundary
+  - physics:def-gr-smooth-lorentzian-objects
+dependency_roles:
+  lem-author-3bd197b76c61-stationary-level-and-closed-graphs: mathematical-premise
+  def-spacelike-maximal-hypersurface-data: mathematical-premise
+  lem-author-78c700cb9e03-bounded-rapidity-reference-graph: mathematical-premise
+  lem-author-78c700cb9e03-complete-hawking-reference-product: mathematical-premise
+  lem-author-78c700cb9e03-invariant-normal-boost-coordinates: mathematical-premise
+  math:prop-products-of-smooth-manifolds-have-a-canonical-product-smooth-structure: mathematical-premise
+  math:def-embedded-smooth-submanifold-with-boundary: mathematical-premise
+  math:thm-closed-subspace-of-a-compact-space-is-compact: mathematical-premise
+  math:thm-continuous-image-of-a-connected-space: mathematical-premise
+  math:lem-tube-lemma-for-a-compact-factor: mathematical-premise
+  math:thm-finite-products-of-compact-spaces: mathematical-premise
+  math:thm-heine-borel-r: mathematical-premise
+  physics:def-gr-inverse-metric-and-musical-isomorphisms: mathematical-premise
+  math:def-axiom-of-choice: mathematical-premise
+  math:def-smooth-manifold: mathematical-premise
+  math:def-smooth-chart-atlas-and-structure-on-a-manifold-with-boundary: mathematical-premise
+  math:def-smooth-collar-of-a-manifold-boundary: mathematical-premise
+  physics:def-gr-smooth-lorentzian-objects: mathematical-premise
+provenance:
+  statement: ai-generated
+  proof: ai-generated
+proof_strategy: direct
+dependency_level: 6
+---
+
+## Statement
+
+Work in ZFC. Let $\overline X$ be a connected smooth three-manifold with compact boundary $S$, with specified smooth inner collar $[0,r_0)\times S$ and a disjoint Cartesian end $E=\{x\in\mathbb R^3:|x|>R_0\}$. Require that $\overline X\setminus\{|x|>R\}$ is compact for every sufficiently large $R$. Put $X=\overline X\setminus S$. Supply a stationary product $M=\mathbb R_t\times X$: each smooth time-oriented Lorentz metric $g_q$ has signature $(-,+,+,+)$, and the translations $(t,z)\mapsto(t+c,z)$ are time-orientation-preserving isometries, with $T=\partial_t$. Let $Q\subseteq(0,1]$ index smooth spacelike graphs $\Gamma_q=\{(u_q(z),z):z\in X\}$, with future unit normals $n_q$ and positive lapses $N_q=-g_q(T,n_q)$. Thus the candidates are supplied over the entire base, including the region between the two collars.
+
+In the common complete boost/circle collar write $(r,\eta,y)$, $K=\partial_\eta$, $T=\partial_\eta-\Omega Z_S$, with $\kappa>0$ and compact sphere $S$. The reference section $t=0$ is $\eta=a(r,y)$, $|a|\le A$, satisfying the reference transversality and timelike-$K$ hypotheses of the bounded-rapidity and complete-reference-product results. Its $r$ coordinate agrees with the supplied base collar. Assume the candidates in this collar are also rapidity graphs $\eta=a(r,y)+b_q(r,y)$, $|b_q|\le B$. In a fixed open physical neighborhood $U$ of $S$, suppose their unit normals have uniformly bounded components in fixed smooth ambient frames. The complete collar agrees near $S$ with its normal exponential tube.
+
+For a common sufficiently small $\varepsilon>0$, all candidate cuts over $r=\varepsilon$ lie in $U$ and inherit its normal bounds. They are stationary-base level cuts. For any sufficiently large fixed $R$, these inner cuts and the end cuts over $|x|=R$ bound compact smooth graph restrictions over the same connected compact smooth domain $\Omega_{\varepsilon,R}\subset X$, whose boundary is exactly those two base cuts. Any prescribed compact target in $X$ can be included in its interior. A separate common bound $|u_q|\le H$ on this fixed domain encloses the restrictions in the fixed compact tube $[-H,H]\times\Omega_{\varepsilon,R}$.
+
+For the end assertion supply constants $d_q\ge1$ and define $c_q=d_q/(4q)$, $t_q=c_qt$, $x_q=qx$, and $\widetilde u_q(x_q)=c_qu_q(x_q/q)$. Assume the component matrices of $g_q$ in $(t_q,x_q)$ converge uniformly to $\operatorname{diag}(-1,1,1,1)$, and $|D_{x_q}\widetilde u_q|\to0$ uniformly, as $|x_q|\to\infty$, with a common threshold over the parameter set in question. On this common normalized end put $F_q=t_q-\widetilde u_q(x_q)$ and $s_q=\sqrt{-g_q^{-1}(dF_q,dF_q)}$. There is a common $\rho_*>R_0$ such that $N_q=c_q/s_q\ge1/8$ and the normalized coordinate components of $n_q$ are bounded wherever $|x_q|\ge\rho_*$. Thus a fixed normalized spatial point $\xi$ with $|\xi|\ge\rho_*$ is an anchor over the original base point $x=\xi/q$. For each fixed $\delta\in(0,1]$, a fixed original base point with $\delta|x_*|\ge\rho_*$ is an anchor simultaneously for $q\in Q\cap[\delta,1]$; original coordinate normal components are uniformly bounded on a fixed sufficiently distant end cut for this subfamily. One may choose the outer cut beyond $x_*$ so that the anchor lies inside the restrictions. The same conclusions apply when the uniform end hypotheses are supplied only on this positive-parameter subfamily. A fixed original base point is not asserted uniformly as $q\downarrow0$.
+
+The conclusions also hold for an arbitrary indexed collection $(q_i,\Gamma_i)_{i\in\mathcal I}$, with $q_i\in(0,1]$ and a supplied global graph $\Gamma_i=\{(u_i(z),z):z\in X\}$ for $g_{q_i}$. Impose the same positive-lapse, collar and uniform normalized-end hypotheses over these indices, including $\eta=a+b_i$ with $|b_i|\le B$, the common physical-neighborhood normal bound, and uniform normalized slope decay for $\widetilde u_i(x_{q_i})=c_{q_i}u_i(x_{q_i}/q_i)$. The compact-tube conclusion retains the independent common bound $|u_i|\le H$ on the fixed cut domain. Distinct indices may have the same parameter and different graphs. The cuts and normalized-end threshold are common over the indexed collection. On $\mathcal I_\delta=\{i:q_i\ge\delta\}$ the original-base anchor and original-coordinate normal bounds are common as above, also when the uniform end hypotheses are supplied only on this subcollection.
+
+## Statement references
+
+[[math:def-smooth-manifold]]
+
+[[math:def-smooth-chart-atlas-and-structure-on-a-manifold-with-boundary]]
+
+[[math:def-smooth-collar-of-a-manifold-boundary]]
+
+[[physics:def-gr-smooth-lorentzian-objects]]
+
+## Facts & Assumptions
+
+[A1] Work under the Axiom of Choice, including the inherited choice hypotheses of the stationary-level and normal-coordinate suppliers. [[math:def-axiom-of-choice]]
+
+[F1] The normal exponential tube has $\Xi(y,v_0,v_1)=\exp_y(v_0e_0+v_1e_1)$ with $v_0=r\sinh(\kappa\eta)$ and $v_1=r\cosh(\kappa\eta)$. The bounded reference rapidity gives $|t-\eta|\le A$ in the complete collar, whose complete reference flow and agreement with the physical tube are the supplied collar model. [[lem-author-78c700cb9e03-invariant-normal-boost-coordinates]] [[lem-author-78c700cb9e03-bounded-rapidity-reference-graph]] [[lem-author-78c700cb9e03-complete-hawking-reference-product]]
+
+[F2] The product smooth structure is the canonical one. The supplied spacelike graphs, unit normals and lapses use the stated hypersurface conventions. A smooth stationary graph with positive lapse restricts over every compact smooth base domain to a compact spacelike hypersurface with its actual graph boundaries, and a common height bound gives a compact stationary tube. [[math:prop-products-of-smooth-manifolds-have-a-canonical-product-smooth-structure]] [[def-spacelike-maximal-hypersurface-data]] [[lem-author-3bd197b76c61-stationary-level-and-closed-graphs]]
+
+[F3] Smooth domains carry their manifold-with-boundary smooth structures and smooth inclusions. A closed subspace of a compact space is compact, and a continuous image of a connected space is connected. Closed bounded intervals and finite products of compact spaces are compact. An open neighborhood of a compact factor times a point contains a product neighborhood. [[math:def-embedded-smooth-submanifold-with-boundary]] [[math:thm-closed-subspace-of-a-compact-space-is-compact]] [[math:thm-continuous-image-of-a-connected-space]] [[math:thm-heine-borel-r]] [[math:thm-finite-products-of-compact-spaces]] [[math:lem-tube-lemma-for-a-compact-factor]]
+
+[F4] The inverse metric and the musical map identify $\operatorname{grad}_{g_q}F_q$ with $g_q^{-1}dF_q$ in coordinates. This supplier has domain mathematics. The rescalings, uniform matrix convergence and normalized slopes above are explicit local data, not a Harrison or field-equation input. [[physics:def-gr-inverse-metric-and-musical-isomorphisms]]
+
+## Proof
+
+**Given:** The supplied global stationary graphs, compact-core end geometry, complete physical collar, controlled collar normals and explicit uniform normalized end hypotheses. **Goal:** Construct common controlled restrictions and locate the uniform end anchors in the stated coordinates and parameter ranges.
+
+1.1 On every candidate collar cut, $|\eta|\le A+B$. Set $L=A+B$. The compact set $S\times[-L,L]$ and the normal-tube map in [F1] give a continuous map $(y,\eta,r)\mapsto\Xi(y,r\sinh(\kappa\eta),r\cosh(\kappa\eta))$, defined for small $r\ge0$ and equal to $y\in S$ at $r=0$. Compactness of the interval and product and the tube lemma [F3], applied to the inverse image of $U$ intersected with the physical tube, give one $\varepsilon_0>0$ for all $y,\eta$. Thus every $0<\varepsilon<\varepsilon_0$ places the cuts in $U$, and their normal bounds are inherited. Since $T(r)=0$, these are fixed stationary-base cuts. The comparison in [F1] also gives $|t|\le2A+B$ on them. [A1, F1, F2, F3, given, choose]
+
+1.2 Delete the open inner subcollar $0\le r<\varepsilon$ and the open end tail $|x|>R$ from $\overline X$, obtaining $\Omega_{\varepsilon,R}$. It is a closed subspace of the supplied compact set $\overline X\setminus\{|x|>R\}$, hence compact by [F3]. Near its inner cut the coordinate $r-\varepsilon\ge0$ is a smooth boundary coordinate, and near its outer cut $R-|x|\ge0$ is one; the cuts are disjoint and all other points have interior charts. These charts give the embedded codimension-zero smooth structure in [F3], with boundary exactly the two cuts. Clamping $r$ to $\max(r,\varepsilon)$ in the inner collar and the end radius to $\min(|x|,R)$, leaving all other points fixed, defines a continuous retraction of connected $\overline X$ onto this domain. The formulas agree with the identity near the collar interfaces, so [F3] makes the image connected. The interiors of such domains exhaust $X$ as $\varepsilon$ decreases and $R$ increases. Their open cover of any fixed compact target has a finite subcover, so one sufficiently small $\varepsilon$ and large $R$ include the target in the interior. [F3, given, construct]
+
+1.3 In normalized components write $G_q$ for the metric matrix and $m=\operatorname{diag}(-1,1,1,1)$. Uniform $G_q\to m$ implies uniform $G_q^{-1}\to m$: the entries of the inverse are adjugate entries divided by determinant, which tends to $\det m=-1$ and hence is uniformly separated from zero on a common end. The covector components of $dF_q$ are $(1,-D\widetilde u_q)$, tending uniformly to $(1,0,0,0)$. Therefore $s_q^2\to1$ uniformly. Increase a common $\rho_*>R_0$ until $1/2\le s_q\le2$ and the inverse components are bounded for $|x_q|\ge\rho_*$. The future normal is $n_q=-\operatorname{grad}_{g_q}F_q/s_q$, by the positive-lapse level-function identity in [F2], unchanged under the positive rescaling $F_q=c_q(t-u_q)$. Its normalized components are bounded by [F4] and these estimates. Since $dF_q(T)=c_q$, $N_q=-g_q(T,n_q)=c_q/s_q\ge1/8$, using $d_q\ge1$ and $q\le1$. [F2, F4, given, algebra]
+
+2.1 Every $u_q$ is supplied smooth on all of $X$, not only the collar. Thus [F2] applies to the fixed domain from step 1.2 and each stationary metric and positive-lapse graph: its restriction is compact smooth spacelike, with manifold boundary exactly the graphs over both cuts. The independent hypothesis $|u_q|\le H$ on this domain then gives the common compact tube by [F2]. No global graph or middle-region height bound has been inferred from collar control. [F2, step 1.1, step 1.2, given]
+
+3.1 A fixed normalized spatial point $\xi$ beyond $\rho_*$ corresponds exactly to $x=\xi/q$, so step 1.3 gives the all-parameter normalized anchor. On $q\in Q\cap[\delta,1]$, every fixed original point with $\delta|x_*|\ge\rho_*$ satisfies $|qx_*|\ge\rho_*$, giving a common original-base anchor. Its candidate point is $(u_q(x_*),x_*)$; extending normal and lapse by stationary translation as in [F2] evaluates the same lapse at the fixed ambient point $(0,x_*)$. For vector components the conversion is $n_q^t=c_q^{-1}n_q^{t_q}$ and $n_q^{x^i}=q^{-1}n_q^{x_q^i}$. Here $c_q^{-1}=4q/d_q\le4$ and $q^{-1}\le\delta^{-1}$, so step 1.3 also bounds original normal components on any fixed end cut with $\delta R\ge\rho_*$. Choose $R>|x_*|$ in step 1.2 to retain the anchor inside the restrictions. These arguments can be applied to a subfamily with its own common normalized threshold. They assert no fixed original anchor when $q$ has no positive lower bound. [F2, F4, step 1.2, step 2.1, step 1.3, given, algebra]
+
+4.1 For the indexed collection, repeat step 1.1 with $b_i$: its compact set $S\times[-A-B,A+B]$ and fixed normal-tube map are independent of the index, so the same $\varepsilon_0$ works for every graph. The domain constructed in step 1.2 depends only on the base and the two cut radii. Apply step 2.1 separately to each supplied global graph; its positive lapse and the independent common height bound give the same compact tube. For the end calculation in step 1.3 use the metric matrix at $q_i$ and the conormal of $\Gamma_i$. Uniform metric convergence and slope decay over the indexed collection imply one common threshold with $1/2\le s_i\le2$. The identical conormal normalization gives $N_i=c_{q_i}/s_i\ge1/8$ and bounded normalized normal components. On $\mathcal I_\delta$ the inequalities $|q_ix_*|\ge\delta|x_*|$, $c_{q_i}^{-1}\le4$ and $q_i^{-1}\le\delta^{-1}$ give the same common original-base anchor and coordinate bounds as step 3.1. If end uniformity is supplied only on that subcollection, perform precisely this end calculation there with its common threshold. None of these constructions selects a unique graph for a parameter; all constants use the stated common data. Thus they apply simultaneously when parameters repeat with distinct supplied graphs. [F2, F4, step 1.1, step 1.2, step 1.3, step 2.1, step 3.1, given, algebra] ∎

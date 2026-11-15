@@ -1,0 +1,115 @@
+---
+id: lem-author-3bd197b76c61-interior-graph-geometry-and-finite-cover
+title: Uniform interior graph geometry and a bounded finite chart cover
+kind: lemma
+status: draft
+origin: pipeline
+domain: mathematics
+deps:
+  - lem-author-3bd197b76c61-stationary-level-and-closed-graphs
+  - def-spacelike-maximal-hypersurface-data
+  - lem-author-14de055b8ceb-gaussian-maximal-graph-operator
+  - lem-author-14de055b8ceb-uniform-elliptic-jet-extension
+  - math:def-holder-spaces-c-k-alpha-and-their-scaled-norms
+  - math:def-axiom-of-choice
+  - math:thm-choice-implies-dependent-implies-countable-choice
+  - math:def-riemannian-metric-and-riemannian-manifold
+  - math:thm-flow-box-theorem
+  - math:thm-smooth-inverse-function-theorem-on-manifolds
+  - math:thm-smooth-dependence-of-ode-solutions-on-parameters
+  - physics:thm-gr-nondegenerate-levi-civita-and-tensor-derivative
+  - math:def-riemannian-volume-density
+  - math:prop-riemannian-volume-is-the-radon-measure-of-the-riemannian-density
+  - math:thm-density-measure-is-independent-of-the-chart-gluing
+  - math:def-extended-riemannian-distance-on-a-disconnected-manifold
+  - math:thm-the-riemannian-distance-topology-is-the-manifold-topology
+dependency_roles:
+  lem-author-3bd197b76c61-stationary-level-and-closed-graphs: mathematical-premise
+  def-spacelike-maximal-hypersurface-data: mathematical-premise
+  lem-author-14de055b8ceb-gaussian-maximal-graph-operator: mathematical-premise
+  lem-author-14de055b8ceb-uniform-elliptic-jet-extension: mathematical-premise
+  math:def-holder-spaces-c-k-alpha-and-their-scaled-norms: mathematical-premise
+  math:def-axiom-of-choice: mathematical-premise
+  math:thm-choice-implies-dependent-implies-countable-choice: mathematical-premise
+  math:def-riemannian-metric-and-riemannian-manifold: mathematical-premise
+  math:thm-flow-box-theorem: mathematical-premise
+  math:thm-smooth-inverse-function-theorem-on-manifolds: mathematical-premise
+  math:thm-smooth-dependence-of-ode-solutions-on-parameters: mathematical-premise
+  physics:thm-gr-nondegenerate-levi-civita-and-tensor-derivative: mathematical-premise
+  math:def-riemannian-volume-density: mathematical-premise
+  math:prop-riemannian-volume-is-the-radon-measure-of-the-riemannian-density: mathematical-premise
+  math:thm-density-measure-is-independent-of-the-chart-gluing: mathematical-premise
+  math:def-extended-riemannian-distance-on-a-disconnected-manifold: mathematical-premise
+  math:thm-the-riemannian-distance-topology-is-the-manifold-topology: mathematical-premise
+provenance:
+  statement: ai-altered
+  proof: ai-generated
+proof_strategy: direct
+sources:
+  references:
+    - title: Leon Simon, Lectures on PDE
+      url: https://math.stanford.edu/~lms/lecs-on-pde.pdf
+      locator: Lecture 18, (P), (*) and (**), printed pp.216–217, Theorem 1 p.217 (PDF
+        sheet 111); Lecture 12, Theorem 2, printed pp.126–127 (PDF sheet 66),
+        m=1.
+      statement: On an interior ball, a classical quasilinear uniformly elliptic
+        nondivergence solution with bounded height and gradient, bounded forcing
+        and C1 joint principal-coefficient bounds on a containing full jet box
+        has a controlled C^{1,beta} norm on smaller balls for some beta>0. For a
+        linear uniformly elliptic nondivergence equation with C^{0,beta}
+        coefficients and RHS, the C^{2,beta} norm on a smaller ball is
+        controlled by the C0 solution and RHS Holder norm. Constants depend only
+        on the displayed structural bounds and ball separations.
+      hypotheses: Classical smooth individual solutions; uniform ellipticity, bounded
+        heights/gradients and forcing for the nonlinear estimate; joint C1
+        coefficient bounds over a containing position/height/slope box;
+        C^{0,beta} coefficient and forcing bounds for the linear estimate. These
+        are local interior estimates, not boundary estimates.
+      reading_limits: Consulted the PDF text at these theorem statements and displayed
+        hypotheses in this assignment. Imported only these estimates, without
+        reconstructing their proofs. The geometric chart and packing arguments
+        below are local arguments, not claims from Simon.
+dependency_level: 5
+---
+
+## Statement
+
+Work under the Axiom of Choice. Let $X$ be a smooth three-manifold without boundary and $M=\mathbb R_t\times X$ its smooth product. Let $g_a$, for $a$ in a compact parameter set $\Lambda$ in a finite-dimensional smooth parameter manifold, be time-oriented Lorentz metrics of signature $(-,+,+,+)$, jointly smooth on a neighborhood of $\Lambda\times M$. Translations $(t,x)\mapsto(t+c,x)$ preserve each metric and its time orientation; write $T=\partial_t$. Fix compact sets $Q\subset Q_+^\circ\subset M$ and a supplied smooth auxiliary Riemannian metric $e$ on a neighborhood of $Q_+$. For each candidate $j$, let $a_j\in\Lambda$ and let $\Sigma_j=\{(u_j(x),x):x\in X\}$ be a closed smooth spacelike maximal graph for $g_{a_j}$, with future unit normal $n_j$ and positive stationary lapse $N_j=-g_{a_j}(T,n_j)>0$. Assume $|n_j|_e\le B$ on $\Sigma_j\cap Q_+$, with a common finite $B$. Only these supplied candidates are required to exist. All chart neighborhoods used for the conclusions are buffered inside $Q_+^\circ$, away from any boundary of a separately restricted hypersurface.
+
+Around each point of $\Sigma_j\cap Q$ there are temporal, in particular Gaussian, graph charts of a common positive radius, uniform strict spacelike slope bounds and uniform graph bounds of every fixed finite order. The induced metrics have common positive ellipticity bounds, and the induced metrics and second fundamental forms have uniform finite-order bounds there. For every connected compact portion $L_j\subset\Sigma_j\cap Q$, there is an interior chart-ball cover with uniformly bounded cardinality and connected overlap graph along $L_j$, with larger buffered chart neighborhoods carrying the same controls. Constants depend only on the stated compact background data, the normal bound and the requested derivative order. No positive uniform lower bound on $N_j$ is needed for these temporal charts.
+
+## Facts & Assumptions
+
+[A1] The choice hypothesis and its implications for Dependent Choice and Countable Choice are [[math:def-axiom-of-choice]] and [[math:thm-choice-implies-dependent-implies-countable-choice]]. They supply the hypotheses inherited by the stationary temporal-function and Borel density-measure inputs.
+
+[F1] For the stated stationary product and positive lapse, the level-function and closed-graph result gives at-most-one intersection with every future timelike fibre and closedness relative to $M$. [[lem-author-3bd197b76c61-stationary-level-and-closed-graphs]] Unit normals, maximality, induced metrics and second fundamental forms use [[def-spacelike-maximal-hypersurface-data]]. The auxiliary metric $e$ is a Riemannian metric in the sense of [[math:def-riemannian-metric-and-riemannian-manifold]]; $|n|_e=\sqrt{e(n,n)}$. On the fixed compact set this is equivalent to a bound in finitely many fixed coordinate frames.
+
+[F2] In a Gaussian chart the maximal graph operator and angle-to-slope identity are [[lem-author-14de055b8ceb-gaussian-maximal-graph-operator]]. The containing full jet-box extension is [[lem-author-14de055b8ceb-uniform-elliptic-jet-extension]]. Norms use [[math:def-holder-spaces-c-k-alpha-and-their-scaled-norms]].
+
+[F3] Import Simon's two interior estimates at the exact locators in sources.references. Apply the nonlinear estimate before asserting uniform Holder coefficient bounds, and apply the linear estimate only after obtaining them.
+
+[F4] A smooth nonzero vector field has flow-box coordinates by [[math:thm-flow-box-theorem]]. A smooth map with invertible differential has a smooth local inverse by [[math:thm-smooth-inverse-function-theorem-on-manifolds]]. Jointly smooth finite-dimensional ODEs have common local existence and smooth parameter dependence by [[math:thm-smooth-dependence-of-ode-solutions-on-parameters]]. For the Lorentz metrics, [[physics:thm-gr-nondegenerate-levi-civita-and-tensor-derivative]], parts (a) and (b), supplies the smooth Christoffel formula, metric compatibility and torsion freedom. This last supplier has domain mathematics.
+
+[F5] In coordinates the induced Riemannian density is $\sqrt{\det(h_{ij})}\,|dy^1dy^2dy^3|$. [[math:def-riemannian-volume-density]] Under Countable Choice it defines a Radon Borel volume measure, and intrinsic metric balls are Borel. [[math:prop-riemannian-volume-is-the-radon-measure-of-the-riemannian-density]] The measure of any Borel subset contained in a chart is its coordinate density integral. [[math:thm-density-measure-is-independent-of-the-chart-gluing]] Thus finite subadditivity, disjoint-ball additivity and coordinate upper and lower density bounds apply without an orientation.
+
+[F6] Intrinsic distance on $\Sigma_j$ means the extended Riemannian distance of [[math:def-extended-riemannian-distance-on-a-disconnected-manifold]]: the infimum of lengths of piecewise $C^1$ connecting curves within a component, and $+\infty$ between different components. Components are open, as small coordinate balls are connected. Each component with the restricted smooth positive-definite metric $h_j$ is a connected Riemannian manifold, so [[math:thm-the-riemannian-distance-topology-is-the-manifold-topology]] applies on it. Thus every finite-radius intrinsic ball lies in one component and is open in $\Sigma_j$; the extended distance satisfies the triangle inequality.
+
+## Proof
+
+**Given:** The stationary product, compact smooth background family, closed positive-lapse graphs and auxiliary normal bound specified above. **Goal:** Uniform interior graph geometry and a bounded connected chart cover.
+
+1.1 At each background pair $(a,p)\in\Lambda\times Q_+$ choose a smooth local future timelike field $Y$; it remains timelike after shrinking the parameter and position neighborhoods. It is nonzero, so [F4] supplies a timelike flow box. To construct Gaussian boxes near $\Lambda\times Q$, choose a coordinate affine three-slice $S$ through $p$ whose tangent plane is spacelike for $g_a$. It stays spacelike for nearby parameters and points. Its future unit normal $\nu_a$ depends smoothly on these data: solve the linear orthogonality equations and normalize the timelike solution. Solve the coordinate system $\dot x^\mu=v^\mu$, $\dot v^\mu=-\Gamma^\mu_{\alpha\beta}(a,x)v^\alpha v^\beta$ from $(x,v)=(q,\nu_a(q))$, $q\in S$, using the connection formula and ODE input in [F4]. The resulting map $\Psi_a(z,q)$ is jointly smooth and its differential at $(0,p)$ maps $(s,w)$ to $s\nu_a(p)+w$, an isomorphism. The inverse-function input, also applied to $(a,z,q)\mapsto(a,\Psi_a(z,q))$ in parameter charts, gives smooth inverse coordinate maps. The $z$-curves are unit timelike geodesics. For $J_i=\partial_{y^i}\Psi_a$, metric compatibility, torsion freedom and commuting coordinate derivatives give $\partial_z g_a(\partial_z,J_i)=g_a(\partial_z,\nabla_{J_i}\partial_z)=\tfrac12\partial_{y^i}g_a(\partial_z,\partial_z)=0$. Its initial value is zero, so $\Psi_a^*g_a=-dz^2+H_{ik}(a,z,y)dy^idy^k$, with $H$ positive definite after shrinking. Shrink inside $Q_+^\circ$ near $Q$, and use compactness to retain finitely many smaller boxes inside larger boxes with positive buffers. Their sizes, inverse derivatives, background metric bounds and every fixed finite derivative bound have common constants. The same finite-cover argument gives bounded timelike flow boxes covering $\Lambda\times Q_+$ for the volume estimate. [F4, given, construct, algebra]
+
+2.1 The future unit vectors with $|n|_e\le B$ over the compact parameter-position range form a compact subset of the unit timelike bundles. Pairing with any one of the finitely many box directions $Y$ is strictly negative and bounded away from zero on this set. Thus projection along $Y$ has invertible differential on each candidate tangent plane with a common inverse bound; this is finite-dimensional linear algebra on that compact set. By [F1] each timelike fibre has at most one candidate point. The inverse-function input in [F4] therefore makes the candidate in a box a single smooth graph over an open projected domain, with a common slope bound $C$. For a point in an inner box, continue its local graph along a straight segment in the spatial base of length $r$. Choose $r$ uniformly so that $Cr$ is smaller than the vertical buffer and $r$ is smaller than the spatial buffer. Along any unfinished lift the height is Lipschitz and has an interior limit at a finite endpoint. Closedness from [F1] puts this limit on $\Sigma_j$; transversality extends the lift there. Hence no lift stops before reaching the endpoint. Fibre uniqueness makes these lifts agree with the one smooth inverse of projection, giving a full base ball of common radius. In the Gaussian boxes $v=-g_{a_j}(n_j,\partial_z)\le V$ follows from $|n_j|_e\le B$ and the bounded background direction. The identity in [F2] gives $H^{ik}f_i f_k\le1-V^{-2}<1$ for the local height $z=f(y)$. For $h_{ik}=H_{ik}-f_i f_k$, Cauchy–Schwarz gives $V^{-2}H\le h\le H$, so induced metric coefficients have common positive bounds. These Gaussian charts are temporal since $dz$ has timelike metric dual. [F1, F2, F4, step 1.1, given, algebra]
+
+3.1 In these Gaussian charts [F2] puts the realized jets in a compact strict spacelike cone. Its extension supplier provides a uniformly elliptic principal matrix with joint C1 bounds on a containing full jet box, unchanged on the realized jets; the realized forcing is bounded. Heights and gradients are bounded by step 2.1. These are the hypotheses of Simon Lecture 18 Theorem 1 in [F3], so it gives uniform C1-beta bounds on smaller balls. The smooth realized principal coefficients and forcing now have uniform C0-beta bounds. Each individual graph is smooth, so Simon Lecture 12 Theorem 2 with $m=1$ applies to the equation with these fixed realized coefficients and gives uniform C2-beta bounds on smaller balls. [F2, F3, step 1.1, step 2.1]
+
+3.2 Use the finitely many bounded timelike flow boxes of step 1.1 covering $Q_+$ for each permitted parameter. By [F1], projection is one-to-one on the whole candidate portion in each box, including disconnected projected domains. The induced graph coefficients there are obtained by evaluating the smooth ambient metric on $(\partial_{y^i}+f_iY)$; their determinants have a common upper bound at points over $Q_+$ by the normal-to-slope bound in step 2.1. The Borel chart formula in [F5] therefore bounds the volume of that portion over $Q_+$ by a constant times the Euclidean volume of its bounded base box. Summing over the finite background cover gives $\operatorname{vol}_{h_j}(\Sigma_j\cap Q_+)\le C_0$ uniformly. This uses subadditivity even when boxes overlap and does not multiply by the number of connected components. The choice hypotheses of [F1] and [F5] hold by [A1]. [A1, F1, F5, step 1.1, step 2.1, algebra]
+
+4.1 Differentiate the smooth graph equation in a coordinate direction. The differentiated equation has the same uniformly elliptic principal matrix; its first- and zeroth-order coefficients are smooth joint derivatives of the original coefficients multiplied by already controlled first and second derivatives of $f$. Its forcing has the corresponding lower derivative bounds. The linear estimate in [F3] therefore controls the derivative in C2-beta on a smaller ball. Repeating this argument, using the chain and product rules, controls every fixed finite derivative order; for each order choose finitely many nested balls between the original ball and a fixed half-radius ball. Constants may depend on that order, but the half-radius is common. The formulas in [F1] express the induced metric and second fundamental form using the background metric and at most two graph derivatives, giving all their stated finite-order bounds. Smooth bounded coordinate changes from step 1.1 transfer the same bounds to the buffered timelike flow charts. [F1, F2, F3, step 1.1, step 2.1, step 3.1, algebra]
+
+5.1 By [F6], apply the distance-topology theorem separately to the connected components of the smooth Riemannian manifold $(\Sigma_j,h_j)$. Its finite-radius intrinsic balls are open in $\Sigma_j$ and stay in their centers' components. A nonempty connected $L_j$ lies in one component: otherwise that open component and the open union of the other components would separate $L_j$. The common graph radius, buffers and metric bounds in steps 2.1 and 4.1 allow a fixed $s>0$ such that for every center $p\in\Sigma_j\cap Q$, its intrinsic ball $B_{h_j}(p,4s)$ lies in a controlled Gaussian chart inside $Q_+^\circ$. Indeed any path leaving the graph patch must reach its spatial edge, which costs a common positive length by the lower metric bound; the height buffer excludes a vertical exit. Choose $4s$ below that cost. Conversely radial paths and the upper metric bound show that $B_{h_j}(p,s/2)$ contains a coordinate ball of radius $c_1s$. The lower density bound and [F5] give its volume at least $c_2s^3>0$. Choose centers in $L_j$ with pairwise intrinsic distances at least $s$, adding a center while possible. Their radius-$s/2$ balls are disjoint and contained in $Q_+$; step 3.2 bounds their number by $C_0/(c_2s^3)$, so this finite selection terminates and its radius-$s$ balls cover $L_j$. For nonempty connected $L_j$, the radius-$s$ balls have nonempty relatively open restrictions to $L_j$ by [F6], and their overlap graph is connected: a partition into two nonintersecting groups would partition $L_j$ into two disjoint nonempty relatively open sets. Use the enlarged radius-$2s$ balls as the chain cover, within the controlled radius-$4s$ neighborhoods; intersections witnessed by the radius-$s$ cover have a uniform interior buffer. Empty $L_j$ uses the empty cover. This proves the bounded connected cover and all local conclusions, without a lower stationary lapse bound. [F1, F5, F6, step 1.1, step 2.1, step 4.1, step 3.2, construct, algebra] ∎
+
+## External input
+
+Only the two estimates recorded in the Simon reference are imported. The chart construction, continuation, bootstrap application and volume packing are local deductions from the declared inputs. No boundary estimate is used.

@@ -1,0 +1,87 @@
+---
+id: lem-author-14de055b8ceb-gaussian-maximal-graph-operator
+title: Gaussian maximal graph equation on a compact spacelike slope cone
+kind: lemma
+status: draft
+origin: pipeline
+domain: mathematics
+deps:
+  - def-spacelike-maximal-hypersurface-data
+  - physics:def-gr-metric-selected-connection
+  - math:prop-the-graph-of-a-smooth-map-is-an-embedded-submanifold
+  - physics:lem-gr-metric-divergence-and-density-formula
+  - math:def-affine-connection-on-a-smooth-manifold
+  - math:def-christoffel-symbols-of-an-affine-connection
+  - physics:lem-cm-determinant-derivative-along-a-matrix-curve
+  - math:cor-inverse-matrix-by-adjugate
+  - math:thm-cauchy-schwarz-for-real-and-complex-inner-product-spaces
+  - math:thm-chain-rule-for-total-derivatives
+  - physics:lem-gr-positive-definite-symmetric-matrix-bounds
+  - math:thm-extreme-value-metric
+  - math:thm-heine-borel-rn
+dependency_roles:
+  def-spacelike-maximal-hypersurface-data: mathematical-premise
+  physics:def-gr-metric-selected-connection: mathematical-premise
+  math:prop-the-graph-of-a-smooth-map-is-an-embedded-submanifold: mathematical-premise
+  physics:lem-gr-metric-divergence-and-density-formula: mathematical-premise
+  math:def-affine-connection-on-a-smooth-manifold: mathematical-premise
+  math:def-christoffel-symbols-of-an-affine-connection: mathematical-premise
+  physics:lem-cm-determinant-derivative-along-a-matrix-curve: mathematical-premise
+  math:cor-inverse-matrix-by-adjugate: mathematical-premise
+  math:thm-cauchy-schwarz-for-real-and-complex-inner-product-spaces: mathematical-premise
+  math:thm-chain-rule-for-total-derivatives: mathematical-premise
+  physics:lem-gr-positive-definite-symmetric-matrix-bounds: mathematical-premise
+  math:thm-extreme-value-metric: mathematical-premise
+  math:thm-heine-borel-rn: mathematical-premise
+provenance:
+  statement: ai-generated
+  proof: ai-generated
+proof_strategy: direct
+dependency_level: 1
+---
+
+## Statement
+
+For any fixed integer $m\ge1$, in a smooth time-oriented Gaussian background $g=-dz^2+h_{ij}(z,x)dx^idx^j$ with $m$ spatial coordinates, smooth positive-definite $m\times m$ matrix $h$ and $\partial_z$ future-directed, let a smooth graph be $z=u(x)$. Spatial indices range from $1$ to $m$. On the spacelike graph write $\gamma$ for the induced metric and use $k(U,V)=-g(\nabla_U n,V)$, $H=-\operatorname{tr}_\gamma k$ and maximality $H=0$, with the metric-compatible torsion-free connection constructed below. Put $J=\sqrt{\det h}$, $s=h^{ij}p_ip_j$ and $W=1-s$, evaluated at $(z,x,p)=(u(x),x,Du(x))$. For its future unit normal $n$, define the normal angle relative to $\partial_z$ by $v=-g(n,\partial_z)$; then $v=W^{-1/2}$. On spacelike jets $W>0$, maximality is the smooth equation $A^{ij}(x,u,Du)u_{ij}+b(x,u,Du)=0$, where $P^i=Jh^{ij}p_j/\sqrt W$, $A^{ij}=P^i_{p_j}=J(h^{ij}/\sqrt W+(h^{ik}p_k)(h^{j\ell}p_\ell)/W^{3/2})$ and $b=\sum_iP^i_{x_i}+\partial_z(J/\sqrt W)$, with coefficient partial derivatives taken at fixed other jet variables. On compact backgrounds and $v\le V$, these coefficients have uniform joint bounds of every finite order on a slightly larger spacelike jet neighborhood, and $A$ has common positive ellipticity bounds. The angle bound gives both a Euclidean $|Du|$ bound and $s\le1-V^{-2}<1$.
+
+## Facts & Assumptions
+
+[F1] In ambient dimension four ($m=3$), future unit normals, induced maximality and its ambient divergence expression use [[def-spacelike-maximal-hypersurface-data]]. In other dimensions the Statement gives the same sign convention, and the normal-divergence identity is proved locally below.
+
+[F2] In ambient dimension four, the Levi–Civita connection and metric compatibility are [[physics:def-gr-metric-selected-connection]]. The connection needed for general $m$ is constructed locally below. The graph is already smooth; no existence or initial derivative bound is inferred from its equation.
+
+[F3] The graph of a smooth map is an embedded submanifold of the product, with the dimension of its domain. [[math:prop-the-graph-of-a-smooth-map-is-an-embedded-submanifold]] Apply this to the smooth height function in the Gaussian coordinate product neighborhood.
+
+[F4] In ambient dimension four, the coordinate-divergence identity is $\operatorname{div}_gY=w^{-1}\partial_a(wY^a)$, where $w=\sqrt{|\det(g_{ab})|}$. [[physics:lem-gr-metric-divergence-and-density-formula]] Its general-dimensional version is proved below, with $w=J$ for the Gaussian block metric.
+
+[F5] An affine connection is function-linear in its differentiating direction and satisfies the Leibniz rule in its differentiated vector field; in coordinates its coefficients are defined by $\nabla_{\partial_b}\partial_c=\Gamma^a{}_{bc}\partial_a$. These definitions apply in any finite dimension. [[math:def-affine-connection-on-a-smooth-manifold]] [[math:def-christoffel-symbols-of-an-affine-connection]]
+
+[F6] For an invertible differentiable real square-matrix curve of any positive size, $(\det B)'=\det B\,\operatorname{tr}(B^{-1}B')$. [[physics:lem-cm-determinant-derivative-along-a-matrix-curve]] Apply this to the smooth invertible metric matrix along a coordinate line in a sufficiently small coordinate interval. This supplier has domain mathematics.
+
+[F7] For a square matrix over a commutative ring with unit determinant, $B^{-1}=(\det B)^{-1}\operatorname{adj}(B)$. [[math:cor-inverse-matrix-by-adjugate]] Apply it over $\mathbb R$ to $g$, whose determinant is $-\det h<0$; adjugate entries are polynomials in the entries of $g$, so this formula yields smooth inverse coefficients.
+
+[F8] Cauchy–Schwarz holds in every real inner product space. [[math:thm-cauchy-schwarz-for-real-and-complex-inner-product-spaces]] At each background point apply it in $\mathbb R^m$ with inner product $\langle a,b\rangle_h=h_{ij}a^ib^j$ to $a^i=h^{ij}p_j$ and $b=\xi$. Then $|p_i\xi^i|^2\le s h_{ij}\xi^i\xi^j$.
+
+[F9] For totally differentiable maps $f:U\to V\subseteq\mathbb R^n$ and $G:V\to\mathbb R^p$, the composition is totally differentiable with $D(G\circ f)(a)=DG(f(a))\circ Df(a)$. [[math:thm-chain-rule-for-total-derivatives]] All applications below are to smooth maps on open coordinate neighborhoods: the scalar map $t\mapsto\sqrt{-t}$ at $t=\det g<0$, and the map $x\mapsto(z,x,Du(x))$ at fixed $z$ with image in $W>0$.
+
+[F10] A continuous family of positive-definite symmetric real $m\times m$ matrices over a compact parameter space has common bounds $c_h I\le h\le C_h I$ with $0<c_h\le C_h$; the inverse obeys $C_h^{-1}I\le h^{-1}\le c_h^{-1}I$. [[physics:lem-gr-positive-definite-symmetric-matrix-bounds]] These are parts (c) and (b), applied to the smooth positive-definite spatial metric on the compact background range. This supplier has domain mathematics and allows every finite $m\ge1$.
+
+[F11] A continuous real-valued function on a nonempty compact metric space is bounded and attains its extrema. [[math:thm-extreme-value-metric]] Apply this to coefficient derivatives on the compact enlarged jet sets in the coordinate neighborhoods below. Empty background ranges give vacuous estimates.
+
+[F12] A subset of a positive-dimensional Euclidean space is compact if and only if it is closed and bounded. [[math:thm-heine-borel-rn]] Apply this to compact background coordinate sets and to the enlarged jet set in $\mathbb R^{2m+1}$. It also supplies compact closed coordinate balls for a finite compact neighborhood inside the given open coordinate domain.
+
+## Proof
+
+**Given:** The supplied time-oriented Gaussian metric in dimension $m+1$, with future-directed $\partial_z$, and smooth spacelike graph. **Goal:** Identify its operator and quantitative ellipticity from the angle bound, in every finite spatial dimension $m\ge1$.
+
+1.1 Work in the given Gaussian coordinate domain, with ambient indices $a,b,c,d$ from $0$ to $m$ and $x^0=z$. Define $\Gamma^a{}_{bc}=\tfrac12g^{ad}(\partial_b g_{dc}+\partial_c g_{db}-\partial_d g_{bc})$ and $(\nabla_XY)^a=X^b\partial_bY^a+\Gamma^a{}_{bc}X^bY^c$. Smoothness follows from [F7] for the smooth invertible matrix $g$. The displayed formula satisfies the connection rules of [F5] by the product rule. Its symmetry in $b,c$ gives $\nabla_XY-\nabla_YX=[X,Y]$ by expanding the coordinate bracket. Lowering the first index gives $\Gamma_{abc}=\tfrac12(\partial_b g_{ac}+\partial_c g_{ab}-\partial_a g_{bc})$, so $\Gamma_{cba}+\Gamma_{abc}=\partial_b g_{ac}$; expanding a derivative of $g(Y,Z)$ therefore proves metric compatibility for all $X,Y,Z$. Conversely, compatibility and the symmetry in the two lower indices force this same formula by adding the compatibility equations in two index orders and subtracting the third. Hence it is the unique compatible torsion-free connection on this coordinate domain. This also makes the construction independent of a change of coordinates, since the connection rules, compatibility and torsion freedom are intrinsic. When $m=3$ it is precisely [F2]. [given, F2, F5, F7, construct, algebra]
+
+1.2 By [F3], $x\mapsto(u(x),x)$ parametrizes a smooth embedded hypersurface; swapping the two product factors is a coordinate diffeomorphism. Its induced quadratic form is $h_{ij}(u(x),x)\xi^i\xi^j-(u_i\xi^i)^2\ge W h_{ij}(u(x),x)\xi^i\xi^j$, by [F8] for the positive-definite form $h$, so $W>0$ makes it spacelike. The conormal $\alpha=dz-u_i dx^i$ has squared norm $-W$. Its negative metric dual, normalized to unit length, is $n=-\alpha^\sharp/\sqrt W=(\partial_z+h^{ij}u_j\partial_i)/\sqrt W$. This vector is future-directed because $g(n,\partial_z)=-W^{-1/2}<0$ and $\partial_z$ is future-directed. Hence the defined angle is $v=W^{-1/2}$. [F3, F8, given, algebra]
+
+2.1 For the connection of step 1.1, cancellation of the first and third terms of the Christoffel formula after interchanging their summed indices gives $\Gamma^a{}_{ab}=\tfrac12g^{ac}\partial_b g_{ac}$. Apply [F6] in each coordinate direction to $g$, which is invertible throughout the coordinate domain. Since $\det g=-\det h<0$ and $w=\sqrt{|\det g|}=J$, the scalar chain rule [F9] gives $\partial_b w=\tfrac12w g^{ac}\partial_b g_{ac}$. Taking the trace of the coordinate formula for $\nabla Y$ in step 1.1 yields $\operatorname{div}_gY:=\operatorname{tr}(X\mapsto\nabla_XY)=\partial_aY^a+\Gamma^a{}_{ab}Y^b=w^{-1}\partial_a(wY^a)$. This proves the identity for every smooth $Y$ in every dimension under consideration; when $m=3$ it agrees with [F4]. [F4, F5, F6, F9, step 1.1, algebra]
+
+2.2 Extend the normal from step 1.2 to nearby ambient points using the same spatial functions $u_i(x)$ and ambient coefficients $h^{ij}(z,x)$. Positivity of $W$ on the graph makes this a smooth unit timelike extension locally. At a graph point choose a $\gamma$-orthonormal tangent basis $e_1,\ldots,e_m$ by successive subtraction of projections and positive normalization; adjoining $n$ gives a $g$-orthonormal ambient basis. The trace formula and metric compatibility from step 1.1 give $\operatorname{div}_g n=\sum_i g(\nabla_{e_i}n,e_i)-g(\nabla_n n,n)=\sum_i g(\nabla_{e_i}n,e_i)$, since $g(\nabla_n n,n)=\tfrac12 n(g(n,n))=0$. The last sum is $-\operatorname{tr}_\gamma k=H$ by the Statement. Tangential derivatives of two extensions agreeing on the graph coincide, so the value is independent of the unit extension. Thus maximality is equivalent to $\operatorname{div}_g n=0$ in every dimension; for $m=3$ this recovers [F1]. [F1, step 1.1, step 1.2, algebra]
+
+3.1 By step 2.1, the divergence of the extension in step 2.2 is $J^{-1}\{\partial_z(J/\sqrt W)+\sum_i\partial_{x_i}(Jh^{ij}u_j/\sqrt W)\}$, with spatial derivatives taken at fixed $z$. In each spatial derivative, the chain rule [F9] gives $\partial_{x_i}P^i(z,x,Du(x))=P^i_{x_i}+P^i_{p_j}u_{ji}$; the $z$ derivative fixes $x$ and $p=Du(x)$. Evaluating at $z=u(x)$ therefore gives $J\operatorname{div}_g n=A^{ij}u_{ij}+b$. Since $J>0$, step 2.2 makes maximality equivalent to this expression vanishing. [F9, step 2.1, step 2.2, algebra]
+
+4.1 Differentiate $P$ with respect to $p$ to obtain the displayed symmetric matrix. For any covector $\xi$, $A^{ij}\xi_i\xi_j\ge J h^{ij}\xi_i\xi_j/\sqrt W$. On a compact background, [F10] gives $c_h I\le h\le C_h I$ and $C_h^{-1}I\le h^{-1}\le c_h^{-1}I$. Thus $v=W^{-1/2}\le V$ gives $s\le1-V^{-2}$ and $|p|^2\le C_hs\le C_h$. For a nonempty admissible set $V\ge1$; choose $\theta_1^2=1-(2V^2)^{-1}$, strictly greater than $1-V^{-2}$. Over the compact background the closed jet set $s\le\theta_1^2$ is compact by [F12], since it is closed and $|p|^2\le C_h\theta_1^2$, and it contains the admissible jets in its relative interior in the slope variables. The compact background lies in the smooth coordinate domain; finitely many small closed coordinate balls inside that domain give, by [F12], a compact neighborhood of it, on which [F10] applies again. On the corresponding enlarged jet set, $W\ge(2V^2)^{-1}>0$. The coefficients are smooth on an open spacelike neighborhood, so [F11] bounds each of their continuous derivatives on this compact set, for every prescribed finite order. In particular the entries of $A$ have common bounds, giving a common upper quadratic-form bound by $|\sum_{i,j}A^{ij}\xi_i\xi_j|\le(\max_{i,j}|A^{ij}|)(\sum_i|\xi_i|)^2\le m(\max_{i,j}|A^{ij}|)|\xi|^2$. The lower bound follows from the first displayed inequality, $h^{-1}\ge C_h^{-1}I$, $W\le1$ and the positive minimum of $J$ on the compact background supplied by [F11]. These bounds use only the compact background and the angle bound, with no initially uniform higher derivative bound for $u$. [F8, F10, F11, F12, given, step 1.2, step 3.1, algebra] ∎
