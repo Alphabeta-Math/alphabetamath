@@ -1,0 +1,16 @@
+{
+  "title": "Euler’s 1747 conjecture on sums of integers with restricted prime factors",
+  "description": "Research article: Euler’s 1747 conjecture on sums of integers with restricted prime factors",
+  "authors": [
+    "Will Howe",
+    "Grant Huffman",
+    "Jensen Kohlmeyer",
+    "Liam Kruer"
+  ],
+  "summary": [
+    "The authors prove that every positive integer congruent to 2 modulo 4 is a sum of two positive integers whose prime factors are all congruent to 1 modulo 4, with 1 admitted as a summand. Euler proposed this statement in a letter to Goldbach dated May 6, 1747. The proof counts representations by four squares and bounds those containing a common prime divisor congruent to 3 modulo 4 in either coordinate pair.",
+    "An average over a nonsplit torus normalizer converts the quaternionic Hecke bound into an error independent of the sieving prime. Elementary estimates then give the explicit threshold 644. An exact finite arithmetic certificate covers the remaining 4,194,304 integers in the required residue class."
+  ],
+  "article_url": "https://hexagonmath.org/pdf/2611.00370v1",
+  "status": "draft"
+}

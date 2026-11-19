@@ -1,0 +1,282 @@
+---
+id: thm-projective-quaternion-norm-characters
+kind: theorem
+title: Norm characters of projective quaternion units
+status: draft
+domain: mathematics
+deps:
+  - math:def-axiom-of-choice
+  - def-author-5b8600b4f4af-full-adelic-hamilton-group
+  - def-finite-quaternion-adeles-and-projective-units
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
+  - def-author-6f52147f3ab3-finite-quaternion-ideles
+  - def-definite-quaternion-automorphic-fixed-space
+  - lem-author-5b8600b4f4af-hamilton-invariant-quotient
+  - math:def-radon-measure-on-an-lch-space
+  - math:def-quotient-group
+  - math:def-quotient-topology
+  - math:def-strongly-continuous-unitary-representation
+  - math:thm-reals-cauchy-complete
+  - math:thm-of-square-roots
+  - lem-author-eebeda62e446-projective-norm-one-commutator
+  - lem-author-eebeda62e446-hamilton-norm-values
+  - math:def-product-topology
+  - math:thm-closed-subspace-of-a-compact-space-is-compact
+  - math:def-complex-metric-convergence-and-continuity
+  - math:def-metric-topology
+  - math:def-standard-topologies
+  - math:lem-topological-group-translations-and-inversion
+  - math:lem-real-line-is-a-metric-space
+  - math:def-subspace-topology-top
+  - math:lem-of-sign-rules
+  - math:lem-complex-conjugation-and-modulus-laws
+  - math:def-complex-norm-and-complex-normed-space
+  - math:thm-complex-numbers-form-a-field
+  - math:lem-of-no-zero-divisors
+  - math:def-group-homomorphism
+  - math:def-kernel-and-image-of-group-homomorphism
+  - math:def-continuous-map-top
+  - math:thm-continuity-characterisations-top
+  - math:def-compact-space
+  - math:def-subgroup
+  - math:def-normal-subgroup
+  - math:thm-quotient-group-laws
+  - math:def-vector-space
+  - math:def-borel-sigma-algebra
+  - math:def-measure
+  - math:def-measure-null-set-and-almost-everywhere
+  - math:prop-measure-monotonicity
+  - math:thm-metric-open-set-algebra
+  - math:def-topological-space
+  - math:def-monoid-finite-product
+  - math:def-finite-sum-in-a-commutative-monoid
+  - math:lem-finite-sum-reindexing-and-fubini
+formulation_deps:
+  - math:def-axiom-of-choice
+  - def-author-5b8600b4f4af-full-adelic-hamilton-group
+  - def-finite-quaternion-adeles-and-projective-units
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
+  - def-author-6f52147f3ab3-finite-quaternion-ideles
+  - def-definite-quaternion-automorphic-fixed-space
+  - lem-author-5b8600b4f4af-hamilton-invariant-quotient
+  - math:def-radon-measure-on-an-lch-space
+  - math:def-quotient-group
+  - math:def-quotient-topology
+  - math:def-product-topology
+  - math:def-complex-metric-convergence-and-continuity
+  - math:def-metric-topology
+  - math:def-standard-topologies
+  - math:lem-real-line-is-a-metric-space
+  - math:def-subspace-topology-top
+  - math:def-group-homomorphism
+  - math:def-continuous-map-top
+  - math:def-compact-space
+  - math:def-subgroup
+  - math:def-normal-subgroup
+  - math:thm-quotient-group-laws
+  - math:def-vector-space
+  - lem-author-eebeda62e446-hamilton-norm-values
+  - math:def-borel-sigma-algebra
+  - math:def-measure
+  - math:def-measure-null-set-and-almost-everywhere
+  - math:def-topological-space
+argument_deps:
+  - math:def-axiom-of-choice
+  - def-author-5b8600b4f4af-full-adelic-hamilton-group
+  - def-finite-quaternion-adeles-and-projective-units
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
+  - def-author-6f52147f3ab3-finite-quaternion-ideles
+  - def-definite-quaternion-automorphic-fixed-space
+  - lem-author-5b8600b4f4af-hamilton-invariant-quotient
+  - math:def-radon-measure-on-an-lch-space
+  - math:def-quotient-group
+  - math:def-quotient-topology
+  - math:def-strongly-continuous-unitary-representation
+  - math:thm-reals-cauchy-complete
+  - math:thm-of-square-roots
+  - lem-author-eebeda62e446-projective-norm-one-commutator
+  - lem-author-eebeda62e446-hamilton-norm-values
+  - math:def-product-topology
+  - math:thm-closed-subspace-of-a-compact-space-is-compact
+  - math:def-complex-metric-convergence-and-continuity
+  - math:def-metric-topology
+  - math:def-standard-topologies
+  - math:lem-topological-group-translations-and-inversion
+  - math:lem-real-line-is-a-metric-space
+  - math:def-subspace-topology-top
+  - math:lem-of-sign-rules
+  - math:lem-complex-conjugation-and-modulus-laws
+  - math:def-complex-norm-and-complex-normed-space
+  - math:thm-complex-numbers-form-a-field
+  - math:lem-of-no-zero-divisors
+  - math:def-group-homomorphism
+  - math:def-kernel-and-image-of-group-homomorphism
+  - math:def-continuous-map-top
+  - math:thm-continuity-characterisations-top
+  - math:def-compact-space
+  - math:def-subgroup
+  - math:def-normal-subgroup
+  - math:thm-quotient-group-laws
+  - math:def-vector-space
+  - math:def-borel-sigma-algebra
+  - math:def-measure
+  - math:def-measure-null-set-and-almost-everywhere
+  - math:prop-measure-monotonicity
+  - math:thm-metric-open-set-algebra
+  - math:def-topological-space
+  - math:def-monoid-finite-product
+  - math:def-finite-sum-in-a-commutative-monoid
+  - math:lem-finite-sum-reindexing-and-fubini
+dependency_roles:
+  math:def-axiom-of-choice: mathematical-premise
+  def-author-5b8600b4f4af-full-adelic-hamilton-group: mathematical-premise
+  def-finite-quaternion-adeles-and-projective-units: mathematical-premise
+  def-author-6f52147f3ab3-hamilton-order-completions: mathematical-premise
+  def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles: mathematical-premise
+  def-author-6f52147f3ab3-finite-quaternion-ideles: mathematical-premise
+  def-definite-quaternion-automorphic-fixed-space: mathematical-premise
+  lem-author-5b8600b4f4af-hamilton-invariant-quotient: mathematical-premise
+  math:def-radon-measure-on-an-lch-space: mathematical-premise
+  math:def-quotient-group: mathematical-premise
+  math:def-quotient-topology: mathematical-premise
+  math:def-strongly-continuous-unitary-representation: mathematical-premise
+  math:thm-reals-cauchy-complete: mathematical-premise
+  math:thm-of-square-roots: mathematical-premise
+  lem-author-eebeda62e446-projective-norm-one-commutator: mathematical-premise
+  lem-author-eebeda62e446-hamilton-norm-values: mathematical-premise
+  math:def-product-topology: mathematical-premise
+  math:thm-closed-subspace-of-a-compact-space-is-compact: mathematical-premise
+  math:def-complex-metric-convergence-and-continuity: mathematical-premise
+  math:def-metric-topology: mathematical-premise
+  math:def-standard-topologies: mathematical-premise
+  math:lem-topological-group-translations-and-inversion: mathematical-premise
+  math:lem-real-line-is-a-metric-space: mathematical-premise
+  math:def-subspace-topology-top: mathematical-premise
+  math:lem-of-sign-rules: mathematical-premise
+  math:lem-complex-conjugation-and-modulus-laws: mathematical-premise
+  math:def-complex-norm-and-complex-normed-space: mathematical-premise
+  math:thm-complex-numbers-form-a-field: mathematical-premise
+  math:lem-of-no-zero-divisors: mathematical-premise
+  math:def-group-homomorphism: mathematical-premise
+  math:def-kernel-and-image-of-group-homomorphism: mathematical-premise
+  math:def-continuous-map-top: mathematical-premise
+  math:thm-continuity-characterisations-top: mathematical-premise
+  math:def-compact-space: mathematical-premise
+  math:def-subgroup: mathematical-premise
+  math:def-normal-subgroup: mathematical-premise
+  math:thm-quotient-group-laws: mathematical-premise
+  math:def-vector-space: mathematical-premise
+  math:def-borel-sigma-algebra: mathematical-premise
+  math:def-measure: mathematical-premise
+  math:def-measure-null-set-and-almost-everywhere: mathematical-premise
+  math:prop-measure-monotonicity: mathematical-premise
+  math:thm-metric-open-set-algebra: mathematical-premise
+  math:def-topological-space: mathematical-premise
+  math:def-monoid-finite-product: mathematical-premise
+  math:def-finite-sum-in-a-commutative-monoid: mathematical-premise
+  math:lem-finite-sum-reindexing-and-fubini: mathematical-premise
+provenance:
+  statement: ai-altered
+  proof: ai-generated
+proof_strategy: direct
+sources:
+  references:
+    - title: Ellenberg, Michel and Venkatesh, Linnik’s ergodic method and the
+        distribution of integer points on spheres
+      url: https://arxiv.org/pdf/1001.0897#page=40
+      locator: arXiv:1001.0897v1, §8.4, pp. 39–40
+      reading_limits: Consulted the beginning of §8.4 and its paragraph on the
+        one-dimensional summands. This reference gives context for the
+        statement.
+dependency_level: 7
+---
+
+## Statement
+
+Assume the Axiom of Choice, that every family of nonempty sets has a choice function. Let $B$ be the rational Hamilton quaternion algebra and $H=G(\mathbb A)=G(\mathbb R)\times G(\mathbb A_f)$ its full adelic projective group. Its elements are pairs of classes of real and finite quaternion units modulo nonzero real scalars and finite scalar ideles, respectively. A finite quaternion idele is a tuple of invertible local quaternions that are units in the local order at all but finitely many primes. Let $\Gamma=G(\mathbb Q)=B^\times/\mathbb Q^\times$ act by diagonal left multiplication and write $X=\Gamma\backslash H$ for the coset space with its quotient topology.
+
+Fix a nonzero right-invariant Radon measure $\mu$ on $X$. Thus $\mu$ is a Borel measure finite on compact sets, inner regular on open sets and outer regular on Borel sets, and $\mu(Eh)=\mu(E)$ for every Borel set $E$ and $h\in H$. A one-dimensional automorphic representation here is the right action $R(h)[f]=[x\mapsto f(xh)]$ on a nonzero invariant complex line in $L^2(X,\mu;\mathbb C)$, the space of square-integrable complex functions modulo equality almost everywhere. Such a line has the form $M=\{cv:c\in\mathbb C\}$ for a nonzero vector $v$, and invariance means $R(h)M=M$ for every $h\in H$.
+
+Put $\mathbb A^\times=\mathbb R^\times\times\mathbb A_f^\times$, where $\mathbb A_f^\times$ is the group of tuples of nonzero local scalars that are integral units at all but finitely many primes. Give $\mathbb A_f^\times$ the restricted product topology, whose basic boxes use the groups of integral units at all but finitely many primes. Give $\mathbb R^\times$ the subspace topology from the usual metric $d_{\mathbb R}(s,t)=|s-t|$ on $\mathbb R$. Give $\mathbb A^\times$ the product of the usual topology on $\mathbb R^\times$ and this restricted product topology on $\mathbb A_f^\times$. The idele class group $\mathbb Q^\times\backslash\mathbb A^\times$ identifies ideles that differ by a diagonal rational scalar and carries the quotient group operations and quotient topology. A quadratic idele class character is a continuous homomorphism from this group to the multiplicative group $\{1,-1\}$, allowing the trivial character. The sign group has the discrete topology, so every subset is open.
+
+Give $\mathbb C$ the topology of the metric $d_{\mathbb C}(z,w)=|z-w|$. For each one-dimensional automorphic representation there is a quadratic idele class character $\eta$ such that the line consists of the classes of the continuous functions $\Gamma h\mapsto c\,\eta([N(\widetilde h)])$ for $c\in\mathbb C$. Here $\widetilde h$ is any real and finite quaternion idele lift of $h$, $N(\widetilde h)$ is the full scalar idele of coordinatewise reduced norms, and brackets on that norm denote its idele class. The reduced norm at each place is the sum of four Hamilton coordinate squares. Changing the quaternion idele lift multiplies the norm by the square of a scalar idele.
+
+## Facts & Assumptions
+
+[A1] The Axiom of Choice supplies a choice function for each family of nonempty sets ([[math:def-axiom-of-choice]]), as assumed in the invariant measure and right translation results used below.
+
+[F1] The full adelic group is the product of the real and finite projective groups with each rational projective unit embedded by its class at every place ([[def-author-5b8600b4f4af-full-adelic-hamilton-group]]). The real projective quotient is by $\mathbb R^\times$ and the finite one is by $\mathbb A_f^\times$. The finite projective group is the restricted product of $G(\mathbb Q_\ell)=B_\ell^\times/\mathbb Q_\ell^\times$ with respect to the images $K_\ell$ of $O_\ell^\times$, where $B_\ell$ has Hamilton coordinates in $\mathbb Q_\ell$, the $\ell$-adic completion of $\mathbb Q$. Write $\mathbb Z_\ell$ for its ring of elements of absolute value at most $1$. The local order $O_\ell$ is the $\mathbb Z_\ell$-span of the basis of a fixed order $O$, a subring containing $1$ with a $\mathbb Z$-basis that is a $\mathbb Q$-basis of $B$ ([[def-author-6f52147f3ab3-hamilton-order-completions]]). Basic open boxes have open local factors and have factor $K_\ell$ outside a finite set of primes. The subgroup $K_f=\prod_\ell K_\ell$ is compact open ([[def-finite-quaternion-adeles-and-projective-units]], Justification 4.1–5.1). In the finite quaternion idele group the allowed integral factors are $O_\ell^\times$ ([[def-author-6f52147f3ab3-finite-quaternion-ideles]]). In the finite scalar idele group the allowed integral factors are $\mathbb Z_\ell^\times$. In both cases the basic boxes leave those factors unchanged at all but finitely many primes ([[def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles]]).
+
+[F2] The Hamilton norm is multiplicative over $\mathbb R$, $\mathbb Q_\ell$ and $\mathbb Q$, and $N(ax)=a^2N(x)$ for each scalar $a$ by the coordinate formula ([[def-author-6f52147f3ab3-hamilton-order-completions]], Definition and Justification 3.2). Projective classes with square reduced norm map to the identity under each homomorphism to a commutative group ([[lem-author-eebeda62e446-projective-norm-one-commutator]]). Every positive rational is a rational Hamilton norm, every nonzero local scalar is a local Hamilton norm, and $N(O_\ell^\times)=\mathbb Z_\ell^\times$ for all but finitely many $\ell$. The open identity neighborhood $1+\ell^3\mathbb Z_\ell$ consists of local squares ([[lem-author-eebeda62e446-hamilton-norm-values]]).
+
+[F3] Every nonempty set of reals bounded above has a least upper bound ([[math:thm-reals-cauchy-complete]], steps 8.1–9.1). The real field therefore satisfies the least-upper-bound hypothesis that gives a nonzero square root for each positive real ([[math:thm-of-square-roots]]).
+
+[F4] On $X$ the right action is continuous and every nonzero invariant Radon measure is positive on every nonempty open subset under [A1] ([[lem-author-5b8600b4f4af-hamilton-invariant-quotient]]). Radon regularity means approximation from within by compact subsets for open sets and from above by open sets for Borel sets ([[math:def-radon-measure-on-an-lch-space]]).
+
+[F5] The right action on $L^2(X,\mu;\mathbb C)$ is by linear surjective isometries and each orbit map is continuous in the $L^2$ norm, which is strong continuity ([[def-definite-quaternion-automorphic-fixed-space]], [[math:def-strongly-continuous-unitary-representation]]). Under [A1], for any compact open $U\le G(\mathbb A_f)$, a vector fixed by $G(\mathbb R)\times U$ is represented by a pullback from the discrete space $D=G(\mathbb Q)\backslash G(\mathbb A_f)/U$. The quotient map $X\to D$ is continuous and sends $\Gamma(h_\infty,h_f)$ to the double coset $\Gamma h_f U=\{\gamma_f h_f u:\gamma\in\Gamma,\ u\in U\}$ ([[def-definite-quaternion-automorphic-fixed-space]]).
+
+[F6] A subgroup is normal if conjugation by every group element preserves it ([[math:def-normal-subgroup]]). The cosets of a normal subgroup form a group with product given by multiplying representatives ([[math:def-quotient-group]], [[math:thm-quotient-group-laws]]). A map on a quotient is continuous if its composition with the quotient projection is continuous, since openness in the quotient is defined by preimages ([[math:def-quotient-topology]]).
+
+[F7] Products of open sets in two spaces form a basis for their product topology ([[math:def-product-topology]]).
+
+[F8] A closed subspace of a compact space is compact ([[math:thm-closed-subspace-of-a-compact-space-is-compact]], claim 1).
+
+[F9] The complex metric is $d_{\mathbb C}(z,w)=|z-w|$, with its restriction on the unit circle ([[math:def-complex-metric-convergence-and-continuity]]). In the metric topology, balls form a neighborhood basis ([[math:def-metric-topology]]). Every metric ball of positive radius is open ([[math:thm-metric-open-set-algebra]], claim 1).
+
+[F10] A map is continuous at a point exactly when every open neighborhood of its image contains the image of an open neighborhood of that point ([[math:def-continuous-map-top]]). Continuity at every point is equivalent to having open preimages of all open sets ([[math:thm-continuity-characterisations-top]], (a)–(b)). Every subset of a discrete space is open ([[math:def-standard-topologies]]). A map into the two-element discrete sign group is continuous if both singleton preimages are open, since every subset is a union of singletons.
+
+[F11] The groups $\mathbb Q_\ell^\times$ and $\mathbb A_f^\times$ are topological groups in the local subspace and restricted product topologies, respectively ([[def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles]], Justification 1.2 and 3.1). In a topological group, left translation is a homeomorphism ([[math:lem-topological-group-translations-and-inversion]]). It sends open sets to open sets because the image under the translation is the preimage under its continuous inverse. The diagonal insertion of nonzero rationals into the finite scalar ideles is a homomorphism ([[def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles]], Justification 2.2).
+
+[F12] For $r>0$, the ball of radius $r$ about $t$ in the usual real metric is $(t-r,t+r)$ ([[math:lem-real-line-is-a-metric-space]], claim 2). Its intersection with $\mathbb R^\times$ is open by [F9] and the definition of the subspace topology ([[math:def-subspace-topology-top]]).
+
+[F13] In an ordered field, the product of two positive elements or two negative elements is positive, and a product of opposite signs is negative ([[math:lem-of-sign-rules]], claims 1–3, with commutativity for the negative-positive order).
+
+[F14] For complex numbers $z,w$, the modulus satisfies $|zw|=|z||w|$ and $|z+w|\le |z|+|w|$ ([[math:lem-complex-conjugation-and-modulus-laws]]).
+
+[F15] The nonnegative $L^2$ norm in [F5] is a complex norm. Thus $\|cv\|_2=|c|\|v\|_2$ for every complex scalar $c$, and $\|v\|_2=0$ only if $v=0$ ([[def-definite-quaternion-automorphic-fixed-space]], [[math:def-complex-norm-and-complex-normed-space]]).
+
+[F16] The complex numbers form a field, and in any field a product is zero only if at least one factor is zero ([[math:thm-complex-numbers-form-a-field]], [[math:lem-of-no-zero-divisors]]).
+
+[F17] A group homomorphism preserves products ([[math:def-group-homomorphism]]), and its kernel consists of the elements it sends to the target identity ([[math:def-kernel-and-image-of-group-homomorphism]]).
+
+
+[F18] A compact subset is compact in its subspace topology, meaning every open cover of that subspace has a finite subcover ([[math:def-compact-space]]). A subset is a subgroup if it contains the identity and is closed under products and inverses ([[math:def-subgroup]]).
+
+[F19] Scalar multiplication distributes over scalar addition in a complex vector space ([[math:def-vector-space]], axiom (V3)).
+
+[F20] In a topological space, the empty set, arbitrary unions of open sets and intersections of two open sets are open. A subset is closed exactly when its complement is open ([[math:def-topological-space]], axioms (T1)–(T3)). In a subspace, the open subsets are the traces of the ambient open sets ([[math:def-subspace-topology-top]]).
+
+[F21] The Borel sigma-algebra is generated by the open sets, so every open set is Borel ([[math:def-borel-sigma-algebra]]). A Borel measure is a measure on this sigma-algebra and takes nonnegative values ([[math:def-measure]]). A property holds almost everywhere if it holds outside a measurable null set ([[math:def-measure-null-set-and-almost-everywhere]]). For two Borel sets with one contained in the other, the smaller set has measure at most that of the larger ([[math:prop-measure-monotonicity]]).
+
+[F22] A finite list in a monoid is multiplied recursively by appending one factor at a time, starting from the identity ([[math:def-monoid-finite-product]]). In a commutative monoid this defines a product over a finite index set, independent of enumeration, with empty product equal to the identity ([[math:def-finite-sum-in-a-commutative-monoid]], using multiplicative notation). Such products split over disjoint unions and can be evaluated in either iterated order over two finite index sets ([[math:lem-finite-sum-reindexing-and-fubini]], claims 2–3, using multiplicative notation).
+
+## Proof
+
+**Given:** The group, measure and one-dimensional invariant line in the statement.
+
+**Goal:** Exhibit a quadratic idele class character giving both the action and the stated continuous representatives.
+
+1.1 A lift $\widetilde h=(x_\infty,(x_\ell)_\ell)$ has nonzero norms at every place by multiplicativity applied to the invertible coordinates and their inverses. Its finite norms are integral units at almost all primes by [F1] and the order-unit norm assertion of [F2], so $N(\widetilde h)\in\mathbb A^\times$. Two lifts differ by a scalar idele $a$ by [F1]. Their norms differ by $a^2$ by [F2], so a character with values in $\{1,-1\}$ will give the same value for either lift. [F1, F2, F6]
+
+1.2 Take a nonzero generator $v$ of $M$. By invariance, $R(h)v=cv$ for some $c\in\mathbb C$. If $cv=c^{\prime}v$, then $(c-c^{\prime})v=0$ by [F19] and the additive group laws. By [F15] this gives $|c-c^{\prime}|\|v\|_2=0$, so $c=c^{\prime}$ because $\|v\|_2>0$. This defines $\lambda(h)$ uniquely by $R(h)v=\lambda(h)v$. The unit circle is an abelian group under complex multiplication. Products have modulus $1$ by [F14], and for $|z|=1$ the equality $1=|zz^{-1}|=|z||z^{-1}|$ gives $|z^{-1}|=1$. The action law and linearity in [F5] give $R(hh')v=R(h)R(h')v=\lambda(h)\lambda(h')v$. Since $v\ne0$, this gives the product law for $\lambda$. Isometry and [F15] give $\|v\|_2=\|R(h)v\|_2=|\lambda(h)|\|v\|_2$, and $\|v\|_2>0$ since $v\ne0$. Hence $|\lambda(h)|=1$, so $\lambda$ is a homomorphism to the unit circle $\{z\in\mathbb C:|z|=1\}$ by [F17]. Equip the unit circle with the restricted metric in [F9]. The identity $\|R(h)v-R(h')v\|_2=|\lambda(h)-\lambda(h')|\|v\|_2$ from [F15] and $\|v\|_2>0$ show that, for each $\epsilon>0$, strong continuity makes $|\lambda(h)-\lambda(h')|<\epsilon$ throughout an open neighborhood of $h'$. Since open balls form a neighborhood basis, [F10] shows that $\lambda$ is continuous. A real projective unit has a lift of positive norm, which is a square by [F3]. The square-norm commutator result therefore gives $\lambda|_{G(\mathbb R)}=1$. [F1, F2, F3, F5, F9, F10, F14, F15, F17, F19]
+
+2.1 Insert $G(\mathbb Q_\ell)$ into $G(\mathbb A_f)$ by taking the identity at every other prime. The preimage of each basic open box is its open $\ell$-factor when all other factors contain the identity and is empty otherwise. The real component of this insertion into $H$ is constant at the identity. Preimages of open sets are therefore open by the product basis and the union law in [F20]. Thus the insertion is a continuous homomorphism by [F1], [F7] and [F10], and we denote the restriction of $\lambda$ along it by $\lambda_\ell$. For $a\in\mathbb Q_\ell^\times$, choose $x\in B_\ell^\times$ with $N(x)=a$ and define $\theta_\ell(a)=\lambda_\ell([x])$. If $N(y)=a$, then $N(xy^{-1})=1$, so [F2] gives $\lambda_\ell([x])=\lambda_\ell([y])$. Products of lifts give the homomorphism law. The value on any local square is $1$ by [F2], so $\theta_\ell(a)^2=\theta_\ell(a^2)=1$. With $z=\theta_\ell(a)$, factoring gives $(z-1)(z+1)=z^2-1=0$, so [F16] gives $z=1$ or $z=-1$. For any group homomorphism $\psi$ to the signs, $\psi(e)=\psi(e)^2$ gives $\psi(e)=1$, and applying the product law to $uu^{-1}=e$ gives $\psi(u^{-1})=\psi(u)^{-1}$. The kernel is therefore a subgroup by [F18], since it contains the identity and is closed under products and inverses. If $\psi(b)=\delta$, then $\psi(y)=\delta$ exactly when $\psi(b^{-1}y)=1$, so the fiber of $\delta$ is $b\ker\psi$. For $\psi=\theta_\ell$, the kernel contains the open neighborhood $1+\ell^3\mathbb Z_\ell$ of $1$ by [F2]. Each kernel element translates this neighborhood to an open neighborhood of itself still in the kernel by [F11]. The kernel is the union of these translates, so it is open by [F20]. Each nonempty singleton fiber is a translate of the open kernel, so both singleton preimages are open and $\theta_\ell$ is continuous into the discrete sign group by [F10]. [F1, F2, F7, F10, F11, F16, F17, F18, F20, step 1.2]
+
+3.1 The open ball of radius $1$ about $1$ in the unit-circle metric of [F9] excludes $-1$. By [F7] and [F10], continuity at the identity gives a basic open box about the finite projective identity that $\lambda$ maps into that ball with the real component fixed at the identity. Outside the finite exceptional set of this box its factors are $K_\ell$ by [F1]. For each such prime, the single-place copy of $K_\ell$ lies in the box because every other factor contains the identity, so $\lambda_\ell|_{K_\ell}=1$ there by step 2.1. At the primes where $N(O_\ell^\times)=\mathbb Z_\ell^\times$ as well, this implies $\theta_\ell|_{\mathbb Z_\ell^\times}=1$. For an input $a_f$, only finitely many factors $\theta_\ell(a_\ell)$ differ from $1$. Define $\theta(a_f)=\prod_{\ell\in S}\theta_\ell(a_\ell)$ on any finite set $S$ containing these primes, with empty product $1$. By [F22], the product is independent of the enumeration of $S$. Enlarging $S$ leaves the value unchanged by disjoint splitting and the recursion for the product of identity factors. Two possible sets give the same value by passing to their union, which can be listed by appending the elements of the second set missing from the first. For $a_f,b_f$, take a common finite set $S$ containing the primes with nonidentity factors for either input. It also works for $a_fb_f$ by the local product laws. Applying finite Fubini from [F22] to the sign factors indexed by $S\times\{0,1\}$, with $0$ for $a_f$ and $1$ for $b_f$, gives $\prod_{\ell\in S}(\theta_\ell(a_\ell)\theta_\ell(b_\ell))=(\prod_{\ell\in S}\theta_\ell(a_\ell))(\prod_{\ell\in S}\theta_\ell(b_\ell))$. Together with the empty product at the identity, this proves the homomorphism law for $\theta$. Its kernel contains an open box using the open local kernels at the finitely many exceptional primes and the groups of integral units elsewhere. Each nonempty singleton fiber is a coset of the kernel by step 2.1. Translating the box by any element of a singleton fiber gives an open neighborhood in that fiber by [F11]. Each fiber is the union of these open neighborhoods, with an empty fiber open as well by [F20]. Thus $\theta$ is continuous into the discrete sign group by [F10]. [F1, F2, F7, F9, F10, F11, F20, F22, step 1.2, step 2.1]
+
+4.1 Fix $h=(h_\infty,h_f)$ with a lift whose finite coordinates are $x_\ell$, and let $\varepsilon>0$. By continuity of $\lambda$ and the product topology, choose a basic box about $h_f$ such that $|\lambda(h_\infty,g_f)-\lambda(h)|<\varepsilon$ for every $g_f$ in that box. Let $S$ be its finite set of exceptional primes, enlarged by every prime where $\theta_\ell(N(x_\ell))\ne1$. There are finitely many such primes by steps 1.1 and 3.1. The tuple $g_f$ equal to $h_f$ on $S$ and the identity elsewhere is in the box, since the other factors of the box are $K_\ell$. In any enumeration of $S$, the product of the corresponding single-place elements is $g_f$, since each coordinate receives its prescribed value and all other contributions are identities. Iterating the homomorphism law along the finite-list recursion in [F22] and using the trivial real factor gives $\lambda(h_\infty,g_f)=\prod_{\ell\in S}\lambda_\ell([x_\ell])$. Each factor is $\theta_\ell(N(x_\ell))$ by step 2.1. The enlarged $S$ contains all primes with nonidentity factors, so this product is $\theta((N(x_\ell))_\ell)$ by step 3.1. The distance from $\lambda(h)$ to this same value is less than $\varepsilon$ for every $\varepsilon>0$, hence $\lambda(h)=\theta((N(x_\ell))_\ell)$. [F1, F7, F9, F10, F22, step 1.1, step 1.2, step 2.1, step 3.1]
+
+5.1 The equality in step 4.1 shows that $\lambda$ takes values in $\{1,-1\}$. The open balls of radius $1$ about $1$ and $-1$ in the unit-circle metric of [F9] have preimages under $\lambda|_{G(\mathbb A_f)}$ equal to the kernel and its complement, respectively. These preimages are open by continuity and [F10]. The kernel is a subgroup by step 2.1. The intersection $U=K_f\cap\ker(\lambda|_{G(\mathbb A_f)})$ contains the identity and is closed under products and inverses because both factors have those properties, so $U$ is a subgroup by [F18]. It is open as the intersection of two open sets by [F20]. Its complement in $K_f$ is the trace of the open complement of the kernel, so it is open in $K_f$ by [F20]. Thus $U$ is closed in $K_f$. Since $U$ is closed in the compact space $K_f$, it is compact by [F8]. The vector $v$ is fixed by $G(\mathbb R)\times U$. By [F5], it is represented by a function $f$ pulled back from $D$. Every function on the discrete space $D$ is continuous by [F10] because every preimage is open there. The quotient map in [F5] is continuous, so the pullback is continuous by taking successive preimages. [F1, F5, F8, F9, F10, F18, F20, step 1.2, step 2.1, step 4.1]
+
+6.1 For fixed $h$, put $b(x)=f(xh)-\lambda(h)f(x)$. By [F14] and $|\lambda(h)|=1$, $|b(x)-b(y)|\le |f(xh)-f(yh)|+|f(x)-f(y)|$. Given $y$ and $\varepsilon>0$, each term is less than $\varepsilon/2$ on some open neighborhood of $y$ by continuity of the right action and of $f$. The intersection is open by [F20], so [F10] gives continuity of $b$. For any $x$ with $b(x)\ne0$, the open ball of radius $|b(x)|/2$ about $b(x)$ omits zero by [F9]. Its preimage under $b$ is an open neighborhood of $x$ on which $b$ is nonzero by [F10]. Hence $E=\{x:b(x)\ne0\}$ is open by [F20] and therefore Borel by [F21]. The relation $R(h)v=\lambda(h)v$ means that $b$ vanishes outside a Borel null set $Z$ by [F21]. Thus $E\subseteq Z$ and $0\le\mu(E)\le\mu(Z)=0$ by [F21]. By [F4], every nonempty open subset has positive measure. Hence $E=\varnothing$. Therefore $f(\Gamma h)=\lambda(h)f(\Gamma)$ for every $h$. Since $v\ne0$, this gives $f(\Gamma)\ne0$. For $\gamma\in\Gamma$, the equality $\Gamma\gamma=\Gamma$ now gives $\lambda(\gamma)=1$. [F1, F4, F9, F10, F14, F20, F21, step 1.2, step 5.1]
+
+7.1 Given $r\in\mathbb Q_{>0}$, take a rational lift of norm $r$ by [F2] and evaluate step 4.1 on its diagonal projective class. By step 6.1 this gives $\theta(r_f)=1$, where $r_f$ is the constant finite idele with value $r$. On $\mathbb A^\times$ put $\widetilde\eta(a_\infty,a_f)=\theta((\operatorname{sgn} a_\infty)_f a_f)$, where $\operatorname{sgn} t$ is $1$ for $t>0$ and $-1$ for $t<0$, with its subscript $f$ indicating diagonal insertion. The three product sign cases in [F13] give $\operatorname{sgn}(st)=\operatorname{sgn}(s)\operatorname{sgn}(t)$ for nonzero reals $s,t$. Diagonal insertion preserves multiplication, so this identity and the homomorphism law for $\theta$ give the homomorphism law for $\widetilde\eta$. For $\epsilon\in\{1,-1\}$ let $I_\epsilon$ be the half-line on which the sign is $\epsilon$. For each $t\in I_\epsilon$, the interval $(t-|t|/2,t+|t|/2)$ has both endpoints of sign $\epsilon$, so it is an open neighborhood of $t$ in $\mathbb R^\times$ contained in $I_\epsilon$ by [F12]. The union of these neighborhoods is $I_\epsilon$, so $I_\epsilon$ is open by [F20]. For each value $\delta\in\{1,-1\}$, its preimage on $I_\epsilon\times\mathbb A_f^\times$ is the rectangle $I_\epsilon\times\theta^{-1}(\{\theta(\epsilon_f)^{-1}\delta\})$. The second factor is open by continuity of $\theta$ from step 3.1. Each singleton preimage is the union of two rectangles, so it is open by [F7] and [F20]. Thus $\widetilde\eta$ is continuous into the discrete sign group by [F10]. [F2, F7, F10, F11, F12, F13, F20, step 3.1, step 4.1, step 6.1]
+
+8.1 The real and finite scalar embeddings preserve the identity, products and inverses, so the diagonal rationals form a subgroup of $\mathbb A^\times$ by [F18]. Multiplication in $\mathbb A^\times$ is commutative coordinatewise, so conjugation fixes each rational scalar and the subgroup is normal by [F6]. Thus [F6] supplies a well-defined group product on idele classes. On a diagonal rational $q$ the value of $\widetilde\eta$ is $\theta(|q|_f)=1$. For a scalar idele $a$, the product law gives $\widetilde\eta(qa)=\widetilde\eta(q)\widetilde\eta(a)=\widetilde\eta(a)$. Thus $\eta([a])=\widetilde\eta(a)$ is well defined on idele classes. The quotient product in [F6] gives $\eta([a][b])=\widetilde\eta(ab)=\eta([a])\eta([b])$. Its composite with the quotient projection equals the continuous $\widetilde\eta$, so $\eta$ is continuous by [F6]. Since the real reduced norm of a lift is positive, step 4.1 gives $\lambda(h)=\eta([N(\widetilde h)])$. The pointwise formula in step 6.1 yields the claimed continuous representatives on the whole line, with lift independence from step 1.1. [F1, F2, F6, F11, F17, F18, step 1.1, step 4.1, step 6.1, step 7.1] ∎
+
+## Source notes
+
+Ellenberg, Michel and Venkatesh state the norm-character formula in their finite-level argument in §8.4, pp. 39–40. The proof here derives the formula on the full adelic quotient. [Linnik’s ergodic method and the distribution of integer points on spheres](https://arxiv.org/pdf/1001.0897#page=40)

@@ -1,0 +1,304 @@
+---
+id: def-definite-quaternion-automorphic-fixed-space
+kind: definition
+title: Fixed spaces of projective quaternion automorphic representations
+status: draft
+domain: mathematics
+deps:
+  - math:def-measure-space
+  - math:lem-real-line-is-a-metric-space
+  - math:def-normed-vector-space-over-an-absolutely-valued-field
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - math:def-interior-closure-boundary-top
+  - math:def-metric-ball
+  - math:def-topological-space
+  - math:def-continuous-map-top
+  - math:def-hausdorff-space
+  - math:def-metric-topology
+  - math:def-complex-metric-convergence-and-continuity
+  - math:lem-complex-conjugation-and-modulus-laws
+  - def-author-5b8600b4f4af-full-adelic-hamilton-group
+  - lem-author-5b8600b4f4af-hamilton-invariant-quotient
+  - def-author-5b8600b4f4af-split-unramified-quaternion-representation
+  - def-finite-quaternion-adeles-and-projective-units
+  - math:def-axiom-of-choice
+  - math:def-coset
+  - math:def-double-cosets-of-two-subgroups
+  - math:def-radon-measure-on-an-lch-space
+  - math:def-strongly-continuous-unitary-representation
+  - math:def-locally-compact-space
+  - math:def-complex-lp-and-euclidean-test-function-conventions
+  - math:lem-complex-lp-completeness-density-and-inner-product
+  - math:thm-choice-implies-dependent-implies-countable-choice
+  - math:lem-complex-haar-l1-and-l2-are-complete-and-cc-dense
+  - math:def-compact-support-c-c-and-c-zero-on-an-lch-space
+  - math:thm-integrals-are-invariant-under-measure-preserving-maps
+  - math:thm-monotone-convergence-for-the-integral
+  - math:thm-finite-products-of-compact-spaces
+  - math:thm-compactness-under-continuous-maps
+  - math:cor-normalized-haar-probability-on-a-compact-group
+  - math:lem-compactly-supported-kernels-admit-commuting-radon-integrals
+  - math:lem-unitary-invariant-subspaces-have-invariant-orthogonal-complements
+  - math:def-quotient-topology
+  - math:def-compact-space
+  - math:def-standard-topologies
+  - math:def-borel-sigma-algebra
+  - math:def-measure
+  - math:def-nonnegative-simple-measurable-function
+  - math:def-integral-of-a-nonnegative-simple-function
+  - math:prop-the-nonnegative-integral-agrees-with-the-simple-integral
+  - math:thm-increasing-simple-approximation-of-a-nonnegative-measurable-function
+  - math:thm-orthogonal-decomposition-by-a-closed-subspace
+  - math:thm-compact-subset-of-a-hausdorff-space-is-closed
+  - math:thm-closed-subspace-of-a-compact-space-is-compact
+  - math:def-integrable-real-and-complex-functions-and-their-integrals
+  - math:prop-order-and-scalar-rules-for-the-nonnegative-integral
+  - math:thm-linearity-of-the-lebesgue-integral-on-l-one
+  - math:thm-integral-triangle-inequality
+  - math:def-product-topology
+  - math:def-subspace-topology-top
+  - math:def-topological-group
+  - math:def-measurable-function-between-measurable-spaces
+  - math:def-measure-null-set-and-almost-everywhere
+  - math:def-measure-preserving-transformation-and-system
+  - math:thm-complete-subspace-iff-closed
+  - math:def-linear-subspace
+  - math:def-orthogonality-and-orthogonal-complement
+  - math:def-hilbert-space
+  - math:def-real-and-complex-inner-product-space
+  - math:def-linear-isometry-and-isometric-isomorphism
+  - math:def-subgroup
+  - math:def-sigma-algebra
+  - math:def-algebra-of-subsets
+  - math:def-positive-linear-functional-on-c-c
+formulation_deps:
+  - math:def-measure-space
+  - math:lem-real-line-is-a-metric-space
+  - math:def-normed-vector-space-over-an-absolutely-valued-field
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - math:def-topological-space
+  - math:def-metric-topology
+  - def-author-5b8600b4f4af-full-adelic-hamilton-group
+  - lem-author-5b8600b4f4af-hamilton-invariant-quotient
+  - def-author-5b8600b4f4af-split-unramified-quaternion-representation
+  - def-finite-quaternion-adeles-and-projective-units
+  - math:def-axiom-of-choice
+  - math:def-coset
+  - math:def-double-cosets-of-two-subgroups
+  - math:def-radon-measure-on-an-lch-space
+  - math:def-strongly-continuous-unitary-representation
+  - math:def-complex-lp-and-euclidean-test-function-conventions
+  - math:def-quotient-topology
+  - math:def-compact-space
+  - math:def-standard-topologies
+  - math:def-borel-sigma-algebra
+  - math:def-measure
+  - math:def-product-topology
+  - math:def-subspace-topology-top
+  - math:def-measurable-function-between-measurable-spaces
+  - math:def-measure-null-set-and-almost-everywhere
+  - math:lem-complex-lp-completeness-density-and-inner-product
+  - math:def-linear-subspace
+  - math:def-hilbert-space
+  - math:def-real-and-complex-inner-product-space
+  - math:def-linear-isometry-and-isometric-isomorphism
+  - math:def-subgroup
+  - math:def-sigma-algebra
+argument_deps:
+  - math:def-measure-space
+  - math:lem-real-line-is-a-metric-space
+  - math:def-normed-vector-space-over-an-absolutely-valued-field
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - math:def-interior-closure-boundary-top
+  - math:def-metric-ball
+  - math:def-topological-space
+  - math:def-continuous-map-top
+  - math:def-hausdorff-space
+  - math:def-metric-topology
+  - math:def-complex-metric-convergence-and-continuity
+  - math:lem-complex-conjugation-and-modulus-laws
+  - def-author-5b8600b4f4af-full-adelic-hamilton-group
+  - lem-author-5b8600b4f4af-hamilton-invariant-quotient
+  - def-author-5b8600b4f4af-split-unramified-quaternion-representation
+  - def-finite-quaternion-adeles-and-projective-units
+  - math:def-axiom-of-choice
+  - math:def-coset
+  - math:def-double-cosets-of-two-subgroups
+  - math:def-radon-measure-on-an-lch-space
+  - math:def-strongly-continuous-unitary-representation
+  - math:def-locally-compact-space
+  - math:def-complex-lp-and-euclidean-test-function-conventions
+  - math:lem-complex-lp-completeness-density-and-inner-product
+  - math:thm-choice-implies-dependent-implies-countable-choice
+  - math:lem-complex-haar-l1-and-l2-are-complete-and-cc-dense
+  - math:def-compact-support-c-c-and-c-zero-on-an-lch-space
+  - math:thm-integrals-are-invariant-under-measure-preserving-maps
+  - math:thm-monotone-convergence-for-the-integral
+  - math:thm-finite-products-of-compact-spaces
+  - math:thm-compactness-under-continuous-maps
+  - math:cor-normalized-haar-probability-on-a-compact-group
+  - math:lem-compactly-supported-kernels-admit-commuting-radon-integrals
+  - math:lem-unitary-invariant-subspaces-have-invariant-orthogonal-complements
+  - math:def-quotient-topology
+  - math:def-compact-space
+  - math:def-standard-topologies
+  - math:def-borel-sigma-algebra
+  - math:def-measure
+  - math:def-nonnegative-simple-measurable-function
+  - math:def-integral-of-a-nonnegative-simple-function
+  - math:prop-the-nonnegative-integral-agrees-with-the-simple-integral
+  - math:thm-increasing-simple-approximation-of-a-nonnegative-measurable-function
+  - math:thm-orthogonal-decomposition-by-a-closed-subspace
+  - math:thm-compact-subset-of-a-hausdorff-space-is-closed
+  - math:thm-closed-subspace-of-a-compact-space-is-compact
+  - math:def-integrable-real-and-complex-functions-and-their-integrals
+  - math:prop-order-and-scalar-rules-for-the-nonnegative-integral
+  - math:thm-linearity-of-the-lebesgue-integral-on-l-one
+  - math:thm-integral-triangle-inequality
+  - math:def-product-topology
+  - math:def-subspace-topology-top
+  - math:def-topological-group
+  - math:def-measurable-function-between-measurable-spaces
+  - math:def-measure-null-set-and-almost-everywhere
+  - math:def-measure-preserving-transformation-and-system
+  - math:thm-complete-subspace-iff-closed
+  - math:def-linear-subspace
+  - math:def-orthogonality-and-orthogonal-complement
+  - math:def-hilbert-space
+  - math:def-real-and-complex-inner-product-space
+  - math:def-linear-isometry-and-isometric-isomorphism
+  - math:def-subgroup
+  - math:def-sigma-algebra
+  - math:def-algebra-of-subsets
+  - math:def-positive-linear-functional-on-c-c
+dependency_roles:
+  math:def-measure-space: mathematical-premise
+  math:lem-real-line-is-a-metric-space: mathematical-premise
+  math:def-normed-vector-space-over-an-absolutely-valued-field: mathematical-premise
+  def-author-6f52147f3ab3-hamilton-order-completions: mathematical-premise
+  math:def-interior-closure-boundary-top: mathematical-premise
+  math:def-metric-ball: mathematical-premise
+  math:def-topological-space: mathematical-premise
+  math:def-continuous-map-top: mathematical-premise
+  math:def-hausdorff-space: mathematical-premise
+  math:def-metric-topology: mathematical-premise
+  math:def-complex-metric-convergence-and-continuity: mathematical-premise
+  math:lem-complex-conjugation-and-modulus-laws: mathematical-premise
+  def-author-5b8600b4f4af-full-adelic-hamilton-group: mathematical-premise
+  lem-author-5b8600b4f4af-hamilton-invariant-quotient: mathematical-premise
+  def-author-5b8600b4f4af-split-unramified-quaternion-representation: mathematical-premise
+  def-finite-quaternion-adeles-and-projective-units: mathematical-premise
+  math:def-axiom-of-choice: mathematical-premise
+  math:def-coset: mathematical-premise
+  math:def-double-cosets-of-two-subgroups: mathematical-premise
+  math:def-radon-measure-on-an-lch-space: mathematical-premise
+  math:def-strongly-continuous-unitary-representation: mathematical-premise
+  math:def-locally-compact-space: mathematical-premise
+  math:def-complex-lp-and-euclidean-test-function-conventions: mathematical-premise
+  math:lem-complex-lp-completeness-density-and-inner-product: mathematical-premise
+  math:thm-choice-implies-dependent-implies-countable-choice: mathematical-premise
+  math:lem-complex-haar-l1-and-l2-are-complete-and-cc-dense: mathematical-premise
+  math:def-compact-support-c-c-and-c-zero-on-an-lch-space: mathematical-premise
+  math:thm-integrals-are-invariant-under-measure-preserving-maps: mathematical-premise
+  math:thm-monotone-convergence-for-the-integral: mathematical-premise
+  math:thm-finite-products-of-compact-spaces: mathematical-premise
+  math:thm-compactness-under-continuous-maps: mathematical-premise
+  math:cor-normalized-haar-probability-on-a-compact-group: mathematical-premise
+  math:lem-compactly-supported-kernels-admit-commuting-radon-integrals: mathematical-premise
+  math:lem-unitary-invariant-subspaces-have-invariant-orthogonal-complements: mathematical-premise
+  math:def-quotient-topology: mathematical-premise
+  math:def-compact-space: mathematical-premise
+  math:def-standard-topologies: mathematical-premise
+  math:def-borel-sigma-algebra: mathematical-premise
+  math:def-measure: mathematical-premise
+  math:def-nonnegative-simple-measurable-function: mathematical-premise
+  math:def-integral-of-a-nonnegative-simple-function: mathematical-premise
+  math:prop-the-nonnegative-integral-agrees-with-the-simple-integral: mathematical-premise
+  math:thm-increasing-simple-approximation-of-a-nonnegative-measurable-function: mathematical-premise
+  math:thm-orthogonal-decomposition-by-a-closed-subspace: mathematical-premise
+  math:thm-compact-subset-of-a-hausdorff-space-is-closed: mathematical-premise
+  math:thm-closed-subspace-of-a-compact-space-is-compact: mathematical-premise
+  math:def-integrable-real-and-complex-functions-and-their-integrals: mathematical-premise
+  math:prop-order-and-scalar-rules-for-the-nonnegative-integral: mathematical-premise
+  math:thm-linearity-of-the-lebesgue-integral-on-l-one: mathematical-premise
+  math:thm-integral-triangle-inequality: mathematical-premise
+  math:def-product-topology: mathematical-premise
+  math:def-subspace-topology-top: mathematical-premise
+  math:def-topological-group: mathematical-premise
+  math:def-measurable-function-between-measurable-spaces: mathematical-premise
+  math:def-measure-null-set-and-almost-everywhere: mathematical-premise
+  math:def-measure-preserving-transformation-and-system: mathematical-premise
+  math:thm-complete-subspace-iff-closed: mathematical-premise
+  math:def-linear-subspace: mathematical-premise
+  math:def-orthogonality-and-orthogonal-complement: mathematical-premise
+  math:def-hilbert-space: mathematical-premise
+  math:def-real-and-complex-inner-product-space: mathematical-premise
+  math:def-linear-isometry-and-isometric-isomorphism: mathematical-premise
+  math:def-subgroup: mathematical-premise
+  math:def-sigma-algebra: mathematical-premise
+  math:def-algebra-of-subsets: mathematical-premise
+  math:def-positive-linear-functional-on-c-c: mathematical-premise
+provenance:
+  statement: ai-generated
+  proof: ai-generated
+proof_strategy: direct
+dependency_level: 6
+---
+
+## Definition
+
+Assume the Axiom of Choice. For the rational Hamilton algebra $B$, fix a full order $O\subset B$, a subring containing $1$ with a chosen $\mathbb Z$-basis that is also a $\mathbb Q$-basis of $B$. Put $G=PB^\times$, $H=G(\mathbb A)=G(\mathbb R)\times G(\mathbb A_f)$, and $\Gamma=G(\mathbb Q)$ embedded diagonally in $H$. Use $O$ for the restricted-product construction of $G(\mathbb A_f)$. Give $H$ the product topology. Equip the space of cosets $X=\Gamma\backslash H$ with its quotient topology and choose a nonzero right-invariant Radon measure $\mu$ on its Borel sigma-algebra. Write $\mathcal H=L^2(X,\mu;\mathbb C)$ for the space of measurable complex functions of finite square integral, identifying two functions if they agree outside a Borel set of $\mu$-measure zero. Complex measurability means that the real and imaginary parts are both measurable for the Borel sigma-algebra of the real line. The inner product is $\langle f,g\rangle=\int_X f\overline g\,d\mu$.
+
+The right regular representation on $\mathcal H$ is $R(h)[f]=[x\mapsto f(xh)]$. An irreducible automorphic representation here is a unitary representation equivalent to the restriction of $R$ to a nonzero invariant complex-linear subspace $M$ that is closed in the Hilbert norm and has no proper nonzero invariant complex-linear subspace closed in that norm. Invariance means $R(h)M=M$ for every $h\in H$. Unitary equivalence means a bijective complex-linear isometry that intertwines the two actions. At a split finite prime $\ell$, the unramified condition is the existence of a nonzero vector fixed by the projective image of $\mathrm{GL}_2(\mathbb Z_\ell)$ under the split identification. For a local representation use this subgroup of $G(\mathbb Q_\ell)$, and for a full adelic representation use its copy supported at $\ell$.
+
+For a compact open subgroup $U\le G(\mathbb A_f)$ put $K=G(\mathbb R)\times U$ with the topology inherited from $H$. The fixed space at level $U$ is $\mathcal H^K=\{v:R(k)v=v\text{ for every }k\in K\}$. Let $D=G(\mathbb Q)\backslash G(\mathbb A_f)/U$, the set of double cosets $\Gamma g_f U=\{\gamma_f g_f u:\gamma\in\Gamma,\ u\in U\}$, where $\gamma_f$ is the finite component. Give $D$ the discrete topology, in which every subset is open, and its Borel sigma-algebra is therefore the power set $\mathcal P(D)$. Define $q:X\to D$ by $q(\Gamma(g_\infty,g_f))=\Gamma g_f U$. The measure $\nu$ on $\mathcal P(D)$ is given by $\nu(S)=\mu(q^{-1}(S))$ for $S\subseteq D$. The isometric identification of $L^2(D,\nu;\mathbb C)$ with $\mathcal H^K$ sends a function $a$ to the class of $a\circ q$. When $D$ is finite, every complex function on $D$ is allowed and its inner product with $b$ is $\sum_{d\in D}\nu(\{d\})a(d)\overline{b(d)}$.
+
+## Facts & Assumptions
+
+**Given:** The full order and basis used for the finite adelic construction, the full adelic and rational projective unit groups, a nonzero invariant quotient measure $\mu$, a compact open subgroup $U$ of the finite adelic group, and the Axiom of Choice.
+
+[A1] The Axiom of Choice gives a choice function for each indexed family of nonempty sets and implies Countable Choice, the corresponding principle for countable indexed families ([[math:def-axiom-of-choice]], [[math:thm-choice-implies-dependent-implies-countable-choice]]). These assumptions supply compact Haar measure, the quoted density and completeness results, and the commuting integrations used below.
+
+[F1] The integer span of $1,i,j,k$ is one full order. The Hamilton multiplication table sends products of basis elements to signed basis elements, so the integer span contains $1$ and is closed under subtraction and multiplication, with the Hamilton basis also a rational basis of $B$ ([[def-author-6f52147f3ab3-hamilton-order-completions]]). The full group $H$ is a locally compact Hausdorff topological group and $G(\mathbb R)$ is compact Hausdorff ([[def-author-5b8600b4f4af-full-adelic-hamilton-group]], Justification, steps 2.1–2.2 and 3.1). Local compactness gives a compact neighborhood of the identity ([[math:def-locally-compact-space]]). The finite group and its local factors have the projective and restricted product descriptions ([[def-finite-quaternion-adeles-and-projective-units]]). Use the same $O$ and its chosen basis for the finite restricted product, the construction of $H$, and the invariant-quotient lemma. The quotient $X$ is locally compact Hausdorff, the projection $H\to X$ is open and the right action is continuous. Nonzero right-invariant Radon measures on $X$ exist, and every such measure is positive on every nonempty open set ([[lem-author-5b8600b4f4af-hamilton-invariant-quotient]], Statement and Proof, step 1.2 for openness of the projection). Radon measures are finite on compact sets and have the regularity properties in [[math:def-radon-measure-on-an-lch-space]]. Cosets are the sets of left translates by $\Gamma$ and double cosets also allow right multiplication by the indicated subgroup ([[math:def-coset]], [[math:def-double-cosets-of-two-subgroups]]).
+
+[F2] Complex $L^2$ consists of square-integrable functions modulo equality almost everywhere, with measurability tested on the real and imaginary parts ([[math:def-complex-lp-and-euclidean-test-function-conventions]]). Under Countable Choice it is a Hilbert space, meaning complete for the norm from its inner product ([[math:def-hilbert-space]], [[math:def-real-and-complex-inner-product-space]]). The inner product is linear in the first argument and satisfies the Cauchy–Schwarz bound $|\langle f,g\rangle|\le\|f\|_2\|g\|_2$ ([[math:lem-complex-lp-completeness-density-and-inner-product]]). Under [A1], $C_c(X;\mathbb C)$ is dense in $\mathcal H$ for the locally compact Hausdorff space and Radon measure in [F1] ([[math:lem-complex-haar-l1-and-l2-are-complete-and-cc-dense]]). The notation $C_c$ denotes continuous functions whose support, the closure of the set where the function is nonzero, is compact ([[math:def-compact-support-c-c-and-c-zero-on-an-lch-space]]). The closure of a set is its smallest closed superset ([[math:def-interior-closure-boundary-top]]).
+
+[F3] A measure-preserving self-map leaves the integral of every nonnegative measurable function and every integrable complex function unchanged upon composition ([[math:thm-integrals-are-invariant-under-measure-preserving-maps]]). Increasing nonnegative measurable approximations have integrals increasing to the integral of their limit ([[math:thm-monotone-convergence-for-the-integral]]).
+
+[F4] Finite products and continuous images of compact spaces are compact ([[math:thm-finite-products-of-compact-spaces]], [[math:thm-compactness-under-continuous-maps]], claim 1). A continuous real function on a nonempty compact space has a finite maximum ([[math:thm-compactness-under-continuous-maps]], claim 2). Compact subsets of a Hausdorff space are closed ([[math:thm-compact-subset-of-a-hausdorff-space-is-closed]]). A closed subset of a compact space is compact ([[math:thm-closed-subspace-of-a-compact-space-is-compact]], claim 1). A compact Hausdorff group has a normalized Haar probability $dk$ under [A1], a Radon measure invariant under left and right multiplication and of total mass one ([[math:cor-normalized-haar-probability-on-a-compact-group]]). A real-linear functional on real compactly supported continuous functions is positive when it takes nonnegative functions to nonnegative numbers ([[math:def-positive-linear-functional-on-c-c]]). For a continuous compactly supported real kernel on a product of locally compact Hausdorff spaces, the two positive real-linear functionals on the separate spaces of compactly supported continuous real functions give continuous compactly supported partial integrals and commute. The same holds for complex kernels by complexification ([[math:lem-compactly-supported-kernels-admit-commuting-radon-integrals]]).
+
+[F5] A linear map preserving the norm also preserves distances, and it is an isometric isomorphism onto its range ([[math:def-linear-isometry-and-isometric-isomorphism]]). A strongly continuous unitary representation is a group homomorphism into bijective complex-linear isometries with each vector's orbit map continuous in norm ([[math:def-strongly-continuous-unitary-representation]]). For such a representation, the orthogonal complement of a closed invariant subspace is closed and invariant ([[math:lem-unitary-invariant-subspaces-have-invariant-orthogonal-complements]]). Under Countable Choice a closed linear subspace $M$ of a Hilbert space $\mathcal H$ gives the orthogonal decomposition $\mathcal H=M\oplus M^\perp$ ([[math:thm-orthogonal-decomposition-by-a-closed-subspace]]). A split prime means $B_\ell\simeq M_2(\mathbb Q_\ell)$, and the integral projective subgroup used in the unramified test is compact open and independent up to conjugacy of the matrix identification ([[def-author-5b8600b4f4af-split-unramified-quaternion-representation]], Definition and Justification, steps 2.1–2.2).
+
+[F6] A measure space consists of a set, a sigma-algebra on it, and a measure on that sigma-algebra ([[math:def-measure-space]]). The quotient topology tests openness by the preimage under the quotient projection ([[math:def-quotient-topology]]). Compactness means that every open cover has a finite subcover ([[math:def-compact-space]]). Every subset of a discrete space is open ([[math:def-standard-topologies]]), and its Borel sigma-algebra, generated by the open sets, is the power set ([[math:def-borel-sigma-algebra]]). A measure vanishes on the empty set and is countably additive on disjoint measurable sets ([[math:def-measure]]). A nonnegative simple measurable function is a finite sum of nonnegative multiples of indicators of disjoint measurable sets ([[math:def-nonnegative-simple-measurable-function]]). Its Lebesgue integral is the finite sum of each coefficient times the measure of its set ([[math:def-integral-of-a-nonnegative-simple-function]], [[math:prop-the-nonnegative-integral-agrees-with-the-simple-integral]]). Every nonnegative measurable function is the pointwise limit of an increasing sequence of nonnegative simple measurable functions ([[math:thm-increasing-simple-approximation-of-a-nonnegative-measurable-function]]).
+
+[F7] A complex measurable function is integrable when the integral of its modulus is finite ([[math:def-integrable-real-and-complex-functions-and-their-integrals]]). The nonnegative integral is monotone ([[math:prop-order-and-scalar-rules-for-the-nonnegative-integral]]). The integral is complex linear on integrable functions ([[math:thm-linearity-of-the-lebesgue-integral-on-l-one]]), and the modulus of an integral is bounded by the integral of the modulus ([[math:thm-integral-triangle-inequality]]).
+
+[F8] Arbitrary unions and finite intersections of open sets are open ([[math:def-topological-space]]). A map is continuous exactly when the preimage of each open set is open ([[math:def-continuous-map-top]]). In a Hausdorff space distinct points have disjoint open neighborhoods ([[math:def-hausdorff-space]]). Open rectangles form a basis for the product topology ([[math:def-product-topology]]), and the open sets of a subspace are the intersections of ambient open sets with that subspace ([[math:def-subspace-topology-top]]). Multiplication and inversion are continuous in a topological group ([[math:def-topological-group]]). A subgroup contains the ambient identity and is closed under multiplication and inversion ([[math:def-subgroup]]).
+
+[F9] A map of measurable spaces is measurable exactly when the preimage of each measurable set is measurable ([[math:def-measurable-function-between-measurable-spaces]]). For a continuous map, the target subsets with Borel preimages form a sigma-algebra because inverse images commute with complements and countable unions ([[math:def-sigma-algebra]], [[math:def-algebra-of-subsets]]). It contains the target open sets by continuity, and therefore contains all target Borel sets ([[math:def-continuous-map-top]], [[math:def-borel-sigma-algebra]]). An almost-everywhere equality holds off a measurable set of measure zero ([[math:def-measure-null-set-and-almost-everywhere]]). A measurable self-map $T$ is measure preserving if $\mu(T^{-1}(E))=\mu(E)$ for each measurable $E$ ([[math:def-measure-preserving-transformation-and-system]]).
+
+[F10] A closed subspace of a complete metric space is complete in the induced metric. Under Countable Choice, a complete subspace of a metric space is closed ([[math:thm-complete-subspace-iff-closed]]). A complex-linear subspace contains zero and is closed under addition and multiplication by complex scalars ([[math:def-linear-subspace]]). The orthogonal complement $M^\perp$ consists of the vectors $w$ with $\langle w,m\rangle=0$ for every $m\in M$ ([[math:def-orthogonality-and-orthogonal-complement]]).
+
+[F11] The real line has its usual topology from the metric $d_{\mathbb R}(s,t)=|s-t|$ ([[math:lem-real-line-is-a-metric-space]]). For a metric $d$ and a radius $r>0$, the open ball centered at $a$ is $B_d(a,r)=\{b:d(a,b)<r\}$ ([[math:def-metric-ball]]). Metric openness means that every point of the set has a ball centered there and contained in the set ([[math:def-metric-topology]]). The complex plane uses the Euclidean metric $d_{\mathbb C}(z,w)=|z-w|=\sqrt{(\operatorname{Re}(z-w))^2+(\operatorname{Im}(z-w))^2}$ ([[math:def-complex-metric-convergence-and-continuity]]). Complex conjugation is an involutive field automorphism with $z\overline z=|z|^2$, and modulus obeys $|zw|=|z||w|$ and $|z+w|\le |z|+|w|$ ([[math:lem-complex-conjugation-and-modulus-laws]]).
+
+[F12] The $L^2$ norm from [F2] satisfies $\|v+w\|_2\le\|v\|_2+\|w\|_2$ and induces the metric $d_{\mathcal H}(v,w)=\|v-w\|_2$ ([[math:def-normed-vector-space-over-an-absolutely-valued-field]]).
+
+## Justification
+
+**Given:** The full order and basis used for the finite adelic construction, the full adelic group $H$, its diagonal rational subgroup $\Gamma$, the nonzero right-invariant Radon measure $\mu$ on $X$, the compact open subgroup $U$, and the Axiom of Choice.
+
+**Goal:** Verify the unitary action and constituent conventions, and identify the $K$-fixed vectors with square-integrable functions on the discrete double-coset space.
+
+1.1 The right translation $T_h(x)=xh$ is continuous and therefore Borel measurable. For every Borel set $E\subseteq X$, $T_h^{-1}(E)=Eh^{-1}$ and $\mu(Eh^{-1})=\mu(E)$, so $T_h$ is measure preserving. For a measurable representative $f$, each component of $f\circ T_h$ is the corresponding measurable real component of $f$ composed with the Borel map $T_h$. The preimage criterion in [F9] gives measurability of each composition, so $f\circ T_h$ is complex measurable by [F2]. The preimage of any Borel null exceptional set is null, so the action respects classes, and invariance of the nonnegative integral preserves square integrals. This gives a well-defined linear isometry $R(h)$ on the classes in $\mathcal H$, with inverse $R(h^{-1})$. The formula $R(h)R(h')f(x)=f((xh)h')=R(hh')f(x)$ gives the homomorphism property. Completeness and the pairing come from [F2] using the Countable Choice furnished by [A1]. [A1, F1, F2, F3, F5, F9]
+
+1.2 The set $K=G(\mathbb R)\times U$ contains the identity and is closed under the componentwise multiplication and inversion of $H$, so it is a subgroup. It is open in $H$ as a product of open sets and compact as the product of two compact spaces. Its subspace topology is the product of the factor topologies, since restricting a basic rectangle in $H$ to $G(\mathbb R)\times U$ gives a basic rectangle there. The same rectangle argument identifies the product topology on $K\times K$ with its subspace topology from $H\times H$. The subgroup is Hausdorff by the inherited topology, and multiplication and inversion restrict continuously since open sets of $K$ are traces of those of $H$. Thus $K$ is a compact Hausdorff topological group, locally compact since $K$ is itself a compact neighborhood of each of its points. The map $q$ is well defined since left multiplication by a rational unit multiplies $g_f$ by its left finite component. It is surjective since the class of $(1,g_f)$ maps to the double coset of $g_f$. Its fibers are the right $K$-orbits. Indeed, if $g'_f=\gamma_f g_f u$, then $(g'_\infty,g'_f)$ differs from $\gamma(g_\infty,g_f)$ by right multiplication by $(g_\infty^{-1}\gamma_\infty^{-1}g'_\infty,u)\in K$. The converse follows by taking finite components. Left translation by $h$ is continuous, with continuous inverse left translation by $h^{-1}$, so $hK$ is open in $H$. The orbit of $\Gamma h$ is the image of the open set $hK$ under the projection $H\to X$, which is open by [F1], and is the image of the compact group $K$ under the continuous orbit map. For every $S\subseteq D$, the preimage $q^{-1}(S)$ is the union of the open fibers over $S$, hence is open and Borel in $X$. The open-preimage criterion gives continuity of $q$, and all preimages are Borel. Every fiber has positive finite measure by nonemptiness, openness and compactness. [given, F1, F4, F6, F8, F9]
+
+2.1 To prove strong continuity at the identity, first take $f\in C_c(X;\mathbb C)$ with compact support $C$. Choose a compact identity neighborhood $V$ in $H$ and an open identity neighborhood $W\subseteq V$. For $h\in V$ the difference $f(xh)-f(x)$ vanishes outside $E=C\cup CV^{-1}$. The set $CV^{-1}$ is compact as the image of $C\times V$ under the continuous map $(x,t)\mapsto xt^{-1}$. Finite subcovers of the two compact sets combine to give a finite subcover of $E$ for any open cover of $E$. Since $X$ is Hausdorff, $E$ is closed by [F4]. It contains the nonzero set of the difference and therefore the support, which is the smallest closed superset of that set by [F2]. The maps $(x,h)\mapsto f(xh)$ and $(x,h)\mapsto f(x)$ are continuous by the action and the product topology. For complex values $z,w,z_0,w_0$, the triangle inequality gives $|(z-w)-(z_0-w_0)|\le |z-z_0|+|w-w_0|$, so requiring each input to lie in the open ball of radius $\epsilon/2$ about its base value puts the difference in the open ball of radius $\epsilon$ about its base value. By [F8] and [F11] this proves joint continuity. Applying the triangle inequality to $z=(z-w)+w$ and interchanging the values gives $\big||z|-|w|\big|\le |z-w|$, which also proves continuity of the modulus. The difference vanishes at every $(x,e)$. Given $\epsilon>0$, continuity at each $(x,e)$ with $x\in E$ gives an open rectangle about $(x,e)$ on which the difference has modulus less than $\epsilon$. A finite cover in $x$ gives finitely many such identity neighborhoods. Intersect them with $W$ so that both the uniform bound on $E$ and vanishing outside $E$ hold. On this intersection the square integral of the difference is at most $\epsilon^2\mu(E)$, and $\mu(E)<\infty$. This gives norm continuity at the identity for $f$. For any $v\in\mathcal H$ approximate by $f\in C_c(X;\mathbb C)$ and use the norm triangle inequality in [F12] to obtain $\|R(h)v-v\|_2\le 2\|v-f\|_2+\|R(h)f-f\|_2$. The homomorphism and isometry properties then give norm continuity at every $h$. [F1, F2, F4, F5, F6, F7, F8, F11, F12, step 1.1]
+
+2.2 The rule for $\nu$ defines a measure on $\mathcal P(D)$ because all preimages are Borel and inverse images preserve the empty set and countable disjoint unions. Thus $(D,\mathcal P(D),\nu)$ is a measure space by [F6], as is $(X,\mathcal B(X),\mu)$ since $\mu$ is a measure on $\mathcal B(X)$. If $s=\sum_{j=1}^m c_j\mathbf 1_{E_j}$ is nonnegative simple with pairwise disjoint $E_j\subseteq D$, then $s\circ q$ has the same coefficients on the disjoint measurable sets $q^{-1}(E_j)$. By the simple integral formula both $\int_D s\,d\nu$ and $\int_X(s\circ q)\,d\mu$ equal $\sum_{j=1}^m c_j\nu(E_j)$. For any nonnegative measurable $b$ on $D$, take nonnegative simple functions $s_n\uparrow b$. Then $s_n\circ q\uparrow b\circ q$, and monotone convergence on these two measure spaces gives $\int_D b\,d\nu=\int_X(b\circ q)\,d\mu$. The real and imaginary parts of a pullback are the pullbacks of the respective components. They are measurable by the preimage criterion in [F9], so the pullback is complex measurable by [F2]. If $N$ is a $\nu$-null exceptional set, then $\mu(q^{-1}(N))=\nu(N)=0$. Applying the integral identity to squared moduli gives norm preservation, and pointwise linearity gives a linear isometry. The range is complete in the inherited metric because the domain $L^2(D,\nu;\mathbb C)$ is complete under Countable Choice from [A1] and pullback is an isometry. It is therefore closed by the Countable Choice direction of [F10]. Each pullback is pointwise constant on the $K$-orbits and hence represents a fixed class. If $a$ and $b$ agree outside a $\nu$-null set $N$ and $a(d)\ne b(d)$ at some $d$, then $d\in N$. Additivity on the disjoint sets $\{d\}$ and $N\setminus\{d\}$ gives $0=\nu(N)=\nu(\{d\})+\nu(N\setminus\{d\})\ge\nu(\{d\})>0$, a contradiction. Thus equality almost everywhere on $D$ is pointwise equality. [A1, F2, F3, F6, F9, F10, step 1.2]
+
+3.1 For a closed invariant complex-linear subspace $M$, the restricted inner product makes $M$ a Hilbert space because the inherited norm is complete by [F2] and the closed-subspace direction of [F10]. The restriction of $R$ is a strongly continuous unitary representation since $R(h)$ and $R(h^{-1})$ preserve $M$ and the orbit maps are continuous in the inherited norm. Write $M^\perp$ for the orthogonal complement from [F10]. The Hilbert space property from [F2] and Countable Choice from [A1] give $\mathcal H=M\oplus M^\perp$ by [F5]. The same fact block supplies invariance of $M^\perp$, so $R$ acts on both summands separately. The irreducibility condition is exactly the absence of a proper nonzero invariant complex-linear subspace of $M$ closed for that norm. The simultaneous fixed space for any subgroup $K$ is linear because each $R(k)$ is linear. For a vector $v$ outside this space, choose $k\in K$ with $\delta=\|R(k)v-v\|_2>0$. Every simultaneous fixed vector $w$ satisfies $\delta=\|R(k)(v-w)-(v-w)\|_2\le 2\|v-w\|_2$ by isometry and the norm triangle inequality in [F12]. The open norm ball of radius $\delta/2$ about $v$ consists of the vectors $w$ with $\|v-w\|_2<\delta/2$ by the ball definition in [F11] and the metric formula in [F12], so it is contained in the complement of the fixed space. This proves that the complement is open in the norm topology and the fixed space is closed. For the local condition, the integral projective subgroups from different splittings are conjugate by [F5]. The corresponding conjugation carries the fixed vectors to those of the conjugate subgroup by the representation operator of the conjugating element. This is the split unramified criterion of [F5]. [A1, F2, F5, F8, F10, F11, F12, step 1.1, step 2.1]
+
+3.2 For $f\in C_c(X;\mathbb C)$ define $Af(x)=\int_K f(xk)\,dk$ using Haar probability on $K$. The kernel $(x,k)\mapsto f(xk)$ is continuous by continuity of the action and of $f$. Conjugation preserves distances: by [F11], $|\overline a|^2=\overline a\,a=|a|^2$, and conjugation takes differences to differences. For multiplication, $|zw-z_0w_0|\le |z||w-w_0|+|w_0||z-z_0|$, with $|z|\le|z_0|+1$ when $|z-z_0|<1$. Conjugation maps a ball of radius $\epsilon$ about any base value into the ball of radius $\epsilon$ about its conjugate. For multiplication, taking both input distances less than $\min(1,\epsilon/(|z_0|+1+|w_0|))$ puts the product in the ball of radius $\epsilon$ about $z_0w_0$. Thus both operations are continuous by [F8] and [F11]. Consequently $f(xk)\overline{w(x)}$ is continuous for each $w\in C_c(X;\mathbb C)$. Both kernels vanish outside $(\operatorname{supp}f)K^{-1}\times K$. This set is compact by continuity of $(x,k)\mapsto xk^{-1}$ and product compactness. In $X\times K$, two distinct points have a differing coordinate. Disjoint open neighborhoods in that factor, multiplied by the whole other factor, separate the two points. Thus $X\times K$ is Hausdorff. The compact bounding set is therefore closed. It contains the nonzero set of each kernel, so it contains its closure by [F2]. Each kernel's support is thus a closed subset of the compact bounding set and is compact by [F4]. For a real or complex $C_c$ function with nonempty support, the modulus is continuous by the reverse triangle estimate in step 2.1 and has a finite maximum on the support by [F4]. A function with empty support is identically zero. For complex numbers $z,z_0$, the Euclidean formula in [F11] gives $|\operatorname{Re}(z-z_0)|\le |z-z_0|$ and $|\operatorname{Im}(z-z_0)|\le |z-z_0|$. The metric on the real line in [F11] makes each absolute coordinate difference its real distance. The same radius in the complex plane therefore controls each real component, so the components of any continuous complex function are continuous. They are Borel measurable by [F9], which gives complex measurability under [F2]. In particular the continuous complex kernels, their continuous sections, and the compactly supported continuous functions used here are measurable. The compactly supported functions are integrable by boundedness and finiteness of the measures on their supports. Integration against either Radon measure gives a real-linear functional on the corresponding real $C_c$ space by integral linearity. For a nonnegative function its value is at least the integral of zero by monotonicity, so both functionals are positive. Partial integration gives $Af\in C_c(X;\mathbb C)$, so $Af$ is square-integrable by boundedness and finiteness of the measure on its support. For $k_0\in K$, left translation $k\mapsto k_0k$ is continuous and preserves $dk$ by left invariance of Haar probability. Integral invariance for this map gives $Af(xk_0)=\int_K f(x(k_0k))\,dk=Af(x)$. Thus $Af$ descends to a measurable function on $D$, whose squared modulus has finite integral by step 2.2. Commuting the integrals of $f(xk)\overline{w(x)}$ gives $\langle Af,w\rangle=\int_K\langle R(k)f,w\rangle\,dk$. [A1, F1, F2, F3, F4, F6, F7, F8, F9, F11, step 1.2, step 2.1, step 2.2]
+
+4.1 Let $v\in\mathcal H^K$. For $f,w\in C_c(X;\mathbb C)$, the scalar function $k\mapsto\langle R(k)(f-v),w\rangle$ is continuous by step 2.1 and Cauchy–Schwarz. Its real and imaginary parts are therefore Borel measurable on $K$ by the coordinate argument in step 3.2, so the scalar function is complex measurable by [F2]. By Cauchy–Schwarz and unitarity its modulus is bounded by $\|f-v\|_2\|w\|_2$, so it is integrable against Haar probability. Since $R(k)v=v$ and the integral of the constant $1$ is one, complex linearity and step 3.2 give $\langle Af-v,w\rangle=\int_K\langle R(k)(f-v),w\rangle\,dk$. The integral triangle inequality and the pointwise bound give $|\langle Af-v,w\rangle|\le\|f-v\|_2\|w\|_2$. By density and the inner product bound this holds for all $w\in\mathcal H$. Taking $w=Af-v$ gives $\|Af-v\|_2\le\|f-v\|_2$, with the inequality immediate if $Af=v$. Since $f$ can approximate $v$ arbitrarily closely and each $Af$ belongs to the closed pullback range, $v$ belongs to that range. This proves the isometric identification. When $D$ is finite, every function is square-integrable by finiteness of the singleton masses. For each $d\in D$, the simple integral formula gives $\int_D\mathbf 1_{\{d\}}\,d\nu=\nu(\{d\})<\infty$, so the singleton indicator is integrable. Apply complex linearity to their finite sum with coefficients $a(d)\overline{b(d)}$ to get the stated inner product. [F2, F4, F6, F7, F9, step 1.1, step 1.2, step 2.1, step 2.2, step 3.2] ∎

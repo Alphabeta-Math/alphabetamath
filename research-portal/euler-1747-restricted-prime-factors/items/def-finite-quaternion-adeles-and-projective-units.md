@@ -1,0 +1,244 @@
+---
+id: def-finite-quaternion-adeles-and-projective-units
+kind: definition
+title: Rational and finite adelic projective quaternion units
+status: draft
+domain: mathematics
+deps:
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - math:def-relative-projective-space-standard-charts
+  - math:def-group-scheme-over-a-field
+  - math:def-scheme-over-base
+  - def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
+  - def-author-6f52147f3ab3-finite-quaternion-ideles
+  - math:def-quotient-group
+  - math:def-quotient-topology
+  - math:def-affine-scheme
+  - math:thm-affine-scheme-ring-anti-equivalence
+  - math:def-affine-open-subscheme
+  - math:lem-spectrum-localization-open-immersion
+  - math:def-product-topology
+  - math:def-topological-group
+  - math:thm-fibre-products-of-schemes-exist
+  - math:def-prime-spectrum-and-vanishing-sets
+  - math:def-prime-and-maximal-ideals
+  - math:def-principal-distinguished-subset-of-spectrum
+  - math:lem-morphism-schemes-local-on-source-target
+  - math:def-locally-finite-type-and-finite-type-morphism
+  - math:def-finite-type-and-module-finite-algebras
+  - math:def-quasi-compact-and-quasi-separated-scheme
+  - math:def-quasi-compact-and-quasi-separated-morphism
+  - math:lem-distinguished-open-refinement-at-a-point
+  - math:cor-maximal-ideals-are-prime
+  - math:thm-generated-ideal-description-in-a-commutative-ring
+  - math:thm-continuity-characterisations-top
+  - math:def-compact-space
+  - math:def-subspace-topology-top
+  - math:thm-rationals-countable
+  - math:thm-recursion
+  - math:def-left-right-and-two-sided-ideal
+  - math:thm-universal-property-of-a-polynomial-ring-on-a-family
+  - math:thm-quotient-ring-universal-property
+  - math:thm-universal-property-of-localisation
+  - math:def-determinant-of-a-square-matrix
+  - math:lem-finite-choice
+  - math:def-subgroup
+  - math:def-normal-subgroup
+  - math:thm-quotient-group-laws
+  - math:def-field-extension-generated-subfields-and-simple-extension
+  - math:def-morphism-of-schemes
+  - math:def-topological-space
+  - math:def-stalk-of-presheaf
+  - math:lem-coset-membership-and-equality
+  - math:def-morphism-ringed-spaces
+  - math:def-restriction-sheaf-open-subspace
+  - math:def-polynomial-ring-on-a-family-of-indeterminates
+  - math:def-countable
+  - math:def-field
+  - math:def-monomials-on-an-index-set
+  - math:def-quotient-ring
+  - math:lem-topological-group-translations-and-inversion
+dependency_roles:
+  math:def-field: mathematical-premise
+  math:def-monomials-on-an-index-set: mathematical-premise
+  math:def-quotient-ring: mathematical-premise
+  math:lem-topological-group-translations-and-inversion: mathematical-premise
+  math:def-morphism-ringed-spaces: mathematical-premise
+  math:def-restriction-sheaf-open-subspace: mathematical-premise
+  math:def-polynomial-ring-on-a-family-of-indeterminates: mathematical-premise
+  math:def-countable: mathematical-premise
+  math:def-stalk-of-presheaf: mathematical-premise
+  math:lem-coset-membership-and-equality: mathematical-premise
+  math:def-subgroup: mathematical-premise
+  math:def-normal-subgroup: mathematical-premise
+  math:thm-quotient-group-laws: mathematical-premise
+  math:thm-universal-property-of-a-polynomial-ring-on-a-family: mathematical-premise
+  math:thm-quotient-ring-universal-property: mathematical-premise
+  math:thm-universal-property-of-localisation: mathematical-premise
+  math:def-determinant-of-a-square-matrix: mathematical-premise
+  math:lem-finite-choice: mathematical-premise
+  math:thm-rationals-countable: mathematical-premise
+  math:thm-recursion: mathematical-premise
+  math:def-left-right-and-two-sided-ideal: mathematical-premise
+  def-author-6f52147f3ab3-hamilton-order-completions: mathematical-premise
+  math:def-relative-projective-space-standard-charts: mathematical-premise
+  math:def-group-scheme-over-a-field: mathematical-premise
+  math:def-scheme-over-base: mathematical-premise
+  def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles: mathematical-premise
+  def-author-6f52147f3ab3-finite-quaternion-ideles: mathematical-premise
+  math:def-quotient-group: mathematical-premise
+  math:def-quotient-topology: mathematical-premise
+  math:def-affine-scheme: mathematical-premise
+  math:thm-affine-scheme-ring-anti-equivalence: mathematical-premise
+  math:def-affine-open-subscheme: mathematical-premise
+  math:lem-spectrum-localization-open-immersion: mathematical-premise
+  math:def-product-topology: mathematical-premise
+  math:def-topological-group: mathematical-premise
+  math:thm-fibre-products-of-schemes-exist: mathematical-premise
+  math:def-prime-spectrum-and-vanishing-sets: mathematical-premise
+  math:def-prime-and-maximal-ideals: mathematical-premise
+  math:def-principal-distinguished-subset-of-spectrum: mathematical-premise
+  math:lem-morphism-schemes-local-on-source-target: mathematical-premise
+  math:def-locally-finite-type-and-finite-type-morphism: mathematical-premise
+  math:def-finite-type-and-module-finite-algebras: mathematical-premise
+  math:def-quasi-compact-and-quasi-separated-scheme: mathematical-premise
+  math:def-quasi-compact-and-quasi-separated-morphism: mathematical-premise
+  math:lem-distinguished-open-refinement-at-a-point: mathematical-premise
+  math:cor-maximal-ideals-are-prime: mathematical-premise
+  math:thm-generated-ideal-description-in-a-commutative-ring: mathematical-premise
+  math:thm-continuity-characterisations-top: mathematical-premise
+  math:def-compact-space: mathematical-premise
+  math:def-subspace-topology-top: mathematical-premise
+  math:def-field-extension-generated-subfields-and-simple-extension: mathematical-premise
+  math:def-morphism-of-schemes: mathematical-premise
+  math:def-topological-space: mathematical-premise
+provenance:
+  statement: ai-generated
+  proof: ai-generated
+proof_strategy: direct
+dependency_level: 3
+formulation_deps:
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - math:def-relative-projective-space-standard-charts
+  - math:def-group-scheme-over-a-field
+  - math:def-scheme-over-base
+  - def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
+  - def-author-6f52147f3ab3-finite-quaternion-ideles
+  - math:def-quotient-group
+  - math:def-quotient-topology
+  - math:def-field-extension-generated-subfields-and-simple-extension
+  - math:def-affine-open-subscheme
+  - math:lem-spectrum-localization-open-immersion
+argument_deps:
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - math:def-relative-projective-space-standard-charts
+  - math:def-group-scheme-over-a-field
+  - math:def-scheme-over-base
+  - def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
+  - def-author-6f52147f3ab3-finite-quaternion-ideles
+  - math:def-quotient-group
+  - math:def-quotient-topology
+  - math:def-affine-scheme
+  - math:thm-affine-scheme-ring-anti-equivalence
+  - math:def-affine-open-subscheme
+  - math:lem-spectrum-localization-open-immersion
+  - math:def-product-topology
+  - math:def-topological-group
+  - math:thm-fibre-products-of-schemes-exist
+  - math:def-prime-spectrum-and-vanishing-sets
+  - math:def-prime-and-maximal-ideals
+  - math:def-principal-distinguished-subset-of-spectrum
+  - math:lem-morphism-schemes-local-on-source-target
+  - math:def-locally-finite-type-and-finite-type-morphism
+  - math:def-finite-type-and-module-finite-algebras
+  - math:def-quasi-compact-and-quasi-separated-scheme
+  - math:def-quasi-compact-and-quasi-separated-morphism
+  - math:lem-distinguished-open-refinement-at-a-point
+  - math:cor-maximal-ideals-are-prime
+  - math:thm-generated-ideal-description-in-a-commutative-ring
+  - math:thm-continuity-characterisations-top
+  - math:def-compact-space
+  - math:def-subspace-topology-top
+  - math:thm-rationals-countable
+  - math:thm-recursion
+  - math:def-left-right-and-two-sided-ideal
+  - math:thm-universal-property-of-a-polynomial-ring-on-a-family
+  - math:thm-quotient-ring-universal-property
+  - math:thm-universal-property-of-localisation
+  - math:def-determinant-of-a-square-matrix
+  - math:lem-finite-choice
+  - math:def-subgroup
+  - math:def-normal-subgroup
+  - math:thm-quotient-group-laws
+  - math:def-field-extension-generated-subfields-and-simple-extension
+  - math:def-morphism-of-schemes
+  - math:def-topological-space
+  - math:def-stalk-of-presheaf
+  - math:lem-coset-membership-and-equality
+  - math:def-morphism-ringed-spaces
+  - math:def-restriction-sheaf-open-subspace
+  - math:def-polynomial-ring-on-a-family-of-indeterminates
+  - math:def-countable
+  - math:def-field
+  - math:def-monomials-on-an-index-set
+  - math:def-quotient-ring
+  - math:lem-topological-group-translations-and-inversion
+---
+
+## Definition
+
+Let $B$ be the rational Hamilton algebra and fix an order $O$ in $B$. In projective three-space over $\mathbb Q$, let $G=PB^\times$ be the open set $D_+(N)$ defined by the homogeneous reduced norm $N(x)=\sum_{r=0}^3x_r^2$. In a standard chart, a chosen coordinate of a representative is $1$, the other three coordinates are its ratios to that coordinate, and the condition on the chart is that the norm of the normalized vector be invertible. The open is given the algebraic group structure over $\mathbb Q$ with the identity, multiplication and inverse described below. For any field extension $F/\mathbb Q$, the elements of $G(F)$ are classes $[x_0:x_1:x_2:x_3]$ with $N(x)\ne0$, where tuples are identified under common scaling by $F^\times$. Multiplication is induced by the Hamilton product, so $G(F)=B_F^\times/F^\times$ with scalars acting through $a\mapsto a1$. In particular $G(\mathbb Q)=B^\times/\mathbb Q^\times$.
+
+Embed the finite scalar ideles in the finite quaternion ideles by $(a_\ell)\mapsto(a_\ell1)$. The finite adelic projective group is
+$$G(\mathbb A_f)=\widehat B^\times/\mathbb A_f^\times.$$
+Each quotient identifies the cosets of its scalar subgroup and multiplies them by multiplying representatives. The topology on $G(\mathbb A_f)$ is the quotient topology: a subset is open exactly when its preimage in $\widehat B^\times$ is open. Use the analogous quotient topology on $G(\mathbb Q_\ell)$ from $B_\ell^\times$, and write $K_\ell$ for the image of $O_\ell^\times$ in $G(\mathbb Q_\ell)$.
+
+## Facts & Assumptions
+
+**Given:** The Hamilton algebra $B$, a full order $O$ with a fixed basis and the finite adele ring $\mathbb A_f$.
+
+[F1] The local Hamilton construction gives $B_R^\times=\{x:N(x)\in R^\times\}$ for a commutative unital $\mathbb Q$-algebra $R$, with multiplicative norm and inverse $\bar x/N(x)$. The local absolute value is multiplicative and satisfies the ultrametric inequality. The local integer ring is the unit ball, and its units have absolute value $1$. Integral units are detected by the determinant of left multiplication in the order basis, and $O_\ell^\times\cap(\mathbb Q_\ell^\times1)=\mathbb Z_\ell^\times1$. The operations of multiplication and inversion on $B_\ell^\times$ are continuous, and $O_\ell^\times$ is an open subgroup of $B_\ell^\times$ ([[def-author-6f52147f3ab3-hamilton-order-completions]]). A scalar tuple is a finite idele exactly when all coordinates are nonzero and all but finitely many are integral units ([[def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles]]). Units of $B_{\mathbb A_f}$ are the finite quaternion ideles, with open compact integral unit product $\widehat O^\times$. Multiplication and inversion on $\widehat B^\times$ are continuous for the restricted product topology, whose basic boxes have open factors in $B_\ell^\times$ and use $O_\ell^\times$ outside a finite set ([[def-author-6f52147f3ab3-finite-quaternion-ideles]]).
+
+[F2] A scheme over $\operatorname{Spec}\mathbb Q$ has a structure morphism to that base, and a morphism over the base commutes with the structure morphisms ([[math:def-scheme-over-base]]). The standard affine charts of projective space use coordinate ratios and overlap by renormalizing where the new denominator is a unit ([[math:def-relative-projective-space-standard-charts]]). A group scheme of finite type over $\mathbb Q$ has multiplication, identity and inverse given by morphisms over $\mathbb Q$ satisfying the group laws. Its $R$-points are $\mathbb Q$-morphisms $\operatorname{Spec}R\to G$ ([[math:def-group-scheme-over-a-field]]). Here $\operatorname{Spec}R$ is the affine scheme of the ring $R$. An affine scheme defined by polynomial equations has $R$-points given by their solutions over $R$, through the $\mathbb Q$-algebra maps from its coordinate ring to $R$. The affine scheme correspondence is contravariant, and preservation of the $\mathbb Q$-algebra structures makes the corresponding morphisms commute with the maps to $\operatorname{Spec}\mathbb Q$ ([[math:thm-affine-scheme-ring-anti-equivalence]]). Restricting an affine chart to the open where a function is invertible corresponds to adjoining the inverse of that function ([[math:def-affine-scheme]], [[math:lem-spectrum-localization-open-immersion]]). An affine open subscheme has the structure sheaf restricted to the open set ([[math:def-affine-open-subscheme]]).
+
+[F3] A subgroup contains the identity and is closed under products and inverses ([[math:def-subgroup]]). A normal subgroup is invariant under conjugation ([[math:def-normal-subgroup]]). The left cosets of a normal subgroup form a group under multiplication of representatives ([[math:def-quotient-group]], [[math:thm-quotient-group-laws]]). For a subgroup $H$ of a group, $gH=g' H$ holds exactly when $(g')^{-1}g\in H$ ([[math:lem-coset-membership-and-equality]]). The quotient topology of a surjection is given by preimages of open sets ([[math:def-quotient-topology]]). The basic opens in a product topology restrict finitely many coordinates ([[math:def-product-topology]]), and a topological group has continuous multiplication and inversion ([[math:def-topological-group]]). Left and right translations in a topological group are homeomorphisms ([[math:lem-topological-group-translations-and-inversion]]).
+
+[F4] A product of two schemes over $\operatorname{Spec}\mathbb Q$ is covered by the products of the affine opens in covers of the two factors. The coordinate ring of such a product is the tensor product over $\mathbb Q$ ([[math:thm-fibre-products-of-schemes-exist]]). The points of an affine spectrum are proper prime ideals, and the principal open $D(f)$ consists of those that omit $f$ ([[math:def-prime-spectrum-and-vanishing-sets]], [[math:def-prime-and-maximal-ideals]], [[math:def-principal-distinguished-subset-of-spectrum]]). Compatible scheme morphisms on a source open cover glue uniquely, and equality of morphisms can be checked on a source open cover ([[math:lem-morphism-schemes-local-on-source-target]]).
+
+[F5] A scheme over $\mathbb Q$ is locally of finite type if it has affine charts whose coordinate rings are finitely generated $\mathbb Q$-algebras. Finite type also requires the structure morphism to be quasi-compact, meaning that its preimages of quasi-compact opens have the finite-subcover property ([[math:def-finite-type-and-module-finite-algebras]], [[math:def-locally-finite-type-and-finite-type-morphism]], [[math:def-quasi-compact-and-quasi-separated-morphism]], [[math:def-quasi-compact-and-quasi-separated-scheme]]). Every open neighborhood of a point of an affine spectrum contains a principal open neighborhood of that point ([[math:lem-distinguished-open-refinement-at-a-point]]). Maximal ideals are prime ([[math:cor-maximal-ideals-are-prime]]), and an ideal generated by a set in a commutative ring consists of finite linear combinations of its elements ([[math:thm-generated-ideal-description-in-a-commutative-ring]]).
+
+[F6] A map is continuous exactly when the preimage of every open set is open ([[math:thm-continuity-characterisations-top]]). Compactness means that each open cover has a finite subcover, with the subspace topology used for a subset ([[math:def-compact-space]], [[math:def-subspace-topology-top]]).
+
+[F7] The rationals admit a bijection with $\mathbb N$ ([[math:thm-rationals-countable]]). An initial state and a self-map of a set determine a sequence by natural-number recursion ([[math:thm-recursion]]). In a commutative ring, an ideal is an additive subgroup closed under multiplication by arbitrary ring elements ([[math:def-left-right-and-two-sided-ideal]]).
+
+[F8] A monomial is a finitely supported family of nonnegative exponents indexed by the variables ([[math:def-monomials-on-an-index-set]]). A polynomial has only finitely many nonzero monomial coefficients ([[math:def-polynomial-ring-on-a-family-of-indeterminates]]). Over a commutative base ring, assigning values to the variables of a polynomial ring in a commutative target algebra gives a unique algebra homomorphism ([[math:thm-universal-property-of-a-polynomial-ring-on-a-family]]). The quotient by an ideal is the ring of additive cosets with multiplication induced by representatives ([[math:def-quotient-ring]]). If that evaluation kills the generators of an ideal, it kills the whole ideal and factors uniquely through the quotient ([[math:thm-generated-ideal-description-in-a-commutative-ring]], [[math:thm-quotient-ring-universal-property]]). A homomorphism of commutative unital rings that sends all elements of the set being inverted to units extends uniquely across localization ([[math:thm-universal-property-of-localisation]]).
+
+[F9] The determinant of a positive-size square matrix over a commutative ring is the finite sum of signed products of entries indexed by permutations ([[math:def-determinant-of-a-square-matrix]]).
+
+[F10] A finite set admits a bijection from $\{0,\ldots,n-1\}$ for some natural number $n$ ([[math:def-countable]]). For a list of nonempty sets indexed by a natural number, one may select a member of each set in the list ([[math:lem-finite-choice]]).
+
+[F11] A field extension $F/\mathbb Q$ is a field $F$ with a specified embedding $\mathbb Q\to F$ ([[math:def-field-extension-generated-subfields-and-simple-extension]]). A field has $0\ne1$ and every nonzero element has a multiplicative inverse ([[math:def-field]]).
+
+[F12] A morphism of ringed spaces gives section homomorphisms on target opens compatible with restriction ([[math:def-morphism-ringed-spaces]]). For an open subspace $U$ of $Y$, the restricted sheaf on an open $W\subseteq U$ has the same sections as the ambient sheaf on $W$ ([[math:def-restriction-sheaf-open-subspace]]). A scheme morphism is a morphism of the underlying locally ringed spaces, so its homomorphisms on stalks are local ([[math:def-morphism-of-schemes]]). A stalk at a point consists of germs of sections on open neighborhoods of the point. Two sections define the same germ exactly when they agree on a smaller open neighborhood ([[math:def-stalk-of-presheaf]]).
+
+[F13] An arbitrary union of open subsets of a topological space is open ([[math:def-topological-space]]).
+
+## Justification
+
+**Given:** The objects and conventions in the definition above.
+
+**Goal:** Verify the coordinate law, the interpretation as adelic points, and the quotient descriptions and topology.
+
+1.1 Since $N(a x)=a^2N(x)$ for a scalar $a$, invertibility of the norm on normalized projective charts is independent of the chosen chart. Each norm-open chart is affine by localization. Products of these charts cover $G\times_{\mathbb Q}G$, with coordinate rings given by the corresponding tensor products over $\mathbb Q$. In each such ring form the coordinates of the Hamilton product of the two chart representatives. Their norm is a unit by multiplicativity. No proper prime ideal contains all four product coordinates, since their squares sum to that unit. Thus the principal opens where one product coordinate is invertible cover this product chart. Dividing by that coordinate gives regular output chart coordinates, with unit norm after normalization. Substitution defines a map from the target chart's polynomial ring into the localized source ring. Since the substituted norm is a unit, this map extends uniquely to the norm-localized target chart ring. Scalar changes of input chart representatives cancel in these ratios, and different choices of the invertible output coordinate are related by the target chart transitions. The compatible local maps glue to multiplication. Each chart ring map preserves the $\mathbb Q$-algebra structure, so the glued map commutes with the structure morphisms to $\operatorname{Spec}\mathbb Q$. Conjugation acts by sign changes in the homogeneous coordinates and preserves the norm, so it gives a morphism in these same charts and is the projective inverse since $x\bar x=N(x)1$. The identity is $[1:0:0:0]$, obtained by evaluating the three variable coordinates of the first chart at zero, where the norm is $1$. Both this evaluation and the sign changes for conjugation preserve the $\mathbb Q$-algebra structures, giving morphisms over $\mathbb Q$. The group identities hold on the corresponding chart covers by associativity and the inverse formula in the chart rings. Equality on the covers gives the group identities as morphisms. [F1, F2, F4, F8]
+
+1.2 Over each field $F/\mathbb Q$, the scalar map sends $a\in F^\times$ to $a1$, with inverse element $a^{-1}1$. It is injective by the Hamilton coordinates and preserves products. The Hamilton scalar action satisfies $(a1)x=ax=x(a1)$. For the finite ideles the same map acts coordinatewise. At every prime where $a_\ell\in\mathbb Z_\ell^\times$, both $a_\ell1$ and $a_\ell^{-1}1$ lie in $O_\ell$ since it contains $1$ and is a $\mathbb Z_\ell$-module. These primes include all but finitely many. Thus the scalar idele map takes values in $\widehat B^\times$ and is injective and multiplicative by the coordinate formulas. The image in each case contains the identity, is closed under products and inverses, and lies in the center. Conjugation by any quaternion unit thus fixes each element of the scalar subgroup, so the scalar subgroup is normal and the coset product gives a quotient group. [F1, F3, F11]
+
+2.1 Each of the four charts has a coordinate ring generated over $\mathbb Q$ by its three coordinate functions and the inverse of the norm polynomial, giving local finite type. On the four-variable index set, an exponent family from [F8] is specified by a quadruple of nonnegative integers, and every such quadruple has finite support. Fix a bijective listing of $\mathbb Q$ as in [F7]. At stage $n\ge0$, list the monomials in four variables whose four exponents are at most $n$, comparing exponent tuples by the smaller exponent at the first position where they differ. List all coefficient assignments for these monomials using $0$ and the first $n+1$ rationals. Compare assignments at the first monomial where they differ, using the indices of their coefficients in the fixed rational listing. Evaluate each resulting polynomial at the four chart generators. Each stage gives a finite nonempty list. The finitely many monomials with nonzero coefficients have a common bound on their exponents and coefficient indices. Thus every polynomial appears at some stage, and concatenating the lists gives a sequence $(a_n)_{n\ge0}$ containing every element of the chart ring $A$. To show its spectrum is quasi-compact, refine an open cover by all the principal opens $D(f)$ contained in its members. Let $I$ be the ideal generated by the corresponding $f$. If $I$ is proper, start at $(0,I)$ in the set of pairs consisting of a natural number and a proper ideal of $A$. From $(n,J)$ pass to $(n+1,J')$, where $J'$ is the ideal generated by $J$ and $a_n$ if that ideal is proper, and is $J$ otherwise. This self-map gives an increasing sequence of proper ideals by [F7]. The union is an ideal because any two of its elements belong to one stage and the ideal closure laws hold there. It is proper because membership of $1$ would already occur at a finite stage. It is maximal because each element outside it was rejected at a stage where adjoining that element produced $1$. This maximal ideal is prime and contains every $f$ of the refinement, contradicting that the refinement covers. Hence $1$ is a finite linear combination of the $f$, and their principal opens already cover because no prime can contain all those finitely many $f$. Index these principal opens by their terms in the finite linear combination. Choosing one original cover member containing each principal open by [F10] gives the desired finite subcover. The four charts then give quasi-compactness of $G$ by choosing a finite subcover for each chart, indexed by $0,1,2,3$, and joining them. In a field, any ideal containing a nonzero $a$ contains $a^{-1}a=1$ by [F7] and [F11], so it is the whole field. The zero ideal is proper since $0\ne1$. If $ab=0$ with $a\ne0$, multiplying by $a^{-1}$ gives $b=0$, so the zero ideal is prime by [F4]. Thus a field spectrum has exactly one point. The only nonempty open of $\operatorname{Spec}\mathbb Q$ is therefore the whole base. Therefore the structure morphism is quasi-compact and $G$ is of finite type. Here the structure morphism is the restriction of the one on projective three-space, given on each norm-open chart by the inclusion of the rational constants into its coordinate ring. With step 1.1 this makes $G$ a group scheme of finite type over $\mathbb Q$. An $F$-point is a morphism $\operatorname{Spec}F\to G$ over $\mathbb Q$, where the structure map of $\operatorname{Spec}F$ is induced by the specified embedding $\mathbb Q\to F$. The source has one point by the field-spectrum calculation, so its image lies in a chart. The point map is continuous into that chart because each open subset of the open chart is open in $G$. Write $f:\operatorname{Spec}F\to G$ for the original point and $U$ for the norm-open chart. For each open $W\subseteq U$, the chart's sections on $W$ are the ambient sections on $W$ by [F12]. Use the original section map on $W$ because the preimage of $W$ under the factored point map is $f^{-1}(W)$. These section maps remain compatible with restriction and give the sheaf map into the direct image for the factorization. Every germ at the image point in $G$ has a representative in the chart, obtained by intersecting its open neighborhood with the chart and restricting the section. Two such representatives agree on a smaller open neighborhood in $G$ exactly when they agree on one in the chart, since one can intersect any witnessing neighborhood with the chart. Thus restriction identifies the two stalk rings, and under this identification the stalk homomorphism is the original local one. The factorization is therefore a scheme morphism. It is over the base because composing with the chart inclusion recovers the original $F$-point. On that chart it is specified by a $\mathbb Q$-algebra map to $F$, hence by a tuple with the chosen coordinate $1$ and with nonzero norm. Conversely such a tuple gives a point by evaluation. Two chart representatives specify the same point exactly when they agree under the chart transitions, which renormalize by a nonzero scalar. Thus these points are precisely the classes of quaternion units modulo $F^\times$ by the norm test, and step 1.1 gives the coset multiplication. [F1, F2, F3, F4, F5, F6, F7, F8, F10, F11, F12, step 1.1, step 1.2]
+
+2.2 To see explicitly what an $\mathbb A_f$-point means, use the affine model consisting of symmetric $4\times4$ matrices $T=(t_{rs})$ with trace $1$ and all $2\times2$ minors zero. Take the spectrum of the polynomial ring over $\mathbb Q$ on the entries $t_{rs}$ with $0\le r\le s\le 3$, modulo the ideal generated by $\sum_i t_{ii}-1$ and the minors using the quotient construction in [F8], writing $t_{sr}=t_{rs}$. For rows $a,b$ with $a\ne b$ and columns $c,d$ with $c\ne d$, the corresponding minor is $t_{ac}t_{bd}-t_{ad}t_{bc}$ by [F9], with all four indices in $\{0,1,2,3\}$. These are the minor generators of the equation ideal. On each norm-open chart, the substitutions $t_{rs}\mapsto x_rx_s/N(x)$ are regular and unchanged under scaling. The trace is $1$ and the two products in each minor coincide, so evaluation descends through the equation ideal and the local morphisms to the matrix scheme glue. Likewise, the matrix model's points over a commutative unital $\mathbb Q$-algebra $R$ are exactly matrices over $R$ solving the equations, since their evaluations factor through the same quotient ring. The principal opens where $t_{ii}$ is invertible cover the matrix scheme because $\sum_i t_{ii}=1$ and no proper prime ideal contains all the diagonal entries. On such an open define $v_r=t_{ri}/t_{ii}$, so $v_i=1$. For $r\ne i$ and $s\ne i$ the minor from rows $r,i$ and columns $s,i$ gives $t_{rs}t_{ii}=t_{ri}t_{is}$. If $r=i$ or $s=i$, the two products coincide directly. Symmetry gives $t_{rs}=t_{ii}v_rv_s$, and the trace equation gives $N(v)=1/t_{ii}$. Thus substituting the $v_r$ extends to the norm-localized chart ring because $N(v)$ is a unit. Conversely, on the normalized projective chart $x_i=1$ the forward formula gives $t_{ii}=1/N(x)$ and $t_{ri}/t_{ii}=x_r$. These formulas give inverse chart morphisms. On overlaps the chosen columns are proportional by a unit and the resulting projective classes agree by the coordinate transition, since $t_{jj}=t_{ii}v_j^2$ forces $v_j$ to be invertible there. The inverse chart morphisms therefore glue, and the inverse identities on charts give an isomorphism. [F1, F2, F4, F8, F9, step 1.1]
+
+3.1 Each $x\in B_{\mathbb A_f}^\times$ defines a matrix point by the entries $x_rx_s/N(x)$, which satisfy the equations by step 2.2. Given a matrix point over $\mathbb A_f$, at each prime $\ell$ choose the first $i=i(\ell)$ in the order $0,1,2,3$ for which $|t_{ii,\ell}|_\ell$ is largest. It is at least $1$ by the trace equation and the ultrametric inequality. At all but finitely many primes every matrix entry is integral. At those primes $|t_{ii,\ell}|_\ell=1$, so the chosen entry is a unit in $\mathbb Z_\ell$. Put $v_{r,\ell}=t_{ri,\ell}/t_{ii,\ell}$ at each prime. These are adelic coefficients, and the resulting $v$ has $N(v)_\ell=1/t_{ii,\ell}$ at every prime by step 2.2. Thus $N(v)\in\mathbb A_f^\times$ and $v\in B_{\mathbb A_f}^\times$. At every prime the minor identities give $t_{rs,\ell}=v_{r,\ell}v_{s,\ell}/N(v)_\ell$. Equality of all local coordinates is equality in $\mathbb A_f$, so $v$ represents the given matrix point. If two quaternion ideles give the same point, their coordinates give the same projective class at each prime by the affine model. The coset criterion in [F3] shows that they differ by a local scalar at each prime. At all but finitely many primes both are in $O_\ell^\times$, so the local scalars there lie in $\mathbb Z_\ell^\times$. Thus the scalars form a finite idele and are central because each coordinate is scalar. Conversely a scalar finite idele preserves the matrix point. Evaluation at each prime through $\mathbb A_f\to\mathbb Q_\ell$ respects the group law by precomposition of scheme points. The map from quaternion units respects multiplication at each prime by the field description, and the matrix entries are determined by their prime coordinates. Send the coset $x\mathbb A_f^\times$ to the matrix point represented by $x$. The scalar invariance makes the map well-defined, and the calculation of fibers proves injectivity. The lift $v$ proves surjectivity. The product calculation and the coset law of step 1.2 make this a group isomorphism. [F1, F2, F3, step 1.1, step 1.2, step 2.1, step 2.2]
+
+4.1 The diagonal map $B^\times\to\widehat B^\times$ is defined since the rational coefficients of an element and its inverse in the $O$ basis have only finitely many denominator primes. This follows by applying the scalar diagonal integrality argument to each of the finitely many coefficients. Send $b\mathbb Q^\times$ to $(b)_\ell\mathbb A_f^\times$. Changing $b$ by a rational scalar changes its diagonal tuple by a scalar idele, so this map is well-defined. It preserves products by coordinatewise multiplication and the coset law. If the images of $b$ and $c$ coincide, the coset criterion in [F3] makes the diagonal tuple of $c^{-1}b$ a scalar idele, so $c^{-1}b$ is scalar at every prime. Its imaginary coordinates vanish already over $\mathbb Q$ by injectivity of $\mathbb Q\to\mathbb Q_\ell$ at any one prime. Thus the rational classes coincide, proving injectivity. The coordinate images of $\widehat B^\times$ in $\prod_\ell G(\mathbb Q_\ell)$ belong to $K_\ell$ at all but finitely many primes. Conversely, given such a family of classes, at each prime normalize using the first coefficient of largest absolute value in the $O$ basis. This rule is independent of the input representative. If a class admits an integral unit representative, that representative has some unit coefficient. Indeed, the left multiplication matrix has entries that are linear combinations of the coefficients of the representative with integer weights, since the products of order basis vectors belong to the order. If all coefficients have absolute value less than $1$, the ultrametric inequality and multiplicativity give the same bound for each matrix entry. Each signed product in the determinant expansion has absolute value less than $1$, so the finite sum does as well. The determinant would then fail to be a unit, contrary to the integral unit criterion. The normalizing scalar is therefore a unit in that case. The normalized representatives form a quaternion idele, proving surjectivity to the group of families that lie in $K_\ell$ at almost all primes. Send an adelic scalar coset to the family of its local cosets. The family is independent of its representative because a scalar idele acts by a scalar at each prime, and the map preserves products by the local and adelic coset laws. If two families coincide, the coset criterion in [F3] makes the two idele representatives differ by a local scalar at every prime. Outside their finite exceptional sets these scalars are integral units by the scalar intersection in [F1], so the two ideles differ by a scalar idele and represent the same adelic coset. [F1, F3, F9, step 1.2, step 3.1]
+
+5.1 The local and finite adelic quotient maps are continuous by their quotient topologies. The local and adelic unit groups are topological groups by continuity of multiplication and inversion in [F1] and the definition in [F3]. By the coset criterion in [F3], the preimage of the image of an open set is the union of its translates by scalars. Each translate is open by the translation homeomorphism in [F3]. This union is therefore open, so the quotient maps are open. For either quotient map $q$, the map $q\times q$ is surjective. The image of each basic open rectangle is open since each factor map is open. Every open set in the source product is a union of basic open rectangles, so its image is a union of open rectangles and is open. For an open set $W$ in the quotient, the preimage under $q\times q$ of the multiplication preimage of $W$ is the preimage of $q^{-1}(W)$ under multiplication upstairs, which is open by continuity there. Its image under $q\times q$ is the multiplication preimage of $W$ downstairs. Using $q$ instead of $q\times q$ gives the same open-preimage calculation for inversion. Both operations are therefore continuous. Under the coordinate description in step 4.1, the image of a basic box is the box of its local images. To lift a point of that image box, index the finite set of varied primes by a bijection from $\{0,\ldots,n-1\}$ as in [F10]. At each index the lifts in the prescribed factor form a nonempty set by the definition of its local image. Apply [F10] to this list of sets and use the chosen lift at the corresponding prime. Use the normalized representatives of step 4.1 at every other prime. Conversely, any basic box with open factors and with $K_\ell$ at all but finitely many primes is the image of a box obtained by taking their local preimages at the finitely many varied factors and using $O_\ell^\times$ elsewhere. This proves equality of the quotient and restricted product topologies. Each $K_\ell$ is open by the local quotient map. The image of $\widehat O^\times$ is the open subgroup $\prod_\ell K_\ell$ with its product topology. Restricting a basic box to this subgroup restricts only finitely many factors in their subspace topologies. Conversely each relatively open restriction is open in $G(\mathbb Q_\ell)$ since $K_\ell$ is open there, so it can be used directly as the corresponding factor of a basic box. An open cover of that image pulls back to an open cover of $\widehat O^\times$ by continuity of the quotient map on the subspaces. A finite subcover of the pullback gives a finite subcover of the image. Each $K_\ell$ is compact by the same open-cover argument applied to the coordinate projection from $\prod_\ell K_\ell$, continuous in the product topology and surjective by using identity elements in the other factors. [F1, F3, F6, F10, F13, step 3.1, step 4.1] ∎

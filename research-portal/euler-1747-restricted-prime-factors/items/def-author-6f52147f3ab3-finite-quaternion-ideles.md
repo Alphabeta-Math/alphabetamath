@@ -1,0 +1,182 @@
+---
+id: def-author-6f52147f3ab3-finite-quaternion-ideles
+kind: definition
+title: Finite quaternion ideles
+status: draft
+domain: mathematics
+deps:
+  - math:def-topological-space
+  - math:def-algebra-over-a-commutative-ring
+  - math:lem-geometric-sequence-null
+  - math:lem-nat-embeds-int
+  - math:thm-recursion
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
+  - math:def-prime
+  - math:def-product-topology
+  - math:def-group
+  - math:def-subgroup
+  - math:thm-basis-criterion
+  - math:def-topological-group
+  - math:def-subspace-topology-top
+  - math:def-compact-space
+  - math:def-p-adic-integers-as-compatible-residue-classes
+  - math:thm-p-adic-completion-agrees-with-the-fraction-field-of-zp
+  - math:def-inverse-limit-topology-for-finite-discrete-groups
+  - math:lem-finite-choice
+  - math:lem-prime-not-dividing-is-coprime
+  - math:thm-bezout-identity
+  - math:def-determinant-of-a-square-matrix
+  - math:thm-p-adic-completion-is-a-field
+  - math:def-p-adic-absolute-value-on-the-rationals
+  - math:def-metric-topology
+  - math:thm-euclid-infinitude-of-primes
+  - math:thm-well-ordering-principle
+  - math:def-continuous-map-top
+  - math:def-integers-modulo-n
+  - math:thm-division-algorithm-in-z
+  - math:lem-pigeonhole
+  - math:def-countable
+  - math:thm-subset-of-a-finite-set
+  - math:def-congruence-modulo-an-integer
+dependency_roles:
+  math:def-topological-space: mathematical-premise
+  math:def-algebra-over-a-commutative-ring: mathematical-premise
+  math:lem-geometric-sequence-null: mathematical-premise
+  math:lem-nat-embeds-int: mathematical-premise
+  math:thm-recursion: mathematical-premise
+  def-author-6f52147f3ab3-hamilton-order-completions: mathematical-premise
+  def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles: mathematical-premise
+  math:def-prime: mathematical-premise
+  math:def-product-topology: mathematical-premise
+  math:def-group: mathematical-premise
+  math:def-subgroup: mathematical-premise
+  math:thm-basis-criterion: mathematical-premise
+  math:def-topological-group: mathematical-premise
+  math:def-subspace-topology-top: mathematical-premise
+  math:def-compact-space: mathematical-premise
+  math:def-p-adic-integers-as-compatible-residue-classes: mathematical-premise
+  math:thm-p-adic-completion-agrees-with-the-fraction-field-of-zp: mathematical-premise
+  math:def-inverse-limit-topology-for-finite-discrete-groups: mathematical-premise
+  math:lem-finite-choice: mathematical-premise
+  math:lem-prime-not-dividing-is-coprime: mathematical-premise
+  math:thm-bezout-identity: mathematical-premise
+  math:def-determinant-of-a-square-matrix: mathematical-premise
+  math:thm-p-adic-completion-is-a-field: mathematical-premise
+  math:def-p-adic-absolute-value-on-the-rationals: mathematical-premise
+  math:def-metric-topology: mathematical-premise
+  math:thm-euclid-infinitude-of-primes: mathematical-premise
+  math:thm-well-ordering-principle: mathematical-premise
+  math:def-continuous-map-top: mathematical-premise
+  math:def-integers-modulo-n: mathematical-premise
+  math:thm-division-algorithm-in-z: mathematical-premise
+  math:lem-pigeonhole: mathematical-premise
+  math:def-countable: mathematical-premise
+  math:thm-subset-of-a-finite-set: mathematical-premise
+  math:def-congruence-modulo-an-integer: mathematical-premise
+provenance:
+  statement: ai-generated
+  proof: ai-generated
+proof_strategy: direct
+sources:
+  references:
+    - title: John Voight, Quaternion Algebras, Adelic framework
+      url: https://link.springer.com/content/pdf/10.1007/978-3-030-56694-4_27.pdf
+      locator: Chapter 27, §27.3, p. 462, equation (27.3.5) and preceding text
+      statement: For a quaternion algebra $B$ over $\mathbb Q$ and an order
+        $O\subseteq B$, the finite idele group is the restricted direct product
+        of the $B_\ell^\times$ relative to the $O_\ell^\times$ at the finite
+        primes. The integral subgroup is the direct product of the
+        $O_\ell^\times$.
+      hypotheses: $B$ is a quaternion algebra over $\mathbb Q$ and $O$ is an order in
+        $B$. The products here run over the finite primes only.
+      reading_limits: Checked the definition and equation on p. 462 for the restricted
+        product and the integral subgroup. The scalar-extension identification
+        and the compactness proof are supplied locally.
+dependency_level: 2
+formulation_deps:
+  - math:def-topological-space
+  - math:def-algebra-over-a-commutative-ring
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
+  - math:def-prime
+  - math:def-product-topology
+  - math:def-group
+  - math:def-subgroup
+  - math:def-countable
+argument_deps:
+  - math:def-topological-space
+  - math:def-algebra-over-a-commutative-ring
+  - math:lem-geometric-sequence-null
+  - math:lem-nat-embeds-int
+  - math:thm-recursion
+  - def-author-6f52147f3ab3-hamilton-order-completions
+  - def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
+  - math:def-prime
+  - math:def-group
+  - math:def-subgroup
+  - math:thm-basis-criterion
+  - math:def-product-topology
+  - math:def-topological-group
+  - math:def-subspace-topology-top
+  - math:def-compact-space
+  - math:def-p-adic-integers-as-compatible-residue-classes
+  - math:thm-p-adic-completion-agrees-with-the-fraction-field-of-zp
+  - math:def-inverse-limit-topology-for-finite-discrete-groups
+  - math:lem-finite-choice
+  - math:lem-prime-not-dividing-is-coprime
+  - math:thm-bezout-identity
+  - math:def-determinant-of-a-square-matrix
+  - math:thm-p-adic-completion-is-a-field
+  - math:def-p-adic-absolute-value-on-the-rationals
+  - math:def-metric-topology
+  - math:thm-euclid-infinitude-of-primes
+  - math:thm-well-ordering-principle
+  - math:def-continuous-map-top
+  - math:def-integers-modulo-n
+  - math:thm-division-algorithm-in-z
+  - math:lem-pigeonhole
+  - math:def-countable
+  - math:thm-subset-of-a-finite-set
+  - math:def-congruence-modulo-an-integer
+---
+
+## Definition
+
+Let $O$ be an order in the rational Hamilton algebra $B$. Write $(B_\ell,O_\ell)$ for its local algebra and local order at each prime $\ell$. Define the finite quaternion idele group and the subgroup of integral units by
+$$\widehat B^\times=\{(x_\ell)\in\prod_\ell B_\ell^\times:x_\ell\in O_\ell^\times\text{ for all but finitely many }\ell\},\qquad \widehat O^\times=\prod_\ell O_\ell^\times.$$
+Multiplication and inversion are coordinatewise. The restricted product topology has basic opens $\prod_\ell V_\ell$, where each $V_\ell$ is open in $B_\ell^\times$ and $V_\ell=O_\ell^\times$ outside a finite set. Write $B_{\mathbb A_f}=B\otimes_{\mathbb Q}\mathbb A_f$ for the algebra obtained by extending scalars to the finite adele ring.
+
+## Facts & Assumptions
+
+**Given:** A rational Hamilton algebra $B$, an order $O$ with a fixed basis $b_0,\ldots,b_3$ and the finite adele ring $\mathbb A_f$.
+
+[F1] Local multiplication and inversion on $B_\ell^\times$ are continuous, and $O_\ell^\times$ is an open subgroup. The order-coordinate map is a homeomorphism $B_\ell\to\mathbb Q_\ell^4$ and takes $O_\ell$ to $\mathbb Z_\ell^4$. For $x\in O_\ell$, membership in $O_\ell^\times$ is equivalent to the determinant of left multiplication in the order basis being a unit of $\mathbb Z_\ell$ ([[def-author-6f52147f3ab3-hamilton-order-completions]]). For each commutative unital $\mathbb Q$-algebra $R$, the order basis extends to an $R$-basis of $B_R$ with the same multiplication constants ([[def-author-6f52147f3ab3-hamilton-order-completions]], Justification 2.2).
+
+[F2] Finite scalar adeles form a commutative unital $\mathbb Q$-algebra via the diagonal map, with coordinatewise operations and integral coordinates outside a finite set ([[def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles]], Definition and Justification 1.1 and 2.2). A $\mathbb Q$-algebra homomorphism preserves addition, multiplication, the identity and the structural map from $\mathbb Q$ ([[math:def-algebra-over-a-commutative-ring]]). A binary union of finite sets has a finite listing obtained by concatenating their listings and retaining the first occurrence of each entry ([[def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles]], Justification 1.1). The group axioms and subgroup conditions are those of [[math:def-group]] and [[math:def-subgroup]].
+
+[F3] The whole space is open by (T1), and the intersection of two open sets is open by (T3) ([[math:def-topological-space]]). The basis criterion applies to a covering family whose pairwise intersections are unions of its members ([[math:thm-basis-criterion]]). Product topology has a basis of boxes restricting finitely many factors ([[math:def-product-topology]]), and subspace opens are traces of ambient opens ([[math:def-subspace-topology-top]]). A topological group has continuous multiplication and inversion ([[math:def-topological-group]]). Compactness means that every open cover has a finite subcover ([[math:def-compact-space]]). A map is continuous if at every point each open neighborhood of its image contains the image of an open neighborhood of the point ([[math:def-continuous-map-top]]).
+
+[F4] The canonical comparison identifies $\mathbb Z_\ell$ with the compatible residue tuples modulo $\ell^n$, with coordinatewise ring operations, and identifies the resulting ring with the unit ball in $\mathbb Q_\ell$ ([[math:def-p-adic-integers-as-compatible-residue-classes]], [[math:thm-p-adic-completion-agrees-with-the-fraction-field-of-zp]]). Residue addition and multiplication are computed on integer representatives, and the reduction maps are unital ring homomorphisms ([[def-author-6f52147f3ab3-hamilton-order-completions]], Justification 1.2). Give each finite additive group $\mathbb Z/\ell^n\mathbb Z$ the discrete topology by declaring every subset open. The traces of product cylinders on the inverse limit of these groups form a basis ([[math:def-inverse-limit-topology-for-finite-discrete-groups]]). For a prime $\ell$ and an integer $a$ with $\ell\nmid a$, the greatest common divisor $\gcd(\ell,a)$ is $1$ ([[math:lem-prime-not-dividing-is-coprime]]). Bézout's identity expresses $\gcd(\ell,a)$ as $\ell c+ab$ for integers $c,b$ whenever $\ell$ and $a$ are integers and at least one is nonzero ([[math:thm-bezout-identity]]). The determinant over a commutative ring is the Leibniz sum of signed products of entries ([[math:def-determinant-of-a-square-matrix]]).
+
+[F5] The extended absolute value is multiplicative and ultrametric ([[math:thm-p-adic-completion-is-a-field]]) and satisfies $|\ell|_\ell=\ell^{-1}$ ([[math:def-p-adic-absolute-value-on-the-rationals]]). Open balls form a neighborhood basis for the metric topology ([[math:def-metric-topology]]). Since $\ell$ is prime it is greater than $1$ ([[math:def-prime]]), and a real geometric sequence with ratio $r$ satisfying $|r|<1$ tends to zero ([[math:lem-geometric-sequence-null]], claim 1).
+
+[F6] Every finite list of primes omits a prime ([[math:thm-euclid-infinitude-of-primes]]). The natural embedding $\iota:\mathbb N\to\mathbb Z$ preserves and reflects order and has image the nonnegative integers ([[math:lem-nat-embeds-int]]). Every nonempty subset of $\mathbb N$ has a least element ([[math:thm-well-ordering-principle]]). Natural-number recursion iterates a function from a set to itself starting at a given member of that set ([[math:thm-recursion]]). For every natural number $m$, there is no injection from $\{0,\ldots,m\}$ into the initial segment of naturals strictly below $m$ ([[math:lem-pigeonhole]]).
+
+[F7] For every positive integer $M$, two integers represent the same residue modulo $M$ exactly when they are congruent modulo $M$ ([[math:def-integers-modulo-n]]). Congruence means that their difference is an integer multiple of $M$ ([[math:def-congruence-modulo-an-integer]]). Division with remainder by $M$ gives a unique representative $r$ with $0\le r<M$ for every residue class ([[math:thm-division-algorithm-in-z]]).
+
+[F8] A finite set admits a bijective listing indexed by the naturals less than some $N\in\mathbb N$ ([[math:def-countable]]). Every subset of a finite set is finite ([[math:thm-subset-of-a-finite-set]]). For any list of nonempty sets indexed by the natural numbers less than a fixed $N\in\mathbb N$, there is a choice function on the family of its values ([[math:lem-finite-choice]]). Evaluating it at each list entry selects a member of that entry.
+
+## Justification
+
+**Goal:** Verify the group and topology, the identification of its elements with adelic quaternion units, and the compactness of the integral subgroup.
+
+1.1 Pointwise multiplication is associative and the identity tuple is integral at every prime. Products and inverses stay integral units outside the union of the inputs' exceptional sets, so $\widehat B^\times$ is a group. The all-integral tuples contain the same identity and are closed under products and inverses at every prime, so they form a subgroup. Apply the scalar-extension calculation in [F1] to $R=\mathbb A_f$ and $R=\mathbb Q_\ell$, using the diagonal algebra structure in [F2]. Define $\Phi:B_{\mathbb A_f}\to\prod_\ell B_\ell$ by sending $\sum_r b_r\otimes a_r$ at prime $\ell$ to $\sum_r b_r\otimes a_{r,\ell}$, where $a_r=(a_{r,\ell})_\ell$. Write $b_rb_s=\sum_j m_{rsj}b_j$ and $1=\sum_j u_jb_j$ over $\mathbb Z$. By [F1], the product coefficients over $\mathbb A_f$ are $\sum_{r,s}m_{rsj}a_r a'_s$, and the identity has coefficients $u_j$. By [F2], evaluating these coefficients at $\ell$ gives the corresponding product and identity coefficients over $\mathbb Q_\ell$. Evaluation also preserves addition coordinatewise and sends the coefficient tuple of a rational scalar times $1$ to that of the same scalar times $1$ in each $B_\ell$. Thus $\Phi$ is a $\mathbb Q$-algebra homomorphism. It is injective because zero image forces every $a_{r,\ell}$ to vanish by uniqueness of the local order coordinates. The four coefficient sequences of an element are integral outside the union of their exceptional sets, which is finite by three applications of the binary union argument in [F2]. Conversely, a tuple integral in $O_\ell$ outside one finite set has all four coefficient sequences in $\mathbb A_f$, so it lifts under $\Phi$. For a unit of $B_{\mathbb A_f}$, both the tuple and its inverse satisfy this condition, so its image belongs to $\widehat B^\times$. Conversely, for a tuple in $\widehat B^\times$, both it and its coordinatewise inverse lie in the image. Their preimages multiply in either order to $1$ by injectivity. This identifies $B_{\mathbb A_f}^\times$ with $\widehat B^\times$. [F1, F2, given]
+
+1.2 An element of $\mathbb Z_\ell$ is a unit exactly when its first residue is nonzero. Suppose its first residue is nonzero. For any $n\ge1$, take an integer representative $a$ of the level-$n$ residue. By compatibility the first residue is the class of $a$ modulo $\ell$. This class differs from the class of $0$, so [F7] gives $\ell\nmid a$. Since $\ell$ is prime, [F4] gives $\gcd(\ell,a)=1$. As $\ell>1$ by [F5], the identity in [F4] gives integers $c,b$ with $\ell c+ab=1$, so $1-ab=\ell c$. Then $b\sum_{k=0}^{n-1}(1-ab)^k$ inverts $a$ modulo $\ell^n$ because multiplying by $a$ gives $1-(1-ab)^n$. Uniqueness of each inverse makes the inverses compatible, and reduction sends units to units. For $x=\sum_r a_r b_r\in O_\ell$, the $j$-th column of the left multiplication matrix is the coefficient column of $xb_j$. Each entry is a linear form in the $a_r$ with integral coefficients because the products $b_rb_j$ belong to $O$. Reduction to $\mathbb Z/\ell\mathbb Z$ preserves each sum and product in the determinant formula, so the determinant residue, and hence the unit test, depends only on the four coefficient residues modulo $\ell$. [F1, F4, F5, F7]
+
+1.3 For each $n\ge1$, the representatives in $0\le r<\ell^n$ from [F7] are indexed by the naturals less than $\iota^{-1}(\ell^n)$ by [F6], so the residue factor is finite by [F8]. The singleton consisting of a specified residue is open in its discrete factor by [F4], so agreement with a tuple at one residue level is an open cylinder trace. Any cylinder neighborhood of the tuple can be refined by fixing each of the finitely many restricted residues to the corresponding value of that tuple. Fixing agreement at the largest restricted level forces agreement at each smaller level by compatibility. Agreement at one level thus gives a neighborhood basis, using any level when the cylinder has no restrictions. The kernel of reduction modulo $\ell^n$ in $\mathbb Z_\ell$ is $\ell^n\mathbb Z_\ell$. If $z=(z_m)_{m\ge1}$ has $z_n=0$, an integer representative of $z_{m+n}$ is divisible by $\ell^n$. By [F7], if two representatives $a$ and $a'$ give the same residue at level $m+n$, then $a-a'=\ell^{m+n}q$ for an integer $q$. After division by $\ell^n$, the difference is $\ell^m q$, so the quotients represent the same residue modulo $\ell^m$. Thus the quotient modulo $\ell^m$ is independent of the representative. These quotients are compatible, since congruence modulo $\ell^{m+n}$ becomes congruence modulo $\ell^m$ after division by $\ell^n$. They give a tuple $w$ with $\ell^n w=z$, since residue multiplication at level $m$ with the integer scalar $\ell^n$ gives $z_{m+n}\bmod\ell^m=z_m$. Conversely, every such multiple has zero residue at level $n$. In the local field, $\ell^n\mathbb Z_\ell=\{z:|z|_\ell\le\ell^{-n}\}$, by multiplicativity and the unit ball description. Thus an inverse-limit basic neighborhood of a given residue tuple is the translated ball of radius $\ell^{-n}$ with the non-strict inequality. For radius $r=\ell^{-n}$, any point of the ball has its strict open ball of radius $r$ inside it by the ultrametric inequality, so each residue neighborhood is open. By [F5] with ratio $1/\ell$, for every $\varepsilon>0$ some $n\ge1$ has $\ell^{-n}<\varepsilon$, so the residue neighborhood of that level is contained in the strict ball of radius $\varepsilon$ at the same point. These neighborhoods therefore give exactly the topology inherited from $\mathbb Q_\ell$. Taking four coordinate conditions at a common level in the order basis and tracing to $O_\ell^\times$ gives a neighborhood basis there. [F1, F3, F4, F5, F6, F7, F8]
+
+2.1 A tuple lies in the box using the full factor $B_\ell^\times$, which is open by (T1), at its finitely many exceptional primes and the open unit subgroup $O_\ell^\times$ elsewhere. The intersection of two boxes has the factorwise intersections, open by (T3) and equal to $O_\ell^\times$ off the finite union of their exceptional sets. They therefore form a basis. For either operation, fix a target box containing the output. Starting from a finite listing of each exceptional set by [F8], apply the binary union construction in [F2] at most twice to obtain a finite listing without repetitions of the exceptional primes of the target box and of the one or two inputs. At each listed prime the family of admissible open rectangles for multiplication is nonempty by local continuity and the product basis. For inversion the family of admissible open neighborhoods is nonempty by local continuity. Here admissibility means containing the local input or input pair and mapping into the target factor. In each case apply [F8] to the list of these families to select a rectangle or a neighborhood at every listed prime. At every other prime use the full integral unit group for each input, since it is closed under products and inverses. The resulting input boxes, taken as a rectangle for multiplication, map into the prescribed target box. Since target boxes form a basis, the pointwise criterion yields continuity of both operations. This gives a topological group. The all-integral box is open, and each restricted-product box has trace on it with factors $V_\ell\cap O_\ell^\times$, equal to the full integral unit group except at finitely many primes. With each $O_\ell^\times$ given its subspace topology from $B_\ell^\times$, these traces are product basic opens. Conversely, each open factor of a product basic open is the intersection of an ambient open set with the open subgroup $O_\ell^\times$, so (T3) makes it open in $B_\ell^\times$. The product basic open itself is then a restricted-product box with the prescribed trace. [F1, F2, F3, F8, step 1.1]
+
+3.1 Use recursion on finite lists of distinct primes, starting with the empty list. The primes missing from the current list form a nonempty set by [F6]. Apply well-ordering to their natural preimages under $\iota$ and append the image of the least preimage. This produces a strictly increasing sequence. If a prime $p=\iota(m)$ never occurred, every appended prime would be smaller than $p$. The first $m+1$ appended primes would then have distinct natural preimages strictly below $m$, giving an injection forbidden by [F6]. Hence every prime occurs. At stage $n\ge1$, partition $\widehat O^\times$ by the four coefficient residues modulo $\ell^n$ at the first $n$ primes. At each selected prime the four residues are recorded by their unique representatives in $0\le r<\ell^n$ by [F7]. In the fixed prime and basis order, start with the one-entry list of the empty prefix. At each coordinate replace every listed prefix, in order, by the block of its extensions by one representative, taken in increasing order. Each block has the length of the new coordinate range, and concatenating the blocks gives a finite listing of all extended prefixes without repetition, since each extension determines its prefix and last representative. Iterating this rule by [F6] through the finitely many coordinates gives a finite lexicographic listing of all labels. The partitions refine each other. By the local residue basis in step 1.3 and the product topology in step 2.1, any neighborhood of a tuple contains its cell at a stage large enough to include all specified primes and residue levels. If an open cover has no finite subcover, start with the whole product. Consider any current cell with no finite subcover by members of that cover. The indices of labels of nonempty child cells form a subset of the finite index segment for the next stage, so this subset is finite by [F8]. Scan that segment in order and retain exactly these labels. Each retained label determines one child, giving a finite listing of the nonempty children in lexicographic order. If every child had a finite subcover, the family of finite lists of cover members covering that child would be nonempty for each listed child. By [F8] select one such list for every child. Use the binary concatenation underlying [F2] on the selected cover lists. For lists of lengths $a$ and $b$, take their entries at indices $i<a$ from the first list and at $a\le i<a+b$ from index $i-a$ of the second. Starting with the empty list, append each selected list in child order by recursion [F6] on the pair of the index and the accumulated list, fixing the pair once all children have been processed. The result is a finite list covering the current cell because the children partition it. The indices of the children with no finite subcover therefore form a nonempty subset of the naturals. Take its least member by well-ordering in [F6]. Pair the selected child with the next stage. This gives a uniquely specified successor on the set of pairs consisting of a stage and a cell with no finite subcover. Recursion from stage zero therefore gives a sequence of nested cells. The nested cells prescribe compatible residues in every coordinate, at every prime, giving a tuple by [F4]. Its first-level residues pass the unit tests because the cells with those labels are nonempty. Hence the tuple lies in every selected cell. A cover member containing it contains a sufficiently fine selected cell by the basis property, a contradiction. Thus $\widehat O^\times$ is compact, with the open subgroup structure and product topology established above. [F2, F3, F4, F6, F7, F8, step 1.2, step 1.3, step 2.1] ∎
