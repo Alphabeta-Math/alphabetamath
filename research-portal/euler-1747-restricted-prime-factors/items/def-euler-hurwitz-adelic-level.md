@@ -2,7 +2,7 @@
 id: def-euler-hurwitz-adelic-level
 kind: definition
 title: Projective quaternion group and finite adelic level
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-prime

@@ -1,6 +1,6 @@
 ---
 title: The Hurwitz order
-status: draft
+status: published
 research_item: def-euler-hurwitz-order
 dependency_level: 2
 sources:

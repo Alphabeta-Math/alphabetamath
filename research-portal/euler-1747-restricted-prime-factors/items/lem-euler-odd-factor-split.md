@@ -2,7 +2,7 @@
 id: lem-euler-odd-factor-split
 kind: lemma
 title: Splitting an odd integer by prime class
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

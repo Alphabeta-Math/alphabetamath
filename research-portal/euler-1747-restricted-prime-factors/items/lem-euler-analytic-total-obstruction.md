@@ -2,7 +2,7 @@
 id: lem-euler-analytic-total-obstruction
 kind: lemma
 title: Explicit total obstruction bound at the analytic cutoff
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

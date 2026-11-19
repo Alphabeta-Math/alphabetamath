@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-euclidean
 kind: lemma
 title: The Hurwitz order is norm-Euclidean
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-real-numbers

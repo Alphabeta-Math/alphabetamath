@@ -1,6 +1,6 @@
 ---
 title: Prime-power majorants for the arithmetic factors
-status: draft
+status: published
 research_item: lem-euler-local-arithmetic-factors
 dependency_level: 2
 sources:

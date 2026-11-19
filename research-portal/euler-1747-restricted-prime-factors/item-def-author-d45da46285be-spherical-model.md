@@ -1,6 +1,6 @@
 ---
 title: Normalized upper-triangular spherical model
-status: draft
+status: published
 research_item: def-author-d45da46285be-spherical-model
 dependency_level: 2
 ---

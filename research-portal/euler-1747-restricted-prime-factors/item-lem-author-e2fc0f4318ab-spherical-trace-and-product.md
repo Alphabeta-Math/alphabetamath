@@ -1,6 +1,6 @@
 ---
 title: Two spherical Hecke scalars determine the Satake pair
-status: draft
+status: published
 research_item: lem-author-e2fc0f4318ab-spherical-trace-and-product
 dependency_level: 4
 ---

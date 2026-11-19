@@ -2,7 +2,7 @@
 id: lem-projective-determinant-square-class
 kind: lemma
 title: Determinant square class of a projective matrix
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-divides-in-z

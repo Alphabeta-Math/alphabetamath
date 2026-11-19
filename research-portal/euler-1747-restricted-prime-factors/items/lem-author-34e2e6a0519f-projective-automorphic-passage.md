@@ -2,7 +2,7 @@
 id: lem-author-34e2e6a0519f-projective-automorphic-passage
 kind: lemma
 title: Passing automorphic representations through scalar quotients
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

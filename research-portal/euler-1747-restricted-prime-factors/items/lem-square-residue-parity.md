@@ -2,7 +2,7 @@
 id: lem-square-residue-parity
 kind: lemma
 title: Square residues and opposite parity
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

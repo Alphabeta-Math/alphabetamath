@@ -2,7 +2,7 @@
 id: def-euler-prime-classes
 kind: definition
 title: Restricted prime factors and admissible summands
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

@@ -1,6 +1,6 @@
 ---
 title: Full adelic projective Hamilton group
-status: draft
+status: published
 research_item: def-author-5b8600b4f4af-full-adelic-hamilton-group
 dependency_level: 4
 ---

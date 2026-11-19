@@ -1,6 +1,6 @@
 ---
 title: The Hecke eigenvalue on constants
-status: draft
+status: published
 research_item: lem-euler-hurwitz-hecke-constant-eigenvalue
 dependency_level: 6
 sources:

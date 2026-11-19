@@ -1,6 +1,6 @@
 ---
 title: The product-sum counts unrepresented inputs
-status: draft
+status: published
 research_item: lem-euler-finite-unrepresented-count-meaning
 dependency_level: 5
 sources:

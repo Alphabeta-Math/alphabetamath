@@ -2,7 +2,7 @@
 id: lem-degree-two-spherical-index-cosets
 kind: lemma
 title: Integral determinant-index cosets in degree two
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-prime-and-maximal-ideals

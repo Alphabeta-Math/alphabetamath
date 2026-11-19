@@ -1,6 +1,6 @@
 ---
 title: Orthogonality and norm of the centered orbit indicator
-status: draft
+status: published
 research_item: lem-euler-hurwitz-centered-orbit-norm
 dependency_level: 8
 sources:

@@ -2,7 +2,7 @@
 id: lem-euler-finite-indicator-membership
 kind: lemma
 title: "Lemma 7.1: The finite indicator detects admissible integers"
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-finite-certificate-indices

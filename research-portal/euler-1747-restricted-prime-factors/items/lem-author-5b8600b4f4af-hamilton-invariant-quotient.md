@@ -2,7 +2,7 @@
 id: lem-author-5b8600b4f4af-hamilton-invariant-quotient
 kind: lemma
 title: Invariant measure on the projective Hamilton quotient
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-subgroup

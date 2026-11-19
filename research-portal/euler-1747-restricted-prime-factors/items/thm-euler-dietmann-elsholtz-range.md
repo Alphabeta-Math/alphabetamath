@@ -2,7 +2,7 @@
 id: thm-euler-dietmann-elsholtz-range
 kind: theorem
 title: Dietmann and Elsholtz’s sufficiently large range
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

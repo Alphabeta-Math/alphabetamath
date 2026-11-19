@@ -2,7 +2,7 @@
 id: lem-author-e2fc0f4318ab-weight-two-adelic-hecke-scalars
 kind: lemma
 title: Good-prime Hecke scalars in the weight-two adelic model
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:thm-fundamental-theorem-of-arithmetic

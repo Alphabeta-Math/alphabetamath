@@ -1,6 +1,6 @@
 ---
 title: Euler’s 1747 conjecture on sums of integers with restricted prime factors
-status: draft
+status: published
 ---
 
 - [Arithmetic, Counting, and Finite Sieves](arithmetic-and-finite-counting) — level 0

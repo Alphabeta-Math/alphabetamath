@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-averaged-spectral-bound
 kind: lemma
 title: Averaged spectral estimate for the torus normalizer
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-function-space

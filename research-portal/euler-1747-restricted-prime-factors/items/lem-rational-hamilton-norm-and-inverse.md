@@ -2,7 +2,7 @@
 id: lem-rational-hamilton-norm-and-inverse
 kind: lemma
 title: Norm and conjugation on rational Hamilton quaternions
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-rationals

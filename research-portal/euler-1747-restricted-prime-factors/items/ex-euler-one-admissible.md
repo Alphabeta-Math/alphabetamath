@@ -2,7 +2,7 @@
 id: ex-euler-one-admissible
 kind: example
 title: The summand 1 is admissible
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

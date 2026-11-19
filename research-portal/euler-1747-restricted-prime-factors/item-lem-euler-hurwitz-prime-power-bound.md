@@ -1,6 +1,6 @@
 ---
 title: Absolute bound for an unramified prime-power eigenvalue
-status: draft
+status: published
 research_item: lem-euler-hurwitz-prime-power-bound
 dependency_level: 9
 sources:

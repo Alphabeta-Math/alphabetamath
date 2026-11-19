@@ -1,6 +1,6 @@
 ---
 title: Euler’s historical formulation
-status: draft
+status: published
 research_item: rem-euler-1747-formulation
 dependency_level: 0
 sources:

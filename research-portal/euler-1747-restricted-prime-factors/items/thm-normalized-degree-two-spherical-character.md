@@ -2,7 +2,7 @@
 id: thm-normalized-degree-two-spherical-character
 kind: theorem
 title: Normalized spherical character in degree two
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-countable-choice

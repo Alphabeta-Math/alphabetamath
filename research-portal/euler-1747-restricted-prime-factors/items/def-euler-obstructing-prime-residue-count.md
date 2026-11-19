@@ -2,7 +2,7 @@
 id: def-euler-obstructing-prime-residue-count
 kind: definition
 title: The eight residue classes and their counting function
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

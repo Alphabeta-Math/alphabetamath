@@ -1,6 +1,6 @@
 ---
 title: One-dimensional spectrum in the finite quotient
-status: draft
+status: published
 research_item: lem-euler-hurwitz-automorphic-characters
 dependency_level: 8
 sources:

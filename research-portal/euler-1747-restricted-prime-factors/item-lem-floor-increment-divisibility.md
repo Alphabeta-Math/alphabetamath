@@ -1,6 +1,6 @@
 ---
 title: A floor difference detects divisibility
-status: draft
+status: published
 research_item: lem-floor-increment-divisibility
 dependency_level: 0
 ---

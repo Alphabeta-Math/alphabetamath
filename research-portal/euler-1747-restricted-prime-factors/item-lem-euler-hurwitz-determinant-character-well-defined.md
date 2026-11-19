@@ -1,6 +1,6 @@
 ---
 title: The determinant character descends to the quotient
-status: draft
+status: published
 research_item: lem-euler-hurwitz-determinant-character-well-defined
 dependency_level: 6
 sources:

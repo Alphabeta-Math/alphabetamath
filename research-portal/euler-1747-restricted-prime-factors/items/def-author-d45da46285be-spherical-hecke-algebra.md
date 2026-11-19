@@ -2,7 +2,7 @@
 id: def-author-d45da46285be-spherical-hecke-algebra
 kind: definition
 title: Spherical Hecke algebra and action for a compact open subgroup
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-topological-group

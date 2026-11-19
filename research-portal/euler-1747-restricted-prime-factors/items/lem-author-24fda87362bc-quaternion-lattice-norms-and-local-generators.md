@@ -2,7 +2,7 @@
 id: lem-author-24fda87362bc-quaternion-lattice-norms-and-local-generators
 kind: lemma
 title: Norms of quaternion lattices and their local generators
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:thm-int-ordered-ring

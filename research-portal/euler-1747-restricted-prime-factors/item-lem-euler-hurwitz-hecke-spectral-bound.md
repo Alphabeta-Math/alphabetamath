@@ -1,6 +1,6 @@
 ---
 title: "Lemma 3.2: Spectral bound away from the two characters"
-status: draft
+status: published
 research_item: lem-euler-hurwitz-hecke-spectral-bound
 dependency_level: 10
 sources:

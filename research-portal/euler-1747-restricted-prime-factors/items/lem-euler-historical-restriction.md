@@ -2,7 +2,7 @@
 id: lem-euler-historical-restriction
 kind: lemma
 title: Equivalent restrictions on positive summands
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

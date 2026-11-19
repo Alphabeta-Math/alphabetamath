@@ -2,7 +2,7 @@
 id: def-author-c74aeff6099d-bounded-integer-indices
 kind: definition
 title: Bounded integer index sets
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-nat-order

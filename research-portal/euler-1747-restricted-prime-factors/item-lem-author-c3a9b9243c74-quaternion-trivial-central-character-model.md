@@ -1,6 +1,6 @@
 ---
 title: The trivial central-character model of the projective quaternion quotient
-status: draft
+status: published
 research_item: lem-author-c3a9b9243c74-quaternion-trivial-central-character-model
 dependency_level: 7
 ---

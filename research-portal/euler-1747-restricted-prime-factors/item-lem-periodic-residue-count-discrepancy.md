@@ -1,6 +1,6 @@
 ---
 title: Periodicity and jump bounds for residue counts
-status: draft
+status: published
 research_item: lem-periodic-residue-count-discrepancy
 dependency_level: 0
 ---

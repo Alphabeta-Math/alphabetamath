@@ -1,6 +1,6 @@
 ---
 title: "Proposition 6.1: The analytic range"
-status: draft
+status: published
 research_item: prop-euler-analytic-range
 dependency_level: 15
 sources:

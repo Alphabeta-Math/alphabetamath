@@ -1,6 +1,6 @@
 ---
 title: Prime count and retained-index count for the indicator sieve
-status: draft
+status: published
 research_item: prop-euler-finite-indicator-counts
 dependency_level: 5
 sources:

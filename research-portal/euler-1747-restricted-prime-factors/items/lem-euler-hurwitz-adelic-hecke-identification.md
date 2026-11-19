@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-adelic-hecke-identification
 kind: lemma
 title: Identification of the unramified Hecke correspondence with the finite operator
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-countable-choice

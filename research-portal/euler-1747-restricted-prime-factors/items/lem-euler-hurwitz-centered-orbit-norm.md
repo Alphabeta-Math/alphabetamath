@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-centered-orbit-norm
 kind: lemma
 title: Orthogonality and norm of the centered orbit indicator
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-monoid-finite-product

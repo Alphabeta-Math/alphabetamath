@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-automorphic-characters
 kind: lemma
 title: One-dimensional spectrum in the finite quotient
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-quotient-topology

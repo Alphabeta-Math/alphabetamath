@@ -1,6 +1,6 @@
 ---
 title: Order of the degree-two finite projective group
-status: draft
+status: published
 research_item: lem-degree-two-projective-group-cardinality
 dependency_level: 1
 ---

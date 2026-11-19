@@ -1,6 +1,6 @@
 ---
 title: The Hecke eigenvalue on the determinant character
-status: draft
+status: published
 research_item: lem-euler-hurwitz-hecke-character-eigenvalue
 dependency_level: 7
 sources:

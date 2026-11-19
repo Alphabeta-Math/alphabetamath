@@ -2,7 +2,7 @@
 id: lem-euler-sieve-sufficiency
 kind: lemma
 title: A union bound suffices for admissible summands
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

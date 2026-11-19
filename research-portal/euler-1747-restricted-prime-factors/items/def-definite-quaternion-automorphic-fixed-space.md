@@ -2,7 +2,7 @@
 id: def-definite-quaternion-automorphic-fixed-space
 kind: definition
 title: Fixed spaces of projective quaternion automorphic representations
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-measure-space

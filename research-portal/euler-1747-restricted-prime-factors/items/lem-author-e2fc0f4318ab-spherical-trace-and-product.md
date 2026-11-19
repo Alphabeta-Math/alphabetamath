@@ -2,7 +2,7 @@
 id: lem-author-e2fc0f4318ab-spherical-trace-and-product
 kind: lemma
 title: Two spherical Hecke scalars determine the Satake pair
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-ring-matrix-product-identity-and-transpose

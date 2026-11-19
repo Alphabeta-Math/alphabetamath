@@ -2,7 +2,7 @@
 id: def-author-5b8600b4f4af-split-unramified-quaternion-representation
 kind: definition
 title: Unramified representations at split quaternion primes
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-field

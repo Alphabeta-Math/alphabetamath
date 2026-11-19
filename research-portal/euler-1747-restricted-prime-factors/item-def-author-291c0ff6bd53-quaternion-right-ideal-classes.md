@@ -1,6 +1,6 @@
 ---
 title: Right ideal classes of a quaternion order
-status: draft
+status: published
 research_item: def-author-291c0ff6bd53-quaternion-right-ideal-classes
 dependency_level: 4
 sources:

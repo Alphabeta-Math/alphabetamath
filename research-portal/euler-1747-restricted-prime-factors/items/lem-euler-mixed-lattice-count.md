@@ -2,7 +2,7 @@
 id: lem-euler-mixed-lattice-count
 kind: lemma
 title: "Lemma 4.1: A bound for mixed lattice pairs"
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-mixed-lattice-count

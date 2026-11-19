@@ -1,6 +1,6 @@
 ---
 title: A lower bound on the four-square representation count
-status: draft
+status: published
 research_item: lem-euler-four-square-count-lower-bound
 dependency_level: 2
 sources:

@@ -2,7 +2,7 @@
 id: thm-definite-quaternion-jacquet-langlands-weight-two
 kind: theorem
 title: Definite quaternion transfer to cuspidal weight two
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

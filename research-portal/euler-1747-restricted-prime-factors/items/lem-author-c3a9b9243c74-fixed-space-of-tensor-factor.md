@@ -2,7 +2,7 @@
 id: lem-author-c3a9b9243c74-fixed-space-of-tensor-factor
 kind: lemma
 title: Fixed vectors for an action on one Hilbert tensor factor
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-balanced-and-bilinear-maps

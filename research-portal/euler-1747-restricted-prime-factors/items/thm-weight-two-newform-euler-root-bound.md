@@ -2,7 +2,7 @@
 id: thm-weight-two-newform-euler-root-bound
 kind: theorem
 title: Ramanujan–Petersson for weight-two Euler roots
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:lem-compactness-of-a-subspace-is-ambient

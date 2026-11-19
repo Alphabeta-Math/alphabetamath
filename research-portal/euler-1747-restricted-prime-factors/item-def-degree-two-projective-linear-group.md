@@ -1,6 +1,6 @@
 ---
 title: Degree-two projective linear groups
-status: draft
+status: published
 research_item: def-degree-two-projective-linear-group
 dependency_level: 0
 ---

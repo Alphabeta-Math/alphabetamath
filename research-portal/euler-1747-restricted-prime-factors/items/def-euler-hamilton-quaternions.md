@@ -2,7 +2,7 @@
 id: def-euler-hamilton-quaternions
 kind: definition
 title: The Hamilton quaternion algebra and reduced norm
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-rationals

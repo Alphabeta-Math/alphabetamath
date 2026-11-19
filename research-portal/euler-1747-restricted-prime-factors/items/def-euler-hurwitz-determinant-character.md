@@ -2,7 +2,7 @@
 id: def-euler-hurwitz-determinant-character
 kind: definition
 title: The determinant character on the finite quotient
-status: draft
+status: published
 domain: mathematics
 deps:
   - lem-square-residue-parity

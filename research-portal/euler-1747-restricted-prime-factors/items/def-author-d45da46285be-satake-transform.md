@@ -2,7 +2,7 @@
 id: def-author-d45da46285be-satake-transform
 kind: definition
 title: Normalized degree-two Satake transform by cosets
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-metric-topology

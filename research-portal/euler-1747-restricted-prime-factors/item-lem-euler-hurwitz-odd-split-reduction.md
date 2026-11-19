@@ -1,6 +1,6 @@
 ---
 title: Split quaternion reduction at odd primes
-status: draft
+status: published
 research_item: lem-euler-hurwitz-odd-split-reduction
 dependency_level: 3
 sources:

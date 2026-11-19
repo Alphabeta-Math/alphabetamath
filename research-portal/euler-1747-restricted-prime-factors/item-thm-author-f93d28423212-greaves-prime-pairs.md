@@ -1,6 +1,6 @@
 ---
 title: Greaves’s lower bound for prime pairs in a four-square representation
-status: draft
+status: published
 research_item: thm-author-f93d28423212-greaves-prime-pairs
 dependency_level: 0
 sources:

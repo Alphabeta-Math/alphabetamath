@@ -1,6 +1,6 @@
 ---
 title: Local congruence subgroup for the conductor
-status: draft
+status: published
 research_item: def-author-f98bf83ef432-local-k-one-subgroup
 dependency_level: 0
 sources:

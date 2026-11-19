@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-hecke-constant-eigenvalue
 kind: lemma
 title: The Hecke eigenvalue on constants
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:lem-nat-embeds-int

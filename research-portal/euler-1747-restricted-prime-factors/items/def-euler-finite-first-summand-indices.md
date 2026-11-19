@@ -2,7 +2,7 @@
 id: def-euler-finite-first-summand-indices
 kind: definition
 title: Eligible first-summand indices
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-author-c74aeff6099d-bounded-integer-indices

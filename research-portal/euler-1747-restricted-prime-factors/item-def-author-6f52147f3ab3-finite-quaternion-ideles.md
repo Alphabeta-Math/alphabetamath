@@ -1,6 +1,6 @@
 ---
 title: Finite quaternion ideles
-status: draft
+status: published
 research_item: def-author-6f52147f3ab3-finite-quaternion-ideles
 dependency_level: 2
 sources:

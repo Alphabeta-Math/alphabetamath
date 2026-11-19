@@ -2,7 +2,7 @@
 id: def-euler-hurwitz-normalizer-orbit
 kind: definition
 title: Normalizer orbit, indicator and density
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

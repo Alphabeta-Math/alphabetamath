@@ -2,7 +2,7 @@
 id: def-degree-two-projective-linear-group
 kind: definition
 title: Degree-two projective linear groups
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-ring

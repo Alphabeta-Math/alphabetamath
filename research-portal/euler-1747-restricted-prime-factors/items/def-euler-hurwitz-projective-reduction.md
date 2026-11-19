@@ -2,7 +2,7 @@
 id: def-euler-hurwitz-projective-reduction
 kind: definition
 title: The projective reduction quotient
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

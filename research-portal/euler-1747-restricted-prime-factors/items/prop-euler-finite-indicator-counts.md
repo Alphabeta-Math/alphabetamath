@@ -2,7 +2,7 @@
 id: prop-euler-finite-indicator-counts
 kind: proposition
 title: Prime count and retained-index count for the indicator sieve
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

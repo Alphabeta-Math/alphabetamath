@@ -3,7 +3,7 @@ title: Prerequisite omissions and potential defects
 research_report: defects
 description: Original-article findings for Euler’s 1747 conjecture on sums of
   integers with restricted prime factors.
-status: draft
+status: published
 generated_at: 2026-11-19T15:50:22.081Z
 ---
 

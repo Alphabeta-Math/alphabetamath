@@ -1,6 +1,6 @@
 ---
 title: Projective quaternion group and finite adelic level
-status: draft
+status: published
 research_item: def-euler-hurwitz-adelic-level
 dependency_level: 5
 sources:

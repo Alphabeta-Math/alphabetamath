@@ -2,7 +2,7 @@
 id: lem-floor-increment-divisibility
 kind: lemma
 title: A floor difference detects divisibility
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-rationals

@@ -1,6 +1,6 @@
 ---
 title: Normalized weight-two cuspidal newforms
-status: draft
+status: published
 research_item: def-author-e2fc0f4318ab-normalized-weight-two-newform
 dependency_level: 1
 sources:

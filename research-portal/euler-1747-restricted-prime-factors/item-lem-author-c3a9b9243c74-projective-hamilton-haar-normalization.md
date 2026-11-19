@@ -1,6 +1,6 @@
 ---
 title: Unimodularity and invariant measure for the compact Hamilton quotient
-status: draft
+status: published
 research_item: lem-author-c3a9b9243c74-projective-hamilton-haar-normalization
 dependency_level: 6
 ---

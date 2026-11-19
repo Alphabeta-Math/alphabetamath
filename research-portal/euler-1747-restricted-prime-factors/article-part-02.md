@@ -3,7 +3,7 @@ title: Article items · 02 — The complex numbers as $\mathbb R[x]/(x^2+1)$, wi
   the real embedding and imaginary unit $i$
 description: Presents 28 items from the article and its immediate prerequisites,
   covering published library prerequisites.
-status: draft
+status: published
 dependency_level: 0
 research_article_page: true
 item_count: 28

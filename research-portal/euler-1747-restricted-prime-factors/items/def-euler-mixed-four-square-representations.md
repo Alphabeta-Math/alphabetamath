@@ -2,7 +2,7 @@
 id: def-euler-mixed-four-square-representations
 kind: definition
 title: Mixed-parity four-square representations
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-four-square-representations

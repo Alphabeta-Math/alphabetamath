@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-sieve-domination
 kind: lemma
 title: The obstruction count is bounded by the Hecke orbit count
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

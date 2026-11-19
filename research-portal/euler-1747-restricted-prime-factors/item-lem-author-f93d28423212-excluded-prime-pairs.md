@@ -1,6 +1,6 @@
 ---
 title: Upper bound for prime pairs with an excluded representation
-status: draft
+status: published
 research_item: lem-author-f93d28423212-excluded-prime-pairs
 dependency_level: 1
 ---

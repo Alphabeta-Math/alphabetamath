@@ -1,6 +1,6 @@
 ---
 title: The obstruction count is bounded by the Hecke orbit count
-status: draft
+status: published
 research_item: lem-euler-hurwitz-sieve-domination
 dependency_level: 9
 sources:

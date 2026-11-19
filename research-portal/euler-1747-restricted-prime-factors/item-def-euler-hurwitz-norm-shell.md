@@ -1,6 +1,6 @@
 ---
 title: The Hurwitz norm shell
-status: draft
+status: published
 research_item: def-euler-hurwitz-norm-shell
 dependency_level: 3
 sources:

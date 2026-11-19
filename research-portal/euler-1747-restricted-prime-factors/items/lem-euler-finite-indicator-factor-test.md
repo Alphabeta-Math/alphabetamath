@@ -2,7 +2,7 @@
 id: lem-euler-finite-indicator-factor-test
 kind: lemma
 title: Each floor factor tests divisibility by its prime
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-finite-certificate-indices

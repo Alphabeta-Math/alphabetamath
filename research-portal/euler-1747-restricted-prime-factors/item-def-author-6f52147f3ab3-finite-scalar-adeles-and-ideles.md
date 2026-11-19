@@ -1,6 +1,6 @@
 ---
 title: Finite scalar adeles and ideles
-status: draft
+status: published
 research_item: def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
 dependency_level: 1
 sources:

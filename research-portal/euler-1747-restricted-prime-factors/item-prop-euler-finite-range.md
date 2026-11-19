@@ -1,6 +1,6 @@
 ---
 title: "Proposition 7.2: The finite range"
-status: draft
+status: published
 research_item: prop-euler-finite-range
 dependency_level: 8
 sources:

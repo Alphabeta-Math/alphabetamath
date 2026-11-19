@@ -2,7 +2,7 @@
 id: def-author-24fda87362bc-local-adic-valuation
 kind: definition
 title: The normalized valuation on the local field
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-prime

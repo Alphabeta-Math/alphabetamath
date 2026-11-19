@@ -2,7 +2,7 @@
 id: def-euler-hurwitz-torus-normalizer
 kind: definition
 title: The nonsplit torus and its normalizer
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-linear-combination-and-span

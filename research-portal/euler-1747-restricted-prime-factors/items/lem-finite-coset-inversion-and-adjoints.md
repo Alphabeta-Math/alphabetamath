@@ -2,7 +2,7 @@
 id: lem-finite-coset-inversion-and-adjoints
 kind: lemma
 title: Inversion and adjoints of finite-coset averaging
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-group

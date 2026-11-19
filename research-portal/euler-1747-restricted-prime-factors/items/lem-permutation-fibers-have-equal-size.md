@@ -2,7 +2,7 @@
 id: lem-permutation-fibers-have-equal-size
 kind: lemma
 title: Equal coordinate-label fibers under permutation
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-function

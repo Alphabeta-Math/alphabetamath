@@ -2,7 +2,7 @@
 id: thm-euler-hurwitz-weight-two-transfer
 kind: theorem
 title: Weight-two transfer for the remaining quaternionic spectrum
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

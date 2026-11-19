@@ -2,7 +2,7 @@
 id: lem-euler-four-square-parities
 kind: lemma
 title: The six parity placements in a four-square representation
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-four-square-representations

@@ -1,6 +1,6 @@
 ---
 title: Eight representatives in the normalizer per qualifying left-unit class
-status: draft
+status: published
 research_item: lem-euler-hurwitz-normalizer-unit-count
 dependency_level: 8
 sources:

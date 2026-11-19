@@ -2,7 +2,7 @@
 id: lem-projective-integral-stabilizer-over-rationals
 kind: lemma
 title: Projective integral stabilizer over the rationals
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-author-6f52147f3ab3-hamilton-order-completions

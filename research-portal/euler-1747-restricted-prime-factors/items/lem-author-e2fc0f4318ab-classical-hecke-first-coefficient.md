@@ -2,7 +2,7 @@
 id: lem-author-e2fc0f4318ab-classical-hecke-first-coefficient
 kind: lemma
 title: The first Hecke coefficient of a weight-two cusp form
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-unit-group-modulo-n-and-euler-totient

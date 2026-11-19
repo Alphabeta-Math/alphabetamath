@@ -2,7 +2,7 @@
 id: lem-euler-obstructing-prime-square-tail
 kind: lemma
 title: "Lemma 5.2: Reciprocal-square tail of the obstructing primes"
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

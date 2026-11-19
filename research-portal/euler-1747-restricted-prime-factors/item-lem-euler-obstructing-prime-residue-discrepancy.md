@@ -1,6 +1,6 @@
 ---
 title: Periodic discrepancy for the eight residue classes
-status: draft
+status: published
 research_item: lem-euler-obstructing-prime-residue-discrepancy
 dependency_level: 1
 sources:

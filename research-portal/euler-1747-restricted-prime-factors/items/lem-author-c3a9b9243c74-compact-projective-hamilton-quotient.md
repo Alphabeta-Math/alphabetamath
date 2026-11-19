@@ -2,7 +2,7 @@
 id: lem-author-c3a9b9243c74-compact-projective-hamilton-quotient
 kind: lemma
 title: Compactness of the projective Hamilton quotient
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-axiom-of-choice

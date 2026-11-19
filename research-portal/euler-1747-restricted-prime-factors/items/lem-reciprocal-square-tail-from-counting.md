@@ -2,7 +2,7 @@
 id: lem-reciprocal-square-tail-from-counting
 kind: lemma
 title: Reciprocal-square tail from a counting function
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-complete-ordered-real-field

@@ -1,6 +1,6 @@
 ---
 title: Invariant measure on the projective Hamilton quotient
-status: draft
+status: published
 research_item: lem-author-5b8600b4f4af-hamilton-invariant-quotient
 dependency_level: 5
 ---

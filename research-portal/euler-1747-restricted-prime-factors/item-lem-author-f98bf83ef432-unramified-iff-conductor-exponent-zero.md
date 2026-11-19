@@ -1,6 +1,6 @@
 ---
 title: Zero conductor exponent and unramifiedness
-status: draft
+status: published
 research_item: lem-author-f98bf83ef432-unramified-iff-conductor-exponent-zero
 dependency_level: 2
 ---

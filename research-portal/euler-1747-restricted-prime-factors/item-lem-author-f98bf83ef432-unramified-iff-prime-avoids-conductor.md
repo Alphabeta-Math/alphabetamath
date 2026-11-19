@@ -1,6 +1,6 @@
 ---
 title: Unramified primes of a finite conductor
-status: draft
+status: published
 research_item: lem-author-f98bf83ef432-unramified-iff-prime-avoids-conductor
 dependency_level: 3
 ---

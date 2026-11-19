@@ -2,7 +2,7 @@
 title: Article items · 14 — Split adelic matrix groups
 description: Presents 28 items from the article and its immediate prerequisites,
   covering dependency levels 2–3.
-status: draft
+status: published
 dependency_level: 4
 research_article_page: true
 item_count: 28

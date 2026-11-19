@@ -2,7 +2,7 @@
 id: def-author-d45da46285be-spherical-model
 kind: definition
 title: Normalized upper-triangular spherical model
-status: draft
+status: published
 domain: mathematics
 deps: &a1
   - math:def-prime

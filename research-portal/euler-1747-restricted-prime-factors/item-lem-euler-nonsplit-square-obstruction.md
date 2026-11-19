@@ -1,6 +1,6 @@
 ---
 title: When a prime congruent to 3 modulo 4 divides a sum of two squares
-status: draft
+status: published
 research_item: lem-euler-nonsplit-square-obstruction
 dependency_level: 2
 sources:

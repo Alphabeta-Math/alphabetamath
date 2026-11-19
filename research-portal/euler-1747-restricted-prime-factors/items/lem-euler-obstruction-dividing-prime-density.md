@@ -2,7 +2,7 @@
 id: lem-euler-obstruction-dividing-prime-density
 kind: lemma
 title: Density bound for primes dividing the odd part
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-nat-addition

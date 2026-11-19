@@ -2,7 +2,7 @@
 id: prop-euler-finite-certificate-table
 kind: proposition
 title: "Table 1: Values of the finite recurrence"
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-author-c74aeff6099d-bounded-integer-indices

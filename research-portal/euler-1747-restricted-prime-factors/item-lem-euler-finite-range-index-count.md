@@ -1,6 +1,6 @@
 ---
 title: The size of the finite input range
-status: draft
+status: published
 research_item: lem-euler-finite-range-index-count
 dependency_level: 3
 sources:

@@ -2,7 +2,7 @@
 id: def-euler-hurwitz-hecke-operator
 kind: definition
 title: Quaternionic Hecke operator on the finite quotient
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

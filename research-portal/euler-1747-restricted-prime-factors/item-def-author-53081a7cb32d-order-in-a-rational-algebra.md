@@ -1,6 +1,6 @@
 ---
 title: Orders in rational algebras
-status: draft
+status: published
 research_item: def-author-53081a7cb32d-order-in-a-rational-algebra
 dependency_level: 0
 ---

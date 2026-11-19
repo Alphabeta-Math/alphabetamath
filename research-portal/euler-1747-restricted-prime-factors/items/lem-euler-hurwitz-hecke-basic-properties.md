@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-hecke-basic-properties
 kind: lemma
 title: Well-definedness, equivariance and self-adjointness of the Hecke operator
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

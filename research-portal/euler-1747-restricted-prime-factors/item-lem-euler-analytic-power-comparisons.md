@@ -1,6 +1,6 @@
 ---
 title: Numerical comparisons for the analytic threshold
-status: draft
+status: published
 research_item: lem-euler-analytic-power-comparisons
 dependency_level: 0
 sources:

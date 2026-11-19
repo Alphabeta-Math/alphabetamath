@@ -2,7 +2,7 @@
 id: lem-trial-division-primality-bound
 kind: lemma
 title: Trial division up to the square root
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

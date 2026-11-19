@@ -1,6 +1,6 @@
 ---
 title: Equal coordinate-label fibers under permutation
-status: draft
+status: published
 research_item: lem-permutation-fibers-have-equal-size
 dependency_level: 0
 ---

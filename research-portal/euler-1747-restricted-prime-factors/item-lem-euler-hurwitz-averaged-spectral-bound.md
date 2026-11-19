@@ -1,6 +1,6 @@
 ---
 title: Averaged spectral estimate for the torus normalizer
-status: draft
+status: published
 research_item: lem-euler-hurwitz-averaged-spectral-bound
 dependency_level: 11
 sources:

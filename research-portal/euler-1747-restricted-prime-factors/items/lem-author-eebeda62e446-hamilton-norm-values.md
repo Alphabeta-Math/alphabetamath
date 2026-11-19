@@ -2,7 +2,7 @@
 id: lem-author-eebeda62e446-hamilton-norm-values
 kind: lemma
 title: Rational and local values of the Hamilton norm
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-author-24fda87362bc-local-adic-valuation

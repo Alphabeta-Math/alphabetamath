@@ -2,7 +2,7 @@
 id: lem-euler-two-square-count-bound
 kind: lemma
 title: Uniform bound from the two-square formula
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:thm-division-algorithm-in-z

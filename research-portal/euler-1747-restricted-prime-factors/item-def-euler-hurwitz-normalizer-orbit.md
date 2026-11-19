@@ -1,6 +1,6 @@
 ---
 title: Normalizer orbit, indicator and density
-status: draft
+status: published
 research_item: def-euler-hurwitz-normalizer-orbit
 dependency_level: 6
 sources:

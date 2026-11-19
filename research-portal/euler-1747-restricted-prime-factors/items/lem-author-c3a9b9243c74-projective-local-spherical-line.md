@@ -2,7 +2,7 @@
 id: lem-author-c3a9b9243c74-projective-local-spherical-line
 kind: lemma
 title: Spherical lines for unitary split projective factors
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-compact-space

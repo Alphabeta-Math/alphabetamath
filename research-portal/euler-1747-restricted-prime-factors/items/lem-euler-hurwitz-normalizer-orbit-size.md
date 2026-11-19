@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-normalizer-orbit-size
 kind: lemma
 title: Size and density of the normalizer orbit
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

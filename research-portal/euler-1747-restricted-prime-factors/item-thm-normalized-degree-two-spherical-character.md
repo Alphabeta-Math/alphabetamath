@@ -1,6 +1,6 @@
 ---
 title: Normalized spherical character in degree two
-status: draft
+status: published
 research_item: thm-normalized-degree-two-spherical-character
 dependency_level: 3
 sources:

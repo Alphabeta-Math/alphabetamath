@@ -2,7 +2,7 @@
 id: lem-binary-products-and-avoidance
 kind: lemma
 title: Finite binary products as avoidance indicators
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-indexed-family

@@ -2,7 +2,7 @@
 id: def-euler-hurwitz-norm-shell
 kind: definition
 title: The Hurwitz norm shell
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-hurwitz-order

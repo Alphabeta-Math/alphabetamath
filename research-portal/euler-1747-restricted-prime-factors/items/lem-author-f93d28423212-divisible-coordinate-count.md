@@ -2,7 +2,7 @@
 id: lem-author-f93d28423212-divisible-coordinate-count
 kind: lemma
 title: Counting pairs with one coordinate a multiple of the other
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

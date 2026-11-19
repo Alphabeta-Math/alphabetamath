@@ -1,6 +1,6 @@
 ---
 title: Deleted progressions agree with the floor indicators
-status: draft
+status: published
 research_item: lem-euler-finite-indicator-sieve-equivalence
 dependency_level: 4
 sources:

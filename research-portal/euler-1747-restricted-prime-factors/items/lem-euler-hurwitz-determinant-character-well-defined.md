@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-determinant-character-well-defined
 kind: lemma
 title: The determinant character descends to the quotient
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

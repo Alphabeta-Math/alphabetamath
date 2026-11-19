@@ -2,7 +2,7 @@
 id: lem-euler-remove-admissible-factors
 kind: lemma
 title: Removing admissible factors from the decomposition problem
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

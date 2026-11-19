@@ -1,6 +1,6 @@
 ---
 title: Integral splitting of the Hurwitz order at odd primes
-status: draft
+status: published
 research_item: thm-hurwitz-integral-splitting-at-odd-primes
 dependency_level: 2
 sources:

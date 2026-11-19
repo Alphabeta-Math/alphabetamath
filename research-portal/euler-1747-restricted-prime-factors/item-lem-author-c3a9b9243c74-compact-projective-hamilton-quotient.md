@@ -1,6 +1,6 @@
 ---
 title: Compactness of the projective Hamilton quotient
-status: draft
+status: published
 research_item: lem-author-c3a9b9243c74-compact-projective-hamilton-quotient
 dependency_level: 5
 sources:

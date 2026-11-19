@@ -1,6 +1,6 @@
 ---
 title: A union bound suffices for admissible summands
-status: draft
+status: published
 research_item: lem-euler-sieve-sufficiency
 dependency_level: 4
 sources:

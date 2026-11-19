@@ -4,7 +4,7 @@ title: "Article items · 10 — Division with remainder in $\\mathbb{Z}$: for $a
   = qb + r$ and $0 \\le r < b$"
 description: Presents 28 items from the article and its immediate prerequisites,
   covering published library prerequisites.
-status: draft
+status: published
 dependency_level: 0
 research_article_page: true
 item_count: 28

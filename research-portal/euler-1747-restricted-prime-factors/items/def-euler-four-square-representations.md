@@ -2,7 +2,7 @@
 id: def-euler-four-square-representations
 kind: definition
 title: Signed ordered four-square representations
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

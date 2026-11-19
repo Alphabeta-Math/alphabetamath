@@ -1,6 +1,6 @@
 ---
 title: Finite-range indices and binary indicators
-status: draft
+status: published
 research_item: def-euler-finite-certificate-indices
 dependency_level: 2
 sources:

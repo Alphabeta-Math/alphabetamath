@@ -1,6 +1,6 @@
 ---
 title: Rational and finite adelic projective quaternion units
-status: draft
+status: published
 research_item: def-finite-quaternion-adeles-and-projective-units
 dependency_level: 3
 ---

@@ -2,7 +2,7 @@
 id: lem-euler-finite-range-index-count
 kind: lemma
 title: The size of the finite input range
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-finite-certificate-indices

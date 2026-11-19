@@ -1,6 +1,6 @@
 ---
 title: Odd prime multiplicities modulo four
-status: draft
+status: published
 research_item: lem-odd-prime-factor-parity
 dependency_level: 0
 ---

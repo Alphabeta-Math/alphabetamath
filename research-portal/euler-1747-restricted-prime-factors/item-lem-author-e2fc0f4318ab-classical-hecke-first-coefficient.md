@@ -1,6 +1,6 @@
 ---
 title: The first Hecke coefficient of a weight-two cusp form
-status: draft
+status: published
 research_item: lem-author-e2fc0f4318ab-classical-hecke-first-coefficient
 dependency_level: 2
 ---

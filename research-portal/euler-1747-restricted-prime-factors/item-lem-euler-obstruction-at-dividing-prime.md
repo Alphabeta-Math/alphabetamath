@@ -1,6 +1,6 @@
 ---
 title: The obstruction count at a prime dividing the odd part
-status: draft
+status: published
 research_item: lem-euler-obstruction-at-dividing-prime
 dependency_level: 3
 sources:

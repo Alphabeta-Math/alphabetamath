@@ -1,6 +1,6 @@
 ---
 title: Rational and local values of the Hamilton norm
-status: draft
+status: published
 research_item: lem-author-eebeda62e446-hamilton-norm-values
 dependency_level: 1
 ---

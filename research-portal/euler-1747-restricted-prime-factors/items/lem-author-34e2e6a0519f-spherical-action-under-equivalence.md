@@ -2,7 +2,7 @@
 id: lem-author-34e2e6a0519f-spherical-action-under-equivalence
 kind: lemma
 title: Spherical Hecke operators under equivalence
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Explicit total obstruction bound at the analytic cutoff
-status: draft
+status: published
 research_item: lem-euler-analytic-total-obstruction
 dependency_level: 14
 sources:

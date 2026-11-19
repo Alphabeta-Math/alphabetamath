@@ -1,6 +1,6 @@
 ---
 title: The six parity placements in a four-square representation
-status: draft
+status: published
 research_item: lem-euler-four-square-parities
 dependency_level: 1
 sources:

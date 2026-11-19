@@ -1,6 +1,6 @@
 ---
 title: Quaternion right ideals and their reduced norm
-status: draft
+status: published
 research_item: def-quaternion-right-ideal-and-reduced-norm
 dependency_level: 3
 ---

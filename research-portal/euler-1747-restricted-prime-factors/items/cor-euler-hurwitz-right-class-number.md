@@ -2,7 +2,7 @@
 id: cor-euler-hurwitz-right-class-number
 kind: corollary
 title: Principal right ideals and class number one
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-hamilton-quaternions

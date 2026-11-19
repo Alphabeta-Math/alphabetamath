@@ -1,6 +1,6 @@
 ---
 title: Balance of a character on a finite coset orbit
-status: draft
+status: published
 research_item: lem-coset-character-balance
 dependency_level: 0
 ---

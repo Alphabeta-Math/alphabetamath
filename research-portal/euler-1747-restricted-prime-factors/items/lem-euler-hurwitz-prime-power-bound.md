@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-prime-power-bound
 kind: lemma
 title: Absolute bound for an unramified prime-power eigenvalue
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-quotient-group

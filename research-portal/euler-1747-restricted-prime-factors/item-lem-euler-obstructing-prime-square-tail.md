@@ -1,6 +1,6 @@
 ---
 title: "Lemma 5.2: Reciprocal-square tail of the obstructing primes"
-status: draft
+status: published
 research_item: lem-euler-obstructing-prime-square-tail
 dependency_level: 3
 sources:

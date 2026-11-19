@@ -1,6 +1,6 @@
 ---
 title: Square residues and opposite parity
-status: draft
+status: published
 research_item: lem-square-residue-parity
 dependency_level: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: The mixed-parity lattice count
-status: draft
+status: published
 research_item: def-euler-mixed-lattice-count
 dependency_level: 1
 sources:

@@ -1,6 +1,6 @@
 ---
 title: The recurrence set has size U(a)
-status: draft
+status: published
 research_item: lem-euler-finite-unrepresented-recurrence-equivalence
 dependency_level: 6
 sources:

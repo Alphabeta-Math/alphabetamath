@@ -2,7 +2,7 @@
 id: def-author-fb1ef6c2c01b-signed-ordered-two-square-count
 kind: definition
 title: Signed, ordered two-square representations
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

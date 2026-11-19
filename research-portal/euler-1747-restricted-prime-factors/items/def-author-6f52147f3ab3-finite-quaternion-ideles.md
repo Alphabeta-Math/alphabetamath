@@ -2,7 +2,7 @@
 id: def-author-6f52147f3ab3-finite-quaternion-ideles
 kind: definition
 title: Finite quaternion ideles
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-topological-space

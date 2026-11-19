@@ -2,7 +2,7 @@
 id: def-author-e2fc0f4318ab-normalized-weight-two-newform
 kind: definition
 title: Normalized weight-two cuspidal newforms
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:thm-dirichlet-character-primitive-induction

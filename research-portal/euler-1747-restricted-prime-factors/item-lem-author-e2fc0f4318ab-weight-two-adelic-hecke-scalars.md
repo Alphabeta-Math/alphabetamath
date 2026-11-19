@@ -1,6 +1,6 @@
 ---
 title: Good-prime Hecke scalars in the weight-two adelic model
-status: draft
+status: published
 research_item: lem-author-e2fc0f4318ab-weight-two-adelic-hecke-scalars
 dependency_level: 3
 ---

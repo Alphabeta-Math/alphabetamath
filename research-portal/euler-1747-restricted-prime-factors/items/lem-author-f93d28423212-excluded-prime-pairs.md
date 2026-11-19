@@ -2,7 +2,7 @@
 id: lem-author-f93d28423212-excluded-prime-pairs
 kind: lemma
 title: Upper bound for prime pairs with an excluded representation
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

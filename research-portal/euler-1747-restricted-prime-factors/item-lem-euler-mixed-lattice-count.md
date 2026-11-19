@@ -1,6 +1,6 @@
 ---
 title: "Lemma 4.1: A bound for mixed lattice pairs"
-status: draft
+status: published
 research_item: lem-euler-mixed-lattice-count
 dependency_level: 3
 sources:

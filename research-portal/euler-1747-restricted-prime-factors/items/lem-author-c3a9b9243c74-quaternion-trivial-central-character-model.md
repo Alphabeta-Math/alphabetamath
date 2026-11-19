@@ -2,7 +2,7 @@
 id: lem-author-c3a9b9243c74-quaternion-trivial-central-character-model
 kind: lemma
 title: The trivial central-character model of the projective quaternion quotient
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-external-direct-product-of-groups

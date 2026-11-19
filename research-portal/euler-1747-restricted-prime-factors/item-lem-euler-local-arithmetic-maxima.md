@@ -1,6 +1,6 @@
 ---
 title: Maximizing exponents in the small-prime bounds
-status: draft
+status: published
 research_item: lem-euler-local-arithmetic-maxima
 dependency_level: 3
 sources:

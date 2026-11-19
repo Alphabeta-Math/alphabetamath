@@ -2,7 +2,7 @@
 id: prop-euler-uniform-prime-obstruction
 kind: proposition
 title: "Proposition 3.1: Uniform quaternionic obstruction estimate"
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-axiom-of-choice

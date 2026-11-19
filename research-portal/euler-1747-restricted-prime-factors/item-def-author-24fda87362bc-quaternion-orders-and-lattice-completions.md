@@ -1,6 +1,6 @@
 ---
 title: Quaternion orders and completed lattices
-status: draft
+status: published
 research_item: def-author-24fda87362bc-quaternion-orders-and-lattice-completions
 dependency_level: 1
 ---

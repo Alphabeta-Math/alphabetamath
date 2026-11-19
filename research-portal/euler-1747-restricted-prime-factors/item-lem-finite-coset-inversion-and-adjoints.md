@@ -1,6 +1,6 @@
 ---
 title: Inversion and adjoints of finite-coset averaging
-status: draft
+status: published
 research_item: lem-finite-coset-inversion-and-adjoints
 dependency_level: 0
 ---

@@ -2,7 +2,7 @@
 title: Article items · 17 — The torus normalizer detects a vanishing coordinate pair
 description: Presents 28 items from the article and its immediate prerequisites,
   covering dependency levels 6–16.
-status: draft
+status: published
 dependency_level: 7
 research_article_page: true
 item_count: 28

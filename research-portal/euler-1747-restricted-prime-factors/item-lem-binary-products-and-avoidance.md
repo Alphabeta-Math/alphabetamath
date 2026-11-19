@@ -1,6 +1,6 @@
 ---
 title: Finite binary products as avoidance indicators
-status: draft
+status: published
 research_item: lem-binary-products-and-avoidance
 dependency_level: 0
 ---

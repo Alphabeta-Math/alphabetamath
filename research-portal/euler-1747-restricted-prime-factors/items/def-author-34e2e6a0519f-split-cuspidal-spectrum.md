@@ -2,7 +2,7 @@
 id: def-author-34e2e6a0519f-split-cuspidal-spectrum
 kind: definition
 title: Cuspidal representations of the split adelic group
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:lem-nat-embeds-int

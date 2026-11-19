@@ -1,6 +1,6 @@
 ---
 title: Maximum from nonincreasing successive ratios
-status: draft
+status: published
 research_item: lem-positive-sequence-ratio-maximum
 dependency_level: 0
 ---

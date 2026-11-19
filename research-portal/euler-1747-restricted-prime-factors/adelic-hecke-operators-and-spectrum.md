@@ -3,7 +3,7 @@ title: Adelic Hecke Operators and Their Spectrum
 description: Relate quaternion ideals to adelic quotients and establish the
   Hecke correspondences, spectral inputs, and operator bounds used to estimate
   averages on finite orbits.
-status: draft
+status: published
 dependency_level: 1
 ---
 

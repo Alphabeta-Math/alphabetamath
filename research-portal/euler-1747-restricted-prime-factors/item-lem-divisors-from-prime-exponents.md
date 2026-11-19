@@ -1,6 +1,6 @@
 ---
 title: Divisor products from prime exponents
-status: draft
+status: published
 research_item: lem-divisors-from-prime-exponents
 dependency_level: 0
 ---

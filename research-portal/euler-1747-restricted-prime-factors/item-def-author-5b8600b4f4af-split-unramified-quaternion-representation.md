@@ -1,6 +1,6 @@
 ---
 title: Unramified representations at split quaternion primes
-status: draft
+status: published
 research_item: def-author-5b8600b4f4af-split-unramified-quaternion-representation
 dependency_level: 5
 ---

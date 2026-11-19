@@ -1,6 +1,6 @@
 ---
 title: "Lemma 7.1: The finite indicator detects admissible integers"
-status: draft
+status: published
 research_item: lem-euler-finite-indicator-membership
 dependency_level: 4
 sources:

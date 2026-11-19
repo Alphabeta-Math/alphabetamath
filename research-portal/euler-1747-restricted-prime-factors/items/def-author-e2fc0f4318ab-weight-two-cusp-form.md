@@ -2,7 +2,7 @@
 id: def-author-e2fc0f4318ab-weight-two-cusp-form
 kind: definition
 title: Weight-two cusp forms with character at level N
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-complex-series-power-series-and-absolute-convergence

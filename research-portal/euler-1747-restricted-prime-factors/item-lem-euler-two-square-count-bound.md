@@ -1,6 +1,6 @@
 ---
 title: Uniform bound from the two-square formula
-status: draft
+status: published
 research_item: lem-euler-two-square-count-bound
 dependency_level: 2
 sources:

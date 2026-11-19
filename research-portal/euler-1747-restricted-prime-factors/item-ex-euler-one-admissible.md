@@ -1,6 +1,6 @@
 ---
 title: The summand 1 is admissible
-status: draft
+status: published
 research_item: ex-euler-one-admissible
 dependency_level: 2
 sources:

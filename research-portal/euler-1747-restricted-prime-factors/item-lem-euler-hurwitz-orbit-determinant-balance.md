@@ -1,6 +1,6 @@
 ---
 title: The normalizer orbit is balanced between determinant classes
-status: draft
+status: published
 research_item: lem-euler-hurwitz-orbit-determinant-balance
 dependency_level: 7
 sources:

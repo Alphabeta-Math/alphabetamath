@@ -2,7 +2,7 @@
 id: thm-projective-quaternion-norm-characters
 kind: theorem
 title: Norm characters of projective quaternion units
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-axiom-of-choice

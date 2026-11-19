@@ -1,6 +1,6 @@
 ---
 title: Split adelic matrix groups
-status: draft
+status: published
 research_item: def-author-34e2e6a0519f-split-adelic-matrix-groups
 dependency_level: 2
 ---

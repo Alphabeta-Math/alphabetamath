@@ -1,6 +1,6 @@
 ---
 title: The normalized valuation on the local field
-status: draft
+status: published
 research_item: def-author-24fda87362bc-local-adic-valuation
 dependency_level: 0
 ---

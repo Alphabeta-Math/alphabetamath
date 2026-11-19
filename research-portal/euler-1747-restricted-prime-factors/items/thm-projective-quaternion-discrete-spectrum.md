@@ -2,7 +2,7 @@
 id: thm-projective-quaternion-discrete-spectrum
 kind: theorem
 title: Discrete automorphic spectrum for definite projective quaternion units
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-finite-quaternion-adeles-and-projective-units

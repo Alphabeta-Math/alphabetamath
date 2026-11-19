@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-adelic-identification
 kind: lemma
 title: The finite adelic quotient and its stabilizer
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-subgroup

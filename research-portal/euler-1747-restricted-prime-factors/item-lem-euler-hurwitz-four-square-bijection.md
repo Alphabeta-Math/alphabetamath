@@ -1,6 +1,6 @@
 ---
 title: From a Hurwitz norm shell to integral four squares
-status: draft
+status: published
 research_item: lem-euler-hurwitz-four-square-bijection
 dependency_level: 4
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Counting pairs by bounded fibers
-status: draft
+status: published
 research_item: lem-count-pairs-by-bounded-fibers
 dependency_level: 0
 ---

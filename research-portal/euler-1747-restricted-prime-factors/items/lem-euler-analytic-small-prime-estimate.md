@@ -2,7 +2,7 @@
 id: lem-euler-analytic-small-prime-estimate
 kind: lemma
 title: Small-prime contribution above the analytic threshold
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

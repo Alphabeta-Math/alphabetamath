@@ -2,7 +2,7 @@
 id: lem-euler-finite-unrepresented-recurrence-equivalence
 kind: lemma
 title: The recurrence set has size U(a)
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

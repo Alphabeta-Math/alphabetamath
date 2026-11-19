@@ -1,6 +1,6 @@
 ---
 title: Determinant square class of a projective matrix
-status: draft
+status: published
 research_item: lem-projective-determinant-square-class
 dependency_level: 1
 ---

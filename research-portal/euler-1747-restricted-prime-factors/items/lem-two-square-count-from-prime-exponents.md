@@ -2,7 +2,7 @@
 id: lem-two-square-count-from-prime-exponents
 kind: lemma
 title: Two-square count as a prime-exponent product
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-two-square-representation-function

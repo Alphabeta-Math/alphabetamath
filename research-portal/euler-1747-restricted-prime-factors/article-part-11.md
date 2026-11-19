@@ -2,7 +2,7 @@
 title: Article items · 11 — The p-adic completion is a complete valued field
 description: Presents 28 items from the article and its immediate prerequisites,
   covering published library prerequisites and dependency level 0.
-status: draft
+status: published
 dependency_level: 1
 research_article_page: true
 item_count: 28

@@ -2,7 +2,7 @@
 id: def-author-f98bf83ef432-local-conductor-exponent
 kind: definition
 title: Local conductor exponent from fixed vectors
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-prime

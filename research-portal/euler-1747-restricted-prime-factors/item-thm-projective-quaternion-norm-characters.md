@@ -1,6 +1,6 @@
 ---
 title: Norm characters of projective quaternion units
-status: draft
+status: published
 research_item: thm-projective-quaternion-norm-characters
 dependency_level: 7
 sources:

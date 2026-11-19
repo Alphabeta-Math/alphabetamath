@@ -1,6 +1,6 @@
 ---
 title: Finite conductor of local components
-status: draft
+status: published
 research_item: def-author-f98bf83ef432-finite-conductor
 dependency_level: 2
 sources:

@@ -2,7 +2,7 @@
 id: def-determinant-index-spherical-hecke-correspondence
 kind: definition
 title: Determinant-index spherical Hecke correspondence
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-order-topology-on-a-linearly-ordered-set

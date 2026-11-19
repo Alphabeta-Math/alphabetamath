@@ -2,7 +2,7 @@
 id: lem-euler-admissible-products
 kind: lemma
 title: Products and congruence of admissible integers
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

@@ -1,6 +1,6 @@
 ---
 title: Spherical Hecke operators under equivalence
-status: draft
+status: published
 research_item: lem-author-34e2e6a0519f-spherical-action-under-equivalence
 dependency_level: 1
 ---

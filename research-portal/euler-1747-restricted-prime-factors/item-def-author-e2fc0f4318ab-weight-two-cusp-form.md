@@ -1,6 +1,6 @@
 ---
 title: Weight-two cusp forms with character at level N
-status: draft
+status: published
 research_item: def-author-e2fc0f4318ab-weight-two-cusp-form
 dependency_level: 0
 ---

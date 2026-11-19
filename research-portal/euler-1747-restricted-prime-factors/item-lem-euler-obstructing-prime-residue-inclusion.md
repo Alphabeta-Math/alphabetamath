@@ -1,6 +1,6 @@
 ---
 title: Residues of obstructing primes above 3
-status: draft
+status: published
 research_item: lem-euler-obstructing-prime-residue-inclusion
 dependency_level: 2
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Projective classes of square-norm quaternions are commutators
-status: draft
+status: published
 research_item: lem-author-eebeda62e446-projective-norm-one-commutator
 dependency_level: 1
 ---

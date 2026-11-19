@@ -2,7 +2,7 @@
 id: lem-coset-character-balance
 kind: lemma
 title: Balance of a character on a finite coset orbit
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-group

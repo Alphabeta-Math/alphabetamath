@@ -1,6 +1,6 @@
 ---
 title: Signed ordered four-square representations
-status: draft
+status: published
 research_item: def-euler-four-square-representations
 dependency_level: 0
 sources:

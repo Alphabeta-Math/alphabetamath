@@ -2,7 +2,7 @@
 id: def-author-f98bf83ef432-finite-conductor
 kind: definition
 title: Finite conductor of local components
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-prime

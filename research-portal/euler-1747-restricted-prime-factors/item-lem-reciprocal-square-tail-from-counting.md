@@ -1,6 +1,6 @@
 ---
 title: Reciprocal-square tail from a counting function
-status: draft
+status: published
 research_item: lem-reciprocal-square-tail-from-counting
 dependency_level: 0
 ---

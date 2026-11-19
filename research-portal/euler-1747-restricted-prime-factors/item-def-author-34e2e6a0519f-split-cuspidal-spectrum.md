@@ -1,6 +1,6 @@
 ---
 title: Cuspidal representations of the split adelic group
-status: draft
+status: published
 research_item: def-author-34e2e6a0519f-split-cuspidal-spectrum
 dependency_level: 3
 ---

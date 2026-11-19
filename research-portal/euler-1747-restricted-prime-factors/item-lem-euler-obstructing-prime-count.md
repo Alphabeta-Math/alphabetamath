@@ -1,6 +1,6 @@
 ---
 title: Counting obstructing primes above 3 (Lemma 5.2)
-status: draft
+status: published
 research_item: lem-euler-obstructing-prime-count
 dependency_level: 3
 sources:

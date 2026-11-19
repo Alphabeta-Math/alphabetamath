@@ -1,6 +1,6 @@
 ---
 title: Fixed vectors for an action on one Hilbert tensor factor
-status: draft
+status: published
 research_item: lem-author-c3a9b9243c74-fixed-space-of-tensor-factor
 dependency_level: 0
 ---

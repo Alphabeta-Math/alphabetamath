@@ -1,6 +1,6 @@
 ---
 title: Repeated finite deletions and translation of indicator support
-status: draft
+status: published
 research_item: lem-finite-deletions-and-translated-support
 dependency_level: 0
 ---

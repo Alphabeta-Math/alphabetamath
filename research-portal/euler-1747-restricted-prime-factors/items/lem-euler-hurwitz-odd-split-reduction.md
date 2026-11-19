@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-odd-split-reduction
 kind: lemma
 title: Split quaternion reduction at odd primes
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-left-right-and-two-sided-ideal

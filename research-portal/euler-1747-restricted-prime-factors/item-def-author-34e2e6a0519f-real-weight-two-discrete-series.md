@@ -1,6 +1,6 @@
 ---
 title: Weight-two discrete series at the real place
-status: draft
+status: published
 research_item: def-author-34e2e6a0519f-real-weight-two-discrete-series
 dependency_level: 1
 ---

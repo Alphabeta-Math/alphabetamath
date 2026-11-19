@@ -2,7 +2,7 @@
 id: def-euler-mixed-lattice-count
 kind: definition
 title: The mixed-parity lattice count
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

@@ -1,6 +1,6 @@
 ---
 title: Dietmann and Elsholtz’s sufficiently large range
-status: draft
+status: published
 research_item: thm-euler-dietmann-elsholtz-range
 dependency_level: 3
 sources:

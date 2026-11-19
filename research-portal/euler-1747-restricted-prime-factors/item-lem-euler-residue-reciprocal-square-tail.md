@@ -1,6 +1,6 @@
 ---
 title: Reciprocal-square tail for the eight residue classes
-status: draft
+status: published
 research_item: lem-euler-residue-reciprocal-square-tail
 dependency_level: 2
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Sumset of two sets of integers
-status: draft
+status: published
 research_item: def-author-1d5f34b9c027-integer-sumset
 dependency_level: 0
 ---

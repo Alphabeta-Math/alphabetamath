@@ -1,6 +1,6 @@
 ---
 title: Counting pairs with one coordinate a multiple of the other
-status: draft
+status: published
 research_item: lem-author-f93d28423212-divisible-coordinate-count
 dependency_level: 0
 ---

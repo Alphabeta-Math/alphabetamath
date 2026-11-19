@@ -1,6 +1,6 @@
 ---
 title: Arithmetic progression sieve for the finite indicators
-status: draft
+status: published
 research_item: alg-euler-finite-indicator-sieve
 dependency_level: 3
 sources:

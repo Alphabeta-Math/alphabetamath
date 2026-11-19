@@ -1,6 +1,6 @@
 ---
 title: Ramanujan–Petersson bound in Satake normalization
-status: draft
+status: published
 research_item: thm-euler-weight-two-satake-unitarity
 dependency_level: 6
 sources:

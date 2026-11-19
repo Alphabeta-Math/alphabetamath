@@ -2,7 +2,7 @@
 id: thm-euler-restricted-sum
 kind: theorem
 title: Euler’s restricted prime factor decomposition
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

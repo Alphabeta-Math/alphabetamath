@@ -1,6 +1,6 @@
 ---
 title: Finite ideles and locally principal right ideals
-status: draft
+status: published
 research_item: thm-adelic-right-ideal-dictionary
 dependency_level: 4
 sources:

@@ -2,7 +2,7 @@
 id: lem-euler-arithmetic-factor-bounds
 kind: lemma
 title: "Lemma 5.1: Explicit bounds for the arithmetic factors"
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-nat-finite-sum-and-product

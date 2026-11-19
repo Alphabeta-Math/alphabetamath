@@ -2,7 +2,7 @@
 id: lem-euler-obstructing-prime-density-sum
 kind: lemma
 title: "Lemma 5.2: Summed main term over the obstructing primes"
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

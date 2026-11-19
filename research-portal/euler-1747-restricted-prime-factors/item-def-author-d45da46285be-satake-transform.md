@@ -1,6 +1,6 @@
 ---
 title: Normalized degree-two Satake transform by cosets
-status: draft
+status: published
 research_item: def-author-d45da46285be-satake-transform
 dependency_level: 2
 ---

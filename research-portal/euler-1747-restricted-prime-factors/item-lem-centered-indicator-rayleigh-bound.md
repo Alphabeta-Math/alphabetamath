@@ -1,6 +1,6 @@
 ---
 title: Centered indicator and its Rayleigh quotient bound
-status: draft
+status: published
 research_item: lem-centered-indicator-rayleigh-bound
 dependency_level: 0
 ---

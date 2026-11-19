@@ -1,6 +1,6 @@
 ---
 title: Intersection of the unit image and the normalizer
-status: draft
+status: published
 research_item: lem-euler-hurwitz-units-in-normalizer
 dependency_level: 7
 sources:

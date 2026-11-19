@@ -2,7 +2,7 @@
 id: def-quaternion-right-ideal-and-reduced-norm
 kind: definition
 title: Quaternion right ideals and their reduced norm
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-linear-basis

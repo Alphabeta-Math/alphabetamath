@@ -2,7 +2,7 @@
 id: lem-euler-nonsplit-square-obstruction
 kind: lemma
 title: When a prime congruent to 3 modulo 4 divides a sum of two squares
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

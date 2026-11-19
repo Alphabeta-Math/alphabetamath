@@ -2,7 +2,7 @@
 id: prop-euler-finite-first-summand-list
 kind: proposition
 title: Explicit list of eligible first summands up to 313
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-rationals

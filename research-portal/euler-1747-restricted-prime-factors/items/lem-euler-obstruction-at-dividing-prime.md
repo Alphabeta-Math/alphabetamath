@@ -2,7 +2,7 @@
 id: lem-euler-obstruction-at-dividing-prime
 kind: lemma
 title: The obstruction count at a prime dividing the odd part
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

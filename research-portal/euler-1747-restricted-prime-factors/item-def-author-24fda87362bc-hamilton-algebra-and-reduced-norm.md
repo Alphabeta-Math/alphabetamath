@@ -1,6 +1,6 @@
 ---
 title: Hamilton algebras and the reduced norm
-status: draft
+status: published
 research_item: def-author-24fda87362bc-hamilton-algebra-and-reduced-norm
 dependency_level: 0
 ---

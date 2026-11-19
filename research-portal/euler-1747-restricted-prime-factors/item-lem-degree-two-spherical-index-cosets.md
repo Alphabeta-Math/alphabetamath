@@ -1,6 +1,6 @@
 ---
 title: Integral determinant-index cosets in degree two
-status: draft
+status: published
 research_item: lem-degree-two-spherical-index-cosets
 dependency_level: 1
 ---

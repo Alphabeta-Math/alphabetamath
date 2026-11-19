@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-hecke-spectral-bound
 kind: lemma
 title: "Lemma 3.2: Spectral bound away from the two characters"
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:cor-rn-is-locally-compact-and-sigma-compact

@@ -1,7 +1,7 @@
 ---
 title: "Research workflow: Euler’s 1747 conjecture on sums of integers with
   restricted prime factors"
-status: draft
+status: published
 ---
 
 187 draft items on 4 pages.

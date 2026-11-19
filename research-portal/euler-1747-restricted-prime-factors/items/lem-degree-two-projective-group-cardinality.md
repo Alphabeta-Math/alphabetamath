@@ -2,7 +2,7 @@
 id: lem-degree-two-projective-group-cardinality
 kind: lemma
 title: Order of the degree-two finite projective group
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-set-difference-and-symmetric-difference

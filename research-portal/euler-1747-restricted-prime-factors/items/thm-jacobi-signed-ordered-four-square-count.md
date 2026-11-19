@@ -2,7 +2,7 @@
 id: thm-jacobi-signed-ordered-four-square-count
 kind: theorem
 title: Jacobi’s signed, ordered four-square count
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-function

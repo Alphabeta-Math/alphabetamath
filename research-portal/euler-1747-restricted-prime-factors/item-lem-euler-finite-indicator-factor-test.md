@@ -1,6 +1,6 @@
 ---
 title: Each floor factor tests divisibility by its prime
-status: draft
+status: published
 research_item: lem-euler-finite-indicator-factor-test
 dependency_level: 3
 sources:

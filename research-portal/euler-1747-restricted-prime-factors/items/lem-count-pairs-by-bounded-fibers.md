@@ -2,7 +2,7 @@
 id: lem-count-pairs-by-bounded-fibers
 kind: lemma
 title: Counting pairs by bounded fibers
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-natural-numbers

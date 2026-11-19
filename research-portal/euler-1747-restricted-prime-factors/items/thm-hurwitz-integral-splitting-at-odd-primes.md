@@ -2,7 +2,7 @@
 id: thm-hurwitz-integral-splitting-at-odd-primes
 kind: theorem
 title: Integral splitting of the Hurwitz order at odd primes
-status: draft
+status: published
 domain: mathematics
 proof_strategy: constructive
 deps:

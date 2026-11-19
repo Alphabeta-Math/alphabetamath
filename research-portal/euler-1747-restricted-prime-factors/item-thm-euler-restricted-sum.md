@@ -1,6 +1,6 @@
 ---
 title: Euler’s restricted prime factor decomposition
-status: draft
+status: published
 research_item: thm-euler-restricted-sum
 dependency_level: 16
 sources:

@@ -2,7 +2,7 @@
 id: lem-divisors-from-prime-exponents
 kind: lemma
 title: Divisor products from prime exponents
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:thm-fundamental-theorem-of-arithmetic

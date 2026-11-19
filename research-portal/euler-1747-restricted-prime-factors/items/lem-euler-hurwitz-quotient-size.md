@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-quotient-size
 kind: lemma
 title: Sizes of the projective unit image and quotient
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

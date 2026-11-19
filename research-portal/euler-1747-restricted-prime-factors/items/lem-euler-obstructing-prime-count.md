@@ -2,7 +2,7 @@
 id: lem-euler-obstructing-prime-count
 kind: lemma
 title: Counting obstructing primes above 3 (Lemma 5.2)
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-int-operations

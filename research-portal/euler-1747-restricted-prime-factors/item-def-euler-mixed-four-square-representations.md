@@ -1,6 +1,6 @@
 ---
 title: Mixed-parity four-square representations
-status: draft
+status: published
 research_item: def-euler-mixed-four-square-representations
 dependency_level: 1
 sources:

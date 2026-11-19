@@ -2,7 +2,7 @@
 id: lem-author-f93d28423212-admissible-square-grouping
 kind: lemma
 title: Grouping an odd-prime four-square representation
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

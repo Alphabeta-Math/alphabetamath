@@ -1,6 +1,6 @@
 ---
 title: Counting inner product on functions on a finite set
-status: draft
+status: published
 research_item: def-author-87b4d85727bc-counting-inner-product-on-finite-functions
 dependency_level: 0
 ---

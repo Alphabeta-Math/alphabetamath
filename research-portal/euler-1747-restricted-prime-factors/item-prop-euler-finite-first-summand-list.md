@@ -1,6 +1,6 @@
 ---
 title: Explicit list of eligible first summands up to 313
-status: draft
+status: published
 research_item: prop-euler-finite-first-summand-list
 dependency_level: 5
 sources:

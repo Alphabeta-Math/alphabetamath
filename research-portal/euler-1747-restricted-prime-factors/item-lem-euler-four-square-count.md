@@ -1,6 +1,6 @@
 ---
 title: Jacobi’s count for twice an odd integer
-status: draft
+status: published
 research_item: lem-euler-four-square-count
 dependency_level: 1
 sources:

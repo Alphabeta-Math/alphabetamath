@@ -1,6 +1,6 @@
 ---
 title: Conjugation and order of the torus normalizer
-status: draft
+status: published
 research_item: lem-euler-hurwitz-torus-normalizer-order
 dependency_level: 6
 sources:

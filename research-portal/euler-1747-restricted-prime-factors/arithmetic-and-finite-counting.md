@@ -3,7 +3,7 @@ title: Arithmetic, Counting, and Finite Sieves
 description: Develop the divisor and square-representation counts, residue
   estimates, and finite sieve identities used in the analytic bound and
   certificate.
-status: draft
+status: published
 dependency_level: 0
 ---
 

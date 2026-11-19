@@ -2,7 +2,7 @@
 id: alg-euler-finite-indicator-sieve
 kind: algorithm
 title: Arithmetic progression sieve for the finite indicators
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-finite-certificate-indices

@@ -2,7 +2,7 @@
 id: def-author-53081a7cb32d-order-in-a-rational-algebra
 kind: definition
 title: Orders in rational algebras
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-rationals

@@ -2,7 +2,7 @@
 id: lem-author-f93d28423212-two-square-multiplicity
 kind: lemma
 title: A uniform bound for two-square representations
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

@@ -2,7 +2,7 @@
 id: lem-euler-finite-indicator-sieve-equivalence
 kind: lemma
 title: Deleted progressions agree with the floor indicators
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:thm-reals-field

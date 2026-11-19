@@ -2,7 +2,7 @@
 id: lem-author-c3a9b9243c74-projective-hamilton-haar-normalization
 kind: lemma
 title: Unimodularity and invariant measure for the compact Hamilton quotient
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-compact-space

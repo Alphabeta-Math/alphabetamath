@@ -1,6 +1,6 @@
 ---
 title: The eight residue classes and their counting function
-status: draft
+status: published
 research_item: def-euler-obstructing-prime-residue-count
 dependency_level: 0
 sources:

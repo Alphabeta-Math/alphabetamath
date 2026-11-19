@@ -2,7 +2,7 @@
 id: lem-periodic-residue-count-discrepancy
 kind: lemma
 title: Periodicity and jump bounds for residue counts
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-congruence-modulo-an-integer

@@ -1,6 +1,6 @@
 ---
 title: Equivalent restrictions on positive summands
-status: draft
+status: published
 research_item: lem-euler-historical-restriction
 dependency_level: 3
 sources:

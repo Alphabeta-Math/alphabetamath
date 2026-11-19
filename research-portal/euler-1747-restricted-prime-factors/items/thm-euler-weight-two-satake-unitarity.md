@@ -2,7 +2,7 @@
 id: thm-euler-weight-two-satake-unitarity
 kind: theorem
 title: Ramanujan–Petersson bound in Satake normalization
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:thm-complete-subspace-iff-closed

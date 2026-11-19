@@ -1,6 +1,6 @@
 ---
 title: The torus normalizer detects a vanishing coordinate pair
-status: draft
+status: published
 research_item: lem-euler-hurwitz-normalizer-coordinate-test
 dependency_level: 6
 sources:

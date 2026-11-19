@@ -1,6 +1,6 @@
 ---
 title: Two-square count as a prime-exponent product
-status: draft
+status: published
 research_item: lem-two-square-count-from-prime-exponents
 dependency_level: 0
 ---

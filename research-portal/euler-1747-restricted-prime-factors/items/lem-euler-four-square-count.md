@@ -2,7 +2,7 @@
 id: lem-euler-four-square-count
 kind: lemma
 title: Jacobi’s count for twice an odd integer
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-four-square-representations

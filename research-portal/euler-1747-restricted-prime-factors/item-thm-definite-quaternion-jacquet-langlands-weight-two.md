@@ -1,6 +1,6 @@
 ---
 title: Definite quaternion transfer to cuspidal weight two
-status: draft
+status: published
 research_item: thm-definite-quaternion-jacquet-langlands-weight-two
 dependency_level: 7
 sources:

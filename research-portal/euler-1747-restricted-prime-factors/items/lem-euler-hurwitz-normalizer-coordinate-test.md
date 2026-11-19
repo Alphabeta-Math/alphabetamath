@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-normalizer-coordinate-test
 kind: lemma
 title: The torus normalizer detects a vanishing coordinate pair
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

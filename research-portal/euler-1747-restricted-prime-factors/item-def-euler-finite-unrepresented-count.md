@@ -1,6 +1,6 @@
 ---
 title: The finite product-sum certificate
-status: draft
+status: published
 research_item: def-euler-finite-unrepresented-count
 dependency_level: 3
 sources:

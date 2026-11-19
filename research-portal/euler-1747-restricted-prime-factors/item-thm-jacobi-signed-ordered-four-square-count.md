@@ -1,6 +1,6 @@
 ---
 title: Jacobi’s signed, ordered four-square count
-status: draft
+status: published
 research_item: thm-jacobi-signed-ordered-four-square-count
 dependency_level: 0
 sources:

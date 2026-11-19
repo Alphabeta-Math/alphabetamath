@@ -2,7 +2,7 @@
 id: def-finite-quaternion-adeles-and-projective-units
 kind: definition
 title: Rational and finite adelic projective quaternion units
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-author-6f52147f3ab3-hamilton-order-completions

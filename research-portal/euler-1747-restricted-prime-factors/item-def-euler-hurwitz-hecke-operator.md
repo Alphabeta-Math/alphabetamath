@@ -1,6 +1,6 @@
 ---
 title: Quaternionic Hecke operator on the finite quotient
-status: draft
+status: published
 research_item: def-euler-hurwitz-hecke-operator
 dependency_level: 5
 sources:

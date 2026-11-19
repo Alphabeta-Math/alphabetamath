@@ -2,7 +2,7 @@
 id: def-author-5b8600b4f4af-full-adelic-hamilton-group
 kind: definition
 title: Full adelic projective Hamilton group
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-ring-homomorphism

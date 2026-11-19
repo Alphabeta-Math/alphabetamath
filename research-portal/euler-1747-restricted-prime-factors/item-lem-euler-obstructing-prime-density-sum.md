@@ -1,6 +1,6 @@
 ---
 title: "Lemma 5.2: Summed main term over the obstructing primes"
-status: draft
+status: published
 research_item: lem-euler-obstructing-prime-density-sum
 dependency_level: 4
 sources:

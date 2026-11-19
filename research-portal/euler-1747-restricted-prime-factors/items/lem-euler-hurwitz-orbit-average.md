@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-orbit-average
 kind: lemma
 title: A Hecke point value equals the normalized orbit pairing
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-hamilton-quaternions

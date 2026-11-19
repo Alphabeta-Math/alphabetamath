@@ -2,7 +2,7 @@
 id: lem-positive-sequence-ratio-maximum
 kind: lemma
 title: Maximum from nonincreasing successive ratios
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-natural-numbers

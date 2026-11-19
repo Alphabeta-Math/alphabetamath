@@ -1,6 +1,6 @@
 ---
 title: The nonsplit torus and its normalizer
-status: draft
+status: published
 research_item: def-euler-hurwitz-torus-normalizer
 dependency_level: 5
 sources:

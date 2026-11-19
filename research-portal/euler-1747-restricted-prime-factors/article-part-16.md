@@ -2,7 +2,7 @@
 title: Article items · 16 — Lattice bound and support of the prime obstructions
 description: Presents 28 items from the article and its immediate prerequisites,
   covering dependency levels 4–6.
-status: draft
+status: published
 dependency_level: 6
 research_article_page: true
 item_count: 28

@@ -1,6 +1,6 @@
 ---
 title: Quarter-turn orbits and integer labels
-status: draft
+status: published
 research_item: lem-euler-mixed-lattice-orbit-labels
 dependency_level: 2
 sources:

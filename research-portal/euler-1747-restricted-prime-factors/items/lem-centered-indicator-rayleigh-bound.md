@@ -2,7 +2,7 @@
 id: lem-centered-indicator-rayleigh-bound
 kind: lemma
 title: Centered indicator and its Rayleigh quotient bound
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-complex-conjugate-real-imaginary-part-and-modulus

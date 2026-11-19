@@ -2,7 +2,7 @@
 id: def-euler-finite-unrepresented-count
 kind: definition
 title: The finite product-sum certificate
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

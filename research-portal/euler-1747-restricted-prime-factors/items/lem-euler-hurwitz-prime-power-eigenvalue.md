@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-prime-power-eigenvalue
 kind: lemma
 title: Prime-power Hecke eigenvalue in the counting normalization
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-compact-space

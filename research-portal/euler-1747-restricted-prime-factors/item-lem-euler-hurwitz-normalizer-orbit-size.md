@@ -1,6 +1,6 @@
 ---
 title: Size and density of the normalizer orbit
-status: draft
+status: published
 research_item: lem-euler-hurwitz-normalizer-orbit-size
 dependency_level: 8
 sources:

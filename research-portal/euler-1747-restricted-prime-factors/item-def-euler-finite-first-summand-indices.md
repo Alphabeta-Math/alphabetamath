@@ -1,6 +1,6 @@
 ---
 title: Eligible first-summand indices
-status: draft
+status: published
 research_item: def-euler-finite-first-summand-indices
 dependency_level: 3
 sources:

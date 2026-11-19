@@ -2,7 +2,7 @@
 id: def-author-34e2e6a0519f-split-adelic-matrix-groups
 kind: definition
 title: Split adelic matrix groups
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-ring

@@ -1,6 +1,6 @@
 ---
 title: "Proposition 3.1: Uniform quaternionic obstruction estimate"
-status: draft
+status: published
 research_item: prop-euler-uniform-prime-obstruction
 dependency_level: 12
 sources:

@@ -1,6 +1,6 @@
 ---
 title: Discrete automorphic spectrum for definite projective quaternion units
-status: draft
+status: published
 research_item: thm-projective-quaternion-discrete-spectrum
 dependency_level: 8
 sources:

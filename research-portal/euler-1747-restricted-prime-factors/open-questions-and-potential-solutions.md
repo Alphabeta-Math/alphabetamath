@@ -3,7 +3,7 @@ title: Open questions and potential solutions
 research_report: open-questions
 description: Insights, fruitful questions and potential solutions arising from
   Euler’s 1747 conjecture on sums of integers with restricted prime factors.
-status: draft
+status: published
 generated_at: 2026-11-19T15:50:22.081Z
 ---
 

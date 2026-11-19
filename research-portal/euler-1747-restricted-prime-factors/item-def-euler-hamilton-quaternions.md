@@ -1,6 +1,6 @@
 ---
 title: The Hamilton quaternion algebra and reduced norm
-status: draft
+status: published
 research_item: def-euler-hamilton-quaternions
 dependency_level: 1
 sources:

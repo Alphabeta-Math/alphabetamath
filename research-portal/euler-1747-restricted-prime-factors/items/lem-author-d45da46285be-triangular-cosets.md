@@ -2,7 +2,7 @@
 id: lem-author-d45da46285be-triangular-cosets
 kind: lemma
 title: Upper-triangular representatives of local matrix cosets
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-topological-space

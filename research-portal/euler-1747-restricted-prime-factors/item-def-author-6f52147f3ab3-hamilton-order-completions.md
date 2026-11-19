@@ -1,6 +1,6 @@
 ---
 title: Local Hamilton algebras and order completions
-status: draft
+status: published
 research_item: def-author-6f52147f3ab3-hamilton-order-completions
 dependency_level: 0
 ---

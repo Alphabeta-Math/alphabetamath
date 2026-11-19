@@ -1,6 +1,6 @@
 ---
 title: The mixed-parity count
-status: draft
+status: published
 research_item: lem-euler-mixed-four-square-count
 dependency_level: 2
 sources:

@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-normalizer-unit-count
 kind: lemma
 title: Eight representatives in the normalizer per qualifying left-unit class
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

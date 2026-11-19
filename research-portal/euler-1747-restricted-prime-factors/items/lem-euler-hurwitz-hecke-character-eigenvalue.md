@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-hecke-character-eigenvalue
 kind: lemma
 title: The Hecke eigenvalue on the determinant character
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:thm-int-comm-ring

@@ -2,7 +2,7 @@
 id: def-author-34e2e6a0519f-real-weight-two-discrete-series
 kind: definition
 title: Weight-two discrete series at the real place
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-axiom-of-choice

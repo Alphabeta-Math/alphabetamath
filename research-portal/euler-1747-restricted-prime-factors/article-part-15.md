@@ -2,7 +2,7 @@
 title: Article items · 15 — Quaternion right ideals and their reduced norm
 description: Presents 28 items from the article and its immediate prerequisites,
   covering dependency levels 3–4.
-status: draft
+status: published
 dependency_level: 5
 research_article_page: true
 item_count: 28

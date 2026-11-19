@@ -1,6 +1,6 @@
 ---
 title: Weight-two transfer for the remaining quaternionic spectrum
-status: draft
+status: published
 research_item: thm-euler-hurwitz-weight-two-transfer
 dependency_level: 9
 sources:

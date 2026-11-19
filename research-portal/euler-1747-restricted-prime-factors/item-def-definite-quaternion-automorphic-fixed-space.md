@@ -1,6 +1,6 @@
 ---
 title: Fixed spaces of projective quaternion automorphic representations
-status: draft
+status: published
 research_item: def-definite-quaternion-automorphic-fixed-space
 dependency_level: 6
 ---

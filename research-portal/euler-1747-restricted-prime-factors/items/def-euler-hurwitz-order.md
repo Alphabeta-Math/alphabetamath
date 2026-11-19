@@ -2,7 +2,7 @@
 id: def-euler-hurwitz-order
 kind: definition
 title: The Hurwitz order
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-hamilton-quaternions

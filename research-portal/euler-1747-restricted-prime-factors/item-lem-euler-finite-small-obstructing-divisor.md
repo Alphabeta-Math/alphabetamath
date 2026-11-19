@@ -1,6 +1,6 @@
 ---
 title: A small obstructing divisor suffices in the finite range
-status: draft
+status: published
 research_item: lem-euler-finite-small-obstructing-divisor
 dependency_level: 3
 sources:

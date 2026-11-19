@@ -2,7 +2,7 @@
 id: lem-euler-unobstructed-pair-sums
 kind: lemma
 title: Unobstructed mixed pairs give admissible summands
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-unit-list
 kind: lemma
 title: The 24 Hurwitz units
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-hamilton-quaternions

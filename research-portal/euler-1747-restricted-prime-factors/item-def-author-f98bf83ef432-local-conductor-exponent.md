@@ -1,6 +1,6 @@
 ---
 title: Local conductor exponent from fixed vectors
-status: draft
+status: published
 research_item: def-author-f98bf83ef432-local-conductor-exponent
 dependency_level: 1
 sources:

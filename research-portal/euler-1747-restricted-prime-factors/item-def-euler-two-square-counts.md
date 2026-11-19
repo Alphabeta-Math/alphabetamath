@@ -1,6 +1,6 @@
 ---
 title: The two-square representation count and divisor-factor maximum
-status: draft
+status: published
 research_item: def-euler-two-square-counts
 dependency_level: 1
 sources:

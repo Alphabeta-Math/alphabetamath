@@ -2,7 +2,7 @@
 id: lem-euler-local-arithmetic-maxima
 kind: lemma
 title: Maximizing exponents in the small-prime bounds
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

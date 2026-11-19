@@ -2,7 +2,7 @@
 id: alg-euler-finite-unrepresented-recurrence
 kind: algorithm
 title: Finite-set recurrence for the uncovered indices
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

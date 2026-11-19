@@ -2,7 +2,7 @@
 id: def-author-6f52147f3ab3-hamilton-order-completions
 kind: definition
 title: Local Hamilton algebras and order completions
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:thm-p-adic-absolute-value-is-nonarchimedean

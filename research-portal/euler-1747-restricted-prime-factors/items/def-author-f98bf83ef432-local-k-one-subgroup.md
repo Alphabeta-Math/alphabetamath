@@ -2,7 +2,7 @@
 id: def-author-f98bf83ef432-local-k-one-subgroup
 kind: definition
 title: Local congruence subgroup for the conductor
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-commutative-ring

@@ -1,6 +1,6 @@
 ---
 title: Trial division up to the square root
-status: draft
+status: published
 research_item: lem-trial-division-primality-bound
 dependency_level: 0
 ---

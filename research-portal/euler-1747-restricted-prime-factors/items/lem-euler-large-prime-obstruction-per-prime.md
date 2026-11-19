@@ -2,7 +2,7 @@
 id: lem-euler-large-prime-obstruction-per-prime
 kind: lemma
 title: Lattice bound and support of the prime obstructions
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

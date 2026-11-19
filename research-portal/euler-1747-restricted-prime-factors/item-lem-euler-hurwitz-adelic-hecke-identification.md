@@ -1,6 +1,6 @@
 ---
 title: Identification of the unramified Hecke correspondence with the finite operator
-status: draft
+status: published
 research_item: lem-euler-hurwitz-adelic-hecke-identification
 dependency_level: 7
 sources:

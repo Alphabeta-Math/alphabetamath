@@ -2,7 +2,7 @@
 id: lem-author-f5ba73d33e6e-reconstructing-quaternion-lattices
 kind: lemma
 title: Reconstructing a quaternion lattice from its finite completions
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:lem-nat-embeds-int

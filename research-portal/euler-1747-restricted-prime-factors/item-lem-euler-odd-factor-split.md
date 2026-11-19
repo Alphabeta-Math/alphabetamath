@@ -1,6 +1,6 @@
 ---
 title: Splitting an odd integer by prime class
-status: draft
+status: published
 research_item: lem-euler-odd-factor-split
 dependency_level: 2
 sources:

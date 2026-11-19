@@ -2,7 +2,7 @@
 id: lem-author-f98bf83ef432-unramified-iff-conductor-exponent-zero
 kind: lemma
 title: Zero conductor exponent and unramifiedness
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-prime

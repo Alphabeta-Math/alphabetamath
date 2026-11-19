@@ -1,6 +1,6 @@
 ---
 title: "Lemma 5.1: Explicit bounds for the arithmetic factors"
-status: draft
+status: published
 research_item: lem-euler-arithmetic-factor-bounds
 dependency_level: 5
 sources:

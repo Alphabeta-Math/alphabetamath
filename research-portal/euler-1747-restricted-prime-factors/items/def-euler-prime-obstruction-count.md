@@ -2,7 +2,7 @@
 id: def-euler-prime-obstruction-count
 kind: definition
 title: The obstruction at a prime congruent to 3 modulo 4
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

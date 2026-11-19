@@ -1,6 +1,6 @@
 ---
 title: The logarithmic lower bound eventually exceeds the exclusion bound
-status: draft
+status: published
 research_item: lem-author-f93d28423212-logarithmic-count-comparison
 dependency_level: 0
 ---

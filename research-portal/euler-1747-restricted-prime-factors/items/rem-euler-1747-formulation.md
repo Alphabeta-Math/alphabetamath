@@ -2,7 +2,7 @@
 id: rem-euler-1747-formulation
 kind: remark
 title: Euler’s historical formulation
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-congruence-modulo-an-integer

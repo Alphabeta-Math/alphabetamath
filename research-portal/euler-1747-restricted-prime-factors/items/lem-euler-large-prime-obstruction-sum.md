@@ -2,7 +2,7 @@
 id: lem-euler-large-prime-obstruction-sum
 kind: lemma
 title: "Lemma 4.2: Aggregated large-prime lattice estimate"
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

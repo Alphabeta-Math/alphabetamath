@@ -2,7 +2,7 @@
 id: lem-author-eebeda62e446-projective-norm-one-commutator
 kind: lemma
 title: Projective classes of square-norm quaternions are commutators
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-field

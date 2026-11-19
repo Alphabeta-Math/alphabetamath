@@ -1,6 +1,6 @@
 ---
 title: Divisor sum and divisor count
-status: draft
+status: published
 research_item: def-euler-divisor-functions
 dependency_level: 0
 sources:

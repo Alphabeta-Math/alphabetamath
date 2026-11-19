@@ -2,7 +2,7 @@
 id: lem-author-f93d28423212-logarithmic-count-comparison
 kind: lemma
 title: The logarithmic lower bound eventually exceeds the exclusion bound
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

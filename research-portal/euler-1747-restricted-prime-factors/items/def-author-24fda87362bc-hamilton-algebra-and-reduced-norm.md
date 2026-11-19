@@ -2,7 +2,7 @@
 id: def-author-24fda87362bc-hamilton-algebra-and-reduced-norm
 kind: definition
 title: Hamilton algebras and the reduced norm
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-field

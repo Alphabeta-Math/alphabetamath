@@ -2,7 +2,7 @@
 id: prop-euler-analytic-range
 kind: proposition
 title: "Proposition 6.1: The analytic range"
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

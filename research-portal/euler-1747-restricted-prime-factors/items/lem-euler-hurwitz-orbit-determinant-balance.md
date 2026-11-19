@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-orbit-determinant-balance
 kind: lemma
 title: The normalizer orbit is balanced between determinant classes
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

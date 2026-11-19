@@ -2,7 +2,7 @@
 id: lem-odd-prime-factor-parity
 kind: lemma
 title: Odd prime multiplicities modulo four
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

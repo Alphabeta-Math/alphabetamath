@@ -2,7 +2,7 @@
 id: def-euler-divisor-functions
 kind: definition
 title: Divisor sum and divisor count
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-set-difference-and-symmetric-difference

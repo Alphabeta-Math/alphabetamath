@@ -2,7 +2,7 @@
 id: lem-author-f98bf83ef432-unramified-iff-prime-avoids-conductor
 kind: lemma
 title: Unramified primes of a finite conductor
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-prime

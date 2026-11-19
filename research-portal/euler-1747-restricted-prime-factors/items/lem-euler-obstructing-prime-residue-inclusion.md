@@ -2,7 +2,7 @@
 id: lem-euler-obstructing-prime-residue-inclusion
 kind: lemma
 title: Residues of obstructing primes above 3
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

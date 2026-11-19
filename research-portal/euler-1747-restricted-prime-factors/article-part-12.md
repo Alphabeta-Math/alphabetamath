@@ -2,7 +2,7 @@
 title: Article items · 12 — Local Hamilton algebras and order completions
 description: Presents 28 items from the article and its immediate prerequisites,
   covering dependency level 0.
-status: draft
+status: published
 dependency_level: 2
 research_article_page: true
 item_count: 28

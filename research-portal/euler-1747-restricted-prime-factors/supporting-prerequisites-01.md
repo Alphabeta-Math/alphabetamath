@@ -3,7 +3,7 @@ title: Supporting prerequisites · 01 — The adjoint $T^*:W\to V$ is characteri
   by $\langle Tv,w\rangle_W=\langle v,T^*w\rangle_V$
 description: Presents 15 supporting prerequisites, covering published library
   prerequisites and dependency levels 0–2.
-status: draft
+status: published
 dependency_level: 2
 item_count: 15
 ---

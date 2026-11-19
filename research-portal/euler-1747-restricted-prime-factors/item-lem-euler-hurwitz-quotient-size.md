@@ -1,6 +1,6 @@
 ---
 title: Sizes of the projective unit image and quotient
-status: draft
+status: published
 research_item: lem-euler-hurwitz-quotient-size
 dependency_level: 5
 sources:

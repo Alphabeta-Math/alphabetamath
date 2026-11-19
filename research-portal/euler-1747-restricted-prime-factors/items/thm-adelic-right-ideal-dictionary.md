@@ -2,7 +2,7 @@
 id: thm-adelic-right-ideal-dictionary
 kind: theorem
 title: Finite ideles and locally principal right ideals
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-author-24fda87362bc-hamilton-algebra-and-reduced-norm

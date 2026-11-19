@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-units-in-normalizer
 kind: lemma
 title: Intersection of the unit image and the normalizer
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

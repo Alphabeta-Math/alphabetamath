@@ -1,6 +1,6 @@
 ---
 title: The 24 Hurwitz units
-status: draft
+status: published
 research_item: lem-euler-hurwitz-unit-list
 dependency_level: 3
 sources:

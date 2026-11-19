@@ -1,6 +1,6 @@
 ---
 title: Unobstructed mixed pairs give admissible summands
-status: draft
+status: published
 research_item: lem-euler-unobstructed-pair-sums
 dependency_level: 3
 sources:

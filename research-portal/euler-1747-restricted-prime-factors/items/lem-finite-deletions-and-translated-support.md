@@ -2,7 +2,7 @@
 id: lem-finite-deletions-and-translated-support
 kind: lemma
 title: Repeated finite deletions and translation of indicator support
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-natural-numbers

@@ -2,7 +2,7 @@
 id: lem-euler-arithmetic-factor-products
 kind: lemma
 title: Explicit products of the small-prime majorants
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-rationals

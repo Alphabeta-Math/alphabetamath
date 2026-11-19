@@ -1,6 +1,6 @@
 ---
 title: Norm and conjugation on rational Hamilton quaternions
-status: draft
+status: published
 research_item: lem-rational-hamilton-norm-and-inverse
 dependency_level: 0
 ---

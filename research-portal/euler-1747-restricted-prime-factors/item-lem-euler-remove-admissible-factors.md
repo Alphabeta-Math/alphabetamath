@@ -1,6 +1,6 @@
 ---
 title: Removing admissible factors from the decomposition problem
-status: draft
+status: published
 research_item: lem-euler-remove-admissible-factors
 dependency_level: 3
 sources:

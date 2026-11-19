@@ -2,7 +2,7 @@
 id: lem-quadratic-field-normalizer-in-degree-two
 kind: lemma
 title: Normalizer of a quadratic field torus in degree two
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-field

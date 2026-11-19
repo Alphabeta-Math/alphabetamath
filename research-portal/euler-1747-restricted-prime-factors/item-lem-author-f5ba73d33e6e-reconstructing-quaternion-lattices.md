@@ -1,6 +1,6 @@
 ---
 title: Reconstructing a quaternion lattice from its finite completions
-status: draft
+status: published
 research_item: lem-author-f5ba73d33e6e-reconstructing-quaternion-lattices
 dependency_level: 2
 ---

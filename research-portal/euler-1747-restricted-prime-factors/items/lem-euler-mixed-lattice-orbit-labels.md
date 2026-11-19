@@ -2,7 +2,7 @@
 id: lem-euler-mixed-lattice-orbit-labels
 kind: lemma
 title: Quarter-turn orbits and integer labels
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-mixed-lattice-count

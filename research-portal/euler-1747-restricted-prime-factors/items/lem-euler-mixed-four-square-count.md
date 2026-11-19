@@ -2,7 +2,7 @@
 id: lem-euler-mixed-four-square-count
 kind: lemma
 title: The mixed-parity count
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:thm-division-algorithm-in-z

@@ -1,6 +1,6 @@
 ---
 title: Products and congruence of admissible integers
-status: draft
+status: published
 research_item: lem-euler-admissible-products
 dependency_level: 2
 sources:

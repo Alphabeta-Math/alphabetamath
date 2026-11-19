@@ -2,7 +2,7 @@
 id: lem-invertible-linear-residue-progression
 kind: lemma
 title: Progression of roots of an invertible linear congruence
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

@@ -1,6 +1,6 @@
 ---
 title: Determinant-index spherical Hecke correspondence
-status: draft
+status: published
 research_item: def-determinant-index-spherical-hecke-correspondence
 dependency_level: 2
 ---

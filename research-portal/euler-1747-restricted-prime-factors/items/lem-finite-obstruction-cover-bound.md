@@ -2,7 +2,7 @@
 id: lem-finite-obstruction-cover-bound
 kind: lemma
 title: Counting a union of obstructions
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-indexed-family

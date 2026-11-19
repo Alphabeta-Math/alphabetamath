@@ -2,7 +2,7 @@
 id: def-author-6f52147f3ab3-finite-scalar-adeles-and-ideles
 kind: definition
 title: Finite scalar adeles and ideles
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-metric-ball

@@ -1,6 +1,6 @@
 ---
 title: Grouping an odd-prime four-square representation
-status: draft
+status: published
 research_item: lem-author-f93d28423212-admissible-square-grouping
 dependency_level: 2
 ---

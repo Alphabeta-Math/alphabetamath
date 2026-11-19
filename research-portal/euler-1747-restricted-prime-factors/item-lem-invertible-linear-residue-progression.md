@@ -1,6 +1,6 @@
 ---
 title: Progression of roots of an invertible linear congruence
-status: draft
+status: published
 research_item: lem-invertible-linear-residue-progression
 dependency_level: 0
 ---

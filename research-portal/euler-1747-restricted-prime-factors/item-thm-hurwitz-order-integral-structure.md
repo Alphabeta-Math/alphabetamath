@@ -1,6 +1,6 @@
 ---
 title: Integral structure of the Hurwitz order
-status: draft
+status: published
 research_item: thm-hurwitz-order-integral-structure
 dependency_level: 1
 sources:

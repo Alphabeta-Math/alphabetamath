@@ -2,7 +2,7 @@
 id: def-author-87b4d85727bc-counting-inner-product-on-finite-functions
 kind: definition
 title: Counting inner product on functions on a finite set
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-finite-cardinality

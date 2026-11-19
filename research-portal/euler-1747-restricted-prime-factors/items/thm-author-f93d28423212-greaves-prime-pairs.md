@@ -2,7 +2,7 @@
 id: thm-author-f93d28423212-greaves-prime-pairs
 kind: theorem
 title: Greaves’s lower bound for prime pairs in a four-square representation
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

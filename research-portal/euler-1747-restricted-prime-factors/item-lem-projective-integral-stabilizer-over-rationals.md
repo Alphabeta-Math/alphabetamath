@@ -1,6 +1,6 @@
 ---
 title: Projective integral stabilizer over the rationals
-status: draft
+status: published
 research_item: lem-projective-integral-stabilizer-over-rationals
 dependency_level: 4
 ---

@@ -2,7 +2,7 @@
 id: lem-quadratic-finite-field-norm-surjectivity
 kind: lemma
 title: Norm surjectivity for a quadratic finite field
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

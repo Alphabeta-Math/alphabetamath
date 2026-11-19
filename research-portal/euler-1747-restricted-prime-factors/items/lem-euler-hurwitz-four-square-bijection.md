@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-four-square-bijection
 kind: lemma
 title: From a Hurwitz norm shell to integral four squares
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-hamilton-quaternions

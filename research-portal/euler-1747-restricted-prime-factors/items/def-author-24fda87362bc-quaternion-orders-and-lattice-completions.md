@@ -2,7 +2,7 @@
 id: def-author-24fda87362bc-quaternion-orders-and-lattice-completions
 kind: definition
 title: Quaternion orders and completed lattices
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-author-24fda87362bc-hamilton-algebra-and-reduced-norm

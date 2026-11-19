@@ -2,7 +2,7 @@
 id: def-author-291c0ff6bd53-quaternion-right-ideal-classes
 kind: definition
 title: Right ideal classes of a quaternion order
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-author-24fda87362bc-hamilton-algebra-and-reduced-norm

@@ -1,6 +1,6 @@
 ---
 title: Small-prime contribution above the analytic threshold
-status: draft
+status: published
 research_item: lem-euler-analytic-small-prime-estimate
 dependency_level: 13
 sources:

@@ -1,6 +1,6 @@
 ---
 title: The Hurwitz order is norm-Euclidean
-status: draft
+status: published
 research_item: lem-euler-hurwitz-euclidean
 dependency_level: 3
 sources:

@@ -1,6 +1,6 @@
 ---
 title: A Hecke point value equals the normalized orbit pairing
-status: draft
+status: published
 research_item: lem-euler-hurwitz-orbit-average
 dependency_level: 7
 sources:

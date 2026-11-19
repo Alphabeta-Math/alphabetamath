@@ -2,7 +2,7 @@
 id: lem-euler-analytic-power-comparisons
 kind: lemma
 title: Numerical comparisons for the analytic threshold
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:

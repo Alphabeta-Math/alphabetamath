@@ -1,6 +1,6 @@
 ---
 title: Well-definedness, equivariance and self-adjointness of the Hecke operator
-status: draft
+status: published
 research_item: lem-euler-hurwitz-hecke-basic-properties
 dependency_level: 6
 sources:

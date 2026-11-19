@@ -2,7 +2,7 @@
 id: lem-euler-hurwitz-torus-normalizer-order
 kind: lemma
 title: Conjugation and order of the torus normalizer
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

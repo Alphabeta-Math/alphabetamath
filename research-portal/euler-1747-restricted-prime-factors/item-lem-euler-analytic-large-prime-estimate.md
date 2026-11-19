@@ -1,6 +1,6 @@
 ---
 title: Large-prime contribution above the analytic threshold
-status: draft
+status: published
 research_item: lem-euler-analytic-large-prime-estimate
 dependency_level: 6
 sources:

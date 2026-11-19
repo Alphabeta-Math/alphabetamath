@@ -1,6 +1,6 @@
 ---
 title: "Table 1: Values of the finite recurrence"
-status: draft
+status: published
 research_item: prop-euler-finite-certificate-table
 dependency_level: 7
 sources:

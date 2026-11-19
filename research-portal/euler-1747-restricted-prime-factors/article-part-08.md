@@ -3,7 +3,7 @@ title: Article items · 08 — In a group $e^{-1} = e$, $(g^{-1})^{-1} = g$ and
   $(gh)^{-1} = h^{-1}g^{-1}$, the order of the last product being essential
 description: Presents 28 items from the article and its immediate prerequisites,
   covering published library prerequisites.
-status: draft
+status: published
 dependency_level: 0
 research_article_page: true
 item_count: 28

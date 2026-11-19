@@ -1,6 +1,6 @@
 ---
 title: The obstruction at a prime congruent to 3 modulo 4
-status: draft
+status: published
 research_item: def-euler-prime-obstruction-count
 dependency_level: 2
 sources:

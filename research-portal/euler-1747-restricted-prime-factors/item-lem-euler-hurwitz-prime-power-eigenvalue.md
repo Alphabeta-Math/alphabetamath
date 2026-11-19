@@ -1,6 +1,6 @@
 ---
 title: Prime-power Hecke eigenvalue in the counting normalization
-status: draft
+status: published
 research_item: lem-euler-hurwitz-prime-power-eigenvalue
 dependency_level: 8
 sources:

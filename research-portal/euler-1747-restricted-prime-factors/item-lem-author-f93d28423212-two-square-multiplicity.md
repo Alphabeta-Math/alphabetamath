@@ -1,6 +1,6 @@
 ---
 title: A uniform bound for two-square representations
-status: draft
+status: published
 research_item: lem-author-f93d28423212-two-square-multiplicity
 dependency_level: 0
 ---

@@ -1,6 +1,6 @@
 ---
 title: Density bound for primes dividing the odd part
-status: draft
+status: published
 research_item: lem-euler-obstruction-dividing-prime-density
 dependency_level: 4
 sources:

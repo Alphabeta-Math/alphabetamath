@@ -1,6 +1,6 @@
 ---
 title: Normalizer of a quadratic field torus in degree two
-status: draft
+status: published
 research_item: lem-quadratic-field-normalizer-in-degree-two
 dependency_level: 1
 ---

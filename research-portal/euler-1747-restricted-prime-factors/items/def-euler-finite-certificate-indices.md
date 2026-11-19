@@ -2,7 +2,7 @@
 id: def-euler-finite-certificate-indices
 kind: definition
 title: Finite-range indices and binary indicators
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-natural-numbers

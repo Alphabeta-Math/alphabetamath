@@ -1,6 +1,6 @@
 ---
 title: The determinant character on the finite quotient
-status: draft
+status: published
 research_item: def-euler-hurwitz-determinant-character
 dependency_level: 5
 sources:

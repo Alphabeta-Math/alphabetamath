@@ -1,6 +1,6 @@
 ---
 title: Signed, ordered two-square representations
-status: draft
+status: published
 research_item: def-author-fb1ef6c2c01b-signed-ordered-two-square-count
 dependency_level: 0
 ---

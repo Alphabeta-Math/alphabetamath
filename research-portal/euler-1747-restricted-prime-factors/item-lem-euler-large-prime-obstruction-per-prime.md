@@ -1,6 +1,6 @@
 ---
 title: Lattice bound and support of the prime obstructions
-status: draft
+status: published
 research_item: lem-euler-large-prime-obstruction-per-prime
 dependency_level: 4
 sources:

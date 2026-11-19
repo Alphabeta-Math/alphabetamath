@@ -1,6 +1,6 @@
 ---
 title: Explicit products of the small-prime majorants
-status: draft
+status: published
 research_item: lem-euler-arithmetic-factor-products
 dependency_level: 4
 sources:

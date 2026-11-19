@@ -3,7 +3,7 @@ title: Quaternion Orders and Finite Projective Groups
 description: Set up Hamilton norms, Hurwitz orders and their odd-prime
   splitting, then develop the finite projective groups, quadratic normalizers,
   and character counts used in the obstruction estimate.
-status: draft
+status: published
 dependency_level: 0
 ---
 

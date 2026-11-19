@@ -2,7 +2,7 @@
 id: lem-euler-obstructing-prime-residue-discrepancy
 kind: lemma
 title: Periodic discrepancy for the eight residue classes
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-obstructing-prime-residue-count

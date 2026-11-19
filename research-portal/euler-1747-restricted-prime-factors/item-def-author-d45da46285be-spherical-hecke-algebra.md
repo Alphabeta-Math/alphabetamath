@@ -1,6 +1,6 @@
 ---
 title: Spherical Hecke algebra and action for a compact open subgroup
-status: draft
+status: published
 research_item: def-author-d45da46285be-spherical-hecke-algebra
 dependency_level: 0
 ---

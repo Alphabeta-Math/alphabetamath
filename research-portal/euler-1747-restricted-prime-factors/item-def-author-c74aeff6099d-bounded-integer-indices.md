@@ -1,6 +1,6 @@
 ---
 title: Bounded integer index sets
-status: draft
+status: published
 research_item: def-author-c74aeff6099d-bounded-integer-indices
 dependency_level: 0
 ---

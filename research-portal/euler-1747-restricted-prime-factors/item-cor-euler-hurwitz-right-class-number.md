@@ -1,6 +1,6 @@
 ---
 title: Principal right ideals and class number one
-status: draft
+status: published
 research_item: cor-euler-hurwitz-right-class-number
 dependency_level: 5
 sources:

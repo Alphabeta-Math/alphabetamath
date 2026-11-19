@@ -2,7 +2,7 @@
 id: lem-euler-finite-unrepresented-count-meaning
 kind: lemma
 title: The product-sum counts unrepresented inputs
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-finite-unrepresented-count

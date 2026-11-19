@@ -2,7 +2,7 @@
 id: lem-euler-residue-reciprocal-square-tail
 kind: lemma
 title: Reciprocal-square tail for the eight residue classes
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:lem-unions-and-intersections-of-small-families

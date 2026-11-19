@@ -2,7 +2,7 @@
 id: def-euler-two-square-counts
 kind: definition
 title: The two-square representation count and divisor-factor maximum
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

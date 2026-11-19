@@ -1,6 +1,6 @@
 ---
 title: Counting a union of obstructions
-status: draft
+status: published
 research_item: lem-finite-obstruction-cover-bound
 dependency_level: 0
 ---

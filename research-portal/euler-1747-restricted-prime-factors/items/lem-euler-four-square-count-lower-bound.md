@@ -2,7 +2,7 @@
 id: lem-euler-four-square-count-lower-bound
 kind: lemma
 title: A lower bound on the four-square representation count
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-four-square-representations

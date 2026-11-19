@@ -1,6 +1,6 @@
 ---
 title: Norm surjectivity for a quadratic finite field
-status: draft
+status: published
 research_item: lem-quadratic-finite-field-norm-surjectivity
 dependency_level: 0
 ---

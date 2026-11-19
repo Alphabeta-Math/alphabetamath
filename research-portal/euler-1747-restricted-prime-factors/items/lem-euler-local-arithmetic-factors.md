@@ -2,7 +2,7 @@
 id: lem-euler-local-arithmetic-factors
 kind: lemma
 title: Prime-power majorants for the arithmetic factors
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-prime

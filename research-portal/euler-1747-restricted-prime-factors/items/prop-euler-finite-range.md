@@ -2,7 +2,7 @@
 id: prop-euler-finite-range
 kind: proposition
 title: "Proposition 7.2: The finite range"
-status: draft
+status: published
 domain: mathematics
 deps:
   - def-euler-prime-classes

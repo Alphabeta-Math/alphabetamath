@@ -1,6 +1,6 @@
 ---
 title: The finite adelic quotient and its stabilizer
-status: draft
+status: published
 research_item: lem-euler-hurwitz-adelic-identification
 dependency_level: 6
 sources:

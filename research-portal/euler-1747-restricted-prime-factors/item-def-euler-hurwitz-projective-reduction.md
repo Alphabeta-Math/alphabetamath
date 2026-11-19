@@ -1,6 +1,6 @@
 ---
 title: The projective reduction quotient
-status: draft
+status: published
 research_item: def-euler-hurwitz-projective-reduction
 dependency_level: 4
 sources:

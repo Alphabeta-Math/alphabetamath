@@ -1,6 +1,6 @@
 ---
 title: Restricted prime factors and admissible summands
-status: draft
+status: published
 research_item: def-euler-prime-classes
 dependency_level: 1
 sources:

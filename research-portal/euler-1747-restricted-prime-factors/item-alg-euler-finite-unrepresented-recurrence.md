@@ -1,6 +1,6 @@
 ---
 title: Finite-set recurrence for the uncovered indices
-status: draft
+status: published
 research_item: alg-euler-finite-unrepresented-recurrence
 dependency_level: 4
 sources:

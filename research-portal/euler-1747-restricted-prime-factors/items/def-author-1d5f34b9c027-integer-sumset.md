@@ -2,7 +2,7 @@
 id: def-author-1d5f34b9c027-integer-sumset
 kind: definition
 title: Sumset of two sets of integers
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-integers

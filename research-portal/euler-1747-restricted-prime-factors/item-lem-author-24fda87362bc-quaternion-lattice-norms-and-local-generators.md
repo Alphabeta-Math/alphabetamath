@@ -1,6 +1,6 @@
 ---
 title: Norms of quaternion lattices and their local generators
-status: draft
+status: published
 research_item: lem-author-24fda87362bc-quaternion-lattice-norms-and-local-generators
 dependency_level: 2
 ---

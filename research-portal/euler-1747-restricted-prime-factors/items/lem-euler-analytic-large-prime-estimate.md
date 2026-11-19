@@ -2,7 +2,7 @@
 id: lem-euler-analytic-large-prime-estimate
 kind: lemma
 title: Large-prime contribution above the analytic threshold
-status: draft
+status: published
 domain: mathematics
 deps:
   - math:def-int-operations

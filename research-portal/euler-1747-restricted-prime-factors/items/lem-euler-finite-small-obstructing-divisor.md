@@ -2,7 +2,7 @@
 id: lem-euler-finite-small-obstructing-divisor
 kind: lemma
 title: A small obstructing divisor suffices in the finite range
-status: draft
+status: published
 domain: mathematics
 proof_strategy: direct
 deps:
